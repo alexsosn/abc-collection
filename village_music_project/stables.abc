@@ -1,0 +1,1037 @@
+%abc
+%%abc-alias Henry Stables
+%1881, UK Cumbria Walthwaite, VWML QM7406
+%%abc-creator ABCexplorer 1.5.0 [25/04/2012]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP.Chris Partington, 1/2003
+%Revised 20/09/2003
+%Revised 11/2008
+%Revised again 12/2009
+
+X:1
+T:4th Dragoon’s March. HS.01
+M:C
+L:1/8
+Q:1/2=75
+S:Henry Stables MS,Cumbria,late19thC
+R:.March
+O:Walthwaite,nr.Ambleside.
+A:England
+N:1=topC marked as natural, which it already is.CGP..
+Z:vmp.Chris Partington
+K:G
+“^Primo Maestoso..P”
+G2G>GG2Bc|d>BG2G2cd|e<c g2d<Bg2|gfag fedc|!
+.B.d.B.G .A.c.A.F|.G.B.c.d .e.f.g.a|bgfg fed^c|d2d>dd4:|!
+|:”^f”a2a>a a”^1″c’ba|g2g>g gbag|fedg fedc|B2A>A AcBA|!
+G2G>G GBcd|e<ca2f<db2|Bdce AcFA|G2G>GG4:|!
+|:”^p”B4A4|G2G>G FGAB|(dc).c.c (cB).B.B|(BA).A.A ABc^c|!
+d2d>d c2c>c|B2B>B ABcd|(ec)(cA) (AG)(GF)|A4G4:|!
+|:”^ff”f2a>g fdef|g2b>ag3G|GBcd efga|g3g fedc|!
+B4A4|d3dc2c2|B2(d/c/)B G2F2|A4G4:|
+
+X:2
+T:My Love is But a Lassie Yet. HS.02
+M:2/4
+L:1/8
+Q:1/2=50
+C:”The National Quadrilles,No.1,Scotch”
+S:Henry Stables MS,Cumbria,late19thC
+R:.reel
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+“^Primo,Lively”f2e2|dD FA|d>e f>e|”^sic”dD FA|GE Ef/e/|!
+dD FA|d>e f>e|dA Bc|dDD:|!
+|:f/g/|af g>e|fd df/g/|a>f g>f|eA Af/0g/|!
+a>f g>e|f>d e>c|dA Bc|dDD:|
+
+X:3
+T:Wilt Thou Meet Me There Love. HS.03
+M:2/4
+L:1/8
+Q:1/4=100
+C:”Nat.Quads.No.2,English”
+S:Henry Stables MS,Cumbria,late19thC
+R:.misc
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+“^with feeling”A/-G/|F>G Ad|f>e dB|A>B AF|BE EA/G/|!
+F>G Ad|f>e dB|A<d ef|edd:|!
+“^cr”d|f>f fe|^df eg|e>e ed|ce df|!
+fc d^d|eB cd|e/^d/e/f/ e/=d/c/B/|A/^G/A/B/”^D.C.” A/=G/F/E/|]
+
+X:4
+T:Nora Crena. HS.04
+M:6/8
+L:1/8
+Q:3/8=120
+C:”Nat.Quads.No.3,Irish”
+S:Henry Stables MS,Cumbria,late19thC
+R:.jig
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+“^Lively with spirit”d2dd2e|f2da2f|d2dd2f|e2f gfe|!
+d2dd2e|f2da2f|e2e “NB”c’2c’|e2f gfe:|!
+|:a2aa2g|f2da3|a2a agf|e2f gfe|!
+aba a2g|f2d agf|e2e”NB” c’2c’|e2f gfe:|
+W:NB sharpened in MS
+
+X:5
+T:Hunters Chorus,The. HS.05
+M:2/4
+L:1/8
+Q:1/4=100
+C:”Nat.Quads.No.4,English”
+S:Henry Stables MS,Cumbria,late19thC
+R:.Gallop
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+“^with grandeur,f”d2 d/e/f/g/|a2ff|.e.a .e.a|”^qu’s”f/g/f/e/ dA|!
+d2(d/e/f/g/)|a2″^crs”ff|f/e/d/e/ fe|(d2d2)||!
+“^mf”f2ff|d2dd|g2gg|e2ee|f2ff|g2ff|f/e/d/e/ fe|(d2d2):|!
+|:”^p”d2Af|d2Af|(a/g/)e (a/g/)e|(a/g/)e (a/g/)e|!
+d2Af|d2Af|(a/g/)e (a/g/)e|d2-d2:|!
+|:AF/F/ Fd/d/|dA/A/ A”^qu’s”f/f/|f2e/d/c/B/|A2FA/A/|!
+AF/F/ Fd/d/|dA/A/ Af/f/|f2 e/d/c/e/|d2d2|]
+
+X:6
+T:Mrs.Chazey. HS.06
+T:Mrs Casey,aka. HS.06
+M:6/8
+L:1/8
+Q:3/8=120
+C:”Nat.Quads.,No5,Finale,Irish”
+S:Henry Stables MS,Cumbria,late19thC
+R:.jig
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+“^Lively”f/e/|d2B BcB|A2A ABA|d2B BcB|g3f2e|!
+d2B BcB|A2AA2A|Bcd edc|d3d2:|!
+|:A|d2ef2g|a2ba2f|d2ef2g|a3f2a|!
+b2ga2f|g2ef2e|d2B BcB|g3f2:|
+
+X:7
+T:Harvest Moon. HS.07
+M:6/8
+L:1.8
+Q:3/8=110
+C:”A Set of Quadrilles,No1″
+S:Henry Stables MS,Cumbria,late19thC
+R:.jig
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A|d2Ad2f|”NB”(a3g2)d|egf edc|f2ed2A|!
+d2Ad2f|(a3f2)d|egf edc|d3d2:|!
+|:A|A2FA2d|f3{f}e2d|e2de2f|dfe dcB|!
+A2FA2d|f3{f}e2d|e2de2f|(d3d2):|!
+K:B Minor
+|:”^B Minor”
+F|Bcd c2^A|B2cd2e|fed cB^A|BdcB2F|!
+Bcdc2^A|B2cd2e|fed cB^A|(c3B2):|
+
+X:8
+T:Gallop in Gustavus. HS.08
+T:Winster Galop,a.k.a. HS.08
+M:2/4
+L:1/8
+Q:1/4=120
+C:”Quadrilles,No2″
+S:Henry Stables MS,Cumbria,late19thC
+R:.Gallop
+A:England
+Z:vmp.Chris Partington
+K:D
+Ad/d/ dA/A/|Ad/d/ dA/A/|Ad Af|dba2|!
+ab/b/ ba/g/|fa/a/ ag/f/|ef ga/g/|fdd2:|!
+|:.d’.c’ .b.a |.d’.c’ .b.a |.d’.c’ .b.a |gee2|!
+.c’.b .a.g|.c’.b .a.g|.c’.b .a.g|fdd2:|
+
+X:9
+T:Oddfellows Holiday. HS.09
+M:6/8
+L:1/8
+Q:3/8=120
+C:”Set of Quadrilles,No3″
+S:Henry Stables MS,Cumbria,late19thC
+R:.Quadrille
+O:Walthwaite,nr.Ambleside.
+A:England
+N:Each note is accompanied by a number of one to five, and also a symbol
+N:of either ^ or -.I have reproduced this completely for the 1st line
+N:only, it being consistent thereafter. This is obviously fingering, for
+N:one hand, of an instrument that sucks and blows or pushes and pulls, or
+N:otherwise has two directions of something. Later evidence indicates
+N:bowing directions on the fiddle…CGP
+Z:vmp.Chris Partington
+K:D
+“_5 NB” A|”_2″d2″_3″ f “^2” e2″_3″f|\
+“_2″d2″_2″d “_2” d2″_5″A|”_1″B2″_5″A “_1” B2″^1″c|\
+“_2″d2″_3″f “^2″e”^1″c”_5″A|!
+“etc.”d2fe2f|d2d def|”^3″g2e”_4″a2f|dddd2:|!
+|:d|f2f fef|g2g gfg|fga agf|e2d cBA|!
+d2fe2f|d2d def|g2ea2f|dddd2:|
+
+X:10
+T:Young May Moon,The. HS.10
+M:6/8
+L:1/8
+Q:3/8=120
+C:”Set of Quadrilles,No4″
+S:Henry Stables MS,Cumbria,late19thC
+R:.Quadrille
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A|d2Ad2A|B2A ABc|d2d ede|f2d def|!
+g2gf2f|efd cBA|BAG FGA|B2AA2:|!
+|:f/g/|a2b afe|b2ba3|b2b afd|f2ee2a|!
+b2b a2g|fed cBA|BAG FGA|B2AA2:|
+
+X:11
+T:La Elizabeth. HS.11
+T:Elizabeth,La. HS.11
+M:2/4
+L:1/8
+Q:1/4=120
+C:”Set of Quadrilles,No5”
+S:Henry Stables MS,Cumbria,late19thC
+R:.Quadrille
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+“Finale”d|f>f f>f|ff g/f/e/f/|age2|age2|\
+f>f f>f|ff b/f/e/d/|!
+cee2|cee2|\
+f>f f>f|ff g/f/e/f/|gab2|!
+ga bg|ff/f/ ff|ee/e/ ee|dd/d/ dd|d3:|!
+|:d’/d’/|d’a3/4a/4 af3/4f/4|fd3/4d/4 df|age2|ba fa|!
+d’a3/4a/4 af3/4f/4|fd3/4d/4 df|ag ec|e2d|]
+
+X:12
+T:Lord Harwick’s March. HS.12
+M:C|
+L:1/8
+Q:1/2=100
+C:Primo
+S:Henry Stables MS,Cumbria,late19thC
+R:.Quadrille
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+“Segno”ag|f2f>ff2f2|f3a d’agf|e2e>ee2e2|e3f gbag|!
+f2f>ff2f2|f3a d’agf|.e.b.a.g. .f.e.d.c|d2d>dd2:|!
+|:f2|a2a>aa2a2|f2d2a4|AA/A/ AA AAAA|F2D2A2a>a|!
+a2 A>AA2a>a|a2 A>AA2A>A|d’d’ aa fafd|a2a>aa4:|!
+|:d4A4|f4d4|a2d’af2af|d2feA2g2|!
+f2 (d/e/f/g/) .a.a .d’.d’|d’2(d/e/f/g/) aac’c’|d’d’ aa fafd|a2a>a a4:|!
+|:AA/A/ AA AAAA|g4e4|AA/A/ AA AAAA|a4f4|!
+g2zfg2zf|.g2.f2.e2.d2|1a2g2f2e2:|2c2B2A2G2|]
+
+X:13
+T:Duncan Gray,Fragment. HS.13
+M:2/4
+L:1/8
+Q:1/2=70
+C:previous page missing
+S:Henry Stables MS,Cumbria,late19thC
+R:.misc
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:C
+“continued”G,C B,C|DEB,2|C2DC|ECC2|G,C B,C|DEB,2|C2DC|ECC2:|!
+|:EG GE|FFE2|FE DC|B,A,G,2|G(A/G/) F(G/F/)|E(F/E/) D2|C2DC|ECC2:|
+
+X:14
+T:Scale for D Major. HS.14
+M:C
+L:1/4
+S:Henry Stables MS,Cumbria,late19thC
+R:.misc.
+O:Walthwaite,nr.Ambleside.
+A:England
+N:This time there are no suck/blow instructions..They reappear in the
+N:next tune without the fingering numbers..This is consistent with a
+N:shift on the violin to Third Position..CGP
+Z:vmp.Chris Partington
+K:D
+“see note”DEFGABcdefg”1″a”2″b”3″c'”4″d’|\
+“4”d'”3″c'”2″b”1″a”=2″gfedcBAGFED|]
+
+X:15
+T:Auld Lang Syne. HS.15
+M:2/4
+L:1/8
+Q:1/4=140
+S:Henry Stables MS,Cumbria,late19thC
+R:.air
+O:Walthwaite,nr.Ambleside.
+A:England
+N:This is marked with ups/downs very clearly as an exercize in violin
+N:bowing technique..CGP
+Z:vmp.Chris Partington
+K:D
+“^u”A|”^d”d>d “^u”df|”^d”e>d “^u”ef|”^d”d>d “^u”fa|”^d”b3″^u”b|\
+“^d”a>f “^u”fd|”^d”e>d “^u”ef|”^d”d>B “^u”BA|”^d”d3||!
+“^u”b|”^d”a>f “^u”fd|”^d”e>d “^u”ef|”^d”a>f “^u”fa|”^d”b3″^u”b|\
+“^d”a>f “^u”fd|”^d”e>d “^u”ef|”^d”d>B “^u”BA|”^d”d3|]
+
+X:16
+T:Russian Dance. HS.16
+T:Fairy Dance,aka. HS.16
+M:2/4
+L:1/8
+Q:1/2=100
+C:”D Major”
+S:Henry Stables MS,Cumbria,late19thC
+R:.reel
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+(f/g/)|f2fd|f2fd|f2fd|ecA2|f2fd|gf ed|cA Bc|d3:|!
+|:(f/g/)|a2af|b2ba|gf ge|a2ag|f2fd|gf ed|cA Bc|d3:|
+
+X:17
+T:La Native. HS.17
+M:6/8
+L:1/8
+Q:3/8=110
+S:Henry Stables MS,Cumbria,late19thC
+R:.Quadrille
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+(F/G/)|A>BA A>BA|d2A A2(F/G/)|A>BA A>BA|e2A AFG|!
+A>BA A>BA|d2Ae2A|f>ed A<dc|d2DD2:|!
+|:(d/e/)|f>ed f>ed|e2AA3|f>ed f>ed|g2ee3|!
+f>ed f>ed|gfea2g|f>ed A<dc|d2DD2:|
+
+X:18
+T:Billy Pitt. HS.18
+M:C|
+L:1/8
+Q:1/2=100
+S:Henry Stables MS,Cumbria,late19thC
+R:.reel
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+d2dfa2af|g2ge cecA|d2dfa2af|bgecd2D2:|!
+|:Adcd fdcd|Bgfg ea^ga|Adcd fdcd|Bgecd2D2:|
+
+X:19
+T:Highland Lad. HS.19
+T:White Cockade,aka. HS.19
+M:2/4
+L:1/8
+Q:1/2=60
+S:Henry Stables MS,Cumbria,late19thC
+R:.Scots Measure
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+g|dB BG|BB Bg|dB BG|BA AG|BB (c/B/A/G/)|Bd g2|bg eg|d B B:|!
+|:B|dB gB|dd d2|dB gf/g/|aA AG|BB (c/B/A/G/)|Bd g2|bg eg|d B B:|
+
+X:20
+T:Weel May The Boatie Row. HS.20
+M:2/4
+L:1/8
+Q:1/2=60
+C:”P.T.Stone”
+S:Henry Stables MS,Cumbria,late19thC
+R:.Scots Measure
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+G|Bdde|dg a/g/f/e/|dBAG|BAAG|!
+Bdde|dg a/g/f/e/|dB AB|G2zg|!
+.g.d.d.d|.g.d.d.d|edeg|aba2|!
+gbeg|dgdB|AG/A/ BA|G2zB|!
+Bdde|dg a/g/f/e/|dBAG|BAAG|!
+Bdde|dg a/g/f/e/|dBAB|G2z|]
+
+X:21
+T:Scale of G Major. HS.21
+M:C
+L:1/8
+S:Henry Stables MS,Cumbria,late19thC
+R:.misc
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+G,A,B,C|DEFG|ABcd|efggfe|dcBA|GFED|CB,A,G,|]
+
+X:22
+T:Campbells Are Coming,The. HS.22
+M:6/8
+L:1/8
+Q:3/8=120
+S:Henry Stables MS,Cumbria,late19thC
+R:.jig
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+GBe dBG|B2BB2A|GBe dBG|A2AA2G|!
+GBe dBG|g2ab2a|gfg e<ge|d2BB2d:|!
+|:g2g gab|d2dd2d|g2g gab|e2ee2d|!
+def gfe|def gab|gfg e<ge|d2B”DC”B2G|]
+
+X:23
+T:Napoleon’s March. HS.23
+T:Napoleon’s Grand March,aka. HS.23
+M:C|
+L:1/8
+Q:1/4=110
+S:Henry Stables MS,Cumbria,late19thC
+R:.March
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A2|d2d>dd2A2|e2e>ee2de|f2efg2f2|e2e>ee2A2|!
+dd AA FF AA|dd AA FF AA|d3f edef|d2d>dd2:|!
+|:f2|edcB ABcA|d2d>dd3f|edcB ABcA|d2d>d defd|!
+(B2g2g2)fe|(A2f2f2)gf|edef edef|d2d>dd2:|!
+|:”^P”fg|~a4 ~b4|a2a>gf2a2|~g4f2af|e2e>ee3a|!
+.g.f.e.d. .c.B.A.G|a2ff dd AA|f2fa gfed|a2a>aa3f|!
+“^F”.e.d.c.B ABcA|d2d>dd3f|.e.d.c.B ABcA|d2d>d .d.c.B.A|!
+B2g2g2fe|A2f2f2gf|edef edef|d2d>dd2|]
+
+X:24
+T:Bownan’s March. HS.24
+M:C
+L:1/8
+Q:1/2=75
+S:Henry Stables MS,Cumbria,late19thC
+R:.March
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A2|d3f edeg|f2d2d2de|f3g bagf|e2e2e2A2|!
+dcdf edeg|fgaba2A2|B2g2fedc|d2d2d2:|!
+|:f2|a2a2a2fd|b2a2a2g2|f3g bagf|e2e2e2A2|!
+dcdf edeg|fgab a2A2|B2gf gedc|d2d2d2:|
+
+X:25
+T:Scale of A Major. HS.25
+M:C
+L:1/4
+S:Henry Stables MS,Cumbria,late19thC
+R:.misc
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:A
+A,B,CDEFGABcdefga|agfedcBAGFEDCB,A,|]
+
+X:26
+T:Devil’s Dream,The. HS.26
+M:C|
+L:1/8
+Q:1/2=100
+S:Henry Stables MS,Cumbria,late19thC
+R:.reel
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:A
+e2|agae agae|agae fedc|dfBf dfBf|dfBf agfe|!
+agae agae|agae fedc|.d.e.f.e .d.c.B.A|E2G2A2:|!
+|:e2|ceAe ceAe|ceAe .f.e.d.c|dfBf dfBf|dfBf .a.g.f.e|!
+ceAe ceAe|ceAe .f.e.d.c|.d.e.f.e .d.c.B.A|E2G2A2:|
+
+X:27
+T:I’ll Go No More To Yon Town. HS.27
+M:C|
+L:1/8
+Q:1/2=80
+S:Henry Stables MS,Cumbria,late19thC
+R:.reel
+O:Walthwaite,nr.Ambleside.
+A:England
+N:Covered throughout in seeming bowing marks of a basic hack bowing
+N:pattern..cgp
+Z:vmp.Chris Partington
+K:A
+c|Aaae c2Ae|ceAc .d.B.B.g|agaec2Ae|ceBd .c.A.A:|!
+e|cAeA fAeA|cAeA .d.B.B.d|cAeA fAeA|ceBd .c.A.A.e|!
+cAeA fAeA|cAeA (f/e/d/c/) Bd|cAeA fAeA|ceBd .c.A.A|]
+
+X:28
+T:Weel May The Kiel Row. HS.28
+T:Keel Row,aka. HS.28
+M:2/4
+L:1/8
+Q:1/2=70
+C:”As a schottische”
+S:Henry Stables MS,Cumbria,late19thC
+R:.Scottische
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:A
+(e/d/)|c2A>c|d2B>d|c2A>c|B>GE2|c2A>c|d2B>d|c>AB>G|A3:|!
+|:(e/d/)|c>ee>a|f2e>d|c2A>c|B>GE2|c>ee>a|f2e>d|c>AB>G|A3:|
+
+X:29
+T:Weel May The Kiel Row. HS.29
+T:Keel Row,aka. HS.29
+M:2/4
+L:1/8
+Q:1/2=100
+C:”The Above as a Reel”
+S:Henry Stables MS,Cumbria,late19thC
+R:.reel
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:A
+(e/d/)|c2Ac|d2Bd|c2Ac|BGE2|c2Ac|d2Bd|cABG|A3:|!
+|:(e/d/)|ce ea|f2ed|c2Ac|BGE2|ce ea|f2ed|cA BG|A3:|
+
+X:30
+T:Devent Castle. HS.30
+T:Roxburgh Castle,aka. HS.30
+M:C|
+L:1/8
+Q:1/2=90
+S:Henry Stables MS,Cumbria,late19thC
+R:.Hornpipe
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:A
+(3EFG|A2Ac ecAc|dfdf ecAc|d2fdc2ec|d2B2B2(3EFG|!
+A2Ac ecAc|dfdf ecAc|.e.a.g.f .e.d.c.B|B2A2A2:|!
+|:(3efg|aece Aece|aece Aece|aece Aece|d2B2B2(3EFG|!
+A2Ac ecAc|dfdf ecAc|.e.a.g.f .e.d.c.B|B2A2A2:|
+
+X:31
+T:King’s Polka. HS.31
+M:2/4
+L:1/8
+Q:1/4=110
+S:Henry Stables MS,Cumbria,late19thC
+R:.Polka
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A(d/e/)f2|ggf2|fe (e/d/)e|ed (d/c/)d|!
+A(d/e/)f2|ggf2|fe e/d/e|edd2:|!
+|:aA (A/^G/)A|BA (A/^G/)A|fe (e/^d/)e|ed d/c/d|!
+aA (A/^G/)A|BA A/^G/A|fe e/^d/e|edd2:|
+
+X:32
+T:Liverpool Hornpipe. HS.32
+M:C|
+L:1/8
+Q:1/2=90
+S:Henry Stables MS,Cumbria,late19thC
+R:.Hornpipe
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+AG|FDFA dfaf|gefe dcBA|GBGB FAFA|EFGA GFED|!
+FDFA dfaf|gefe dcBA|afdf gece|d2d2d2:|!
+|:A2|dfdf cece|Bcde dcBA|GBGB FAFA|EFGA GFED|!
+FDFA dfaf|gefe dcBA|afdf gece|d2d2d2:|
+
+X:33
+T:Wind That Blows The Barley,The. HS.33
+M:C|
+L:1/8
+Q:1/2=100
+C:”A Reel”
+S:Henry Stables MS,Cumbria,late19thC
+R:.Reel
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A2AB AFDA|B2BA BcdB|A2AB AFDA|gefdB2d2:|!
+|:f2fdg2ge|f2fd eAce|f2fd g2gb aged|B2d2:|
+
+X:34
+T:Soldier’s Joy. HS.34
+M:C|
+L:1/8
+Q:1/2=90
+C:”A Hornpipe”
+S:Henry Stables MS,Cumbria,late19thC
+R:.Hornpipe
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+dB|AFDF AFDF|A2d2d2cB|AFDF AFDF|G2E2E2|FG|!
+AFDF AFDF|A2d2d2fg|afdf gece|d2d2d2:|!
+|:de|fdfg fagf|edcd efge|fefg fagf|edcBA2de|!
+fefg fagf|edcd efge|afdf gece|d2d2d2:|
+
+X:35
+T:Elphien’s Waltze. HS.35
+M:3/4
+L:1/4
+Q:3/4=50
+S:Henry Stables MS,Cumbria,late19thC
+R:.Waltz
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A|Adf|g2c|dfb|a2A/A/|Adf|g2f|edf|A2A/A/|!
+Adf|g2c|dfb|a2a/a/|agf|^def|gBc|d2:|!
+|:a|a/a/ab|a/a/ac’|d’c’b|a2f/g/|a/a/ab|a/a/ac’|d’c’b|a2A/A/|!
+Adf|g2c|dfb|a2a/a/|agf|^def|gBc|d2:|!
+|:d|d2c|c2B|B2A|F2B|A/A/Aa|acd|e2d|A2d|!
+d2c|c2B|B2A|F2B|B/B/Bb|B/B/Bb|f/e/d/B/A/F/|D2:|!
+|:A|f2e|d2c|c2B|g2f|f2e|dBd|e2c|A2d|!
+f2e|d2c|c2B|g2f|f2e|dBd|e3|d2:|!
+|:d/e/|f/f/f/f/f/f/|fed|dcB|A2F|e/e/e/e/e/e/|!
+edc|BAG|F2A|d/d/d/d/d/d/|dBB|!
+e/e/e/e/e/e/|ecc|a/a/a/a/a/a/|agf|edc|d3:|
+
+X:36
+T:Favourite Waltz,A. HS.36
+M:3/8
+L:1/8
+Q:3/8=50
+S:Henry Stables MS,Cumbria,late19thC
+R:.Waltz
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A|dfA|fad|egc|dfA|dfA|fad|egc|{e}d2:|!
+|:f|age|gfd|age|gfd|dfA|fad|egc|{e}d2:|!
+|:A|d/f/A/d/f/d/|e/g/A/e/g/e/|f/a/d/f/a/f/|e/g/c/e/g/e/|!
+d/f/A/d/f/d/|d/f/A/d/f/d/|e/g/A/e/g/e/|{e}d2:|!
+|:f/g/|a/g/b/g/e/g/|g/f/a/f/d/f/|a/g/b/g/e/g/|g/f/a/f/d/e/|!
+d/f/A/d/f/d/|f/a/d/f/a/f/|e/g/c/e/g/e/|{e}d2:|
+
+X:37
+T:Girl I Left Behind Me,The. HS.37
+M:C|
+L:1/8
+Q:1/2=100
+S:Henry Stables MS,Cumbria,late19thC
+R:.misc.
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+gf|e2d2cBAG|B2G2E2F2|G2G2G2B2|d4B2gf|!
+e2d2cBAG|B2G2E2G2|F2A2D2F2|G4G2:|!
+|:G2|B2d2e2f2|g2d2B2G2|B2d2e2f2|g4f2g2|!
+e2d2cBAG|B2G2E2G2|F2A2D2F2|G4G2:|
+
+X:38
+T:Waltz,A. HS.38
+M:3/8
+L:1/8
+Q:3/8=50
+S:Henry Stables MS,Cumbria,late19thC
+R:.Waltz
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+d|gfe|edB|dcA|edB|gfe|edB|dcA|G2:|!
+|:B|dcA|edB|dcB|edB|gfe|edB|dcAG2:|!
+|:B|dba|gBd|cAf|gbd|dba|gBd|cAf|g2:|!
+|:B|cAf|gbc|cAf|gbB|dba|gBd|cAf|g2:|
+
+X:39
+T:Schottische,The. HS.39
+M:2/4
+L:1/8
+Q:1/4=72
+S:Henry Stables MS,Cumbria,late19thC
+R:.Schottische
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+(B/c/)|db ca|Bg g/d/B/G/|Fe e/c/A/F/|G/B/A/c/ B/d/c/e/|!
+db ca|Bg g/d/B/G/|Fe e/c/A/F/|GBG:|!
+|:(A/G/)|F/G/A/B/ c/d/e/f/|gB d2|eAc2|dGB2|!
+F/G/A/B/ c/d/e/f/|gB d2|eA/B/ cF/G/|AGG:|!
+|:B|dB/d/ gf|fA/c/e2|dF/A/ ed|dG/A/B2|!
+dB/d/ gf|fA/c/e2|dF/A/ e/d/c/A/|GBG:|
+
+X:40
+T:Jenny Jones. HS.40
+T:Sweet Jennie Jones,aka. HS.40
+M:3/8
+L:1/8
+Q:3/8=50
+S:Henry Stables MS,Cumbria,late19thC
+R:.waltz
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+d|gdB|GBd|cea|fdd|gdB|cde|dba|g2:|!
+g|bgb|agf|eag|fed|bgb|agf|gfe|d2d|!
+gdB|GBd|cea|fdd|gdB|cde|dba|g2|]
+
+X:41
+T:Scale of F Major. HS.41
+M:C
+L:1/8
+S:Henry Stables MS,Cumbria,late19thC
+R:.misc
+O:Walthwaite,nr.Ambleside.
+A:England
+N:Little crosses of uncertain meaning and position hereabouts.My guess is
+N:that they might be a teaching aid to show what else would have to be
+N:flattened to make Eb(?)..CGP
+Z:vmp.Chris Partington
+K:F
+F2G2″+NB”A2B2c2d2″+”e2f2|f2″+”e2d2c2B2″+”A2G2F2|\
+FAGB AcBd cedf egfa gbaf gef2|]
+
+X:42
+T:Waltz,A. HS.42
+M:3/4
+L:1/4
+Q:3/4=50
+S:Henry Stables MS,Cumbria,late19thC
+R:.waltz
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:F
+c|f2e/g/|f/e/f/g/a/b/|a2g|f2c|f/a/g/f/e/d/|c2A|cBA|AGc|!
+f2e|f/e/f/g/a/b/|a2g|f2c|fcB|c2B|A2G|(GF):|!
+|:c|c/d/e/f/g/a/|b/a/g/f/e/d/|c2B|AGc|c2f|G2B|dcE|(GF):|!
+|:”P”c|c2B|BAA|A2G|GFF|d2c|cB/A/G/F/|B2A|AGc|!
+c2B|BAA|A2G|GFF|EDB|A2G|F2E|(GF):|
+
+X:43
+T:Lucy Long. HS.43
+M:2/4
+L:1/8
+Q:1/2=70
+C:”A Set Of Quadrilles,No.1″
+S:Henry Stables MS,Cumbria,late19thC
+R:.Quadrille
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+d|ff dd|ce ef|gg cc|d3e|!
+ff dd|ce gb|ba ge|d3:|!
+d|ceee|ceee|ce dB|A3d|!
+ceee|ceee|gedB|A3g|!
+ab/a/ g/f/e/d/|ce gb|ab/a/ ge|fa [d2d’2]|!
+ab/a/ g/f/e/d/|ce gb|ba ge|d3|]
+
+X:44
+T:Lass O’ Gowrie,The. HS.44
+M:2/4
+L:1/8
+Q:1/2=60
+C:”Set of Quadrilles,No2.”
+S:Henry Stables MS,Cumbria,late19thC
+R:.Quadrille
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A/G/|FA AB/c/|de dc|BA Bc/d/|ef eA/G/|!
+FA AB/c/|de fe|d/c/B/A/ dF|E2D:|!
+a/g/|fa de|fg af|gb ef|ga ba/g/|!
+fa ef|de fe|d/c/B/A/ [dg][cf]|e2da/g/|!
+fa de|fg af|gb ef|ga “sic”b2ag|!
+fg ef|de fe|d/c/B/A/|dF|E2D|]
+
+X:45
+T:Royal Charlie. HS.45
+M:6/8
+L:1/8
+Q:3/8=110
+C:”Set of Quadrilles,No3.
+S:Henry Stables MS,Cumbria,late19thC
+R:.Quadrille
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+f/e/|d2B BAF|d2B BAF|d2d dfF|A3A2c|!
+d2ef2g|a2ff2e|d2B BAF|B3-B2:|!
+c|d2cd2e|f2gf2e|d2cd2e|f3F2c|!
+d2cd2e|f2gf2e|d2B BAF|B3B2c|!
+d2cd2e|f2gf2e|d2cd2e|f3F2c|!
+d2ef2g|a2bf2e|d2B BAF|B3B|]
+
+X:46
+T:Annie Lisle. HS.46
+M:2/4
+L:1/8
+Q:1/2=60
+C:”Set of Quadrilles,No4
+S:Henry Stables MS,Cumbria,late19thC
+R:.Quadrille
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A|d>e fe|dB BA|e>d cd|e3A|!
+d>e fe|dB BA|e>f gc|d3:|!
+e|ff ee|dd cc|BB Ad|e3A|!
+d>e fe|dBBA|e>fgc|d3||!
+e|f/f/f/f/ e/e/e/e/|d/d/d/d/ c/c/c/c/|B/B/B/B/ Ad|!
+e3A|d>e fe|dB BA|e>f gc|d3|]
+
+X:47
+T:Finale. HS.47
+M:6/8
+L:1/8
+Q:3/8=100
+C:”Set of Quadrilles,No5”
+S:Henry Stables MS,Cumbria,late19thC
+R:.Quadrille
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:D
+A|d3 fed|cdeg3|fed Bge|d3c2A|!
+d3fed|cdeg3|fed edc|d3-d2:|!
+f/g/|a2AA2f|g2AA2g|fdf afd|e2f ged|!
+a2AA2f|g2AA2g|fed edc|d3-d2||!
+f/g/|a2ff2a|g2ee2g|fdf afd|e2f gfe|!
+a2ff2a|g2ee2g|fed edc|d3-d2|]
+
+X:48
+T:Hunsup Through The Wood. HS.48
+M:6/8
+L:1/8
+Q:120
+S:Henry Stables MS,Cumbria,late19thC
+R:.Jig
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+G2d Bcd|G2d Bcd|edc BAG|A2B cBA|!
+G2d Bcd|G2d Bcd|edc BAG|A3e3||!
+A2Bc2d|e2e edc|BGB AFA|G3e3|!
+A2Bc2d|egf ed^c|d2g fef|g3-g3|]
+
+X:49
+T:Gallop,A. HS.49
+M:C
+L:1/8
+Q:1/4=110
+S:Henry Stables MS,Cumbria,late19thC
+R:.Gallop
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:Bb
+“with spirit”B|FB AB|Ff =e2|fc dA|BFG2|!
+FB AB|Ff=e2|fc dA|B3:|!
+|:F/B/|dzcz|BF dz|cF fz|dF dz|!
+dzcz|BF dz|cF fF|B3:|!
+|:z|dzcz|B/B/B/B/ BF|.B.c .d.e|gf =ef|!
+ezdz|c/c/c/c/ cB|AF GA|B3:|
+
+X:50
+T:Strauss Gallop. HS.50
+M:2/4
+L:1/8
+Q:1/2=60
+C:”by Strauss”
+S:Henry Stables MS,Cumbria,late19thC
+R:.Gallop
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:Bb
+F/-E/|D>F D>F|G>F D>B|cF A>c|dF B>F|!
+D>F D>F|G>F D>B|cF A>c|BdB:|!
+F|”^f”(de/d/) cd|(ef/e/) de|(fg/f/) db|b/-a/a/-g/ g/-f/f/-e/|!
+(de/d/) cd|(ef/e/) de|g3/2f/4d/4 f3/2e/4c/4|BdB:|!
+|:”^p”C/C/|C2-FC/C/|C2-FC/C/|BA GC/C/|AG FC/C/|!
+C2-FC/C/|C2-FC/C/|BA GA/G/|FAF||!
+c/c/|ba gc/c/|ag fc/c/|=ed c=B|Aa FC/C/|!
+“^p”C2-FC/C/|C2-FC/C/|BA GA/G/|FAF:|!
+z|B2.d.f.|bzaz|_azgz|fzez|F2Ac|ezdz|dzcz|^czdz|!
+B2.d.f|bzaz|_azgz|fzez|F2Acezdz|gzfz|ecB:|!
+F/E/|D>F D>F|G>F D>d|eF A>c|dF B>F|\
+D>F D>F|G>F D>F|!
+e>F A>c|B/c/d/e/ f/F/G/A/|\
+B/c/d/e/ f/F/G/A/|Bd/d/ df/f/|fb/b/ bb/b/|bf/f/ fd/d/|!
+dB/B/ BF/F/|BB/A/ B/A/B/A/|B/A/B/A/ B/A/B/A/|\
+B2z2|b2z2|B4|]
+
+X:51
+T:Lord Harwick’s March. HS.51
+M:C|
+L:1/8
+Q:1/2=100
+S:Henry Stables MS,Cumbria,late19thC
+R:.March
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:Bb
+“^Segno”|d2d>dd2d2|d3f bfed|c2c>cc2c2|c3d egfe|!
+d2d>dd2d2|d3f bfed|.c.g.f.e .d.c.B.A|B2B>B”^FINE”B4:|!
+|f2f>ff2f2|d2B2f4|FF/F/ FF FFFF|D2B,2F2f>f|!
+f2 F>FF2f>f|f2 F>FF2F>F|.b.b .f.f .d.f.d.B|f2f>ff4:|!
+|:”^P”B4F4|d4B4|f2bfd2fd|B2dcF2e2|!
+d2 (B/c/d/e/) .f.f .b.b|b2(B/c/d/e/) .f.f .a.a|\
+.b.b .f.f .d.f.d.B|f2f>ff4:|!
+|:”^F”FF/F/ FF FFFF|e4c4|FF/F/ FF FFFF|f4d4|!
+e2zde2zd|.e2.d2.c2.B2|1.f2.e2.d2.c2:|2.A2.G2.F2.”^DC”E2|]
+
+X:52
+T:Valentine’s March. HS.52
+M:C|
+L:1/8
+Q:1/2=80
+S:Henry Stables MS,Cumbria,late19thC
+R:.March
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:Bb
+B2f>f (3fgf (3edc|d2b>bb2a2|g2f2e2d2|c2c>c cedc|!
+B2f>f (3fgf (3edc|d2b>bb2b2|ba/z/ ag/z/ gf/z/ f=e/z/|f2f?ff2z:|!
+|:f2e>ee2A/B/c/d/|e2d>dd2 (3Bdf|ggff eedd|c2c>cc2zF|!
+B2d>BG2e>c|A2f>dB2g>e|dbged2f/e/d/c/|B2B>BB4:|
+
+X:53
+T:Maiden’s Dream,The. HS.53
+M:6/8
+L:1/8
+Q:3/8=120
+S:Henry Stables MS,Cumbria,late19thC
+R:.Jig
+O:Walthwaite,nr.Ambleside.
+A:England
+N:Repeats as marked,please yourself
+Z:vmp.Chris Partington
+K:Bb
+d/e/|f2bd2e|g2fd2d|f2ec2c|g2fd2e|!
+f2bd2e|g2fd2d|f2ee2A|B3-B2||!
+d|f2ec2c|g2fd2d|f2ec2c|g2fd2e|!
+f2bd2e|g2fd2d|f2ee2A|B3-B2||!
+f|b2ab2g|f2dB2d|e2dc2B|ABcF2f|!
+b2ab2g|f2dB2d|f2ee2A|B3-B2:|
+
+X:54
+T:Astley’s Ride. HS.54
+M:C|
+L:1/8
+Q:1/2=100
+S:Henry Stables MS,Cumbria,late19thC
+R:.Misc.
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:Bb
+fd|B2B2B2AB|c2c2c2ec|BAGF GBAc|Bcde fdec|!
+B2B2B2AB|c2c2c2ec|BAGF GBAc|B2B2B2:|!
+|:Bc|d2d2d2cd|e2e2e2ge|c2c2c2Bc|d2d2d2fd|!
+B2B2B2AB|c2c2c2ec|BAGF GBAc|B2B2B2:|
+
+X:55
+T:Elterwater Hornpipe. HS.55
+M:C|
+L:1/8
+Q:1/2=90
+C:”By W.Irwin”
+S:Henry Stables MS,Cumbria,late19thC
+R:.Hornpipe
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+Bc|dBGB dBGB|ecAc efge|dBGB dBGB|AFDF ABce|!
+dBGB dBGB|ecAc efge|dBGB cAFA|G2B2G2:|!
+|:ga|bgdg afdf|gece dBGB|cdef gdcB|B2A2A2ga|!
+bgdg afdf|gece dBGB|.c.e.d.c .B.A.G.F|A2G2G2:|
+
+X:56
+T:Elterwater Quickstep. HS.56
+T:Lamb Skinnet,aka. HS.56
+M:6/8
+L:1/8
+Q:3/8=110
+C:By William Irwin, perhaps?..
+S:Henry Stables MS,Cumbria,late19thC
+R:.Jig
+O:Walthwaite,nr.Ambleside.
+A:England
+N:This is very like Lamb Skinnet, from the NPTB #1, but not identical,
+N:and may be one of those cases of “Mistaken Composition”, although the
+N:attribution to W.Irwin is entirely mine, based on the title, and not on
+N:any false claim by W.I.,whose name is not appended to it….CGP..
+Z:vmp.Chris Partington
+K:G
+B/c/|d>BG d>BG|c2e .e.f.g|d>BG d>BG|FAAA2(B/c/)|!
+B>AG B>AG|c2e .e.f.g|d>BG c>AF|A3G2:|!
+|:g/a/|b>af a>gf|{a}g>fe .d.c.B|.c.d.e .d.B.G|B3″qu”A2g/a/|!
+b>af a>gf|{a}g>fe .d.c.B|c2e .d.B.G|A3G2:|
+
+X:57
+T:Grand Hornpipe,A. HS.57
+M:C|
+L:1/8
+Q:1/2=80
+S:Henry Stables MS,Cumbria,late19thC
+R:.Hornpipe
+O:Walthwaite,nr.Ambleside.
+A:England
+N:Played dotted, this has become a popular tune once again..CGP…
+Z:vmp.Chris Partington
+K:G
+dc|B2Bc dedc|B2Bc dedc|B2G2G2cB|A2D2D2dc|!
+B2Bc dedc|B2Bc dedc|BdGB cAFA|G2G2G2:|!
+|:d2|{a}gfga gdBd|{a}gfga gdBd|{a}gfgab2bg|fefg afdf|!
+e2ef gece|d2de dBGB|A2AB cAFA|G2B2G2:|
+
+X:58
+T:Flowers Of Edinburgh. HS.58
+M:C|
+L:1/8
+Q:1/2=90
+S:Henry Stables MS,Cumbria,late19thC
+R:.Hornpipe
+O:Walthwaite,nr.Ambleside.
+A:England
+Z:vmp.Chris Partington
+K:G
+GE|D2DEG2GA|BGBd cBAG|AGFE DEFG|AF dF EGFE|!
+D2DEG2GA|BGBdg2fe|dcBA GFGA|B2G2G2:|!
+|:d2|gfga gbag|fefg fagf|edef gfed|B2e2e2fg|!
+dBAGd2Bd|edef g2fe|dcBA|GFGA|B2G2G2:|

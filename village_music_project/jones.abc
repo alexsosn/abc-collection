@@ -1,0 +1,2307 @@
+%abc
+%%abc-alias John Jones
+%1801, UK Shropshire Whitchurch, Private collection, Article in EDS Autumn 2007 pp12-14
+%%abc-creator ABCexplorer 1.5.0 [20/03/2012]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP Neil Brookes 2006
+%Revised 01/2009
+%Revised again 12/2009
+
+X:1
+T:Duke of York’s March (in D) JJo.001
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+D2D>D F2F>F|AFAFD2A2|dAdA dAFD|A2A>AA2z2|!
+a2f2d2d2|e2 e>g f2 z a|g3f fdgf|e2e>ee2z2:|!
+|:A2A>A Aefg|A2A>A Adfa|gee.e. fd.d.d|ba.g.f f2e2|!
+d3f/e/ dABc|cB B4 c/d/e/f/|.g.g.f.f .e.e.d.d|e2e>e e2z2|!
+D2D>D F2F>F|.A.F.A.FD2g2|faaf gedc|d2d>d d2:|
+
+X:135
+T:Untitled March. JJo.001a
+S:J.Jones MS,1801,N.Shrops.
+N:Follows on from Duke of York’s march JJo.001 but probably a separate tune. NeilB.
+A:N Shropshire
+Z:Neil Brookes
+M:4/4
+L:1/8
+Q:1/2=100
+K:A
+A3c BABG|A2c2A2c2|c3e dcdB|c2e2c2e2|!
+e3aa3e|f3g{b}a2 gf|e2 ae eddc|c4B2z2:|!
+|:B3c dcdB|c2e2a2c’2|B3c dcdB|c2A>AA2z2|!
+f3e {b}a2 gf|e3aa3c’|b2a2b2g2|a2a>a a2z2:|
+
+X:2
+T:Rosling(sic) Castle. JJo.002
+S:J.Jones MS,1801,N.Shrops.
+C:Richard Hewitt
+A:N Shropshire
+Z:Neil Brookes
+M:4/4
+L:1/8
+Q:1/4=100
+K:Emin
+GF|E2B2B2 AB|cBAG FA GF|E2e2 ef g2|fede dc B2|!
+ABcB AG F2|GABG FE ed|ef ge fd eB|cA G2F2E2:|!
+|:e2 ef g2 fe|b2 ag f2 ed|eB ef g2 fe|dedc B2 AB|!
+cB AG F2 GA|BG FE edef|ge df eB cA|G2F2E4:|
+
+X:3
+T:Flock’s in a Cluster(Cloister?),The. JJo.003
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+D|G>AG BGd|gag g2 d|BGB dcB|B3-A2 B|!
+cec BdB|GBd g2 f/g/|afd gec|d3-d2:|!
+|:f/g/|afd dAB|cdc cBA|GBd dcB|B3-A2 B|\
+c>ec B>dB|!
+GBd g2d|BGB dGg|e3-d2e|d>cB c>BA|G3-G2:|
+
+X:4
+T:When William at Eve. JJo.004
+S:J.Jones MS,1801,N.Shrops.
+C:William Shield
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=60
+K:D
+A/G/|FAd dcd|ceg g2g|fdA Bec|dD/E/F/G/ ADa/g/|!
+f/a/d/a/f/a/ g/a/e/a/g/a/|f/a/d/a/f/a/ g/a/d/a/f/a/|\
+fd’A Bec|dAF D2:|!
+|:A/G/|FAd dcd|ceg g2g|fdA Bec|d2zz2{baba}d/e/|!
+fed cBA|^GBe d2B|cea cdB|A2″^*”zz2{aeaea}c/d/|!
+efe g=fe|fed cBA|Bcd ege|d3-c2 A|!
+d2e d/e/d/e/d/e/|f2g f/g/f/g/f/g/|afb afb|Ha2 {bagf}a/g/|fdA BdB:|!
+|:dd/e/f/g/ ab/a/g/f/|f/a/d/a/f/a/ g/a/e/a/g/a/|!
+f/a/d/a/f/a/ g/a/e/a/f/a/|fd’A|dAF D2:|
+
+X:5
+T:Lady Coventry’s Minuet with Variations. JJo.005
+S:J.Jones MS,1801,N.Shrops.
+N:The 2 sections (first in 3/4, second “gigo” in 6/8)
+N:look like a single piece, but Gigo may be a separate tune
+N:albeit one of little merit on its own.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:3/4=50
+K:G
+G2G>G (3GAB|{B}A4G2|B2B>B (3Bcd|{d}c4B2|
+d4g>e|{e}d4g>e|eddccB|B2A4:|!
+|:(3ded d2c2|TB3cd2|(3ded ddcc|TB3cd2|
+g2f2e2|d2Tf2g2|(3edc B2A2|G6:|!
+|:(3GBd (3gGG (3GAB|{B}A4G2|(3Bdg (3bBB (3Bcd|{d}c4B2|
+(3dBc (3def (3gfe|(3dBc (3def (3gfe|(3edb (3dca (3cBg|B2A4::!
+(3ded (3dBd (3cAc|(3BAG (3Bcd d2|(3gag (3fgf (3efe|
+(3dBc (3def (3gbd|(3edc B2TA2:|!
+K:D
+M:6/8
+Q:3/8=80
+|:”Gigo” d>ed dAd|e>fe eAe|f>gf fga|^g3a3:|!
+|:a>ba Ta2g|g>ag Tg2f|f>gfTf2e|e>feTe2d|ded dAd|d3d3:|
+
+X:6
+T:Hope Thou Curse. JJo.006
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:3/4=50
+K:C
+c4d2|e3fg2|f2e2d2|c4z2|d4d2|Te4d2|e2g2Tf2|g6::!
+a4g2|f4e2|d>efedc|c2B2z2|c4d2|Te3fg2|f2e2Td2|c6:|
+
+X:7
+T:Wedding Day,The. JJo.007
+S:J.Jones MS,1801,N.Shrops.
+N:Verse begins after short introduction…
+W:”What virgin or shepherd in valley or grove
+W:Will envy my innocent…..”(becomes difficult to read).
+N:The song is more of a middle class popular piece rather
+N:than a working class “folk song”. Indeed the whole of the
+N:MS reflects an educated and ‘cultured’ background. Mr Jones’
+N:repertoire probably comprised the ‘pop’ songs of the day.
+N:The 2/4 section at the end may not be part of the piece!
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+Q:1/4=100
+K:G
+d>c|BgdB A>GAB|G2GA/B/ D2E>F|G>AGe dBAG|B2A>AA2d>c|\
+BgdB A>GAB|!
+G2GA/B/ D2EF|\
+CG/f/e/d/ d/c/B/A/ G/b/a/g/ f/e/d/c/|\
+Bd’d’d’ d’c’bg|bagd||!
+“^verse starts”d>c|BgdB A>GAB|G2GA/B/ D2E>F|\
+G>AGe dBAG|B2A2z2d>c|!
+BgdB A>GAB|G2GA/B/ D2E>F|\
+BgdB A>GAB|G6d2|!
+dB/c/d/B/ G2 ce|d2 B/c/d/B/G3A3|\
+BgdB ga/b/e^d|e6ef/g/|!
+dBBB B2e/d//c/B/|cAAA A2d/c/B/A/|\
+G>FGe dGcB|B2A2z2d2|!
+dBBB B2e/d//c/B/|cAAA A2f2|gd d>e dB d/c/B/A/|!
+“_A4 writ under first group of squ”G/g/g/e/ d/c/B/A/ Gb/a/g/ f/e/d/c/|\
+Bd’d’d’ d’c’bg|bagf g2||
+M:2/4
+W:”Never till now I felt Love’s Lament(?)”
+B2A>B|c3B|AGAB|{A}G4|G>ABc|d3d|e>dcB|B2A2|!
+B2Ad|G3A3|B>GdB|B2A2|d2gf|edcB|B2TA2|G4|]
+
+X:8
+T:Poor Jack. JJo.008
+S:J.Jones MS,1801,N.Shrops.
+C:Charles Dibdin
+N:An arr. of the song, ‘Poor Jack’, an ‘entertainment’
+N:by Charles Dibdin. NeilB
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=60
+K:D
+A|ddd/e/ fff/g/|eee {f}g2 g|abf gec|dd’d’d’2A|!
+ddd fff|eac’a2 A/B/|ccc dB^G|Aaaa2 A/B/|!
+ceg bag|fff/g/ a2f/a/|gfe dcB|A3G3|!
+FAd fgf|Hd2 {ed}c2d/e/|fff ffe|dfb Hf2 e|dfB ecA|!
+Bbbb2B|bag gfg|aba afd|Bed ege|!
+Hd2 {ed}c3a|dcB BAA|f>ed c2c|bag fga|bc’d’Ha2 f/d/|!
+Bcd gec|dfa c’e’b|aed cag|fga d e/d/c|dAF D D2|]
+
+X:9
+T:Marionets Cotillion. JJo.009
+T:Capt.Lanoe’s Quick March,aka. JJo.009
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+c2e geg|afa g3|fdf ece|dBd c2G|!
+c2e geg|afa g3|fdf ece|dBd c3:|!
+|:e3e3|edef3|e2f g2f|e2d c2G|!
+e3e3|edef3|e2f g2f|efd c3:|
+
+X:10
+T:How Sweet in the Woodland.2voices. JJo.010
+S:J.Jones MS,1801,N.Shrops.
+C:Henry Harrington
+N:Voice 2 is edited as there are numerous errors in the MS version.
+N:I’ve kept the note lengths the same throughout.
+N:The last 4 bars are an instrumental bridge to the next verse
+N:tho’ only one verse is included in the MS.
+A:N Shropshire
+Z:Neil Brookes 2006
+W:”How sweet in the Woodland with fleet hound and horn”
+W:”To waken sweet echo, and taste the fresh morn”
+W:”But hard is the share my fond heart must pursue”
+W:”For Daphne, fair Daphne is lost to my view”
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+[V:1]|:D2|G2 BABA|G2G2A2|B2dcdc|c2 B2″^minim in MS” Bc|!
+[V:2]|:z2|z6|z2z2D2|G2BABA|A2G2GA|!
+%
+[V:1]d2eded|cde2zc|B2 dccB|A4:|!
+[V:2]B2 cBcB|A>B c2zG|G2BAAG|D4:|!
+%
+[V:1]B2|A2ABAB|c2 c2dc|B2 Bded|d4 B2|!
+[V:2]G2|D2D2dG|A2A2BA|G2GABA|A4G2|!
+%
+[V:1]AG/A/ G2c2|BA/B/ A2 gd|c2B2 d/c/B/A/|G4zd|!
+[V:2]D2B2A2|G2D2c2|A2G2B/A/G/F/|E4zB|!
+%
+[V:1]e2c2z2|B2 ABcd|g/e/d/c/ B2 A2|A2G4|]
+[V:2]c2A2z2|F2 EFGA|(3cBAG2F2|F2G,4|]
+
+X:11
+T:Lovely Nancy,with (4)variations. JJo.011
+S:J.Jones MS,1801,N.Shrops.
+N:Tune found in MSs of Joshua Jackson (Yorkshire), John Clare (Northants)
+N:and Winder (Wyresdale, Lancs).
+A:N Shropshire
+D:J.Jackson version may be heard on “The Miller’s Jig”
+D:by Magnetic North YDWCD005
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:1/4=120
+K:D
+{g}f>e|d2d2d>f|e2e2e>g|f2d’agf|{f}e4{g}Tf>e|
+d2d2d>f|e2e2d’>b|a>b a>f Te>f|d4::!
+f>g|a2a2d’>b|{b}a4Tf>g|a2a2d’f|{f}e4{g}Tf>e|
+d2d2d>f|e2e2d’>b|a>b a>f Te>f|d4::!
+“var 1st”f>e|dAfd {b}ag/f/|eAge {c’}ba/g/|fdaf d’>f|Te2eb a/g/f/e/|!
+dAfd {b}ag/f/|eAge {c’}ba/g/|fd’ {b}ag/f/ a/g/f/e/|{e}d4::!
+f>g|afdd’c’b|b2a2f>g|a/d/e/f/ g/a/b/c’/ d’>f|Tf2eb a/g/f/e/|!
+dAfd {b}ag/f/|eAge {c’}ba/g/|fd’ {b}ag/f/ a/g/f/e/|{e}d4::!
+“var 2nd”{g}f>e|d2(3def (3afd|e2(3efg (3fad’|\
+(3DFA (3fda (3d’af|{f}e4 {g}f>e|!
+d2(3def (3afd|e2(3efg (3fad’|(3bge (3afd (3gec|d4::!
+f>g|a2 (3abc’ (3d’c’b|a2 (3afg (3afg|(3abc’ (3d’c’b (3afd|{d}e4 {g}f>e|!
+d2(3def (3afd|e2(3efg (3fd’c’|(3d’c’b (3afd (3gfe|d4:|
+|:”var 3rd”f>e|(3dAF (3dAF (3def|(3ecA (3ecA (3efg|\
+(3fdA (3fdA (3fad’|{f}e4f>e|!
+(3dAF (3dAF (3def|(3ecA (3ecA (3efg|(3fad’ (3afd (3gec|d4::!
+{g}f>g|(3afd (3dfa (3d’c’b|a4f>g|(3afd (3dfa (3d’c’b|{f}e4{g}f>e|!
+(3dFA (3dFA (3def|(3eAc (3eAc (3efg|(3fda (3d’af (3gec|d4::!
+“var 4th”{g}f>e|d/A/B/c/ d/e/f/g/ a/f/e/d/|\
+e/A/c/d/ e/f/g/a/ b/g/f/e/|f/d/e/f/ g/a/b/c’/ d’>f|Tf2e>gf>e|!
+d/A/B/c/ d/e/f/g/ a/f/e/d/|e/A/c/d/ e/f/g/a/ b/g/f/e/|\
+fd’ a/f/d/B/ g/e/c/A/|d2D2::!
+f>g|a/d/e/f/ g/a/b/c’/ {e’}d’c’/b/|b2a2f>g|\
+a/f/g/a/ b/c’/d’/c’/ b/a/g/f/|Tf2 e>gTf>e|!
+d/A/B/c/ d/e/f/g/ a/f/e/d/|e/A/c/d/ e/f/g/a/ b/g/f/e/|\
+fd’ a/a/f/d/ g/g/e/c/|d2D2:|
+
+X:137
+T:Lovely Nancy,with(4) variations(in G). JJo.011a
+S:J.Jones MS,1801,N.Shrops.
+N:Tune found in MSs of Joshua Jackson (Yorkshire), John Clare (Northants)
+N:and Winder (Wyresdale, Lancs). As it is usually found in G, here is a
+N:transposed version.
+A:N Shropshire
+D:J.Jackson version may be heard on “The Miller’s Jig”
+D:by Magnetic North YDWCD005
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:1/4=120
+K:G % transposed from D
+{c}B>A|G2G2G>B|A2A2A>c|B2gdcB|{B}A4{c}TB>A|G2G2G>B|A2A2g>e|d>e d>B TA>B|G4::!
+B>c|d2d2g>e|{e}d4TB>c|d2d2gB|{B}A4{c}TB>A|G2G2G>B|A2A2g>e|d>e d>B TA>B|G4::!
+“var 1st”B>A|GDBG {e}dc/B/|ADcA{f}ed/c/|BGdB g>B|TA2Ae d/c/B/A/|!
+GDBG {e}dc/B/|ADcA{f}ed/c/|Bg {e}dc/B/ d/c/B/A/|{A}G4::!
+B>c|dBGgfe|e2d2B>c|d/G/A/B/ c/d/e/f/ g>B|TB2Ae d/c/B/A/|!
+GDBG {e}dc/B/|ADcA{f}ed/c/|Bg {e}dc/B/ d/c/B/A/|{A}G4::!
+“var 2nd”{c}B>A|G2(3GAB (3dBG|A2(3ABc (3Bdg|(3G,B,D (3BGd (3gdB|{B}A4 {c}B>A|!
+G2(3GAB (3dBG|A2(3ABc (3Bdg|(3ecA (3dBG (3cAF|G4::!
+B>c|d2 (3def (3gfe|d2 (3dBc (3dBc|(3def (3gfe (3dBG|{G}A4 {c}B>A|!
+G2(3GAB (3dBG|A2(3ABc (3Bgf|(3gfe (3dBG (3cBA|G4:||
+“var 3rd”B>A|(3GDB,(3GDB,(3GAB|(3AFD(3AFD(3ABc|(3BGD(3BGD(3Bdg|{B}A4B>A|!
+(3GDB,(3GDB,(3GAB|(3AFD(3AFD(3ABc|(3Bdg(3dBG(3cAF|G4::!
+{c}B>c|(3dBG(3GBd(3gfe|d4B>c|(3dBG(3GBd(3gfe|{B}A4{c}B>A|!
+(3GB,D(3GB,D(3GAB|(3ADF(3ADF(3ABc|(3BGd(3gdB(3cAF|G4::!
+“var 4th”{c}B>A|G/D/E/F/ G/A/B/c/ d/B/A/G/|A/D/F/G/ A/B/c/d/ e/c/B/A/|B/G/A/B/ c/d/e/f/ g>B|TB2A>cB>A|!
+G/D/E/F/ G/A/B/c/ d/B/A/G/|A/D/F/G/ A/B/c/d/ e/c/B/A/|Bg d/B/G/E/ c/A/F/D/|G2G,2::!
+B>c|d/G/A/B/ c/d/e/f/ {a}gf/e/|e2d2B>c|d/B/c/d/ e/f/g/f/ e/d/c/B/|TB2 A>cTB>A|!
+G/D/E/F/ G/A/B/c/ d/B/A/G/|A/D/F/G/ A/B/c/d/ e/c/B/A/|Bg d/d/B/G/ c/c/A/F/|G2G,2:||
+
+X:12
+T:Marquis of Granby’s March. JJo.012
+S:J.Jones MS,1801,N.Shrops.
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=80
+K:C
+G|c3Gc3G|c>Bc>d e>dc2|e>de>fg2f>e|d2d>dTd3::!
+d>cd>ed2G2|d>cd>eTf4|e>de>fg2f>e|d3cc4:|
+
+X:13
+T:Ma chre ame(???)(in D). JJo.013
+T:Ma chère amie. JJo.013
+S:J.Jones MS,1801,N.Shrops.
+N:The last line appears to be a bridge between verses of a song,
+N:possibly played by a piano accompanist. Title very difficult to interprete.
+N:(could it be Irish?)NB…More likely French – Ma Chère Amie.CGP.
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/2=60
+K:D
+d2d>d|a2e2|f2a/g/f/e/|dc2z|d2d>d|a2e2|f2e/c/d/c/|A3A|!
+g>agf|fed2|c/d/e/f/ gf|f2e>A|g>agf|fed2|c/d/e/f/ gf|f2e2|!
+f2g/f/g/e/|a>f d’z|f2g/f/g/e/|a>f d’z|\
+a2g/f/e/d/|b>c’d’2|d2e/g/f/e/|d4|!
+d/f/a/d’/ c’/d’/a/f/|d/B/d/f/ e/g/f/e/|\
+d/f/a/d’/ c’/d’/a/f/|d/B/d/f/ e/g/f/e/|e2d2|]
+
+X:14
+T:I was within a mile of Edenburgh town. JJo.014
+S:J.Jones MS,1801,N.Shrops.
+C:words T.D’Urfey(1653-1723)music H.Purcell(1659-1695)
+N:Slightly mangled version.
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=60
+K:D
+{gfe}f>g|a<fTe>f d2f<d|B<dA<F A2 {edc}d>e|\
+f<ab<d’ a<f d2e/f/|Tf2{ef}e2z{gfe}f>g|!
+a<fTe>g d2f<d|B<dA<F A2 {edc}d>e|f<ab<d’ a<fe<f|d4::!
+d>ef>g a>f d’2|d>ef>g a>f Hd’d|d>ed>B A>FA>d|!
+fdfa Hb2″some grace notes here in MS” d’c’/b/|\
+a<ff>d B<dA<d|f>aTe>f d2z2:|
+
+X:15
+T:Within a Mile of Edenburgh Town. JJo.015
+S:J.Jones MS,1801,N.Shrops.
+N:Identical to previous tune except set in C, and a lower
+N:harmony line has been relentlessly added, possibly as an exercise.
+N:I have transcribed only the first few bars as an illustration
+N:and to preserve sanity. The harmony is presumably intended
+N:to give a Scottish style to the piece but it’s success is only
+N:intermittant.
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+{fed}e>F|[g/e/][e3/B3/][d/A][e3/B3/][c2G2][e/B/][c3/G3/]|
+[A/E/][c3/G3/][G/D/][F3/C3/][G2D2]{dcB}[c3/G3/][d/A/]|
+[e/B/][g3/d3/][a/e/][c’3/g3/] [g/d/][e3/B3/][c2G2]|zzzz|
+“only first 3 bars included here – see notes”
+
+X:16
+T:Duke of York’s Return from Holland. JJo.016
+S:J.Jones MS,1801,N.Shrops.
+N:Key given as G, but certainly not!
+Z:Neil Brookes 2006
+R:March
+M:4/4
+L:1/8
+Q:1/2=80
+K:C
+g|”_Key sig. G in MS”g3c’e3g|c2c>cc3f|egc’b agfe|d2d>dd3g|!
+g3c’e3g|c2c>cc3a|agfe gfed|c2c>cc3::!
+d|d3ef2 g/f/e/d/|e3fg2 a/g/f/e/|g3ae3c|defd cBAG|!
+c3eg2fe|fgab c’3b|agfe gfed|c2c>cc3:|
+
+X:69
+T:Bright Phoebus(with verse).2voices. JJo.069
+S:J.Jones MS,1801,N.Shrops.
+W:”Bright Phoebus has mounted the Chariot of Day,
+W:and the Horns and the Hounds call each sportsman a-way,
+W:and the Horns and the Hounds call each sportsman a-way,
+W:Thro’ woods and thro’ meadows with speed more they bound,
+W:while health ro-sy health is in exercise found.
+W:Thro’ woods and thro’ meadows with speed more they bound,
+W:while health ro-sy health is in exercise found.
+W:Hark away, hark away hark away in the wood
+W:To the sound of the Horn……………….
+W:..and each, and each, and each blithe echo make jovial the morn.”
+N:There are some deviations from standard bar lengths which
+N:are deliberate, to indicate the lyrical nature of the song.
+N:”Horn…….” stretches across several bars including the triplets.
+N:Quite a feat for the singer!
+A:N Shropshire
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:1/4=120
+K:C
+[V:1]”pia”G2|c2c2c2|c2ef gf|e2c2G2|F4 c3/ B/|!
+[V:2]z2|C,2E,2G,2|C2C,2z2|C,2C,2C,2|C,2E,2C,2|!
+[V:1]A2G2c>B|A2G2c2|cB cd ef|e2d2 B3/ c/|!
+[V:2]F,2E,2C,2|F,2E,2C,2|E,3D,C,2|G,2G,,2z2|!
+[V:1]d2B2g2|d2 cB AG|d>e B2TA2|G4 G2|!
+[V:2]G,2G,2G,2|G,2G,,2z2|B,,>C,D,2D,,2|G,,4z2|!
+[V:1]d2 cB AG|c2c2d2|e3/f/4g/4 f2e2|e2d2e>d|!
+[V:2]G,2G,,2F,2|E,2E,2D,2|C,2B,,2C,2|G,4^G,2|!
+[V:1]c2AB cd|e2e2a2|e>dc2TB2|A4 A>B|!
+[V:2]A,2A,,2z2|A,,2A,,2A,,2|A,,2E,2E,2|A,2G,2F,2|!
+[V:1]c2c2c2|c3de2|f2f2f2|f4g>f|!
+[V:2]E,2E,2E,2|E,2D,2C,2|B,,2B,,2B,,2|B,,4G,,2|!
+[V:1]e>dc2G2|cB cd ef|g>a e2Td2|c4G3/G/|!
+[V:2]C,2E,2G,2|E,D,E,D,C,D,|E,>F,G,2G,,2|C,2C,,2C,>C,|!
+[V:1]c4G3/G/|c4c3/c/|e2e2e2|ed ef gf|!
+[V:2]C,4C,>C,|G,4G,>G,|C,2E,2G,2|C4z2|!
+[V:1]”Volte”e2e2e2|edefgf|(3efe (3cdc (3ded|(3efe (3cdc (3ded|!
+[V:2]C,2E,2G,2|C4z2|C,2E,2G,2|C,2E,2G,2|!
+[V:1](3efe (3ded (3cdc|zG4z||G2|g>fe2zz[g2e2]|\
+[d3/f3/][e/4c/4]d2zz[d2B2]|!
+[V:2]C2B,2A,2|G,2G,,2z2||C,2|C2C,2zzC,2|G,2G,,2zzG,2|!
+[V:1]e>dc2c2|cG cd ef|g>ae2Td2|c4|]
+[V:2]C,2C,2C,2|E,3D,C,D,|E,>F,G,2G,,2|C,4|]
+
+X:17
+T:March in the 15th Regt. JJo.017
+T: 15th Regt March. JJo.017
+S:J.Jones MS,1801,N.Shrops.
+N:Amuch grander arrangement for 3 voices found
+N:in the MS of John Clews, Stoke on Tern, N. Shropshire.
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=80
+K:C
+c2|g2g>gg2(3agf|e2e>ee2(3cde|d2f>a g>fe>d|c2c>cc2 c’>g|!
+a2a>aa2c’a|g2g>gg2e>g|f>df>f e>ce>e|d2d>dd2::!
+g>e|d2d>dd2 g>e|e2e>ee2(3efg|a2c’c’c’2a2|g2c’c’c’2(3agf|!
+(3efg (3abc’ g>fe>d|c>dee e>fgg|g2(3agf e2d2|c2c>cc2:|
+
+X:18
+T:Desponding (?)Negro,The. JJo.018
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+C:John Collins
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:3/4=60
+K:C
+G2|c2c2 ce|d2 cd ef|g2 ag fe|g/e/ d3dd|!
+g2gb af|a4dd|a2ac’ ba|b4b3c’|!
+d’2 c’b ag|e2d2ga|b2 c’b a>g|g4z2|!
+c4d2|e3dc2|e4f2|g3fe2|c’4g2|g2d2c2|A2fdB2|c2|]
+
+X:19
+T:Hive Bonnet(A Quick March),The. JJo.019
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=110
+K:C
+G|c>dc ceg|faa abc’|g>ag gec|ded dBG|!
+c>dc ceg|faa abc’|gee fdB|”_dcr in MS”ccc c2::!
+g|c’d’c’ bag|abc’ gfe|fga gec|Bddd2G|!
+cdc gfe|faa abc’|gee fdB|”_dcr in MS”ccc c2:|
+
+X:20
+T:Ma chère amie(in C). JJo.020
+S:J.Jones MS,1801,N.Shrops.
+N:Same as JJ13, but in C
+A:N Shropshire
+Z:Neil Brookes
+M:2/4
+L:1/8
+Q:1/4=140
+K:C
+c2c>c|g2d2|e2g/f/e/d/|cB2z|c2c>c|g2d2|e2d/B/c/B/|G3G|!
+f>gfe|edc2|B/c/d/e/ fe|e2d>G|f>gfe|edc2|B/c/d/e/ fe|e2d2|!
+e2f/e/f/d/|g>e c’z|e2f/e/f/d/|g>e c’z|g2f/e/d/c/|a>bc’2|c2d/f/e/d/|c4|!
+c/e/g/c’/ b/c’/g/e/|c/A/c/e/ d/f/e/d/|\
+c/e/g/c’/ b/c’/g/e/|c/A/c/e/ d/f/e/d/|d2c2|]
+
+X:21
+T:Malbrouk. JJo.021
+T:For He’s a Jolly Good Fellow,aka. JJo.021
+S:J.Jones MS,1801,N.Shrops.
+N:…and so say all of us!
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=110
+K:C
+c|e2ee2d|f3e>fe|d2d d>cd|e3c2c|!
+e2ee2d|f3e2g|e2c d>cd|c3c2::!
+g|g2ea2a|g3g2g|g2ea2a|g3g2c|!
+e2ee2d|f3e>fe|d2dd>cd|e3c2c|!
+e2ee2d|f3e2g|e2cd>cd|c3c2:|
+
+X:22
+T:Lovely Nymph. JJo.022
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+C:Thomas Ellway
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:3/4=40
+K:C
+efgedc|g4ab|a2g2Tf2|gec2z2|!
+f2e2c’2|a2g2 (3ceg|f2e2Td2|c6|!
+efgedc|g4ab|c’2b2a2|gec2z2|
+f2e2c’2|a2g2c/e/g/c’/|{b}ag/f/e2Td2|c4::!
+c’4|d’2e’2d’2|c’2ge (3ceg|a2b2c’2|!
+c4d2|e2g2c’2|(3e’d’c’ c’2b2|g6|!
+efgedc|g4ab|c’2b2Ta2|g2z2c2|!
+f2e2c’2|a2g2ce/g/c’/|{b}ag/f/e2d2|c6:|
+
+X:23
+T:Duke of York’s March (in C). JJo.023
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+C2C>C E2E>E|.G.E.G.EC2G2|.c.G.c.G cGEC|G2G>GG2z2|!
+g3ec2c2|d2 d>f e2 z g|f3e ecfe|d2d>dd2z2:|!
+|:G2G>G .Gdef|G2G>G Gceg|fd.d.d ec.c.c|ag.f.e e2d2|!
+“^pia”c3e/d/ cGAB|BA A4 B/c/d/e/|”^for”.f.f.e.e .d.d.c.c|d2d>d d2z2|!
+C2C>C E2E>E|.G.E.G.EC2f2|egge fdcB|c2c>c c2″^Trio”:|
+
+X:24
+T:Bellisles March. JJo.024
+T:Monck’s March,aka. JJo.024
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=70
+K:C
+G2|c2c>e d2d>f|Te2c’>a{a}Tg3f|e2(3gec d2(3fdB|c2c>cc2::!
+G2|g>agf e2e2|f>gfe{e}Td4|g>ag>f e>fe>f|g>a ag/f/ {e}d2G2|!
+c2c>e d2d>f|Te2c’>a{a}Tg3f|e2(3gec d2(3fdB|c2c>cc2:|
+
+X:25
+T:Nineteenth Century. JJo.025
+S:J.Jones MS,1801,N.Shrops.
+N:Could be played as a reel or as a hornpipe. NeilB
+A:N Shropshire
+R:.Hornpipe
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=90
+K:C
+ef|gecG ecGE|GFAF D2 de|fedc Bfed|cBdBG2 ef|!
+gecG ecGE|GFAF D2 de|fedc Bagf|e2c2c2:|!
+|:ef|ged^c dfag|fedc Bdgf|feag fedc|cBdBG2 ef|!
+gecG ecGE|GFAF D2 de|fedc Bagf|e2c2c2:|
+
+X:26
+T:Lango Lee. JJo.026
+T:Banks of the Dee,aka. JJo.026
+S:J.Jones MS,1801,N.Shrops.
+N:Familiar to Morris dancers as Banks of the Dee (Fieldtown).NeilB.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+G|G>AB cde|fag fed|ecA Gcd|efd c2:|!
+|:f|e2fg3|a2f gec|e>fg a>bc’|c>dc BAG|!
+faf ege|dcd ecA|cBA Ggf|efd c2:|
+
+X:27
+T:Nautical Hornpipe,The. JJo.027
+T:Manchester Hornpipe,aka. JJo.027
+T:Ricketts Hornpipe,aka. JJo.027
+S:J.Jones MS,1801,N.Shrops.
+N:One of the most well known hp’s.
+N:aka The Manchester, Yarmouth etc. written ‘dotted’. NeilB.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/8=300
+K:C
+GA/B/|c>Bc>G E>Gc>e|d>cB>A G>Bd>f|f>ed>c B>Af>d|B>cd>B G>fe>d|!
+{d}c>Bc>G E>Gc>e|d>cB>A G>Bd>f|e>ge>c d>fd>B|c2c2c2:|!
+|:e>f|g>ee>c c>ee>g|a>ff>d B>dd>f|g>ee>c a>fd>c|B>cA>B G>fe>d|!
+c>Bc>G E>Gc>e|f>ed>c B>AG>F|E>ge>c D>fd>B|[c2E2][c2E2][c2E2]:|
+
+X:28
+T:Shepherd I have lost my love. JJo.028
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=120
+K:F
+f3ga2ag|gffcc4|d2c2f2ef|e2Td2c4|!
+f2f2faac’|c2cd dcBA|Bcde f>gaB|A2TG2F4||!
+A3GA2B2|c2cd{d}c4|d2c2f2ef|e2Td2c4|!
+f2f2faac’|c2cd dcBA|Bcde f>gaB|A2TG2F4|]
+
+X:29
+T:Lass of Paties Mill,The. JJo.029
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=70
+K:F
+c2|{B}A2GF ABc2|f3ga2c2|defe dcBA|{A}G6c>B|!
+{B}A2GF ABc2|f3g{fg}a2c2|defd efga|f3gf2||!
+a2|bagf fedc|f3g{fg}a2c2|defe dcBA|c3AG2a>b|!
+c’abg afdb|{a}g4 z2BA|B2cdc2fe f3gf2|]
+
+X:30
+T:Dusky Night,The JJo.030
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes
+M:6/8
+L:1/8
+Q:3/8=120
+K:F
+c|f2fc2c|AGA F2c|d2c BAB|A3zzF|!
+c2cd2d|ede c2c|f2fg2g|aga f2c|!
+def gab|cde f2c|d2Bc2c|F3zzF|!
+c2cc2c|c3zzc|f2ff2f|f3zzc|!
+def gab|cde f2c|d2Bc2c|F3zz|]
+
+X:31
+T:Death of Auld Robin Gray JJo.031
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=60
+K:C
+e>f|g<edc c>deG|Acfa c’3b/a/|g>age dcfe|agfe {e}d2e>f|!
+g<edc c>deG|Acfa c’3b/a/|g>age dc c’e/f/|g>agG c2ze|!
+a>bac’ e>^fef|g>ag_b d3e|f>gfa c’bHaf|e>f e/d/c/B/ A3B|!
+c>dec g>a {a}gf/e/|d>efd a3b|c’g a/g/f/e/ af Hc’f/e/|g>agG c2|]
+
+X:32
+T:Begone Dull Care.2voices. JJo.032
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=100
+K:C
+[V:1]G|c3d3|e3z2f|gag fef|e3z2G|\
+c3d3|e2zzff|efe dcd|c3z2||!
+[V:2]G|E3G3|c3z2d|gag fef|e3z2G|\
+E3G3|c2zzdd|cdc GGF|E3z2||!
+[V:1]e/f/|g2gg2e|f2ff2d|e2e edc|{e}d2zzGG|\
+c3d3|e3z2f|efe dcd|c3z2||!
+[V:2]e/f/|g2gg2e|f2ff2d|c2cc2E|G2zzGF|\
+E3G3|c3z2d|GAG FEF|E3z2||!
+[V:1]c3d3|e3z2f|gag fef|e3z2G|c3d3|\
+e3z2f|efe dcd|c3z2||!
+[V:2]E3G3|c3z2d|efe dcd|c3z2G|\
+G3E3|c3z2d|cdc GGF|E3z2||!
+[V:1]e/f/|g2gg2e|f2ff2d|eee edc|d2zzGG|\
+c2c ddd|e2ee2f|efe dcd|c2z|]
+[V:2]c/d/|e2ee2c|d2dd2B|cccc2E|G2zzGF|\
+E2E GGG|c2cc2d|c2GG2G|E3|]
+
+X:33
+T:Blue Beard. JJo.033
+T:March from Blue Beard,aka. JJo.033
+S:J.Jones MS,1801,N.Shrops.
+N:DaCapo sign at end. Finish on A music.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:3/8=120
+K:C
+g3fe2d2|c4d4|edef agfe|d2d>dd4|g3fe2d2|c4d4|edef e2Td2|c2c>cc4::!
+d3cB2c2|d4e4|fefg agfe|d2d>dd4|d3cB2c2|d4e4|d2c2B2A2|”D.C.”G2G>GG4:|
+
+X:34
+T:Since Love. JJo.034
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=80
+K:C
+c/d/|ecA GFE|Dddd2e/d/|ecA GEG|Accc2||!
+e/d/|ceg ceg|ceg g>fe/d/|ceg ceg|addd2e/d/|!
+ceg ceg|cc’a agf|ecA GFE|Dddd2c/d/|!
+ecA GEG|Accc2G|FFF EEE|Dfe ed c/d/|ecA GEG|Accc2|]
+
+X:35
+T:Queen’s March. JJo.035
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=70
+K:C
+c4G4|FEDC E2G2|c2ced2de|fedc cBAG|
+c4G4|FEDC E2G2|c2ceg2fe|d2d>dd4::!
+e2d2cBAG|e2c2e2c2|f2d2cBAG|g2e2g2e2|
+“^dcr in MS”c4defd|cBAG g2f2|e2efd2de|c2c>cc4:|
+
+X:36
+T:How Sweet in the Woodlands.2voices. JJo.036
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:3/4=40
+K:C
+[V:1]G2|c2 eded|c2c2d2|e2gfgf|{f}e4ef|g2agag|f>ga2zf|e2gffe|{e}d4::!
+[V:2]z2|z6 |z4 D,2|E,2G,F,G,F,|{F}E,4E,F,|G,2A,G,A,G,|\
+F,>G,A,2zF,|E,2G,F,F,E,|{E}D,4::!
+[V:1]e2|d2dede|f2f2gf|e2egag|g4e2|Tdc/d/c2f2|Ted/e/d2c’g|!
+[V:2]E,2|D,2D,E,D,E,|F,2F,2G,F,|E,2E,G,A,G,|G,4E,2|\
+D,2[G,2G,,2]A,2|F,2D,2G,2|!
+[V:1]f2e2 g/f/e/d/|c4zg|a2f2zf|e2defg|c’/a/g/f/e2Td2|{d}c4:|
+[V:2]F,2E,2G,/F,/E,/D,/|[G,4C,4]zG,|A,2F,2zG,|\
+E,2D,E,F,G,|(3A,G,F, E,2TD,2|C,4:|
+
+X:37
+T:Nancy Dawson. JJo.037
+S:J.Jones MS,1801,N.Shrops.
+N:Nice version of the very poular tune.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=100
+K:G
+A|G2G GAB|d2B GAB|A2A AcB|A2G FED|!
+G2G GAB|d2B GAB|ABG FGE|D3D2::!
+B|A2A ABA|A2G FED|d2d ded|d2c BAG|!
+c2Bc2d|e2fg2e|dec BcA|G3G2:|
+
+X:38
+T:Soldier’s Cloak,The. JJo.038
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=100
+K:F
+c2c cAc|f3a3|gecc2B|B3A2B|!
+c2c cAc|f3a3|gecd2e|f3f2||!
+g|a2a fga|b3a2g|f2f fcA|B3A2B|!
+c2c cAc|f3a3|gecd2e|f3f3|]
+
+X:39
+T:La Belle Jeannette. JJo.039
+S:J.Jones MS,1801,N.Shrops.
+N:Nice little French stylepolka. Repeat marks are shown at the
+N:beginning of the B part, but nowhere else. I have not included them
+N:in this transcription.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/2=70
+K:C
+c>dee|ffd2| g/a/g/f/ e/f/e/d/|c/d/e/f/ ed|!
+c>dee|ffd2| g/a/g/f/ ed|e/d/c/B/ c2||!
+c/d/e/f/ ge|fg ec|c/d/e/f/ ge|fgc’2|!
+c/d/e/f/ ge|fg ec|c/d/e/f/ ge|fgc’2|!
+c>dee|ffd2| g/a/g/f/ e/f/e/d/|c/d/e/f/ ed|!
+c>dee|ffd2| g/a/g/f/ ed|e/d/c/B/ c2|]
+
+X:40
+T:Queen’s March,The. JJo.040
+S:J.Jones MS,1801,N.Shrops.
+N:More dotted variation of JJ35, also with a few differences in the melody.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=70
+K:C
+c4G4|E2C>C E>E G>G|c3cd3e|fedc cBAG|!
+c4G4|E2C>C E>E G>G|c2eg agfe|d2d>dd4::!
+f3d cBAG|e2c2e2c2|f3d cBAG|g2e2g2e2|!
+c3cd3e|cBAG g3f|e2e>fd2d>e|c2c>cc4:|
+
+X:41
+T:Yellow Hair Laddie,The. JJo.041
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+B:cf “The Yellow Hair’d Laddie” -“In April when Primroses paint the sweet plain,
+B:and summer approaching rejoiceth the swain….” Lester S Levy collection of sheet music.
+B:http://levysheetmusic.jhu.edu/index.html
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:1/4=80
+K:F
+F>G|A>B c2d>e|f3ga2|c2dcBA|TA2G2F>G|!
+A>B c2d>e|f>efg a2|c>dc>A G>A|F4||!
+f>g|a>bc’>ag>f|e>fg>ed>c|d>efdcA|TA2G2F>G|!
+A>B c2d>e|f>efg a2|c>dc>A TG2|F4|]
+
+X:42
+T:Sir You are a Comical Fellow. JJo.042
+T:Comical Fellow,The,aka. JJo.042
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=100
+K:C
+G|c2ed2G|A2cB2E|FEF DGF|EC2 zzG|!
+c3-c2c|_BAG AFA|d3-d2d|c=BA BGc|!
+ede cde|fef def|gfe gfe|ed zzzg|!
+g3zzg|g3zzg|gec AdB|cczz|]
+
+X:43
+T:Nymph,The JJo.043
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=140
+K:C
+cc/B/ cG|cege|fdcB|c/B/c/d/ cG|cc/B/ cG|cege|fdcB|c4::!
+fee2|dcc2|Bcde|f/g/f/e/ d2|fee2|dcc2|Bf e/d/c/B/|{B}c4::!
+e3g|c3e|{c}d2fd|{c}B2AG|c2de|f3e|ed cB|c4:|
+
+X:44
+T:Sun from the East,The. JJo.044
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:3/4=50
+K:C
+G2|c2G2c2|e4dc|d2G2d2|f4ed|e2cdef|g2fedc|dB G2F2|F2E2G2|!
+c2e2dc|{e}d2cBAG|c3edc|{c}B4GG|ABc2BA|Bcd2e^f|g2dcBA|!
+G4dd|d2cBAG|d3ef2|e2dcBA|e4e2|a2edcB|cBABcA|defedc|!
+BAGABG|cBcdef|g3fe2|f2e2d2|c4|]
+
+X:45
+T:French Mariners March,The. JJo.045
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=70
+K:C
+c>c|g3fe2d2|c2c>cc2G>G|c3ed2e>f|efged2e2|!
+f2d>fe2c2|d>cd>e cdef|gfege2d2|c2c>cc2::!
+G>G|d3e d>ec>d|e2e>ee2c>d|{f}e2dc{a}g2fe|d2d>dd2ef|!
+g2e>gf2d>f|ecged2ef|gfege2d2|c2c>cc2:|
+
+X:46
+T:I do what I will with my Swain. JJo.046
+S:J.Jones MS,1801,N.Shrops.
+N:Repeat marks at final bar, but no repeats indicated earlier.
+N:”sy” and “so” written under bars 6 and 7 respectively.
+A:N. Shropshire
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:1/4=120
+K:C
+c>d|e>f eddc|c2gecd|e2d2c>d|e>f e>dcA|A2Gc ed|d2c2c’>g|f2e2g>e|{e}d2GB dg|!
+g2e2 a/g/f/e/|d2B2g/f/e/d/|c2A2f>g|d>e B>c{B}AG/A/|G4G2|!
+{d}c3BA2|G2G<B ce|e2d2g2|{a}g2 fedc|a2f2e>f|e2d2G2|A<cc2c2|B<dd2d2|!
+c<ee2a/g/f/e/|f2f>ga>b|c’2c>de>f|g>ae>f {e}dc/d/|c4|]
+
+X:47
+T:Grand Swaine,The. JJo.047
+T:Chester Castle,aka. JJo.047
+T:Grants Whim,aka. JJo.047
+S:J.Jones MS,1801,N.Shrops.
+N:First 4 notes of bar 3 missing in MS. Tune well known enough
+N:to be able to correct this. Called Chester Castle in Aird Vol2, it is
+N:known as Grant’s Whim in the Clews MS, which originates from the same
+N:period and region as this MS. Sounds like one musician misheard the other
+N:when asking for the title! The Clews version is undotted. NeilB
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=160
+K:D
+F>G|A3d A>FD>F|A>F d>B A>FD>F|G>BG>E F>AF>D|E2E>EE2|!
+A>G| A>DF>Ad3f|e>dc>BA2 B>c|d2c>Bc3B|A2A>AA2::!
+c>d|e3a e>cA>c|e>ca>f e>cA>c|d>fe>d c>ed>c|B2B>BB2A/B/c|!
+d3B A>FD>F|G>AB>c d2c>B|A2G>F E>GF>E|D2D>DD2:|
+
+X:48
+T:Pits Hornpipe. JJo.048
+T:College Hornpipe,aka. JJo.048
+T:Sailor’s Hornpipe,aka. JJo.048
+S:J.Jones MS,1801,N.Shrops.
+N:One or two barring errors and the odd wrong note in this
+N:version of the well known tune. I’ve corrected both. NeilB
+A:N. Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=90
+K:C
+cB|c2C4GF|EGc4 (3edc|d2″^C n MS”D4dc|Bdg2g2ab|!
+c’bag agfe|fdef cBAG|AcBd cedf|e2c2c2::!
+GF|EGcG EGcG|c2F2F2AG|FAdA FAdA|B2G2G2fe|!
+fga2agfe|fdef cBAG|(3ABc (3Bcd (3cde (3def|e2c2c2:|
+
+X:49
+T:Hark the Huntsman’s begun. JJo.049
+S:J.Jones MS,1801,N.Shrops.
+N:”sy” mark before last 4 bars denotes a musical bridge
+N:before next verse of song.
+A:N. Shropshire
+Z:Neil Brookes 2006
+M:3/4
+L:1/8
+Q:3/4=40
+K:C
+c>G|c2cede|c4c2|e2egfg|e4e2|{e}d2BdBG|A2cA GF|G4GG|!
+d2dede|d2G2B2|c3 edf|{f}e4e2|”qu”f2 f>ge>f|d2d>ec>d|!
+B2B>cA>B|G4d2|e3Bc2|A2F2G2|C4″sy”a2|g3fe2|f2e2d2|c2GGEE|C4|]
+
+X:50
+T:Nancy of the Dale. JJo.050
+S:J.Jones MS,1801,N.Shrops.
+N:As in JJ049, last 4 bars or so seem to be a bridge to next verse.
+A:N. Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=60
+K:C
+G2|c3dc3e|A2F>ED2G2|C2c2{cd}e2dc|d4z2d2|!
+B2(3AGF G2e2|d<BAG c2A2|d/B/c/d/ e (3A/B/c/ B2TA2|G4z2G2|!
+d3cB2(3AGF|E2G2c4|e2dcB2A2|E4z2A2|!
+f3ed3c|B2c/d/e g2A>F|EGG2G2A>B|c4z2c3/d/4e/4|!
+c<A A2z2d3/e/4f/4|B<GG2g4|e<c c3/d/4e/4G2TB2|c6|]
+
+X:51
+T:Ruff and Rees. JJo.051
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+c2g ece|fdc B2G”^cr in MS”|c2g ece|BGB c3::!
+E2F GAB|cGF EC2|E2F GAB|cged3::!
+g2e f/g/af|fdfg2e|e2c d/e/fd|BGBc3:|
+
+X:52
+T:Devonshire(?) QuickStep. JJo.052
+S:J.Jones MS,1801,N.Shrops.
+N:Looks like the page has become wet, or the ink faded.
+N:notes are difficult, but not impossible to make out.
+N:Title almost illegible (alternative unreadable because of fading).
+N:Well worth it for this jolly tune.
+A:N. Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+cee2|fdd2|cee2|d/c/B/A/G2|cee2|fdd2|ec e/d/c/B/|c2c2::!
+cBAG|FEDC|EGcE|EDD2|cBAG|FEDC|ec B/c/d/B/|c2c2::!
+ce e/c/e/c/|fd f/d/f/d/|ec e/c/e/c/|d/c/B/A/G2|!
+ce e/c/e/c/|fd f/d/f/d/|ec e/d/c/B/|c2c2:|
+
+X:53
+T:Song Long Paw. JJo.053
+T:Nong Tong Paw,aka. JJo.053
+S:J.Jones MS,1801,N.Shrops.
+N:No time sig. in MS and JJ is undecided whether key is Bb or F.
+N:2 flats in 1st line and one in next two lines.
+N:It actually works in E as a simple major key jig,
+N:but the title may just posibly imply a musical
+N:joke in which the tune is played in a perceived oriental style!
+N:This odd little tune turns up in the Calvert MS (N. Yorks) where there is
+N:similar uncertainty between G and D. NeilB.
+A:N Shropshire
+C:Charles Dibdin
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:E
+b|g2gg2f|e2ee2d|cdef2e|d2cB2a|!
+g2gg2f|e2ee2d|cde fed|e3E2::!
+b|g2bg2b|agaf2b|g2bg2b|agaf2b|!
+g2gg2f|e2ee2d|cde fed|e3E2:|
+
+X:54
+T:Hedsor Dale. JJo.054
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+g>f|fede fAdc|cBAG cdef|gefg adef|e3f/e/d2g>f|!
+fede fAdc|cBAG cdef|g>abB dcBA|G6g2|!
+B>cdB c>dec|d>efd {f}e3d|cAce a>bc’c|edcBA3B|!
+c>dec g3f|e>fgec’3b|a>gab c’cde|f>g a/g/f/e/e2dg|!
+e>fggg3g|c>deee3e|A>Bccc3c|d>eff fe dc|!
+f>gaa agfe|c’>bc’d’ ga/b/ c’c/f/|e>fTd2c2|]
+
+X:55
+T:Grinder,The. JJo.055
+T:Tobias the Grinder,aka. JJo.055
+T:Our Bride is No Maid,aka. JJo.055
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:9/8
+L:1/8
+Q:3/8=120
+K:G
+gfg edc BAG|gfg efg afd|gfg edc BAG|AAA A2Bd2B::!
+AAAA2BG2E|AAA A2Bd2B|AAAA2BG2E|dBG GBc d2B:|
+
+X:56
+T:Soldiers Cloak,The. JJo.056
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+G|GEG GEG|c3e2c|dcB G2F|F3E2G|!
+GEG GEG|c3e2c|dBG A2B|c3c2::!
+c|e2ec2c|f2fe2c|cdcc2G|F3E2G|!
+GEG GEG|c3e2c|dBG A2B|c3c2:|
+
+X:57
+T:Quick March. JJo.057
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=110
+K:C
+G|cde cde|f2ff2d|edcgfe|d2dd2G|!
+cde cde|f2ff2d|egc dcd|c2c[c2C2]::!
+g|gdf edc|B2cd2g|gfe gfe|d2dd2G|
+cde cde|f2ff2d|egc dcd|c4:|
+
+X:58
+T:Country Dance. JJo.058
+T:Ball,The,aka. JJo.058
+S:J.Jones MS,1801,N.Shrops.
+N:Well known in varoius MSs as The Ball, or The Bell.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+g|e2cd2B|cec G2G|A2A f2d|c3B2g|!
+e2cd2B|cec G2G|A2fd2B|c3c2::!
+e|d2Gf2d|egec2e|d2Gf2d|f3e2g|!
+a2fd2b|c’2ge2c|A2fd2B|c3[c2G2C2]:|
+
+X:59
+T:Oak Stick,The. JJo.059
+T:Mrs.Casey,aka. JJo.059
+S:J.Jones MS,1801,N.Shrops.
+N:The A part is very similar to “Mrs Casey”.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+g/f/|e2ccec|A3G2c|B2cd2e|f2g agf|!
+e2c cec|A3G2c|B2cdcB|[c4C4]::!
+e/f/|g2fefg|a2gf2e|f2e def|g2fe2d|!
+e2e efg|a2a abc’|d2dd2e|f2g agf|!
+e2c cec|A3G2c|B2cd2e|f2g agf|!
+e2c cec|A3G2c|B2cdcB|[c4C4]:|
+
+X:60
+T:Cheshire Quick March,The. JJo.060
+S:J.Jones MS,1801,N.Shrops.
+N:cf JJ115 Cheshire Quick Step
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+g|e/d/e/f/ ee|g2fe|dcde|c/B/c/d/ cg|e/d/e/f/ ee|g2fe|dcde|[c3C3]::!
+e|d/c/d/e/ de|f2eg|fedc|d/c/B/A/ Ge|d/c/d/e/ de|f2eg|fedc|[g3e3]g|!
+e/d/e/f/ ee|g2fe|dcde|c/B/c/d/ cg|e/d/e/f/ ee|g2fe|dcde|[c3C3]:|
+
+X:61
+T:Ashley’s Hornpipe. JJo.061
+T:Astley’s Ride,aka. JJo.061
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+N:Not at all the usual Ashley’s Hp., nor indeed a hornpipe.
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+g/e/|ccc B/c/|ddd f/d/|c/B/A/G/ AB|c/d/e/f/ g/e/f/d/|!
+ccc B/c/|ddd f/d/|c/B/A/G/ A/c/B/d/|cc[c2C2]::!
+c/d/|eee d/e/|fff a/f/|ddd c/d/|eee g/e/|!
+ccc B/c/|ddd f/d/|c/B/A/G/ A/c/B/d/|cc[c2C2]:|
+
+X:62
+T:Duchess of York’s Favourite,The. JJo.062
+S:J.Jones MS,1801,N.Shrops.
+N:”D.C.”marked at end of B part – finish on A part.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+g/e/|c2c c>Bc|d3d2e|f2fe2d|e2g fdB|!
+c2c c>Bc|d3d2e|f2e d>cd|c3-c2::!
+g2g c’2b|a2dg2f|edc f2e|d2GG2e/f/|!
+g2g a2a|f2fg2g|cde f2e|”D.C.”e3-d2:|
+
+X:63
+T:Quick March. JJo.063
+S:J.Jones MS,1801,N.Shrops.
+N:Finish on A part
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+G|c2cd2d|e2f gec|A2A f2e|dec BAG|!
+c2cd2d|e2f gec|Afe dcB|c3c2::!
+g2ga2a|g2c’ gec|g2ga2a|gecd3|!
+g2ga2a|g2c’c’2b|ac’b ag^f|”D.C.”g3g2:|
+
+X:64
+T:Smith’s Fancy. JJo.064
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+f|e2e efd|g2ec2e|dBd dBd|gfee2 d|!
+e2e efd|g2ec2c|cBA agf|efd [c3G3C,3]:|!
+|:c2c edc|g2_BB2A|d2d fed|a2c cHBe|!
+f2f efe|ded cde|f2f e2d|e2^fHg2 a/b/c’/a/g/f/a/f/ Hg2a/f/|!
+e2e efd|g2ec2e|dBd dBd|gfe e2d|!
+e2e efd|g2ec2c|cBA agf|efd c3:|
+
+X:65
+T:Country Dance. JJo.065
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+g|ede ceg|c’3g2g|gef def|[f3d3]e2g|!
+edec2c’|babg2d|ec’b ag^f|g3g2:|!
+|:g|gfg e2g|fef d2f|egc’ gec|[e3c3][d2G2]g|!
+gfg e2g|fefd2f|egc’ efd|c3[c2C2]:|
+
+X:66
+T:Lighterman’s Delight,The JJo.066
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+G|gag fed|cdeG2g|c2c dcd|efed2G|!
+gag fed|cdeG2g|c2c dcd|[c4C4]:|!
+|:G|d2d efe|d2d efe|gag fgf|efe d2G|!
+d2d efe|d2d efe|g2f edc|G2B[c2C2]:|
+
+X:67
+T:Knight Hall. JJo.067
+S:J.Jones MS,1801,N.Shrops.
+A:North Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+g|e2cA2d|cBcG3|c2cd2e|f2ed2g|!
+e2cA3|{d}cBcG3|c2cd2f|efd[c3C3]:|!
+|:G2GE2C|G2GE2C|c2cd2e|f2ed3|!
+G2GE2C|G2GE2C|cBcd2f|efd [c3C3]:|
+
+X:68
+T:Capachine,The. JJo.068
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes
+M:6/8
+L:1/8
+Q:3/8=120
+K:F
+f2f fef|g2g g2b|a2f fef|gec cde|!
+f2f fef|g2g g2b|aga geg|f2ff2::!
+g|a2a afa|b2b bgb|a2a afa|gec c3|!
+a2a afa|b2b bgb|aga geg|f2ff2:|
+
+X:70
+T:Quick Step. JJo.070
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes
+M:6/8
+L:1/8
+Q:3/8=120
+K:F
+c|f2fa2f|a2ge2c|d2f ege|ffff2:|!
+|:f|a3 faf|b3 gbg|a2fd2f|ege c2f|!
+a3faf|b3gbg|a2fd2e|f2 Hf f2:|
+
+X:71
+T:Sweet Lillies of the Valley. JJo.071
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=80
+K:C
+g/f/|ecc e/d/|cAA B/c/|ddfd|B2{dc}B g/f/|ecc e/d/|cAA B/c/|ddfB|!
+c3e/f/|geec|d>c c/B/A/G/|Bddd|dHg zg/f/|ecc e/d/|!
+cAf a/g/|fdd e/c/|BGHg g/f/e/d/|cccc|egz g/f/e/d/|cccc|fHa zg/f/|!
+ecGE|FaHgf|egdf|ecz|]
+
+X:72
+T:Quick Step. JJo.072
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+G|cdc ceg|afff2a|gag gec|ded dBG|!
+cdc ceg|aff f2a|gag gec|cdB c2||!
+d2fe2g|fdc BAG|d2fe2g|afe dcB|!
+cdc ceg|afff2a|gag gec|cdBc2|]
+
+X:73
+T:German March. JJo.073
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+e>f|g>fg>a g>fe>d|c2c>cc2e2|d>cd>e d>cB>A|G2G>GG2g>f|!
+e>fg>a d>ef>f|e>fg>a d>ef>f|ec e/f/g/e/ dB d/e/f/d/|c2c>cc2|!
+e>f|g>fg>a g>c’b>a|g2g>gg2 e>f|g>ec’b a>gf>e|d2d>dd2g>f|!
+e>cc>cc2f>e|d>GG>GG2g>f|e>c e/f/g/e/ d>B d/e/f/d/|c2c>cc2|]
+
+X:74
+T:Miss Nancy Fancy(?). JJo.074
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=140
+K:F
+faa2|bgg2|afef|g/f/g/a/ ge|faa2|bgg2|af c/e/4f/4g/a/|f2f2::!
+(3c/d/e/|fedc|BAGF|dcfA|A2G (3c/d/e/|fedc|BAGF|ffga|f2f2::!
+af a/f/a/f/|bg b/g/b/g/|af a/f/a/f/|e/f/g/e/ c/e/g/b/|!
+af a/f/a/f/|bg b/g/b/g/|a/c’/a/f/ g/f/g/a/|f2f2:|
+
+X:75
+T:Cottage Maid. JJo.075
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+e3efd|g3e2e|e3efd|c3G2z|!
+a2c’ c’ba|g3e2c|d2e feg|e3d2z|!
+e3efd|g3e2e|e3efd|c3G2z|!
+a2b c’ba|g3e2c|d2e {g}fed|cGE Czg|!
+d2e fed|e3g2e|d2e fed|c3zg|!
+d2e fed|e3 gec|Bdg cBA|G6|!
+e3efd|g3e2z|e3efd|c3G2z|!
+a2b c’ba|g3g2e|d2e {g}fed|c3c3|]
+
+X:76
+T:Heaving the Lead. JJo.076
+S:J.Jones MS,1801,N.Shrops.
+N:Some errors in bar lengths. I have corrected obvious omissions of barlines,
+N:but otherwise left ‘as is’. Sounds as though the tune should be fairly freely
+N:played.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+c>d|e2e2d2f>d|c2B2c2zG|cd ef g3g|aTb Tc’a{f}g2zg|!
+c’2ba2g|fe dc {c}B2zd|g2g2ea bc’|g2T=f3g2z|!
+gc’2c’c’b2b|ba a2{a}g2zg|ge2afd2g|ec^fg4|!
+ccd2d4|e>ef2e3e/|da gf fe ge|da gf fe ge|!
+fe de fe fg|ag ab c’4|e2f{e}d4|c3|]
+
+X:77
+T:Banks of Eyderinay,The. JJo.077
+S:J.Jones MS,1801,N.Shrops.
+N:marks “song” and “syn” appear to denote sections of song
+N:and instrumental links respectively.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+e>f|g3a g>ed>c|d>cd>eA3c|G>AGEG2cG|E2G>A G c/d/e/f/|!
+g2a/b/c’ gedc|f2 “_sic”abc’ bc’ dfa|g>ec.eTA2f|”song”e2Td>cc2 e>f|!
+g3ag>ed>c|Td>cd>eA3c|G>AGEG2cG|E2G>A G c/d/e/f/|!
+g2a/b/c’ gedc|fedc A2e>d|cA GE G2c>d|”syn”cd/e/ Td>c cegc’|!
+g>age a2 c’a|”song”f>gfd eg GF|E3G A>GAc|Td>cdfA2a|!
+gage fedc|f>g a/g/f/e/d2g>f|egab Hc’2 b/a/|gfed A2e>d|!
+cAGE G2c>d|e2Td>c cega|g>agea2c’a|g>ageg2e>d|BAGEG2ea|g2d>cc4|]
+
+X:78
+T:Tink A Tink. JJo.078
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=160
+K:C
+c2g>ec2g>e|f>gf>e d>cB2|c2g>ec2g>e|fdcB c2c2::!
+g2c’>b a>gf>e|d>ef>g e2c2|g2c’>b a>gf>e|d>fd>B c2c2:|
+
+X:79
+T:Duke of Glosters March. JJo.079
+S:J.Jones MS,1801,N.Shrops.
+N:This tune iscalled “The Shay Driver” in William Clarke of Feltwell’s MS
+N:dated around 1858.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=160
+K:C
+e>f|g>fc>c c3e|d>cB>A G>FE>D|E>G c>B A>fd>c|B2 G>GG2 e>f|!
+g>fc>c c3e|d>cB>A G>FE>D|E>G c>B A>fd>B|c2c>cc2::!
+e>f|g>fg>a b>ga>b|a>gf>e f2ag|a>gf>e d>cB>A|B>cB>A G>FE>D|!
+E>G c>G F>A d>A|B>df>B c>eg>e|a>fA>f e>dc>B|c2c>cc2:|
+
+X:80
+T:Capt. Reeds. JJo.080
+T:3rd Regt of the Guards March,The,aka. JJo.088
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+G|c2c>cc2e>d|c2G2c2d2|e2e>ee2g>f|e2d2e2f2|!
+g2g>gg2a>g|f2f>ff2gf|e2 dc g2 fe|d2d>dd2z::!
+G|G>AG>A B>cB>c|d>ed>ef2e>d|c>dc>d e>fe>f|g>ag>a b2ag|!
+afda gecg|f>ed>cB2A>G|A>Bc>f e2Td2|c2c>cc2:|
+
+X:81
+T:Lovely Nymph. JJo.081
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes
+M:3/4
+L:1/8
+Q:1/4=100
+K:G
+BcdBAG|d4ef|g2f2Te2|dBG2z2|c2B2g2|e2d2 (3GBd|c2B2TA2|G6|!
+BcdBAG|d4ef|g2f2 e2|dBG2z2|c2B2g2|e2d2 G/B/d/g/|{f}ed/c/B2TA2|G6||!
+g4a2|b2a2g2|d2B2(3GBd|e2f2g2|G4A2|B2d2g2|(3bag f2Te2|d6|!
+BcdBAG|d4ef|g2f2Te2|d2z2G2|c2B2g2|e2d2 G/B/d/g/|{f}ed/c/B2TA2|G6|]
+
+X:82
+T:Capt Mackintosh’s Fancy. JJo.082
+T:Captain Mackintosh’s Fancy,aka. JJo.082
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=140
+K:C
+G|c>dc>d|BGGG|c>dc>e|g3e|affd|geec|defd|cBAG|!
+c>dc>d|BGGG|c>dc>e|g3e|affd|geec|fddB|c3::!
+g>ag>a|fdde|f>gf>g|eccB|Ad/e/ fd|Be/f/ ge|af dc|cBAG|!
+c>dc>d|BGGG|c>de>f|g3e|affd|geec|fdcB|c3:|
+
+X:83
+T:Caledonian Laddie,The. JJo.083
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=60
+K:Em
+F|E/4F/4G3/ [GB,][GB,] G>FE>G|B>e B>G F/F/F F>>G|\
+E/4F/4G3/ G>G G>FE>G|B>c B/c/ e>c B>G G::!
+a|g>bf>g e>gc>e|B>G e>c B.GF>a|g>bf>g e>gc>e|B>G e>c B>G Gb|!
+g>b f>g e>gc>e|B>G e>c B>G F>G|E/4F/4G3/ [GB,][GB,] G>FE>G|B>c B/c/ e>c B>G G:|
+
+X:84
+T:Prince Frederick’s March. JJo.084
+S:J.Jones MS,1801,N.Shrops.
+N:The G minim in bar 2 could be an F. It is also dotted in MS.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+c2c>cc2 e>c|d2G>GG4|d2d>dd2 e>f|e>dc2z def|!
+g2e>dc2e2|d2G>GG2d2|e2d>c g2f>e|d8::!
+d2d>dd2 e>f|e2d>cd2G2|g2g>g g>fe>f|g2f>e”cr in MS”d3G|!
+c2c>cc2 e>c|d2d>dd2f>d|e>dc>dTd3c|c8:|
+
+X:85
+T:Quick March. JJo.085
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/2=70
+K:C
+cc/d/ .e.c|dd/e/ .f.d|cc/d/ .e.c|d/c/B/A/ G/A/B/G/|\!
+cc/d/ .e.c|dd/e/ .f.d|ec B/c/d/B/|c2c2::!
+gggc’|aaac’|g/e/g/e/ g/e/g/e/|e2d2|!
+gggc’|aaac’|gc e/d/c/B/|c2c2:|
+
+X:86
+T:Downfall of Paris.2voices. JJo.086
+S:J.Jones MS,1801,N.Shrops.
+N:Uncertain whether the final sections are repeated as no repeat sign at end
+N:of the last bar.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/2=50
+K:C
+“Allegretto”
+[V:1]cc/d/ cc/d/|cc/d/ f/e/d/c/|dd/e/ dd/e/|dd/e/ g/f/e/d/|!
+[V:2]EE/F/ EE/F/|EE/F/ d/c/B/A/|BB/c/ BB/c/|BB/c/ e/d/c/B/|!
+[V:1]ee/f/ ee/f/|ee/f/ a/g/f/e/|dd/e/ dd|d2 c/B/A/G/|!
+[V:2]cc/d/ cc/d/|cc/d/ f/e/d/c/|BB/c/BB|d2z2|!
+[V:1]cc/d/ cc/d/|cc/d/ f/e/d/c/|dd/e/ dd/e/|dd/e/ g/f/e/d/|!
+[V:2]EE/F/ EE/F/|EE/F/ d/c/B/A/|BB/c/ BB/c/|BB/c/ e/d/c/B/|!
+[V:1]ee/f/ gf|ee/f/ gf|ee/c/ dd/B/|c2cz||!
+[V:2]ee/f/ gf|ee/f/ gf|cc/E/ FF/D/|E2Ez||!
+[V:1]g4|geag|ff/e/ ff/e/|ff/e/ f2|!
+[V:2]e4|ecfe|dd/c/ dd/c/|dd/c/ d2|!
+[V:1]f2ff|fd gf|ee/d/ ee/d/|ee/d/e2|!
+[V:2]d2dd|dB ed|cc/B/ cc/B/|cc/B/c2|!
+[V:1]cc/d/ cc/d/|cc/d/ f/e/d/c/|dd/e/ dd/e/|dd/e/ g/f/e/d/|!
+[V:2]EE/F/ EE/F/|EE/F/ GF/E/|BB/c/ BB/c/|BB/c/ e/d/c/B/|!
+[V:1]ee/f/ gf|ee/f/ gf|ee/c/ dd/B/|cccz::!
+[V:2]cc/d/ ed|cc/d/ ed|cc/E/ FF/D/|EEEz::!
+[V:1]g/a/b/c’/ b/a/g/f/|e/f/g/a/ g/f/e/d/|cc/c/ dd/d/|ee/e/ d2|!
+[V:2]g/a/b/c’/ b/a/g/f/|e/f/g/a/ g/f/e/d/|EE/E/ FF/F/|cc/B/ B2|!
+[V:1]g/a/b/c’/ b/a/g/f/|e/f/g/a/ g/f/e/d/|cd/d/ ed|ccc2||!
+[V:2]g/a/b/c’/ b/a/g/f/|e/f/g/a/ g/f/e/d/|EF/F/ GF|EEE2||!
+[V:1].B.c.d.e| .f.e.d.c|.B.c.d.e| .f.e.d z|!
+[V:2].G.A.B.c|.d.c.B.A|.G.A.B.c|.d.c.B z|!
+[V:1]g/a/b/c’/ b/a/g/f/|e/f/g/a/ g/f/e/d/|cd/d/ ed|ccc2|]
+[V:2]g/a/b/c’/ b/a/g/f/|e/f/g/a/ g/f/e/d/|EF/F/ GF|EEE2|]
+
+X:87
+T:Marshal Saxe’s new March. JJo.087
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+c2c>cc4|cecG cecG|d2d>dd4|dfdG dfdG|e2e>e egfe|d2d>dd4|!
+c2ed cBAG|FGAF D4|B2d>B A2c>A|B2d>B TA4|BdBG AcAF|G2G>GG4::!
+d2d>dd4|dcBc dcBc|dcBATG4|e2e>e e4|edcB cBAB|GABG E4|!
+edcB cBAG|edcB cBAG|edcB c2B2|A2A>A A4|d2d>d defd|e2e>e efge|!
+d2d>d defd|e2e>e e4|G2e>G F2d>F|E2c>E D4|GeeG FddF|EccE TD4|!
+(3efg (3edc (3def (3dcB|c2c>c Tc4″repeat sign missing in MS”:|
+
+X:88
+T:Quick Step. JJo.088
+S:J.Jones MS,1801,N.Shrops.
+N:fermata sign at end of A part indicates finish.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=120
+K:F
+f2 a/g/f/g/|affe|dggf|ecc2|!
+f2 a/g/f/g/|affe|dg f/e/d/e/|Hf2||
+cB|AccB|AccB|Ac fa|g/f/e/d/ cB|!
+Ac cd/e/|fa/f/ eg/e/|fg/a/ c’/a/g/f/|c’2c2|]
+
+X:89
+T:Dear Image of the Man I Love. JJo.089
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes
+M:3/4
+L:1/8
+Q:1/4=100
+K:C
+G2|g3fe2|df eg Bd|{d}c4Ac|c2B/c/ d/e/ fe|!
+e2{fe}d2g2|g3fe2|df eg Bd|c4 g/f/g/f/|!
+{e}d3 c/B/ d/c/B/A/|G2zg a/g/f/e/|e2de f/e/d/c/|c2Bg a/g/f/e/|!
+e2de f/e/d/c/|c2B2zG|e3 dcB|A>GF2za|!
+a3 gfe|e2d2e2|f>ga2d2|e>fg2 c/G/c/e/|e/d/e/g/ c2TB2|c2z2|]
+
+X:90
+T:New Highland Laddie,The. JJo.090
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=120
+K:F
+c|c>dcf fedc|d>efd dcBA|Bcde f>ga>g|fdcA AG zc|!
+c>dcf fedc|d>efd dcBA|Bcde f2db|agfe f>g f2||!
+c3f afef|f>gab afef|f2c2 d>efg|a>baf eg zg|!
+a>baf g>age|fa g/f/e/d/ c2zc|Acde g>efd|cegb gf zc|!
+Acde fefd|cAGe f2z2|]
+
+X:91
+T:Lord Stranger’s March. JJo.091
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=160
+K:F
+f2f>ff2 af|c’2c’>c'”^cr in MS”c’3b|a>ga>b a>c’b>a|g2g>gg2z2|!
+f2f>ff2 af|c’2c’>c'”^cr in MS”c’3b|a>ga>b a2g2|f2f>ff2″_no rest in MS”z2::!
+g2g>g gabg|f2afg2c2|g2g>g gabg|a2gfg2z2|!
+f2f>ff2 af|c’2c’>c'”^cr in MS”c’3b|a>ga>b a2g2|f2f>ff2″_no rest in MS”z2:|
+
+X:92
+T:On Board a Man of War. JJo.092
+S:J.Jones MS,1801,N.Shrops.
+N:The barring slips in between 3/4and 4/4 but is intended to be 4/4.
+N:I have left the original barlines in place.
+N:The song tune has an instrumental section after the first line
+N:and again at the end. This would seem to be a parlour piece
+N:rather than a ‘folk’ song.NB…The folk song is about a pressgang.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:G
+GB|d2Bde2|ced2B2|g2fed2|BG cBAG|B3c/B/A2GB|!
+d2Bd e2dc|d2Bd g2fe|d2BG cA GF|”sym”GB dg bgfe|!
+dBGB cA GF|G2G2G2″song”FG|!
+A2ABc2BA|BcdB g2fe|d2BG EG cA|G3A/G/F2GB|!
+d2BGe2dc|dB dBg2dc|G4z2d>d|!
+g2g>gg2d2|g6B>B|e2e>eB2|e6ef|!
+ge ce d2 BG|AB cd cBAG|g2d>cB2TA2|G2G>GG2″sy”ga|!
+bgdB cA c’a|d’bgd ec ge|dgdB cA GF|G2G2G3z|]
+
+X:93
+T:Bonny Bett. JJo.093
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+c>d|e3e fe dc|A2c2G2A2|c3d e3f|g2e2ed c>d|!
+e3e fe dc|A2c2G2A2|c3d e3f|g2d2e2c2|!
+c’3b c’bc’b|c’2g2ec|f3g agfe|d2d’2b2g2|!
+{g}e2fg agfe|fefg agfe|fed^c defg|agab Hc’2 b>a|!
+c2c’2c’2e’2|c3d efge|c2 c’b c’d’e’d’|c’2cd efge|c2c’2c’2|]
+
+X:94
+T:Foxhunter’s Gig. JJo.094
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=110
+K:F
+a|a2gg2f|f2gg2f/g/|a>ba gfg|f2zz2a|!
+a2a ac’a|ac’a ac’a|g2g gbg|gbg gbg|!
+a>ba abc’|ggg g2z|abc’ c’ba|g2zgz::!
+g|g2a g2c|gggg2z|abc’ c’ba|g2 f/g/|!
+aff Tc’gg|aff Tbgf|ac’c’ gbb|ac’c’ gbb|!
+a2gf2f|f2gg2f/g/|a>ba gfg|”f2 in MS”f4z:|
+
+X:95
+T:Blue Bells of Scotland,The. JJo.095
+S:J.Jones MS,1801,N.Shrops.
+N:JJ has the dcrs (e3) a note later than
+N:one usually hears.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+d2|g4f2e2|d2e3fg2|B2B2c2TA2|G4||
+d2|B2G2B2d2|g2e3fg2|f2d2e2^c2|d4d3d|!
+g4f2e2|d2e3fg2|B2B2c2TA2|G4|]
+
+X:96
+T:Old Towler. JJo.096
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:F
+c|f2fd2A|G2AB2_e|d2f egb|b3a2c|!
+f2fa2f|d2dg2f|e2e dcd|c3c2::!
+c|g2ec2c|a2f c2c|d2dc’2a|a3g2c|!
+c=Bc def|gab agf|d2gf2e|f3f2 F/A/|!
+c3c3|cfzz2c|cAc cAc|cfz zef|!
+g3g3|gc’zz2g|geg geg|gbz z2b|!
+afzz2a|gczz2b|c’fzz2a|gczz2c|!
+faa faa|f3f3|faa faa|c’2zz2c/B/A/G/|!
+F2BA2d|c2ba2f|g2g ede|f3b3|!
+aba gfg|c’3b3|aba gfg|f3f2:|
+
+X:97
+T:March.2voices. JJo.097
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=110
+K:F
+[V:1]f>f|c’3ba2g2|f2f>ff2c2|f3ag2b2|abc’ag3a|!
+[V:2]A>A|a3gf2c>B|A2A>AA2F2|A2f>fe2g>g|fgafe3f|!
+[V:1]b2g>ba2f2|g>fga fgab|c’>baba2Tg2|f2f>ff2::!
+[V:2]g2e>gf2A2|c2c>c Acfg|a>gf>gf2c2|A2A>AA2::!
+[V:1]c>c|g3a g>afg|a2a>aa2f>g|a2g>f c’2b>a|g2g>gg2 a>b|!
+[V:2]E>E|e3f e>fA>c|f2f>ff2A>c|f2c>A a2g>f|e2e>ee2f>g|!
+[V:1]c’2a>c’ b2g>b|a>fc’>a g2a>b|c’bab a2g2|f2f>ff2|]
+[V:2]a2f>ag2e>g|f2a>f c2f>g|a>gf>g f2c2|A2A>AA2|]
+
+X:98
+T:Prince Wm of Glosters March.2voices. JJo.098
+S:J.Jones MS,1801,N.Shrops.
+N:”G.T” written in small capitals just after “March”.
+N:Bar24 in V1 has “d4z4″ with the 8 quavers superimposed.
+N:I have therefore transferred the d4 to V2 (making a chord)
+N:in order to achieve the overall sound which seems to be intended.NeilB
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+[V:1]”Monstero”e4dcde|c2c2d2d2|e4dcde|c4c’3b/a/|!
+[V:2]G4FEFG|E2E2F2F2|G4FEFG|E4a3g/f/|!
+[V:1]g2c2a3a/g/|e2c2c’3b/a/|g2″Pia”c2a3g/f/|”^Fte”e2c2g2g2|!
+[V:2]e2c2f3e/d/|c2E2a3g/f/|e2E2f3e/d/|c2E2e2e2|!
+[V:1]f2f2edef|”dol”d4f2a2|b2g2a2^f2|g2d2g2a2|!
+[V:2]d2d2cBcd|B4B2c2|d2B2c2A2|B2G2B2c2|!
+[V:1]b2g2a2^f2|”Supr”g4c’2d’2|e’2c’2d’2b2|c’2g2c’2d’2|!
+[V:2]d2B2c2A2|B4e2f2|g2e2f2d2|e2c2e2f2|!
+[V:1]e’2c’2d’2b2|”^Ftmo”c’4g2g2|=f4edef|dcBc defd|!
+[V:2]g2e2f2d2|e4e2e2|d4cBcd|”see notes”[d4B4]z4|!
+[V:1]e4dcde|c2c2d2d2|e4dcde|c2c’>c’c’2c’2|c’4z4|]
+[V:2]G4cBcd|E2E2F2F2|G4FEFG|E2e>ee2e2|e4z4|]
+
+X:99
+T:Wine cannot Cure.2voices. JJo.099
+T:From Night til Morn,aka.2voices. JJo.099
+S:J.Jones MS,1801,N.Shrops.
+N:2 voice arrangement of the song tune now better known as
+N:’From Night til Morn’. The piece was performed at Covent Garden
+N:as a duet, from which this arr. was probably taken. NeilB
+N:”Wine cannot cure the pain I endure” melody from “The Surrender of Calais”
+N:by samuel Arnold, accompaniment by Mr. Thomas Brabazon Gray.
+A:N Shropshire
+B:”From night til morn I take my glass, in hopes to forget my Cloe…
+B:…Ah No no no wine cannot cure the pain I endure for my Cloe”
+B:http://levysheetmusic.jhu.edu/index.html
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+[V:1]g>f|e2e2e3e|{e}dcde c2de|fedc cdef|g3a/f/e2 g>f|!
+[V:2]e>d|c2c2c3c|FEFG E2FG|AGFE EAcd|e3f/d/c2 e>d|!
+[V:1]e2e2e3e|{e}dcde c2de|fe.d.c cd.e.f|e2 e/d/c/d/ c2||!
+[V:2]cGEG CGEG|FEFG E2FG|AG.F.E EF.G.A|G2 G/F/E/F/E2||!
+[V:1]c2|cdefg3g|g2{b}a>g g3g|a3gc’3e|g3a/f/e2(3g^f=f|!
+[V:2]E2|EAcd ecec|ec f>e ecec|fcec .eEGc|e3f/d/c2z2|!
+[V:1].e2.e2.e2z2|dcde c2de|fe.d.c cd.e.f|g3a/f/e2 (3g^f=f|!
+[V:2](3.C.E.G (3.C.E.G (3.C.E.G (3CEG|(3G,DF (3G,DF E2FG|\
+AG.F.E EG.c.d|e3f/d/c2z2|!
+[V:1].e2.e2.e2z2|{e}dcde c2de|fedc cdef|e2e/d/c/d/c2|]
+[V:2](3CEG (3CEG (3CEG (3CEG|(3G,DF (3G,DF ECFG|\
+AGFE EFGA|G2G/F/E/F/E2|]
+
+X:100
+T:Morgan Rattler. JJo.100
+S:J.Jones MS,1801,N.Shrops.
+N:The tune is set in C in the MS. This is probably an omission of the #
+N:as every other version is in G. However it doesnt sound too incorrect in C
+N:and a modal version cannot be ruled out.
+N:The g lead-in note makes it a little confusing to play.
+N:There are no repeat marks at the end of each part,
+N:tho’ there are four dots after the double bars (in the spaces between lines).
+A:N Shropshire
+Z:Neil Brookes
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+g|”_key sig C in MS”dcB ABc|BAB G2g|dcB ABc|e2d efg|!
+dcB ABc|BAB G2d|gab agf|e2d efg||!
+g2a bge|f2g afd|g2a bge|c’2a bc’d’|!
+g2a bge|f2g afd|gab afd|e2d efg||!
+G2g gfg|A2a aga|G2g gfg|e2d efg|!
+G2g gfg|A2aabc’|d’c’b agf|e2d efg|]
+
+X:101
+T:Cottage Maid. JJo.101
+S:J.Jones MS,1801,N.Shrops.
+N:Identical to JJo.075. Must have been a favourite with JJ!
+A:N Shropshire
+Z:Neil Brookes
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+e3efd|g3e2e|e3efd|c3G2z|!
+a2c’ c’ba|g3e2c|d2e feg|e3d2z|!
+e3efd|g3e2e|e3efd|c3G2z|!
+a2b c’ba|g3e2c|d2e {g}fed|cGE C zg|!
+d2e fed|e3g2e|d2e fed|c3zg|!
+d2e fed|e3 gec|Bdg cBA|G6|!
+e3efd|g3e2z|e3efd|c3G2z|!
+a2b c’ba|g3g2e|d2e {g}fed|c3c3|]
+
+X:102
+T:Drink to me only with thine Eyes.2voices. JJo.102
+S:J.Jones MS,1801,N.Shrops.
+N:Unusually, no repeat marks at end of the first line.
+A:N Shropshire
+Z:Neil Brookes
+M:6/8
+L:1/8
+Q:1/4=80
+K:C
+[V:1]eeef2″^g in MS”f|gfe def|gcf e2d|c4||!
+[V:2]ccc d2d|edc Bcd|e2dc2G|E4||!
+[V:1]g|geg c’2g|geg g2g|a2gf2e|e3d2z|!
+[V:2]e|ece e2e|ecee2e|f2ed2c|c3B2z|
+[V:1]eeef2f|gfe def|gcf e2d|c4z2|]
+[V:2]ccc d2d|edc Bcd|e2dc2G|E4z2|]
+
+X:103
+T:Care thou Canker. JJo.103
+S:J.Jones MS,1801,N.Shrops.
+N:The A and B parts seem to be the same.
+N:May or may not be intentional.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+d3ed2g2|d2c2c2B2|G3BB2A2|A2Ac c2B2|!
+d3ed2g2|d2c2c2B2|G3BA2(3ABc|B2TA2G4::!
+d3ed2g2|d2c2c2B2|G3BB2A2|A2Ac c2B2|!
+d3ed2g2|d2c2c2B2|G3BA2(3ABc|B2TA2G4:|
+
+X:104
+T:Garoio an Irish Air. JJo.104
+T:Garryowen,aka. JJo.104
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes
+M:6/8
+L:1/8
+Q:3/8=110
+K:G
+g/f/|edc BAG|B>cB B2g/f/|edc BAG|A>BAA2 g/f/|!
+edc BAG|B>cB B2d|def g2B|ABA A2::!
+B/c/|d2Bd2B|d2Bd2f|e2ce2c|e2ce2f|!
+g2ab2a|g2ed2c|def g2B|A>BAA2:|
+
+X:105
+T:Perth Hunt. JJo.105
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes
+M:4/4
+L:1/8
+Q:3/8=120
+K:C
+G2 EG CGEG|CGEG ADD2|G2 EG CGEG|egdf ec”cr in MS”c::!
+g|e/d/c gc acgc|e/d/c ge fddf|e/d/c gc acgc|Gfed eccg|!
+e/d/c gc acgc|e/d/c ge fddf|egce fadf|Gfed ecc|]
+
+X:106
+T:Earl of Vincents Fancy. JJo.106
+S:J.Jones MS,1801,N.Shrops.
+N:B part written in MS with [1 and [2 repeats for last 2 bars.
+N:My format for the tune is effectively identical. NeilB.
+A:N Shropshire
+Z:Neil Brookes
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+g>age d>ecG|A>GAc d/d/d de|g>age d>ecG|A>cGE C/C/CC2:|!
+c’>d’c’g c’>d’c’g|agac’ d’/d’/d’d’2|c’d’c’g ac’dc’|dcde c/c/cc2|!
+c’>d’c’g c’>d’c’g|agac’ d’/d’/d’d’2|c’gac’ gaeg|dcde c/c/cc2|]
+
+X:107
+T:Limping Maid,The. JJo.107
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=140
+K:G
+G2G>A|G>D G>B|A>B c>A|GFED|!
+G2G>A|G>D G>B|A>c A>F|G4::!
+G2g>f|g>a g>e|cA .A.A|BG .G.G|!
+G2g>f|g>a g>e|cA A>B|G2G2:|
+
+X:108
+T:Richer’s Hornpipe. JJo.108
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=90
+K:Bb
+de|fdfdB2cd|cAcAF2 ED|EFGA Bcde|cAFA c2de|!
+fdfdB2cd|cAcAF2 ED|E2gg fdec|B2B2B2::!
+Bc|dBcAG2 ef|g2c2c2 AB|cABG F2 de|f2B2B2F2|!
+GABG FDFD|GABG FDFD|E2g2fdec|B2B2B2:|
+
+X:109
+T:Lady Shaftsbury’s Delight. JJo.109
+S:J.Jones MS,1801,N.Shrops.
+N:Bar 1:A, is written as B, in MS.
+N:Bar 13: first f is written as g in MS.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=80
+K:F
+A/G/|F>CA,>C F>GA>d|cAGF E G2A/G/|F>CA,>C FGAd|cAGA F3:|!
+c|fedc {e}f2 Fd|cA.G.F .EG2c|fedc {e}f2 Fd|cAGA F3 c|!
+fedc cdef|gGGG GABd|c>dcB GFGA|FA/G/ FCF3|]
+
+X:110
+T:New Horace. JJo.110
+S:J.Jones MS,1801,N.Shrops.
+M:2/4
+L:1/8
+Q:1/2=80
+K:C
+e|dBcA|GEEF|GcBc|e2 de|dBcA|GEEF|Bc {e}dc/B/|{B}c3:|!
+e|fdec|Bcdg|fdec|c2 Bg|ffed|cBAG|FDfd|”D.C.”c2B|]
+
+X:111
+T:Morpeth Rant. JJo.111
+S:J.Jones MS,1801,N.Shrops.
+N:A nice “older” version of the well known tune.
+Z:Neil Brokes 2006
+M:4/4
+L:1/8
+Q:1/4=220
+K:G
+DE/F/|G2DC B,G,B,D|ECEG FDFA|BGcA dBAG|F2A2A2 GF|!
+G2DC B,G,B,D|ECEG FDFA|Ggfe dcBA|G2G2G2:|!
+|:ef|gdBG FAce|dBAG G-FED|cAcA BGBG|F2D2D2=F2|!
+ECEG cBAG|FDFA dcBA|Ggfe dcBA|G2G2G2:|
+
+X:112
+T:Camp Frolic,The. JJo.112
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+ag|ee d/c/d/e/|cc c’g|ee d/c/d/e/|c2:|!
+|:cc|dd c/B/A/G/|cc cc|dd c/B/A/G/|c2:|!
+|:g a/4g/4f/4e/4|^ga f g/4f/4e/4d/4|\
+^fg e =f/4e/4d/4c/4|Af e/d/4c/4 d/4c/4B/|c2:|
+
+X:113
+T:Lord McDonald’s Rant. JJo.113
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=100
+K:G
+d3 e dBgB|dBgB aAAB|d3 e dBgB|A/B/c BA BGG:|!
+B|DGBG AGBG|AGBG AGAB| DGBG AGBG|DEDC B,G,G,B|!
+DGBG AGBG|AGBG AGAB| BAGF GFED|EGFA BGGz|]
+
+X:114
+T:Duke’s Whim,The. JJo.114
+R:reel
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=90
+K:G
+GBdg bgaf|gedg dBA2|GBdg bgaf|ged>e BGG2::!
+B>d .G.G B>d.G.G|c>e dB cA A2|GBdg bgaf|ged>e BGG2:|
+
+X:115
+T:Cheshire Quick Step. JJo.115
+S:J.Jones MS,1801,N.Shrops.
+N:cf Cheshire Quick March JJ060
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=110
+K:F
+c’|aaaa|c’2ba|gfga|f/e/f/g/ fc’|aaaa|c’2 ba|gfga|f3:|!
+|:a”_cr in MS & no barline”|agab|b2 ac’|bagf|g/f/g/a/ ga|gfga|b2gc’|bagf|c’3:|
+
+X:116
+T:Queen of Prussia’s delight,The. JJo.116
+S:J.Jones MS,1801,N.Shrops.
+N:repeat marks and barline missing at end of tune.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/2=80
+K:F
+f2 c>d|c>d c>d|c>fa2|c>fa2|b2g>a|g>a g>a|g>fe>f|g>e c2::!
+a>ff2|c>fA>c|F>A c>g|f>gg2|a>ff2|c>fA>c|F>A c>g|g>e[f2c2A2]:|
+
+X:117
+T:The last time I came over the Moor. JJo.117
+S:J.Jones MS,1801,N.Shrops.
+N:I have not knowingly changed any note values in this piece, although the barlines
+N:are not constant 4/4. JJ has attempted, with an impressive degree of success, to
+N:include the grace notes, decorations and variations in this Scottish air.
+N:There does however seem to be a bar missing in the first section, as
+N:suggested by the more elaborate repeat of the tune.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+d>c|{c}TB2 AG g3a|{gb}b2ag{g}Tf2 ed|{f}Te3fg2d>c|!
+{c}TB2 AG g3a|{ga}b2ag{g}Tf2 ed|efga bagf|e3fg2||!
+ag|{g}2edd3b|afef ed3B|d3e dBAB|{e}d3fg2zd|!
+edeg Te2dB|dBde Tg3a|bage degc|B2TA2G4||!
+d>c|{c}TB2 AG Tg3a|{ga}b2 (3c’ba (3bag {g}Tf2ed|\
+{d}e3{f}g e/d/c/B/c/B/A/G/|!
+{d}e3f{f}g2 (3edc|B/4D/4E/4F/4 G/4A/4B/4c/4 d/4e/4f/4g/4Tg2a|\
+{ga}b2c’/b/a/g/Tf2ed|!
+e/d/e/f/ g/f/g/a/ b>g a>f|{f}Te3fg2||
+ag|{g}Tf2 (3agf (3gfe {e}d3b|a/b/a/f/ b/g/f/e/ {e}d3B|d3e d/B/A/B/ dB|!
+{e}Td3fg2zd|Te>d e/d/e/g/ Te2 (3edc (3dcB|\
+{e}dBde {a}g3a|b/a/b/a/ g/a/g/e/|d>egc B2TA2G4|]
+
+X:118
+T:Duke of York’s new March. JJo.118
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=160
+K:C
+g>g|e2g>ge2g>g|f2d>dd2f>f|d2f>ff2f>f|e2c>cc2C>E|!
+G2E>Gc2G>c|e2c4g>a|{a}g2e>g{g}f2d>f|e4z2C>E|!
+G2E>Gc2G>B|e2c4 g/a/b/c’/|g2e>gf2d>f|d2D>DD2::!
+e2e>ee2f2|g2ze/f/ gg {a}gf/e/|d2d>dd2e2|f2 zd/e/ ff{g}fe/d/|!
+e2g>gg2{a} gf/e/|a2c’>c’c’2 {d’}cb/a/|\
+g2g>gg2 {a}gf/e/|.d.d/.d/ .e.e/.e/ .f.f/.f/ .d.d/.d/|!
+e.C.E.G .c.G.E.C|.d.d/.d/ .e.e/.e/ .f.f/.f/ .d.d/.d/|eCEG cGEC|!
+.d.d/.d/ .e.e/.e/ .f.f/.f/ .d.d/.d/|e2z/G/A/B/ c2c2|c4:|
+
+X:119
+T:Quick March. JJo.119
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=160
+K:F
+a2a>aa3g|f2f>fg2z2|afac’ afac’|g2g>gg2z2|!
+a2a>aa3g|f2f>fg2z2|a>b c’>b a2g2|f2f>ff2z2::!
+g2g>gg2z2|agac’g2z2|agac’ agac’|g2g>gg2z2|!
+a2a>aa3g|f2f>fg2z2|a>b c’>b a2(3gfg|f2f>ff2z2:|
+
+X:120
+T:Corsair Hornpipe. JJo.120
+S:J.Jones MS,1801,N.Shrops.
+N:Written in F it would appear to be actually in C. Nevertheless, the
+N:flattened B notes in the B part gives it something of an edge.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/16
+Q:1/4=90
+K:F
+gf|efdf ccde|fgef ddef|egag egag|fgeed2 gf|!
+efdf ccde|fgef ddef|egfe dfed|c2c2c2::!
+GA|d2ef egde|eceg c’2c’2|bbaa ggff|egfe d2gf|!
+efde ccde|fgef ddef|egfe dfed|c2c2[c’2c2]:|
+
+X:121
+T:Parry’s Waltz. JJo.121
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:3/8
+L:1/8
+Q:3/8=60
+K:C
+G|ccc|c/e/g/e/c/e/|ddd|c/B/A/G/A/B/|cc^c|ddd|c/B/A/G/A/B/|c2::!
+g|e/g/e/g/e/g/|f/a/f/a/f/a/|d/f/d/f/d/f/|e/g/e/g/e/g/|\
+c/e/c/e/c/e/|d/f/d/f/d/f/|GAB|c2::!
+c|GGc|EEc|GG/A/G/F/|E3|CCC|DDD|EGF|D2c|!
+GGc|EEc|GG/A/G/F/|E2g|e/g/c’/g/e/g/|c/e/g/e/c/e/|G/B/d/B/G/B/|c2:|
+
+X:122
+T:Duke of York’s March(in F). JJo.122
+S:J.Jones MS,1801,N.Shrops.
+N:Identical to JJ 001 in D, but with an additional part which seems to be in C.
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/8=240
+K:F
+F2F>F A2A>A|.c.A.c.AF2c2|.f.c.f.c fcAF|c2c>cc2z2|!
+c’2a2f2f2|g2 g>b a2 z c’|b3a afba|g2g>gg2z2:||!
+c2c>c cgab|c2c>ccfac’|bg.g.g af.f.f|d’c’.b.a a2g2|!
+“pia”f3a/g/ fcde|ed d4 e/f/g/a/|”^for”.b.b.a.a .g.g.f.f|g2g>g g2z2|!
+F2F>F A2A>A|.c.A.c.AF2b2|ac’c’a bgfe\|f2f>f “^end”f2:||!
+K:C
+“^Trio”c3e dcdB|.c2.e2.c2.e2|e3g fefd|.e2.g2.e2.g2|!
+g3bc’3g|a3b {d’}c’2ba|g2c’g gffe|e4d4::!
+d3efefd|.e2.g2.c’2.e’2|d3efefd|e2c>cc4|!
+a3b{d’}c’2 ba|g2c’2c’2e’2|d’2c’2d’2b2|c’2c’>c'”D.C.”c’4:|
+
+X:123
+T:Drum beats to Arms,The. JJo.123
+S:J.Jones MS,1801,N.Shrops.
+N:This may be a continuation of JJo.122.
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=120
+K:F
+“_lead note qu in MS”c2|f2f>ff2b>a|g>fe>fg2ag|\
+f2f>ff2b>a|g2g>gg2c’b|agfg a2g2|f2f>ff2::!
+a/b/|c’2c’2c’3b/a/|b2b2b3g/f/|a2a2a3g/f/|c’2c>cc2ag|!
+f2z2z2ba|g2z2z2c’b|a>gf>ga2g2|f2f>ff2:|
+
+X:124
+T:Queen’s March(in F with “Trio” section). JJo.124
+S:J.Jones MS,1801,N.Shrops.
+N:Slightly more elaborate version than JJ035 and JJ040.
+N:includes a section (counter melody or harmony?) labelled “Trio”
+A:N. Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:F
+f4c4|A2F>GA2c>c|f2f>f g2g>a|bagf fedc|!
+f4c4|A2F>FA2c>c|f2a>g c’2b>a g2g>gg2::!
+b3g fedc|.a2.f2.a2.f2|b3g fedc|c’2a2c’2a2|!
+f2f>fg2g>a|fedc c’3b|a2a>b g2g>a|f2f>ff4:||!
+“Trio”f4a2c’2|c’2c’2 c’bag|f2f2g2g2|agab g2c2|!
+f4a2c’2|c’4 c’bag|fedcd2e2|f2f>ff2::!
+cg2ec2zc|c’3af2z2|g2gg fedc|c’3af2z2|!
+f4a2b2|c’4 bagf|fedcd2e2|f2f>ff2:|
+
+X:125
+T:Slow March. JJo.125
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+e>f|g3c’e3g|c2c>cc2d2|e>gc’>b a>gf>e|d>gB>d G2e>f|!
+{a}g2c’>g {f}e2g>e|c2c>cc2e>f|agfe d2e2|f2f>ff2::!
+B>c|d>cd>e gfed|e>de>f agfe|f3ag3c’|fdeg cBAG|!
+c3e d>cd>e|f>ga>bc’2e>f|g>c’e>g {a}g>f{f}e>d|c2c>cc2:|
+
+X:126
+T:Jig in Harlequin Amulet. JJo.126
+T:Harlequin Amulet. JJo.126
+T:Garryowen,aka. JJo.126
+S:J.Jones MS,1801,N.Shrops.
+C:A Favourite
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+c’/b/|.a.g.f .e.d.c|e>fe e2c’/b/|.a.g.f .e.d.c|d.e.dd2c’/b/|!
+.a.g.f .e.d.c|e>fe e2g|gab c’2e|d>edd2::!
+f|e/4f/4g3/e e/4f/4g3/e|e/4f/4g3/e g2c’|\
+e/4f/4a3/f e/4f/4a3/f|e/4f/4a3/f a2c’|!
+c’2d’ {c’d’}e’2d’|{b}c’2 a agf|gabc’2e|d>edd2:|
+
+X:127
+T:Lord Beauchamps March. JJo.127
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=80
+K:C
+e4d4|c2c>c cdef|g4f4|e2c>cc2z2|!
+a2a>a ac’bc’|g2g>ggc’bc’|a2g2f2e2|dcBAG2z2|!
+e4d4|c2c>c cdef|g4f4|e2c>cc2z2|!
+a2a>a ac’bc’|g2g>gg2f2|(3efg (3agf e2Td2|c2c>cc4::!
+fedc cdef|g2g>gg4|agfe fgab|c’2c’>c’c’4|!
+a2a>a ac’bc’|g2g>ggc’bc’|a2g2f2e2|dcBAG2z2|!
+e4d4|c2c>ccdef|g4f4|e2c>cc2z2|!
+a2a>a ac’bc’|g2g>g”cr in MS”g2f2|(3efg (3agf e2Td2|c2c>cc4:|
+
+X:128
+T:Paddy O’Rafferty. JJo.128
+S:J.Jones MS,1801,N.Shrops.
+N:A grand jig, six parts in all, of the Morgan Rattler variety.
+N:Key sig. given is G, but it appears to be in C. Part 2 has the last 2 bars missing
+N:in the MS. I have completed the unresolved line with the part 1&4 ending, but this
+N:is not necessarily correct. Part 5 sounds better with A2G rather than AG2 but I have
+N:left it unchanged in this transcription. NeilB.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:6/8
+L:1/8
+Q:3/8=120
+K:C%given as G
+“_Key sig G in MS”Gee Gdd|Gee dcd|Gee Gdd|cdc cAG|Gee Gdd|Gee dcd|c>eg gec|cdc cAG::!
+ecA G3|cdc dcd|ecA G3|cdc cAG|ecAG3|c>dc cAG|c>eg gec|cdc cAG::!
+ceg ceg|ceg afd|ceg ceg|c>dc cAG|ceg ceg|ceg gab|c’ge afd|c>dc cAG::!
+eGG dGG|eGG dGG|eGG dGG|c>dc cAG|eGG dGG|eGG dGG|ceg gec|c>dc cAG::!
+c/d/ec AG2|c/d/ec {e}dcd|c/d/ec AG2|cdc cAG|\
+c/d/ec AG2|c/d/ec efg|c’ge c’ge|cdc cAG::!
+geg afa|gfed2c|geg abc’|cdc cAG|geg afa|bgb c’ba|gaf efd|cdc cAG:|
+
+X:129
+T:Blanchards Hornpipe. JJo.129
+T:Fishers Hornpipe,aka. JJo.129
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=90
+K:G
+gdBd cedc|BdBd cedc|BGG2 cGG2|BGG2 AFD2|!
+gdBd cedc|BdBd cedc|Bdgb c’agf|g2g2g4::!
+afdf afc’a|bgdg bgd’b|afdf afc’a|bgfe d3d|!
+ecGc ecge|dBGB dBge|dBec dcBA|G2G2G4:|
+
+X:130
+T:March. JJo.130
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/2=80
+K:C
+ed|c2 ecd2 gf|ec’ba g2fe|f2afe2c’e|d2d>ddzed|!
+c2 ecd2 gf|ec’ba g2eg|a2fa b2gb|c’2c>cc2::!
+ef|g2ge g2c’g|a2af a2c’a|g2gfe2ce|d2d>dd2ed|!
+c2 ecd2 gf|ec’ba g2eg|a2fa b2gb|c’2c>cc2:|
+
+X:131
+T:Worcester Farewell. JJo.131
+T:Last Valentine’s Day,aka. JJo.131
+S:J.Jones MS,1801,N.Shrops.
+N:cf. “Last Valentine’s Day” in “A Sussex Tune Book” (edit. Anne Loughran
+N:and Vic Gammon (EFDSS,1982).
+A:N Shropshire
+Z:Neil Brookes 2006
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+g/f/|eadg|cdce|fa/g/ f/e/d/c/|B/c/d/B/ Gg/f/|!
+eadg|c>def|afdB|c2c::!
+g|c’>c’c’d’|b>bbc’|aa c’/a/c’/a/|agge|!
+ff a/f/a/f/|ee g/e/g/e/|afdB|c2c:|
+
+X:132
+T:16th Regt March,The. JJo.132
+S:J.Jones MS,1801,N.Shrops.
+A:N Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=160
+K:C
+c2G>B e2c>e|g2e>g c’4|a2c’>a g2c’>g|g>fe>de2c2|!
+a2c’>a g2c’>a|g>fe>de2c2|e>fg>g agfe|d2g>gg2z2|!
+e>fg>g agfe|e2d>dd2c’2|c’bag bag^f|g2g>gg4::!
+d/e/d/e/ ff gfed|e/f/e/f/ gg agfe|d/e/d/e/ ff gfed|Te2d>dd4|!
+g/a/g/f/ e/f/e/d/ c2c2|g_bag a4|a/_b/a/g/ f/g/f/e/ d2d2|ac’bab4|!
+c’2g>gg2c’g|(3agf e>ee2 (3gab|c’>c’b>a g>fe>d|c2c>cc4:|
+
+X:133
+T:Constitutional Volunteers,The. JJo.133
+S:J.Jones MS,1801,N.Shrops.
+A:N. Shropshire
+Z:Neil Brookes 2006
+M:4/4
+L:1/8
+Q:1/4=140
+K:F
+“qu”c2|f2f>f fbag|f2f>f f2 c>c|defd bagf|e2g>gg3c|!
+f2f>f fbag|f2f>ff2 eg|c’3fe2d2|c2c>cc2:|!
+|:c/d/e/f/|g2g>g g2 f/e/d/c/|f2 a>aa2 f>e|defd bagf|efga fedc|!
+f2f>f f2 a/f/a/f/|d2g>gg2 b/g/b/g/|ac’c’a bgfe|f2 f>f f2:|

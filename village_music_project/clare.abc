@@ -1,0 +1,4906 @@
+%abc
+%%abc-creator ABCexplorer 1.3.7 [12/12/2009]
+%%abc-alias John Clare, c1820, UK Helpstone Northants, Northampton R.O or pub.lib. publ. in ‘John Clare & the Folk Tradition’
+%%abc-creator Gnome Editor (gedit) under Ubuntu Linux [16/11/2008]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP, P.Headford,2000
+%Revised 19/10/2003
+%Revised 16/11/2008
+%Revised 11/12/2009
+
+X:1
+T:Ashleys Rides. JC.001
+T:Astley’s Ride, aka. JC.001
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+N:b4 A2 was B2 in MS. Usually in 2/4.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford.
+M:4/4
+L:1/8
+Q:2/4=75
+K:D
+” 6/8 in MS,”af|\
+d2d2 d2cd|e2e2 e2ge|dcBA B2c2|d2D2 D2af|!
+d2d2 d2cd|e2e2 e2ge|dcBA (Bd)(ce)|d2d2 d2:|!
+|:de|f2f2 f2ef|g2g2 g2bg|e2e2 e2de|f2f2 f2af|!
+d2d2 d2cd|e2e2 e2ge|dcBA (Bd)(ce)|d2d2 d2:|
+W:Tunes to Number 83 inc. are in MS.12
+
+X:2
+T:Ladys Breast Nott. JC.002
+T:Bonny Breast Knots, aka. JC.002
+R:Reel
+S:John Clare,Poet,Helpston. (1793-1864)
+N:No Time signature given. Generally written as 4/4,
+N:except b2, b5. G.D…Bar 2 ( E2e2d2c2 B2BA ) in ms,. Bar 5 is
+N:in time sig 5/4 in Deacon (fdfd fagf e2 in ms).
+N:Bar 6 in4/4, (cec fgf e2 in ms). However,on this occassion I
+N:have felt justified in editing it all to 4/4. CGP.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:4/4
+L:1/8
+Q:2/4=90
+K:D
+” NB”GBBG FAAF|\
+” crots in ms”EedcB2BA|GBBG FAAF|dBAGF2D2:|!
+|:fdfd fagf|ecec fgfe|fdgd faac|GAAGF2ED:|
+
+X:3
+T:Cherry Cheek’d Patty. JC.003
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Tune JC.083 is an incomplete, and therefore omitted version of this.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=85
+K:F
+A B A c2 c|\
+F G F A> A A|G A G BG F|E2 D C2 A|A>BA c2c|F>GF A> A A|!
+G A G BG F|E2 D C2 C|F F F F2 a|C|G G G G2 b|G|G c c c2 c|!
+G d d d> c =B|cec =BdB|A c A G=BG|F A F EG E|DE C G=Bd|!
+Gc>e G=B>d|Gc>e G3|[C6c6][G,6G6]|c2cd2G|c2e e/f/ge|e/f/ge e/f/ge|!
+c|A c c A c c|d c B A2c’|C|F F F g f g|a b a g2C|F F F G F G|!
+AB A G2 c’|ggg g2 A/ A/|B d d d c B|A c c c BA|G B B B A G|!
+B A B G2 G|E D E C c/ c/|c A c c A c|d3fed|c d c (cB) A|A c A G F G|!
+A2 A A z c|d3f e d|c dc cB A|A cA G F G|F [A,F][A,F] F2:|
+W:No Time Signature given in the MS.
+
+X:4
+T:Logerian Fancy,The. JC.004
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS key sig is D.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=90
+K:G
+Bc|\
+dBG2 Gce2|dBG2 G2Bc|dBG2 Gce2|eAA2 A2Bc|!
+dBG2 Gce2|dBg2 g2fe|edBG dcAF|G2B2G2|!
+|dc|(cB)(BA) (A^G)(BE)|(EA)(Ac) c2(cB)|\
+(BA)(AG) (GF)(AD)|(DG)(GB) B2GA|!
+Bcde dgGA|Bcde dggf|fedc BAdF|G2B2G2|]
+
+X:5
+T:Moll i’ the Wad. JC.005
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS key sig is C.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+f|\
+ede c2B|A2B c2d|ede c2e|dBG G2f|!
+ede c2B|A2B c2d|ede gfe|dBG G2:|!
+|:f|ede g2f|ece g2f|ece gfe|add d2f|!
+ece a2g|ece gab|c’ba gfe|dBG G2:|
+
+X:6
+T:Portugese. JC.006
+R:Misc.
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS time sig is 5/4 in ms. This is convincing proof to me that
+N:Clare,Poet
+N:wasn’t merely copying tunes from printed sources all the time , and
+N:that he may have been trying to make an accurate transcription of a
+N:performance. Whether he was entirely successful or not, given some of
+N:the grammatical problems with some of the tunes, is problematical, to
+N:say the least. Nevertheless, this tune and others in this MS would
+N:repay some very close study with fiddle in hand. CGP…
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+” NB”d2fff|\
+gfe f|e/d/ cde|cde d f>ff|g>fe f|df gfd2|cB cd:|!
+|:e2e|cA defe|e2e2|cA defe|ageg e|ef e|de fgd|edc A2c2d2:|
+
+X:7
+T:Evening Hymn. JC.007
+R:Hymn
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS has no time sig.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:4/4
+L:1/4
+Q:80
+K:D
+A|\
+dddd|ee/f/4g/4 g/f/e/d/|ggff|e(e/f/ d2)|!
+|a2g/f/e/d/|gfe(e/f/)|dcBA|Bcd(e/f/4g/4)|fed2|]
+
+X:8
+T:Battle of Prague. JC.008
+R:March
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=75
+K:D
+d2d>dd2e/d/c/B/|\
+{B}A2A>AA2f>d|{c}B2g>e{d}c2e>c|d2d>dd2(fe)|!
+e2cd ee(fe)|{e}d2Bc dded|{d}cB/c/ e/d/c/B/|A2^G2|A2A>AA2z:|!
+|:A2A>B c>de>f|g2e>gf2fg|afdd ~f>efd|e2A>AA2F>G|!
+A2B>cd2f>d|{d}c2g>ef2(3Adf)|afdd fedc|d2d>dd2z:|
+
+X:9
+T:Kempshot Hunt. JC.009
+R:Reel
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:A
+e2ce (c/B/)A ce|\
+(c/B/)A ce dB B2|ce (c/B/)A cee2|cedf eAA2:|!
+|:(A/B/)A ec fdec|(A/B/)A ec dBB2|(A/B/)A ec fdec|cedf eAA2:|!
+|:{g}a2ec {g}a2ec|{g}a2ec dBB2|{g}a2ec {g}” NB”a2ec|cedf eAA2:|
+W:NB = this note missing in MS.
+
+X:10
+T:Lass of Richmond Hill. JC.010
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+A2|\
+Addd|{e}dc/d/ eg|fdBe|(d2{ed} c)A|!
+Addd|{e}dc/d/ ed|cAB^G|A2zd|!
+cA Ac|cA Ac|cegf|f2{gf} ed|cA Ad|\
+cA a d|cdec|d2zA|!
+Addf|f3e|ceeg|g3e|f>edc|\
+dB A G|FAEc|d3|]
+
+X:11
+T:Jennys Bawbee. JC.011
+R:Reel
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+f/g/|\
+abag|fd de/f/|gBe>d|cA Af/g/|!
+abag|fdfa|B2c2|d3:|!
+|:d/e/|fdge|fd de/f/|gBe>d|cA Ad/e/|!
+fdge|fdfa|B2c2|d2Z:|
+
+X:12
+T:Oh Dear What Can The Matter Be. JC.012
+R:air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Modern practice would have the dotted minims as two dotted crotchets
+N:slurred, to ease readability. CGP.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+e3e3|\
+eca ecA|d6|dBc dcB|!
+e6|eca ecA|FAd cdB|A3z2:|!
+|:e|ecd ecd|eca ecA|dBc dBc|dBc dcB|!
+ecd ecd|eca ecA|FAd cdB|A6:|
+
+X:13
+T:Morgan Rattler. JC.013
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Text exists but it looks like a dance setting to me. CGP.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+|:B|\
+AFE EFE|FEFD2B|AFE EFE|~B2A Bcd|!
+AFE EFE|FEF D2B/c/|dcB cB^A|B2^A Bcd:|!
+|:d2e fdB|c2d ecA|d2e fed|~f2e fga|!
+d2e fdB|c2d efg|fed cB^A|B2^A Bcd:|!
+|:D2d dcd|E2e ede|D2d dcd|B2A Bcd|!
+D2d dcd|E2e efg|fed cB^A|B2^A Bcd:|
+
+X:14
+T:Highland Plaid. JC.014
+R:Strathspey
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:C
+e/f/|\
+g>cg>e g>cg>e|g>c~g>e ad de/f/|\
+g>c~g>e g>c~g>e|fagf ecc:|!
+e|G>cE>c G>ce>c|G>cE>e d>DD>c|\
+G>cE>c G>ce>c|f>ag>f e>cc>e|!
+G>cE>c G>ce>c|G>c E>e d>D Df/g/|\
+a>fg>e f>de>c|f<a~g>f ecc|]
+
+X:15
+T:Woodpecker. JC.015
+R:March
+S:John Clare,Poet,Helpston. (1793-1864)
+N:b5 4SQs are 4Qs in MS. b13,21,23, the last notes, Quavers in the MS,
+N:are given as Semi Quavers to match other bars.MR.
+N:An almost identical tune by the same name in the Hardy MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=90
+K:D
+A2|\
+d2dd defd|e2ee e3e|f2ed d2(cd)|ec d3B A2AA|!
+d2dd edcd|e2ee e2zA|a2fd B2GG|A2Bc (defg)|!
+a2fd B2GG|A2Bc d2 AA|A2GF E2 BB|B2AG F2 ff|!
+f2f2f2zf|(fe)(dc) B2BB|d2dd B2BB|e2ee c2cc|!
+f2fe d2ef|ag ge e2 dd|d2c=c BBzA|ee d2c2 AA|!
+a2fd BBzG|A(ABc) d(efg)|a2fd BBzG|A2Bc d4|]
+W:An almost identical tune by the same name in the Hardy MS.
+
+X:16
+T:Disconsolate Sailor. JC.016
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:b7 is in TS5/
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:4/4
+L:1/16
+Q:1/4=100
+K:D
+e3d|c4 e3c A4 c3A|F3A G3B A4 c3^d|\
+e4=d3e G4 (BA)(GF)|E4z4 z4E4|!
+A4 c2e2 (d2f2)B2d2|(G2B2) E2D2 D2C2 D3E|\
+F3G (A2f2) (ec3)(e2d2)(c2B2)|A12:|
+
+X:17
+T:Green Grows The Rushes O’. JC.017
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:first crotchet is a Q in MS.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:1/4=120
+K:G
+” qu in MS”G2G>A BG G2|A2 A>B cAAA|\
+c>dec B>cdB|ABcA GE E2:|!
+|:g2g>a gd d2|e2 ga beef|\
+g>a ge d>e dB|AcBA GE E2:|
+
+X:18
+T:Corporal Cazy. JC.018
+R:Air.
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Sounds like it’s going to be Irish Washerwoman,
+N:then isn’t. CGP
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=100
+K:G
+(d/c/)|\
+BGG DGG|BGG dcB|eAA EAA|cAA {f}edc|!
+BGG DGG|BGG BDD|e>fg d(c/B/)(A/G/)|dGG (B>cd)|!
+g6|BGG DGG|BGG (dc)B|eAA EAA|cAA edc|!
+gee fdd|ecc g2d|b3-b>ag|gfe d(c/B/)(A/G/)|!
+dGG (B>c)d|gee fdd|ecc dBB|\
+{a}g/f/g/a/b {a}g/f/g/a/b|GGG G2|]
+
+X:19
+T:Archers Dance. JC.019
+M:6/8
+L:1/8
+Q:3/8=120
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+K:G
+D|GFG B2B|c2c e2e|d2d B2B|cBc B2D|!
+GFG B2B|c2c e2e|d2d cBA|G3 G2:|!
+|:b|aga f2d|g2g dgb|aga f2d|g3 d2d|!
+e2e fef|g2g d2d|ece d2B|G3 2/4=60G2:|
+
+X:20
+T:Money Musk. JC.020
+R:Strathspey
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P.Headford
+M:C
+L:1/8
+Q:2/4=60
+K:A
+f2|e>Ac>A e>Ad>f|e>Ac>A Bc/B/ df|\
+e>Ac>A cd/e/ ea|!f>dBe cAA:|
+|:f/g/|a>ec1/4=180>a e>ac>a|a>ed>a c>af>g|!
+a>ef>a e>ac>a|f>dB>e cA Af/g/|a>ec>a e>ac>a|!
+a>ed>a c>aB>g|a>ef>a e>ac>a|c>aB>e cAA:|
+
+X:21
+T:Red Pettycoat Hornpipe. JC.021
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.Phil Headford
+M:C
+L:1/8
+Q:1/4=90
+K:D
+AG|\
+FAFD CECA,|D2B2 A3G|FAdf Bege|dcBA A2AG|!
+FAFD CECA,|D2d2 FAdf|efdB a2^G2|[C2A2][C2A2][C2A2]:|!
+|:A2|AGFG ABcA|BGDB, G,Bcd|cAEC A,cde|d4g4|!
+fafd dcBA|dcdB BAGF|EBGE D2C2|D2D2 D2:|
+
+X:22
+T:Mrs Casy. JC.022
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.Phil Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+f|\
+d2B B>cB|A2A A>BA|B2B B>cB|(g3f2)e|!
+d2B B>cB|A2A A>BA|B2B B>cB|(d3f2):|!
+|:A|d2ef2g|a2ba2f|d2ef2g|a3-a2(g/a/)|!
+b2ga2f|g2ef2e|d2B B>cB|(g3f2)f|!
+d2B B>cB|A2A A>BA|B2B B>cB|(g3f2)f|!
+d2B B>cB|A2A A>BA|B2B B>cB|d3f2:|
+
+X:23
+T:Captn. Mackintosh. JC.023
+R:reel
+S:John Clare,Poet,Helpston. (1793-1864)
+A:Northamptonshire
+Z:vmp.Phil Headford
+M:2/4
+L:1/8
+Q:1/4=120
+K:A
+E|\
+A>BA>B|GEEE|A>BAc|e3c|fddB|eccA|BcdB|AGFE|!
+A>BA>B|GEEE|A>BAc|e3c|fddB|eccA|dBBG|A3:|!
+|:A|e>fe>f|dBBc|d>ed>e|cAAB|EA/B/ cA|EB/c/ dB|ecBA|AGFE|!
+A>BA>B|GEEE|A>Bc>d|e3c|fddB|dccA|dBAG|A3:|
+
+X:24
+T:Jem of Aberdeen. JC.024
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+d|\
+B>cBA|BGGG|A>BAB|cedc|B>cBA|BGGD|Eedc|BGG2|!
+B>cBG|FAd2|B>cBG|FAdA|d>efA|B^cdB|A>BAG|FDDd|!
+d>edB|cAAB|GEEA|F2Dd|d>edB|cAAB|GEFA|D3d|!
+B>cBA|BGGG|dBBB|g3f|e>fef|dBAG|AEEF|G3|]
+
+X:25
+T:Welsh Jigg. JC.025
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:Bb
+ABcc2d|c2B cAF|BcB ded|BcB ded|\
+ABcc2d|c2B A2A|Bcde2d|cBAB3:|!
+|:fdf ece|dBd cAF|B2B dcB|A2Bc3|\
+fdf ece|dBd cAF|dcB gfe|decB3:|
+
+X:26
+T:Dull Care. JC.026
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+[V:1]|:G|c3 d3|e3 z2f|gag (fe)f|e3 z2G|!
+[V:2]|:G|E3 G3|c3 z2d|efe (dc)d|c3 z2G|!
+%
+[V:1]c3 d3|e2z zff|(ef)e dcd|c3 z2:|!
+[V:2]E3 G3|c2z zdd|(cd)c GGF|E3 z2:|!
+%
+[V:1]|:(c/d/)|g2g g2e|f2f f2d|e2e (ed)c|{e}d2z zGG|!
+[V:2]|:z|e2e e2c|d2d d2B|c2c c2E|G2z zGF|!
+%
+[V:1]c3 d3|e3 z2f|(ef)e (dc)d|c3 z2:|!
+[V:2]E3 G3|c3 z2d|GAG (FE)F|E3 z2:|!
+%
+[V:1]|:z|c3 d3|e3 z2f|(ga)g (fef)|e3 z2G|!
+[V:2]|:z|E3 F3|c3 z2d|(ef)e (dc)d|c3 z2G|!
+%
+[V:1]c3 d3|e3 z2f|efe dcd|c3 z2:|!
+[V:2]E3 F3|c3 z2d|cdc GGF|E3 z2:|!
+%
+[V:1]|:(c/d/)|g2g g2e|f2f f2d|eee (ed)c|d2z zGG|!
+[V:2]|:z|e2e e2c|d2d d2B|ccc c2E|G2z zGF|!
+%
+[V:1]c2c ddd|e2e e2f|(ef)e (dc)d|c3 z2:|
+[V:2]E2E GGG|c2c c2d|c2G G2G|G3 z2:|
+
+X:28
+T:White Cockade,The. JC.027
+R:Scots Measure
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon. Variant of JC.102.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=90
+K:F
+f|\
+AF AG/F/|AAAf|cA AG/F/|AG GF/G/|!
+AA AG/A/|{G}FF>fg|(a/g/f/e/) (g/f/e/d/)|cA AA/B/|!
+cAfc|{d}cccd|{d}cB/A/ {g}~fe/f/|gG ~GF/G/|!
+AA AF/A/|FF>fg|(a/g/f/e/) (g/f/e/d/)|cA AA/B/|!
+~cAfA|cccd|{d}cB/A/ fe/f/|gG GF/G/|!
+AA/c/ {B}AG/A/|FF>fg|(a/g/f/e/) (g/f/e/d/)|cAF|]
+
+X:29
+T:La Bel Jean. JC.028
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+Z:vmp.P. Headford
+A:Northampto2/4=90nshire
+M:2/4
+L:1/8
+Q:1/4=90
+K:G
+G>ABB|\
+ccA2|d/e/d/c/ B/c/B/A/|G/A/B/c/ BA|!
+G>ABB|ccA2|d/e/d/c/ BG|B/A/G/F/ G2|!
+|G/A/B/c/ dB|cdBG|G/A/B/c/ dB|cdg2|!
+G/A/B/c/ dB|cdBG|G/A/B/c/ dB|cdg2|]
+
+X:30
+T:Montrose’s Reel. JC.029
+R:reel
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:G
+GG/G/ BG dGBG|\
+GG/G/ BG d3B|(3cdc .e.c (3BcB .d.B| ABcA GFED|!
+GG/G/ BG dGBG|GG/G/ BG d3B|cc/c/ ec BB/B/ dB|cAGFG2G2:|!
+|:(3gag b2 (3efe g2|d>edB AFD2|(3gag bg (3efe gf|dBcA GG/G/G2:|
+
+X:31
+T:Maid of Skylight. JC.030
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=60
+K:G
+d/c/|\
+Bcd gec|BBc d2d|c>Bc BGd|c>Bc B2B|!
+c>dc cAF|d>ed dBG|ecd efg|dBG d2d|gdB gec|!
+dBG c2c|Bdg dBG|A2A B2d|gfg dBG|A2A B2|]
+
+X:32
+T:Stopford’s Reel. JC.031
+R:reel
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=80
+K:A
+e|dcBA{cd}e2{fg}a2|cBAc B/B/B ” crots in ms”Be|\
+dcBA c/4d/4e3/2 f/4g/4a3/2|E>dcB A/A/A A:|!
+|:z|CEAE ~cE e>c|{c/}BABc AFFE|CEAE cE e>c|B>ABc A/A/A AE|!
+CEAE cE e>c|dcBA F3d|c/4d/4e3/2 f/4g/4a3/2 A/4B/4c3/2 c/4d/4e3/2|\
+E>dcB A/A/A A:|
+
+X:33
+T:Cassano,The. JC.032
+R:Quadrille
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+“_Key D in MS”\
+B2A B2A|G2G GAB|c2B c2B|A2A A2B|!
+c2c cde|edB Bcd|dcB A2B|G2G G3:|!
+|:d2d dBG|e2e e3|c2c cAF|d2d d3|!
+G2D B2G|dB2 fd2|edc BAG|A2D D3|!
+B2A B2A|G2G GAB|c2B c2B|A2A A2B|!
+c2c cde|edc Bcd|dcB A2B|G2G G3:|
+
+X:34
+T:Marionets. JC.033
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+G2B dBd|\
+ece d3|cAc BGB|AFA G2D|!
+G2B dBd|ece d3|cAc BGB|AFA G3:|!
+|:B3 B3|BAB c3|B2c d2c|B2A G2D|!
+B3 B3|BAB c3|B2c d2c|BcA G3:|
+
+X:35
+T:Lincolnshire Rangers. JC.034
+R:March/Quickstep
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+N:Sounds like Begone Dull Care.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+” Crot in MS”\
+D|GDG BGB|d3 c3|BdB AGA|G3 G2:|!
+|:” Crot in MS”d|dBd dBd|e3 c3|Bcd {e}dcB|B3 A2D|!
+GDG BGB|d3 c3|BdB AGA|G3- G2:|
+
+X:36
+T:Asleys Hornpipe. JC.035
+T:Ashley’s Hornpipe, aka. JC.035
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+GABc edcB|\
+agfed3c|BdBG cecA|BdBG GFED|!
+GABc edcB|agfed3c|BdBG cecA|G2F2G2:|!
+|:z2|defg fafd|gbge fafd|defg acc2|BdBG FAFD|!
+BdBG cecA|fafd gbge|fgfe dcBA|G2F2G4:|
+
+X:37
+T:Downs,The. JC.036
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=75
+K:G
+DG GGG2″ Qu”B2|\
+AF ABA2Bc|d2de dcBA|G2GG G4:|!
+|:d2dB d4|e2ec e4|E2EF G2GA|BcBA GFED|!
+d2dB d4|e2ec e4|E2EF G2GA|BcBA GFED|!
+GGGG AAAA|BABc d3z|d2de dcBA|G2″ Crots”GG G4:|
+
+X:38
+T:Rakes of Mellow. JC.037
+T:Rakes of Mallow, aka. JC.037
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=75
+K:G
+GBGB GB (dA/G/)|FAFA FA (cB/A/)|\
+GBGB GB (cB/A/)|cBAG FA|G/G/G G2:|!
+|:” as writ”gfe dc Bcd|gfe dc BcdA2|\
+gfe dc BGd2|cBAG FA G/G/GG2:|
+
+X:39
+T:Cassano,The. JC.038
+R:Quadrille
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+f2e f2e|\
+d2d def|g2f g2f|e2e e2f|!
+g2g gab|baf fga|agf e2f|d2d d3:|!
+|:a2a afd|b2b b3|g2g gec|a2a a3|!
+d2A f2d|af2 c’a2|bag fed|e2A A3|!
+f2e f2e|d2d def|g2f g2f|e2e e2f|!
+g2g gab|bag fga|agf e2f|d2d d3:|
+
+X:40
+T:Hearts of Oak. JC.039
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR> bar 8 an unnecessary Fsharp accidental omitted. bar 9, bottom note
+N:of chord unclear,here given as C.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=75
+K:D
+” Crot”A|d2d d d2f e|d2c B A2zA|\
+B2B c d2d e|f2g e f2zA|d2F G A2B c|!
+d2F G A2ze|f2e d a2c d|e2e E A2z/A/G/F/|\
+EDCB, [C2c2]e3/ e/|e2c d e2f3/ f/|!
+f2d3/ e/ f2zf|(ed) c f d Bz2|d d3/4A2F/4 D3/zA|\
+(Bc) d e f2 e d|a2A c d2z|]
+
+X:41
+T:Betty Brown. JC.040
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Most of the quavers are separated in the MS , but I have beamed them
+N:for clarity. It makes no difference to the tune.CGP.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=60
+K:G
+DD|\
+G2Bd c2AF|(DF) AF G3A|B2GB A2Bg|(fe) dc d3d|!
+g2d=f e2ce|(dB) AG A3d|B2cd e3g|B2cA G4|!
+g2fe d4|e2dc {c}B3c|(dB) AG e2fg|B2BA G2|]
+
+X:42
+T:Tikeli. JC.041
+T:Tekeli, aka. JC.041
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+d2d dcd|\
+BcdA2A|ABc def|g2ec2A|!
+d2d dcd|BcdA2A|ABc def|gecd3:|!
+|:d2ef2f|fgfe2d|{e}e2d{f}e2d|{f}e2de2f|!
+d2ef2f|fgfe2d|e2de2f|d3d2z:|
+
+X:43
+T:Morgiana. JC.042
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:Chris Partington.
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+d|\
+dBd {ga}b2a|gfed2e|dB.d gd.b|c’-b.a a-g.e|!
+dBdb2a|gfed2e|d-B.d g-d.g|ba.fg2|!
+|a|aba gfe|dddc’2d|b-d.d g-d.d|bd.d ” Crot”a3|!
+aba gfe|eddc’2d|bd.d g-d.d|agf edc|!
+BGAB2d|BGAB2d|c2eB2d|A3-Adc|!
+BGAB2d|BGAB2d|e2gf2a|g3g2|]
+
+X:44
+T:Self,The. JC.043
+T:Sylph,The, aka. JC.043
+T:Plymouth Lasses, aka. JC.043
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|\
+AFA dfa|agf e2g|fag fed| cee e2A|!
+AFA dfa|agfe2g|fad egc|dddd2:|!
+|:a|fad’ d’c’b|baff2d|f/g/ad f/g/ad|ceee2e|!
+fad’ d’c’b|bagf2d|f/g/af gec|dddd2:|
+
+X:45
+T:Burdett,The. JC.044
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|\
+d2df2a|gfge2a|f2dB2e|cBcA2A|!
+d2df2a|gfge2a|afd gec|d2fd2:|!
+|:A|d2d cBc|B2BB2B|e2e dcd|c2cc2A|!
+dcd ede|fef gfg|afd gec|d2fd2:|
+
+X:46
+T:Rule Britannia. JC.045
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:D
+A2|\
+d2d2d/e/f/g/ ad|e2ef/g/f2zA|d/c/d/e/ f/e/f/g/ aefe|!
+de/f/ ed{d}c2zA|cAec ag/f/ ed|c2~B2A2z2|d2dA BGzd|!
+gfedA2ze|a2g2f/d/g/e/ a/f/e/d/|A2~e2d2z2|!
+|:f3f ggzf|gfedA2z2|a2g2f/d/g/e/ a/f/e/d/|A2~e2d2:|
+
+X:47
+T:Miss Crioux’s Reel. JC.046
+R:Strathspey
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:D
+A|(f>e) (d<A) (B<d)(B<d)|(A<d)(f<d)e2A2|\
+(f>e) (d<A) (B<d)(B<d)|(A<d)(f<e)d2:|!
+(c>d)|(e<a)(g<a) (f<a)(g<a)|(g<a)(g<e)f2d2|\
+e<a^g<a f<df<a|((3^gba) ((3gfe) a2A2|!
+(f<e)(d<A) (B<d)(B<d)|(A<d)(f<d)e2A2|\
+(f<e)(d<A) (B<d)(B<d)|(A<d)(f<e)d2|]
+
+X:48
+T:Coolan. JC.047
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:A beautiful Irish tune for the bellows pipes.CGP.
+N:Song text exists.(or not). See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/4
+L:1/16
+Q:1/4=80
+K:D
+A3B/c/|\
+d4 d3f{f} e2dc|d4A4 D3F/A/|d3c d3f/g/ e3d|!
+d4{ed}c4 d3c|B4 B2cd {e}d2cB|\
+A4F3A d3A|{c}B2AG F3DE4{DE}|D8:|!
+|:A3G|F3E D3E F3G|\
+A3G A3B A3B/c/|d3c d3e/f/ e3d|d4{ed}c4 d3c|!
+B4B2cd {e}d2cB|\
+A4F3A B3A|{c}B2AG F3DE4{EF}|D8:|
+
+X:49
+T:Recovery,The. JC.048
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=90
+K:D
+AdAd|\
+e/d/e/f/ ee|agec|d/c/d/e/ dd|!
+AdAd|e/d/e/f/ ee|agec|dfd2|!
+|agec|dfdA|GG G/F/G/A/|G2Fz|!
+agec|dfdA|GF/G/ A/G/F/E/|D2z2|!
+|ff/f/ ff|f3g|fedc|d/c/d/e/f2|!
+ee/e/ ee|e3f|edcB|A2z2|]
+
+X:50
+T:Adieu My Native Land Adieu. JC.049
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:D
+[V:1]A|d3f (fe)(gf)|(fe)(dc) d3A|B2d2 A2d2|e/d/(c/d/ e)f{f}e3A|!
+[V:2]A|F3d (dc)(ed)|(AG)(FE) F3F|G2B2 F2A2|c/(B/A/B/ c)d{d}c3A|!
+%
+[V:1]d3f (fe)(gf)|(fe)(dc) d3A|(B/c/d/c/ e/)d/(c/B/) Ad(fa)|geBc d3||!
+[V:2]F3d (dc)(ed)|(AG)(FE) F3F|(G/A/B/A/ c/)(B/A/G/)F2(df)|B2GE F3||!
+%
+[V:1]f|eA^GB A3f|eA^GB {B}A3^e|(fc)(dA) BFGG|!
+[V:2]d|c2(Bd) c3d|c2(Bd) {d}c3^e|(fc)(dA) BFGz|!
+%
+[V:1]g3f e3d|c3d e3A|g3f {f}e3d|”^DC”c3d A3|]
+[V:2]AAAA AAAA|AAAA AAAz|e3d {d}c3d|E3D A3|]
+
+X:52
+T:Miss Hills Favourite. JC.050
+R:.Hornpipe
+N:Not quite a Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=80
+K:G
+G>Bd>B d>Bc>A|G>Bd>B d>Bc>A|\
+G>Bd>B e>cA>G|F>GA>F D>dc>A|!
+G>Bd>B d>Bc>A|G>Bd>B d>Bc>A|\
+G>ed>c B>AG>F|G>FG>A G2z2:|!
+|:F>GA>B c>Bc>A|G>AB>c d>cd>c|\
+e>AB>c d>GA>B|c>BA>G F>dc>A|!
+G>AB>c d>Bc>A|G>AB>c d>Bc>A|\
+d>Bg>f e>ca>g|f>ga>b g2z2|]
+
+X:53
+T:Quick Step in the Battle of Prague. JC.051
+R:March
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+“_Time Sig 6/8 in MS”\
+a>gff|f>edd|edec|d/e/ f/e/ d/e/f/g/|!
+a>gff|f>edd|eded|d2-d2:|!
+|:e2f2|gg/f/ ee|f2g2|aa/g/ fa|!
+afgf|afgf|ab/a/ gf|f2e2:|
+
+X:54
+T:Morgiana in Ireland. JC.052
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A2A d2d|ede f2B|A2A d2e|\
+f2g fdB|A2A d2d|ede f2b|!
+bag fge|d2e fdB|a2a agf|\
+b2c’d’3|aba agf|b2c’ d’af|!
+aba agf|bc’b bc’d’|abg fge|\
+d2e fdB|dcd f<az|ede g<bz|!
+dcd f2g|f2g fdB|dcd f<az|\
+” qu”g<bz f<az|b<d’z f<az|d2e fdB|]
+
+X:55
+T:Lullaby,The. JC.053
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=50
+K:D
+d2f|\
+(af)d Bcd|A2F (A>B)c|d2e fed|({f}e2A).d2f|!
+(af)d (B>” qu”c)d|A2F (A>B)c|d2{ef}g (f>g)e|d3d/e/ (f2|!
+e/c/)A2d/B/(G2|” qu’s”A/F/)D2(ce)g|(fd)BA2AF2z2|]
+
+X:56
+T:Fal lal la. JC.054
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists.(or not). See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=60
+K:D
+d|aa.f.f|.d.d (d/4e/4)f/z|\
+.g.g.fz/d/|c3/4d/4e3/4f/4 ez/4e/4|!
+.a.a.f.f|.d.d d/4(e/4f/)z|.g.g.fz/d/|!
+e3/4d/4e3/4f/4 dz/a/|efga|efgb|afaz/a/|!
+a((3a/b/g/) f((3f/g/e/)|\
+dd (d/4e/4f/)z|.g.gfz/d/|e3/4d/4e3/4f/4 d|]
+
+X:57
+T:Marquis Wellinton. JC.055
+R:March
+S:John Clare,Poet,Helpston. (1793-1864)
+N:See tune 185.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=70
+K:D
+a/g/|\
+f2d {e}dcd|e2A A2c|d2e f2g|a2b a2g|!
+f2d {e}dcd|e2″ sic”A2Ac|d2e f2g|e2c d2:|!
+a|g2a gab|a2g f2a|b2a gab|a2g f2a|!
+bag agf|gfe fed|cde fed|cde Aag|!
+f2d {e}dcd|e2A A2c|d2e f2g|a2b a2g|!
+f2d {e}dcd|e2A A2c|d2e f2g|e2d d2|]
+
+X:58
+T:Tink a tink. JC.056
+R:reel
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+G2d>B|G2d>B|c>dc>B|A>GF2|\
+G2d>B|G2d>B|c>AG>F|G2z2:|!
+|:d2″ qu”g>f|e>dc>B|” Qu’s”A>Bc>d|B2G2|\
+d2g>f|e>dc>B|A>cF>A|G2z2:|
+
+X:59
+T:Opera Hat. JC.057
+T:Russian,The, aka JC.057
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=90
+K:D
+(Ad)|f2(Ad) f2(Af)|gafg e2(Ac)|\
+e2(Ac) e2(de)|(fg)(ef) d2:|!
+|:(ag)|f2(fe) d2d’c’|(b^f)(ba) (ba)(gf)|\
+(ef)(de) (ce)ac|{e}(dc)(de) d2:|
+
+X:60
+T:March in Ladoiska. JC.058
+R:March
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR.Bar 7,a dot has been added to the first quaver.
+N:Bar 16, a quaver rest in the Ms has been omitted.
+N:Bar 23, 2nd note, qu in MS, is given as semi qu,
+N:and the QU REST CHANGED TO A CROTCHET REST.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=75
+K:D
+d4z>AB>c|\
+e4z>AB>c|d2~e2{(de)}f>ed>f|e>dc>B A>Bc>A|!
+d4z>AB>c|d4z>AB>c|d2~e2{(de)}f>ed>f|e2z2A>Bc>d|!
+.e2.a2.a2.a2|a>gf>e d>ef>d|.A2.A2.A2B>c|d>cd>e f>ed>f|!
+ezazazaz|a>gf>ed2d’2|d2d’2a>gf>e|(d4d’2)z2|!
+.A2.a2.a2.a2|a>gf>e d>ef>d|A2A2A2B>c|d>cd>e f>ed>f|!
+ezazazaz|a>gf>ed2{c’}d’2|d3/ {c’}d/’z2a>gf>e|d6z2|]
+
+X:61
+T:Bobbing Joan. JC.059
+R:thp 16 triple hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR.Bars 1 & 2, dot added to the fourth note.
+N:Song text exists.(or not). See Deacon.
+N:Best used as a 16-bar triple hornpipe.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/4
+L:1/8
+Q:1/4=140
+K:D
+e<cc<Ac2|e<cc<A Bd|\
+eccAc2|G/A/B/c/ dG Bd:|!
+|:cegce2|cefc eg|aegd d2|GBdG Bd:|
+W:This is the triple hornpipe, not the Morris tune.
+
+X:62
+T:March in Scipio. JC.060
+R:March
+C:G.F.Handel
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=75
+K:D
+DE|F4 A4|d6 DE|FGAB A2GF|E6 A2|\
+Bcd2 c2B2|A4 G4|FEDE E3D|D6:|!
+|:f2|e2d2 cde2|A4 G4|F2GF E2D2|A6 e2|\
+BABc B2B2|B4 B2c2|d2c3/B/ c2B3/A/|A6 G2|!
+FEFG F2E2|G4 F4|B2A2 G2F2|E6 A2|\
+Bcd2 c2B2|A4 G4|FEDG E3D|D6:|
+
+X:63
+T:Bedfordshire March. JC.061
+R:March
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR. Bars 7,15.17.18.19, the 3over the triple qu’s missing.Except for
+N:bar 17 there are slurs over in the MS at each 3 note Phrase.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=75
+K:G
+d2d>d d2c2|B2B>B B2A2|\
+(G3A/)B/ A3.B/c/|B2B>B B2A>B|!
+c2B2 d2cB|c3d/e/ d2c2|\
+((3BAB) ((3cBA) G2~A2|G.GG>G G2:|!
+|:d2A>A A2B2|A>GA>B A2B2|\
+c2B2 A2G2|A2A>A A2B>c|!
+d2Bc d2ec|d2Bc d2ec|\
+d>Bc>A ((3BAG) ((3dcB)|B2A>A A2D2|!
+G2((3GAB) A2((3ABc)|B2((3Bcd) c2((3cde)|\
+((3dgf) ((3gec) B2~A2|G2G>G G2:|
+
+X:64
+T:Ere Around The Huge Oak. JC.062
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:GM gone mad
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=60
+K:G
+B/c/|d>ed cBA|d>ed cBA|\
+BdG d3/2c/B/A/|GG/G/G/G/ G2|!
+|B/c/|d>ed cBA|d>ed cBA|BdG AcF|G3-G2{c}B/ {A}G/|!
+ADD Dd/c/B/A/|BGG Gg/=f/e/d/|eAc B>cA|B3d2d|!
+b gd d3/2-c/B/A/|GG/G/G/G/ AA/A/A/A/|\
+BGB d3/2-c/B/A/|GG/G/G/G/G2|]
+
+X:65
+T:Beggar Girl,The . JC.063
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=60
+K:G
+d>cB d>cB|A>GA B2z|\
+d>cB d>cB|A>GA G2d|!
+d>cB d>cB|A>GA B>cd|\
+d>cB d>cB|{B}A>GA G2z:|!
+|:DGB DAc|DcB {B}AGA|\
+DGF E2c3/4c/4|BGF d2z|!
+d>cB d>cB|A>GA B>cd|\
+d>cB efg|B>cA G2z:|
+W:Song text exists. See Deacon.
+
+X:66
+T:Cuckoo,The. JC.064
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+G3A B2G2|c2e2 d2z2|g3e d3B|\
+AGAB A2z2|G3A B2G2|c2e2 d2z2|!
+g3e d3B|{B}AGAB G2z2|g3a g2f2|\
+e2g2 d2z2|c3e d2c2|B3c d2z2|!
+g3a g2f2|e2g2 d2z2|c2A2 B2G2|\
+F2A2 A4|G3A B2G2|c2e2 d2z2|!
+g3e d3B|AG(AB) G4|gdz2 gdz2|\
+gdz2 gdz2|g3e d3B|{B}AG(AB) G4|]
+
+X:67
+T:Heaving of the Lead. JC.065
+R:Air
+C:Charles Dibdin
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR.Bar 14 following the dotted qu, the qu in the
+N:MS is given as a semi-qu.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:G
+G>A|B2B2A2c>A|G2F2G2zD|\
+(GA)(Bc)d2zd|ef(ge){e}d2zd|!
+g3fe3d|(^cB)(AG){G}F2zA|\
+d2d2(Be)(fg)|d2^c2d2zd|!
+g3g (gf2)f|(ge)e2{e}d2zd|\
+(dB2)e (cA2)d|BG2^cd4|!
+G>GA2G4|B>Bc2B3B|\
+(Ae)(dc) (cB)(dB)|(Ae)(dc) (cB)(dB)|!
+(cB)(AB) (cB)(cd)|(ed)(ef)g4|\
+B3c{B}A4|G2z2z2|]
+
+X:68
+T:Self,The. JC.066
+T:Sylph,The, aka. JC.066
+T:Plymouth Lasses, aka JC.066
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+D|\
+DB,D GBd|dcB A2c|Bdc BAG|FAA A2D|!
+DB,D GBd|dcBA2c|BdG AcF|GGGG2:|!
+|:d|Bdg gfe|edBB2G|B/c/dG B/c/dG|FAAA2A|!
+Bdg gfe|edcB2G|B/c/dB cAF|GGGG2:|
+
+X:69
+T:Morgiana in Ireland. JC.067
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Same as JC.052, but in E.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:E
+B2B e2e|fef g2c|B2B e2f|\
+g2a gec|B2B e2e|fef g2c’|!
+c’ba gaf|e2f gec|b2b bag|\
+c’2d’e’3|bc’b bag|c’2d’ e’bg|!
+bc’b bag|c’d’c’ c’d’e’|bc’a gaf|\
+e2f gec|ede g<bz|fef a<c’z|!
+ede g2a|g2a gec|ede g<bz|\
+a<c’z g<bz|c'<e’z g<bz|e2f gec|]
+
+X:70
+T:Opera Hat. JC.068
+T:Russian,The, aka. JC.068
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=90
+K:G
+(DG)|B2(DG) B2(DB)|cdBc A2(DF)|\
+A2(DF) A2(GA)|(Bc)(AB) G2:|!
+|:(dc)|B2(BA) G2gf|(eB)(ed) (ed)(cB)|\
+(AB)(GA) (FA)dF|{A}(GF)(GA) G2:|
+
+X:71
+T:George 2nd. JC.069
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists.(or not). See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/4
+L:1/8
+Q:2/4=60
+K:D
+F2|\
+B3cB2 ^A3^G ^A|B3cB2 F4Bc|d3ed2 A3Bc2|d3-d2|!
+|A A|d2c2d2 (e3d)e2|f2e2d2 c2d2e2|d3cB2 c3B^A2|!
+(B3c)B2 F4=A A|F3ED2 d3cd2|B6- B4A A|d2c2d2 (e3d)e2|!
+f2e2d2 c2d2e2|d3cB2 c3B^A2|\
+(B3c)B2 F4=A A|F3ED2 d2c2d2|B6- B4|]
+
+X:72
+T:Ita: Minfreda. JC.070
+T:Monferina, aka. JC.070
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Title is given as “Ita: Minfreda”
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+D|\
+FAB BcA|AGG G2(B/c/)|dBG GAF|AGG G2D|!
+GAB BcA|AGG G2G|GFF FGA|{B}AGG G2:|!
+|:g|gfg afc|cBd d2g|gfg afc|cBd d2d|!
+{g}gf{g}g gfg|ece efg|ded cBA|AGG G2:|
+
+X:73
+T:Come to the Bower. JC.071
+T:Vandalls of Hammerwich, aka. JC.071
+T:Will You Come To The Bower, aka. JC.071
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+B/c/|\
+d2dd|d3d|dgfe|{e}d2zd|\
+(dc)cc|(cB)BB|dcAB|G2z|!
+|z|GBBB|GBBB|d2c>c|B2z2|GBBB|GB dg|!
+dBcA|G2zg|(gd)dd|(dB)BB|(cA)AA|G2z|]
+
+X:74
+T:Rowley. JC.072
+T:Frog He Would A-Wooing Go, aka. JC.072
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=80
+K:D
+A|\
+d2dA2A|F2AD3|d3f2d|\
+ce2z2A|B2Bd2B|A2GF3|!
+BAB dcB|ABG FGA|G2BF2A|\
+EFG ABc|d2A ABG|FDz2{c}{c}|]
+
+X:75
+T:Money Musk. JC.073
+R:reel
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=75
+K:G
+e|\
+d>GB>G d>Gc>e|d>GB>G AB/A/ c>e|\
+d>GB>G B>dd>g|e>cA>d B>GG:|!
+|:e/f/|g>dB>g d>gB>g|g>dc>g B>gA>f|\
+g>de>g d>gB>g|e>cA>d B.GG:|
+
+X:76
+T:Hearts &c. JC.074
+T:Hearts of Oak, aka. JC.074
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:D
+A2|\
+d2ddd2fe|d2cBA2zA|B2Bcd2de|f2gef2zA|d2FGA2Bc|!
+d2GGA2ze|f2eda2cd|e2eEA2e>e|e2c>de2f>f|f2d>ef2zf|!
+edcf dBz2|d<dA2F<DzA|Bcdef2(ed)|a2Acd2z2|]
+
+X:77
+T:Bugle Horn. JC.075
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=80
+K:D
+a|\
+gffd|d2AA|ddee|(f/e/f/g/) ea|!
+affd|d2AA|ee (e/d/e/f/)|d2d:|!
+|:f|d2Af|d2Af|dfdf|d2Aa|!
+affd|d2Af|eeef|d2d:|
+
+X:78
+T:Speed the Plough. JC.076
+R:reel
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists,(or not). See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=120
+K:G
+.G2GB (de).d.B|(de).d.B (dg).d.B|\
+.c2(cA) B2BG|(AB)(AG) (FA)(AB)|!
+.G2GB (de).d.B|(de).d.B (dg).d.B|\
+(cd).c.A (Bc).B.A|E>GF>AG4:|!
+g3(f g)(GB).d|(gb)(fa) (eg)(dg)|\
+(ce).c.A (Bd).B.G|(AB)AG (EA)(AB)|!
+GB(dg) (gd).B.G|(ec).A.F (dB).G.B|\
+(cd).B.c (AB)(GA)|E>GF>AG4:|
+
+X:79
+T:Jockey to the Fair. JC.077
+R:air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+D|\
+G2A B2c|d2g d2c|(Bd)G (GF)G|AB/c/ BA2d|!
+(d^c)(d e)fg|(fa)f e2g|f(ed) (Ad)^c|d3- d2:|!
+|:d|(af)d (af)d|c2c B2c|(df)d (dg)d|c2c B2B|!
+e2f g2f|e2f B2e|e^de B2A|G2F E2F|G2G G2B|!
+d3 g3|dBG A2B|E2F G2A|B2g (Bc)A|G3- G2:|
+
+X:80
+T:Storm,The. JC.078
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+B>d|\
+c2(BA)(GF)|G2A2B>d|c2B2A>F|G4Bd|c2BAGF|!
+G2A2Bd|c2B2AF|G2zBcB|e2(ed)(cB)|\
+A2A2BA|G2(FE) (FG/A/)|!
+D4AB|c2BAdF|(GA/B/)A2g(f/e/)|d2(cB)(cA)|G4|]
+
+X:81
+T:Russian,The. JC.079
+T:Opera Hat, aka. JC.079
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+.D.G|B2.D.G|A2DG|(cd)(Bc)|A2.D.F|\
+A2.D.F|A2(dc)|(Bc)(AB)|G2:|!
+|:dc|B2(BA)|G2(gf)|(e^d)(ef)|e2cA|\
+.A2(AG)|(EA)dF|(GF)(GA)|G2:|!
+|:DG|(BG).d.g|bg .DB|(cd) (Bc)|(BA) .D.F|\
+(AF) .d.f|(af) .g.c|Bc AB|G2:|!
+|:d>c|(BG) (BA)|.Gfg(f|e)^d(ef)|e2cB|\
+AFAG|FAdF|GFGA|G2:|
+
+X:82
+T:Paddy Wack. JC.081
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR. qu rest added to 1st double bar lines.Bar 16, the last note is
+N:dotted crot in MS.
+N:Song text exists,(or not). See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+D|\
+GBd gfg|edc BAG|GBd gfg|fdd def|!
+gfg fdB|cec dBG|GBd cAc|BGG G2:|!
+|:z|BBB ccc|dBGA2G|Bcd efg|fdd def|!
+gfg fdB|cec dBG|GBd cAc|BGGG2:|
+
+X:83
+T:Secilian,The. JC.082
+T:Sicilian,The, aka. JC.082
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+f2f efg|afdc2A|\
+FAd GBd|efg{f}e3|!
+f2f efg|afdc2A|FAd Bag|edcd3:|!
+|:afd ecA|afd ecA|afd Bgf|efd cBA|!
+afd ecA|afd ecA|afd dgf|edcd3:|
+
+X:84
+T:Dusty Miller. JC.084
+R:Triple Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Tunes from JC.084 to JC.247 are in MS.13.
+N:MS includes Dance Instructions. Song text exists.
+N:See Deacon. Best used as triple hornpipe.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/4
+L:1/4
+Q:1/2=140
+K:G
+B>cdB AG|FAAc BA|\
+B>cdB AG|DGGB AG:|!
+|:B>cde fg|aAAc BA|B>cde ” tr”f3/2e/4f/4|g>agB AG:|
+
+X:85
+T:Irish Union. JC.085
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+d/c/|\
+BGG AGG|dBG AGG|BAG dBG|eAAA2″ Qu’s”(d/c/)|!
+BGG EGG|DGG BGG|cec BdB|AGA A/B/c:|!
+|:c|BAG dBG|dBG B>AG|BAG dBG|EAAA2c|!
+BGB dBd|gfe dcB|cec BdB|AGA {(AB)}c2:|
+
+X:86
+T:Bedford Races. JC.086
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+d|\
+[G2D2B2g2]d BAG|ABc BAG|g2d BAG|BcAG2:|!
+|:E|DEF GAB|ABc Bcd|def gdc|BcAG2:|
+
+X:87
+T:Dorset Shire March. JC.087
+R:march
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR. Bars 9,13,16 following the dotted qu,The qu in the Ms is given as a
+N:semi-qu.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=75
+K:D
+D2|\
+F2DFA2FA|d2Adf2df|a2bag2f2|e2eee2D2|!
+F2DFA2FA|Bcde dcBA|Bcdg f2e2|d2d>dd2:|!
+|:A2|d>efd d>efd|AF dB AFED|GAdc BAGF|E2EE ” qu”E2D2|!
+” qu”F2DFA2F>A|B2ge dcBA|Bbagf2e2|d2d>dd2:|
+
+X:88
+T:Persian Ricardo. JC.088
+T:Galopede, aka. JC.088
+T:Yarmouth Reel, aka. JC.088
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=100
+K:G
+dc|\
+B2Bc A2AB|G2G2G2 AB|c2cd B2Bc|A2A2A2dc|!
+B2Bc A2AB|G2G2G2 AB|cBAG FGAB|G2G2G2||!
+dc|B2gf e2ed|(dcBc) A2 dc|B2gf edcB|A2A2A2 dc|!
+B2gf e2ed|dcBc A2 dc|BdcB AcBA|G2G2G2||!
+Bc|d2d2d2g2|d2d2d2g2|d2d2 edcB|c2A2A2 Bc|!
+d2d2d2g2|d2d2d2g2|d2Bd dcBA|G2G2G2|]
+
+X:89
+T:Michael Wiggens. JC.089
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|\
+dfe dcB|ABA AFA|DFA Bfa|baf e2A|!
+dfe dcB|ABA AFA|DFA Bda|gfed2||!
+f|afd dfa|b2a g2f|gab afd|cee efg|!
+agd dfa|b2a g2f|gba gfe|fdd d2||!
+g|fdf ece|dBd {B}AFD|EFE EFA|agf e2g|!
+fdf ece|dBd {B}AFD|DFA Bgf|edc d2|]
+
+X:90
+T:Lord Fitz Williams March,(unedited). JC.090
+R:march
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Bars 5,6,7,following dotted qu, the qu in MS given as semi-qu.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:4/4
+L:1/8
+Q:2/4=75
+K:C
+“_As Written”dB|\
+M:6/8
+GGG BAc|BB Bdce|dgfe dcBA|G2GG G2:|!
+|:Bc|d>dd d>gfe|d2d>d d>Bc|dB>GB dB>GB|A2AA A2dB|!
+G2G2 (GBAc)|B2B2 (Bdce)|dgfe dcBA|G2GG G2:|
+W:Tune drifts back into 4/4 after the first two bars.
+
+X:91
+T:Ploughman,The. JC.091
+R:reel
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR. Bars 1,3,7; following the dotted qu, the qu in the
+N:MS is given as semi-qu. MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=70
+K:D
+D|\
+FA-AF G>FED|FA-AA dA=c2|B>ABd ceEG|FAGB A2D:|!
+|:c|dABF G>FEG|FABc d2Ac|d>BAF G>FEF|FABd A2D:|
+
+X:92
+T:Bang Up. JC.092
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|\
+d2df2f|a2af2d|g2ef2d|cde ABc|!
+d2df2f|a2af2d|g2ef2d|cBAd2||!
+A|F2AE2A|F2Ad2c|B2dA2d|G2e cBA|!
+F2AE2A|F2Ad2c|Bcd ABc|d3-d2||!
+A|f2ed2c|B2AG2F|G2AB2e|dcBA2A|!
+f2e{e}d2c|{c}B2AG2F|G2BA2F|GFED2|]
+
+X:93
+T:O.P.,The. JC.093
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:The Old Prices..
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:Bb
+B3F3|\
+B3F3|Bdf fed|cdB ABc|!
+B3F3|B3F3|Bdf ecA|B2dB3:|!
+f2f fdB|g2g gab|fgf fed|cdc cde|!
+f2f fed|g2g gab|agf cd^e|fg_e de” DC”c|]
+
+X:94
+T:Lord Cathcart,(Haydn). JC.094
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:Bb
+F|\
+FBdf2f|fedc2e|dBf ecg|(B3A2)F|!
+FBdf2f|fedc2d|edB dcA|(c3B2)|!
+|f|fgab2b|bagf2^f|ged ceg|(B3A2)B|!
+cd=e fga|d3b2a|agf =efg|fg=e fga|!
+bfd Bdf|fedc2e|(dB).f (ec).g|(B3A2)F|!
+Bdff2f|fed{d}c2e|edB dcA|(c3B2)|]
+
+X:95
+T:Sleepy Maggie. JC.095
+R:reel
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+f2Bd fBde|f2df eAce|\
+f2de fBde|fgaf eAce:|!
+|:fBdB fBde|fBdB eAce|\
+fBdB fBde|f^gaf eAce:|
+
+X:96
+T:Sadlors Baloon. JC.096
+T:Saddler’s Balloon, aka. JC.096
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Saddler was a noted balloonist at the beginning of the 19thC, giving
+N:public demonstrations of his flying skills all over the country. CGP.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+D2F” crot”A3|\
+d2fd2 ” qu’s”A/F/|G2B e2d|cBA GFE|!
+D2F Ad2|f2d A2F|G2e cBA|” crots”c3 d3:|!
+|:A2c e2c|A2d f2d|A2e g2e|(fed) (cBA)|!
+d2A e2A|f2A g2e|(fed) (cBA)|” crots”d3 d3:|
+
+X:97
+T:Italian Momfreda. JC.097
+R:jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:A
+E|\
+ABc cdB|BAAA2e|(eG)G GAB|BAAA2:|!
+a|agbb2e|dcee2a|agbb2e|dcee2a|!
+aga aga|fga agf|efe dcB|BAAA2|]
+
+X:98
+T:Trip to Holland. JC.098
+R:Slip Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:9/8
+L:1/8
+Q:3/8=120
+K:D
+d2e Bed cBA|d2e ced cBA|\
+B2c d2e fdB|A2B c2d ecA|!
+d2e Bed cBA|d2e Bed cBA|\
+B2c d2e fdB|A2B c2d ecA:|!
+|:a2^g af^d Bdf|g2f gec Ace|\
+f2g f2e dcB|e2g e2d cBA|!
+d2e Bed cBA|d2e Bed cBA|\
+B2c d2e fdB|e2g e2d cBA:|
+
+X:99
+T:Bath Waltz. JC.099
+R:Waltz
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:Chris Partington.
+M:3/8
+L:1/8
+Q:1/8=120
+K:Bb
+“_Key F in MS”\
+2F(dB)|F(dB)|{e}e2c/B/|Ac/A/F|\
+FdB|FdB|{e}e2c/A/|B3:|!
+|:ff/g/a/b/|f2d|c/B/c/d/e/f/|dBB|\
+ff/g/a/b/|f2d|ecA|B3:|
+
+X:100
+T:Red Lyon Hornpipe. JC.100
+R:Triple Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/2
+L:1/8
+Q:1/8=300
+K:D
+“_Key Sig 3/9 in MS”\
+dfdf FGAFG2E2|dfdf Adced2D2|!
+dfdf FGAFG2ba|fedc Adced2D2:|!
+|:dfgf dfedc2A2|FAdA BABGF2D2|!
+dfgf dfedc2A2|GAdF Edced4:|
+
+X:101
+T:Bath Waltz. JC.101
+R:Waltz
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/8
+L:1/8
+Q:1/8=120
+K:Bb
+(3(F/G/A/)|\
+BBB|B2F/B/|ddd|d2B/d/|!
+f2d/B/|g2e/c/|AA/B/c/A/|B2:|!
+|:(d/f/)|(f/e/)e (c/A/)|\
+(c/B/)B (d/f/)|(f/e/)e[fa]|[d2f2b2](d/f/)|!
+(f/e/)e (c/A/)|(c/B/)B f| (g/^f/g/e/c/A/)|B2:|!
+|:F|(BAB)|c2d|(eGc)|(BA F)|!
+(BAB)|{a}(g/^f/g/a/b/g/)|(f/g/f/e/d/c/)|B2:|
+
+X:102
+T:White Cockade. JC.102
+R:Scots Measure
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR. the two notes after the first double bar lines,
+N:qu’s in MS, are given as semi-qu’s.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=100
+K:G
+G/A/|\
+BBB A/G/|BBB g/e/|dBB A/G/|FAA G/A/|!
+BBB A/G/|Bd ga|b/a/g/f/ e/f/g/e/|dB ” crot”B:|!
+|:B/c/|dBgB|dBB B/c/|dBgB|aAA G/A/|!
+BBB A/G/|Bd g a|b/a/g/f/ ” Qu’s”e/f/g/e/|dB ” crot”B:|
+
+X:103
+T:Rakes of London. JC.103
+T:Rakes of Mallow, aka. JC.103
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:160
+K:G
+GBGB (G2BG)|FAFA A2AF|\
+GBGB GBdB|cAGF G2B,2:|!
+|:gedc Bcd2|gedc BdA2|\
+gedc BGc2|BGAF G2B,2:|
+
+X:104
+T:Toast,The. JC.104
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+” crot”D|\
+GAG DcB|ABG AFD|GAG DcG cAFG2:|!
+|:F|AFD BGF|cAF dBG|AFD BGD|cAFG2:|!
+|:” crot”d|gfe dBB|cAA BGG|gfe dBB|gfe dcB|cAFG2:|!
+|:d|dBec2A|F2DB2d|dBec2A|FDFG2:|
+
+X:105
+T:Brighton Camp. JC.105
+T:Girl I Left Behind Me,The, aka. JC.105
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.]
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=140
+K:G
+g|\
+ecBA|BGEF|GA G/A/B/c/|dcBg|!
+ecBA|BGEG|FADF|G2G:|!
+|:c|Bdef|gdBG|Bdef|g2(fg)|!
+ecBA|BGEG|FADF|G2G:|
+
+X:106
+T:Paddy Carey. JC.106
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|\
+A2d dcd|f2d dcd|B2ee2f|g2e c2A|!
+A2d dcd|f2d dcd|cBA ABc|def e2||!
+A|d2f g2b|a2b afd|def gab|afd e2A|!
+d2f g2b|aba agd|fgf ecA|B2c d2|]
+
+X:107
+T:Peggy Band. JC.107
+R:Waltz
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/4
+L:1/8
+Q:1/4=120
+K:D
+A2|\
+d2fd ec|dBG2 AF|DFA2 Bc|d4 A2|!
+d2fd ec|dBG2 AF|DFA2 Bc|d4:|!
+|:A2|e2ef ge|f2dB cd|efgf ed|d2c2 A2|!
+d2fd ec|dBG2 AF|DFA2 Bc|d4:|
+
+X:108
+T:Nottingham Races. JC.108
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=90
+K:D
+d/e/f/e/ dd|\
+B/c/d/c/ AF|GFED|CEE2|!
+d/e/f/e/ dA|B/c/d/c/ Bc|dcBA|E^GA2:|!
+|:A/B/c/B/ AB|c/d/e/d/ cd|efgf|e/d/c/B/A2|!
+BGdB|AFfe|gfed|Acd2:|!
+|:dcdc|B2Ad|cdef|gage|!
+dcdc|B2Ad|cd ” qu’s”f/e/d/c/|d4:|
+
+X:109
+T:Shooters Hornpipe. JC.109
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+“_Key Dmaj in MS”D|G2G2GABc|dcBA GBAG|\
+A2AA ABcd|ecAG FAFD|!
+G2GG GABc|dcBAG2g2|fafd egec|d2d2d2:|!
+|:z2|A2AA ABcd|ecAG FAFD|d2dd d2ef|gedc BdBG|!
+e2ccc2ec|d2BBB2cd|ecdB cAGF|G2G2G2:|
+
+X:110
+T:Savage Hornpipe. JC.110
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:Bb
+((3FGA)|\
+B2B2Bcde|fdfb fdBd|G2G2GABG|FDFB FDB,D|!
+EDEF GBAc|Bcde fga2|fdBd ecBA|B2B2B2:|!
+|:fe|dfBf dfBf|cfAf cfAf|BdGd BdGd|AcFc AcFD|!
+EDEF GBAc|Bcde fgab|fdBd ecBA|B2B2B2:|
+
+X:111
+T:Bacons Hornpipe. JC.111
+T:Miss Baker’s Hp, aka. JC.111
+R:Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=80
+K:D
+AG|\
+FAD2D2FD|EDCD EFGA|FABc dfeg|fdec dBAG|!
+FAD2D2FD|EDCD EFDF|FABc dBAG|F2D2D2:|!
+|:Ac|dAFA dfed|ecAc egfe|fdcd Bged|c2A2A2dc|!
+BAGF gagf|edcB ABAG|FABc dBBG|F2D2D2:|
+
+X:112
+T:Mother Goose. JC.112
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|\
+dedf2d|A2FF2A|dedf2d|g2ee2A|!
+dedf2d|A2FF2A|d2f agf|gfge2:|!
+|:A|d2f agf|gaba2g|d2f agf|g2ee2A|!
+d2fa2f|gabg2f|b2gb2f|gfge2:|
+
+X:113
+T:Mont Vida. JC.113
+T:Monferina, aka. JC.113
+T:Italian Monferina, aka. JC.113
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR. no time sig in MS. Bars 6&8, a dot after each crotchet omitted.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+D|\
+GBB BcA|AGG G2d|dEF FGA|AGG G2D|!
+GBc BcA|AGG G2B|ABc FGA|AGG G2|!
+|g|fga agc|Bcd d2g|fga bgc|Bcd d2g|!
+ece gfe|dcd gfe|ded cBA|AGG” qu”G2|]
+
+X:114
+T:Ashleys Hornpipe. JC.114
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+N:My Repeats. CGP.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+GABc dBAG|\
+gagf e2d2|BdBG cecA|BdBG GFED|!
+GABc dBAG|gagf e2d2|BdBG cecA|G2F2 G4:|!
+|:defg fafd|gbge fafd|defg afed|BdBG FAFD|!
+BdBG cecA|fafd gbge|dgfe dcBA|G2F2″ crot”G4:|
+
+X:115
+T:Jacksons Morning Brush. JC.115
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+D|\
+DFE EFD|DFA AFA|BAB d2e|gee e2D|!
+DFD EFD|DFA AFA|BAB d2e|fed e2:|!
+|:g|fed fad|fda fdB|AFA d2f|gee e2g|!
+fed fad|fda fdB|AFA d2″ qu’s”A/e/|fdd d2:|!
+|:g|fdf eBe|dcd AFA|DFA d2f|gee e2g|!
+fdf ece|dcd AFA|DFA d2e|fdd d2:|
+
+X:116
+T:Miss Bacons Hornpipe.(incomplete). JC.116
+T:Miss Baker’s Hornpipe, aka. JC.116
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Key Sig in MS has only a Csharp.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:G
+BA|\
+F2E2EGFE|DEA2AcBA|GBde eBcA|G2D2-D2||!
+((3Bce)|eBGB eage|gBGB gbag|\
+gegd ecge|d2B2-B2eB|\
+((3cde) ((3GAB) A2b/a/|]
+W:The key and mode need to be determined.
+
+X:117
+T:Englands Glory. JC.117
+T:May Day, aka. JC.117
+T:Parson in the Suds, aka. JC.117
+R:Reel
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+d|\
+gfgd cBAG|FGAB cAAf|gfgd cBAG|DGAc BGG:|!
+|:z|DGBG DGBG|DGBG cAAB|DGBG DGBG|dedB BGGB|!
+DGBG DGBG|DGBG cAAB|cdef gedc|BdAc BGG:|
+
+X:118
+T:Valiant Soldier. JC.118
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:No key or time sig in MS…Makes more sense as a song
+N:tune than you’d think by just looking at it! CGP.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:13/8
+L:1/8
+Q:3/8=60
+K:D
+G3A BBB AGBGE2|\
+M:19/16
+GAdde2d3/2~B2|\
+M:12/8
+AB BcdB GGEA A2|!
+M:9/8
+Bcc ABGED2|\
+M:12/8
+GAdd edec BAGF|G2|]
+
+X:119
+T:Beef Stake Hornpipe. JC.119
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+(cB)|\
+dcde dAFA|Bdce dcBA|BGFG AFdD|EFGA GFED|!
+dcde fdAF|EFGA Bcde|cAfe cAB^G|A2A2A2:|!
+|:z2|A2A2Acef|gefd dcBA|BGFG AFdF|GEFD DCB,A,|!
+dAFA GBEG|FAdf ecAF|GBEG FADE|D2D2D2:|
+
+X:120
+T:Cleggs Hornpipe. JC.120
+T:College Hornpipe, aka. JC.120
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:Bb
+(BA)|\
+B2B,2 B,2FG|D2B2 B2cB|A2f2 f2ga|!
+bagf gfed|edec BAGF|GBAc Bdec|d2B2 B2:|!
+|:FE|DFBD DFBD|G2E2 E2ED|EGcA EGcA|A2F2 F2ed|!
+e2g2 gfed|cdec BAGF|GBAc Bdce|d2B2 B2:|
+W:Watch out for the missing bar.
+
+X:121
+T:Lovly Nancy. JC.121
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+BA|\
+G2G2((3GAB)|A2A2((3ABc)|B2gedB|B2A2B>A|!
+G2G2dB|A2A2ge|d>e dB A>B|G4:|!
+|:Bc|d2d2ge|d2d2B>c|d2d2gB|B2A2B>A|!
+G2G2dB|A2A2ge|d>e d>B A>B|G4:|
+
+X:122
+T:Stoney Step Hornpipe. JC.122
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+GBdg agfg|\
+ecBA GFED|ECB,C A,CA,B|ABcA GFED|!
+GBdg agfg|ecBA GFED|ECB,C A,CA,c|BAGFG2G2:|!
+|:B,CC2EFG2|ABcA GFED|B,CD2EFG2|gfgee2d2|!
+ecBc dBAG|ABcA GFED|ECB,C A,CA,c|BAGFG2G2:|
+
+X:123
+T:Cheltenham Waltz. JC.123
+R:Waltz
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR Bars 21,25,27,29 Following the dotted qu’s, the qu’s in the MS are
+N:given as semi-qu’s.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/8
+L:1/8
+Q:3/8=40
+K:D
+A/A/|\
+FDF|AFA|ddd|d2e|f>ga|agf|eee|e2A/>A/|!
+FDF|AFA|ddd|d2e|f>af|{f}ede|ddd|d2||!
+d/e/|f>ga|agf|gab|baf|e>fg|gfe|fa^g|a2d/e/|!
+f>gf|fed|B>cB|Bcd|A>BA|ABc|edd|d2|]
+
+X:124
+T:Recovery. JC.124
+R:Country-dance
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=90
+K:D
+AdAd|e/d/e/f/e2|agec|d/c/d/e/d2|\
+AdAd|e/d/e/f/e2|agec|d2d2||!
+agec|dfAA|GG G/F/G/A/|G3F|agec|\
+dfAA|G>F G/F/G/E/|D2D2||!
+ff/f/ ff|f3g|fedc|d/c/d/e/f2|\
+ee/e/ ee|e3f|edcB|A2A2|]
+
+X:125
+T:Old Through The Wood Laddie. JC.125
+T:Through The Wood Laddie,Old Way. JC.125
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/4
+L:1/8
+Q:1/4=120
+K:F
+“_Key C in MS”FC|\
+D3D FG|A4fc|d2fd cA|G4FG|!
+” crot”A3B AG|A2F2FG|AGAG AG|A2GFEC|!
+” crot”D3E FA|A4fg|ag/g/ edcA|G3A Bc|!
+d2fdcA|c2dBAG|A2DFEG|F4:|!
+|:fc|d3e fg|a4fg|a2bagf|g4ff|!
+ag abag|a2f2fg|ag abag|g2gf ec|!
+d3e fg|a4fg|bg/f/ ecBG|G3A Bc|!
+d2ff cA|c2dcBA|A2DFEG|G4:|
+
+X:126
+T:Morning Fair Hornpipe.The. JC.126
+T:Manchester Hp, aka. JC.126
+T:Rickett’s Hp, aka. JC.126
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+((3ABc)|\
+dcdA FAdf|edcB Acfg|fdfa bged|cdcB Agfe|!
+dcdA FAdf|edcB Aceg|fafd egec|d2d2 d2:|!
+|:(fg)|afaf dfaf|bgbg egbg|afda bged|cdcB Agfe|!
+dcdA FAdf|edcB Aceg|fafd egec|d2d2 d2:|
+
+X:127
+T:Roast Beef of Old England. JC.127
+R:Air
+S:John Clare,Poet,Helpston. (1793-1864)
+N:Rosbif ? Mais non !
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=60
+K:D
+A|\
+ded cde|fdfe2c|d>” qu”ed cBA|BGEA2|!
+|d|BGB dcB|AFDB3|efg cBA|” crot”d3AGF|\
+GAB cAc|” crot”d3d2|]
+
+X:128
+T:Marfull Hornpipe. JC.128
+R:.Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:D
+AG|\
+FDFA gfed|ceA2A2dc|BGBd BGEA|F2D2 D2AG|!
+FDFD GEGE|FdcB AFAF|DFAd cBAG|A2A2 A2:|!
+|:cd|ecAc ecAc|f2d2d2de|fdAd fdAd|g2e2 e2fg|!
+afdf ecAc|cAFA AFDF|AdcB AGFE|D2D2 D2:|
+
+X:129
+T:Way to Get Married. JC.129
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:A
+ABA cd2|efe efg|\
+agf edc|BcA BGE|!
+ABAc2d|efe efg|agf edc|”^tr”BAB” crot”A3:|!
+|:EFEG2A|BGe BGE|ABAc2d|eca ecA|!
+fgff2g|agfe3|ege eae|dcB” crot”A3:|
+
+X:130
+T:Michael Wiggins. JC.130
+R:Jig
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A2|\
+fgf fed|dcBA2A|f>gf fed|geee2A|!
+f>gf fed|dcB AFA|ABA ABc|edzz:|!
+|:Bc|dBG GBd|ecB Ace|fdB ^Ged|cezz2e|!
+a2ea2e|aec Ace|fdB ^Ged|cAzz:|
+
+X:131
+T:Ladys Breast nott.(sic). JC.131
+T:Bonnie Breast Knot, aka. JC.131
+R:Reel
+S:John Clare,Poet,Helpston. (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+GBBA/G/|FAAG/F/|Eeee|ccA2|\
+GBBA/G/|FAAc|dc dA|F2D2:|!
+|:fd fd|f aa g/f/|ecec|e gg f/g/|fdfd|\
+f aa c|dc dA|F2D2:|
+
+X:132
+T:Lord Vincents Hornpipe. JC.132
+R:Hornpipe
+S:John Clare,Poet,Helpston. (1793-1864)
+N:MR. bar 2in MS the slur and the 3 making the 3 qu’s equal a crot are
+N:misssing.Bar 11, the single qu in the Ms is given as a crot.
+N:b6 is apparently missing.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=80
+K:Bb
+fe|\
+f2B2B2dB|c2((3BAG)F2FF|DFdF GecA|B2B2B2gf|!
+e2c2c2gf|Acfa abge|f2f2f2:|!
+|:fe|dBAB dBAd|GEDE GEDE|cded edcB|BAcA F2fg|!
+fBAB gBAB|aBAB bBAB|GBce dBcA|B2B2B2:|
+W:Spot the missing bar.
+
+X:133
+T:Savourys Hornpipe. JC.133
+T:Saxon’s Hp, aka. JC.133
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+N:First word of title unclear. Similar to Nelson’s Hp.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:D
+AF|\
+D2d2 d2cd|(ec)Ac” qu”d2de|fdfd gege|afdf ecAF|!
+D2d2 d2dd|ecAc d2de|fefd cBAG|A2A2 A2:|!
+|:fg|(ag)fe dcBA|B2G2 G2ga|bagf edcB|c2A2 A2fa|!
+afaf bgbg|afaf bgbg|afbg fedc|d2d2 d2:|
+
+X:134
+T:Bugle Horn. JC.134
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=60
+K:D
+a|\
+(a2f)(f2d)|d2AA2A|(def) (efg)|f3e2a|!
+(a2f)(f2d)|(d2A)(A2A)|B2g ec2|d3-d2:|!
+|:f|(d3A2)f|d2fd2f|d3(A2a)|a2f(f2d)|!
+(d2A)(A2A)|B2ge2c|d3-d2:|!
+|:D|D3D3/ D3/|D3D3/ D3/|D2FD2F|D3A,2A|!
+A2FF2D|(D2A,)A,3|B,2GE2C|D3-D2:|
+
+X:135
+T:Coming Through The Rye, aka. JC.135
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Untitled in MS. MR. Bar 1 following the dotted qu’s the qu’s in the
+N:MS are given here as semi-qu’s. Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:G
+G2|d>edB e>fg>e|d<BA>BG2(d3/2e/f/)|\
+g>fg>a gfed|e>dg>B d3d|!
+g>fg>a gfed|e>dc>Be3f|\
+g>fe>d e>fg>{a/g/}e|d<BA>BG2|]
+
+X:136
+T:Kiss my Lady. JC.136
+R:Country-dance
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR.Bars 1,2,5,6, 1st note crot in MS given here as dotted crots.,Qu
+N:rest added after 1st 2nd 3rd double bar lines.Bar 15, 4 qu’s in MS
+N:given here as semi-qu’s.Bar 31, 4th,5th notes,semi qu’s in MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=100
+K:G
+D|G3B|A3c|Ad (d/c/B/A/)|\
+(G/F/G/A/) GD|G3B|A3B|Bd (d/c/B/A/)|G2G:|!
+|:z|GdBd|Gece|DcAc|GdBd|\
+GgdB|GecA|Bd (d/c/B/A/)|G2″ crot”G:|!
+|:z|d2Bc|” semi-qu’s”dddd|c3A|B3G|\
+F3F|AAAd|edcB|G2A:|!
+|:z|cc/d/ cA|BB/d/ BG|cc/d/ cA|BB/c/ BG|!
+eeec|dgec|(c/A/B/A/4G/4) B/A/G/F/|G2″ crot”G:|
+
+X:137
+T:Belentines, or. JC.137
+T:Palladines, or. JC.137
+R:March
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Title unclear.Bar 1,dot added to 1st qu, and 3’s added to the slurs, as
+N:in bar 5.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:1/4=120
+K:G
+” As Writ”G2d2d>d ((3ded) ((3cBA)|\
+B2g>gg2g2f2|e2d2c2B2|G2GGGGc cA|!
+G2d>d ((3ded) ((3cBA)|B2g>gg2f2|a>f f>e e>d|d2ddd4:|!
+|:d2c>cB2GB|B2BBB2zB2|E2FG AB cA|F2D>DzD2|!
+G2BGE2|F2d>BG2e>c|Bg ecB2cA|G2GGG4:|
+
+X:138
+T:Flower of Edinbourough. JC.138
+R:Reel
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:G
+((3GFE)|\
+DEFD G2GA|BGBd cBAG|(FG)(EF) CEGG|AF dFE2(EF)|!
+DEFD G2(GA)|BGBd efge|dcBA GFGA|B2G2 G2:|!
+|d2|gfga gbag|fefg fagf|edef gfed|d2e2 e2g2|!
+dBGB d2cB|cdef g2(fe)|dcBA GFGA|B2G2 G2|]
+
+X:139
+T:India Queen. JC.139
+R:Reel
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:D
+DDDE FDFA|\
+BABdA2-A2|fedd fedd|ABcdE2D2|!
+DDDE FDFA|BABdA2-A2|fedd fedd|ABdcd2″$”d2:||:!
+d2cd ecd2|d2cd ecd2|gb ge fa fd|edcB AGFE|!
+DDDE FDFA|BABdA2-A2|fedd fedd|ABdcd2-d2:|
+
+X:140
+T:Smash the Windows. JC.140
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+DED F2A|\
+d2f ecA|G2B F2A|E2F GFE|!
+DED ” qu”F2A|d2f ecA|Ggf edc|” crots”d3d3:|!
+|:a2ff2d|A2a agf|g2ee2c|A2g gfe|!
+f2dg2e|a2f bag|fed edc|” crots”d3d3:|
+
+X:141
+T:I’ll Be Married On Sunday. JC.141
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Timing in MS is irregular
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=60
+K:C
+” As Writ”G2GD dBG|\
+gge a2fe|gge cBG|F2D2GG|B/c/d/B2G2:|!
+|:ggeg|a2f2dd|ggeg2|f2d2|\
+ggec2|BGGF2|D2GG|(B/c/d/)B2G2:|
+
+X:142
+T:Turnpike Gate. JC.142
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR. Bars 8,9,13 last notes crots in MS, given here
+N:as dotted crots. Bar 16 left as in MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+ded e2d|\
+g2e a2f|ded efg|Bed cBA|!
+ded f2d|g2e a2f|ded efg|ABc d3||!
+a2f a3|gfg efg|fef def|efd cBA|!
+a2fa3|gfg efg|faf d2f|a3″ D.C.”A|]
+
+X:143
+T:Ladys Breast Nott. JC.143
+T:Bonny Breast Knot, aka. JC.143
+R:Reel
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Irregular timing, no TS in MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=100
+K:G
+” As Writ”BG2F A F|\
+Ee2d2c2A|GB2G F A2|c d/c/B/A/ FE2D2:|!
+|:fdfda3g/f/|ecece2g2f/e/|\
+fdfdf2a2g/f/|d2c2A2FE ED:|
+
+X:144
+T:Daniels Hornpipe,(unedited). JC.144
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS in MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:4/4
+L:1/8
+Q:2/4=90
+K:C
+cecB AGFE|\
+Bcee gBAB|gBgB aBAB|GBFB DBDB|cecAc4||!
+gBAB gBAB|gaba gfed|edcB cBed|edcB BAGF|!
+Bede fBAB|gBaB bBAB|GBFB EBDB|cecB B2A2|]
+
+X:145
+T:Daniel’s Hornpipe,(edited). JC.144
+T:Washington Hp, aka. JC.144
+T:Basket of Eggs, aka. JC.144
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS in MS…See GS.121
+O:England
+A:Northamptonshire
+Z:Chris Partington.
+M:4/4
+L:1/8
+Q:2/4=90
+K:Bb
+cecB BAGF|\
+gBaB bBAB|GBFB EBDB|cecAB4|!
+Bcde fBAB|gBaB bBAB|GBFB EBDB|cecAB4|!
+|fBAB gBAB|gaba gfed|edcB cBed|edcB BAGF|!
+Bede fBAB|gBaB bBAB|GBFB EBDB|cecA B4|]
+
+X:146
+T:Nottingam Races. JC.145
+R:Country-dance
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=110
+K:D
+” As Writ”d/e/f/e/ dA|\
+B/e/d/c/ BA|GFED|CEE2|!
+d/e/f/e/ dA|deBA|EGA2:|!
+|:A/B/c/B/ AB|c/d/e/d/ cd|efgf|e/d/c/B/A2|!
+BG dB|AF fe|gfed|Acd2:|!
+|:dcdc|B2Ad|cdef|fage|!
+dcdc|B2cd|cd f/e/d/c/|d4:|
+
+X:147
+T:Miss Freers Delight. JC.146
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:2nd word of title is unclear.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=110
+K:D
+d/B/|\
+AFD DFD|AFD DdB|AFD DFD|GEEE2d/c/|!
+AFD DFD|AFAd2e|fed BdB|AFDD2||!
+f/g/|afd dfd|afdd2f/g/|afd dfd|gde e2f/g/|!
+afd dfd|afd efg|fed B/c/dB|AFDD2|]
+
+X:148
+T:Young Parker. JC.147
+T:Constant Billy, aka. JC.147
+T:Waterman, aka. JC.147
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Similar to Morris tune Constant Billy.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+d/f/|\
+a2f dfa|g2e cBA|f2″ crot”d BAG|ABc d2:|!
+|:f|g2g gbg|efg afd|efg agf|efga3|!
+a2f dfa|g2e cBA|f2d BAG|ABcd2:|
+
+X:149
+T:American Hornpipe. JC.148
+R:jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Hornpipe, it says! actually a very nice tune. CGP.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:Bb
+d/e/|\
+fgf dec|BAB F2E|D2F B2d|d3 c2d/e/|!
+fgf dec|BAB F2D|D2F ” qu”B2e|dec B2||!
+|c|b2B d2B|a2B d2B|ABc c2c|ABc c2c|!
+b2Bd2B|F2E d2c|F2e d2c|d2B B2||!
+|z|d2f g2f|d2f g2f|g2f e2d|d2c c2B|!
+d2f g2f|d2f g2f|g2f g2a|a2B B2|]
+
+X:150
+T:Downfall of Paris. JC.149
+R:air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=100
+K:G
+“_Key D in MS”G2GA G2GA|\
+G2GA cBAG|A2AB A2AB|A2AB dcBA|!
+B2Bc B2Bc|B2Bc edcB|A2AB A2AB|ABcA FDEF|!
+G2GA G2GA|G2GA cBAG|A2AB A2AB|A2AB dcBA|!
+B2BG d3c|BAGA B2G2|G2G2 G4|!
+|d8|d2B2e2d2|c2cB c2cB|c2cB d4|d8|!
+d2A2d2c2|B2BA B2BA|B2BA B4|!
+|defg fedc|Bcde dcBA|G2G2A2A2|B2B2A4|defg fedc|!
+G2A2B2A2|G2G2G4|F2G2A2B2|c2B2A2G2|F2G2A2B2|!
+c2B2A4|defg fedc|Bcde dcBA|G2G2G4:|
+
+X:151
+T:Colledge Hornpipe. JC.150
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+fe|\
+d2D2D2A2|FAd2 dfed|e2E2E2e2|cea4bc’|!
+d’c’ba bagf|gfed dcBA|Bdce dfeg|f2d2d2:|!
+|:AG|FAdA FAdA|B2G2G2BA|^GBeB GBeB|c2A2A2ge|!
+fgab bagf|fege dcBA|Bdce dfeg|f2d2d2:|
+
+X:152
+T:Thro’ The Wood Laddy. JC.151
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR. Tune as written except. Bar 1,dot added after 1st qu.Bar
+N:20,21,barline missing in MS.Bar 30,followin g thre dotted Qu, the qu in
+N:the Ms is given as a semi-qu.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+D|\
+F>G A B|B A G F|EG2C2D|D3E|!
+FG A A|(Ad)d2A|FG A A|(Ad) d e|!
+(fB) c d|(eA) B c|(d/e/)” semi-qu in MS”f (e/c/)(d/B/)|A>^G A A|!
+e2E E|E2e e|”tr”e2d c|{c}d3F|!
+B3/2 ^A/ (Bd)|d/ fz”tr”e|eA c^A2|B4|!
+f e cz|e/ gz|”tr”B cd2|c3/2 “tr”d/e2|!
+d3/2 e/f2|f/ ezA2|AF AA2|d2{ef}d d|!
+AF A A|d>efF2|G F (GA)|B/ d3/2zB|!
+(AF) (GE)|{E}F2z|G2F GA|Bg2f|{f}(e/d/) (f/e/) (d/c/)|!
+{c}d2g befg|ad’2d/f/|e/g/f/e/ f/d/e/c/|d3|]
+
+X:153
+T:Muses,The. JC.152
+T:Three Meet, aka. JC.152
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A/G/|\
+FAd FAd|{c}BABe2d|{d}cBc ABc|{e}dcdf2A/G/|!
+FAd FAd|{c}BABe2d|{d}cBc ABc|d3d2||!
+a|f2ae2a|{e}dcdc2a|f2ae2a|{ba}(^gfg)a2b|!
+2ae2a|(dcd){e}c2a|f2ae2a|^gfg” D.C.”a2|]
+
+X:154
+T:Charley Over The Water. JC.153
+T:Over The Water To Charlie, aka. JC.153
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+G2d dBd|\
+ege dBG|G2d dBd|e3g3|!
+G2d dBd|ege dBG|gbg faf|e3g3:|!
+gbg faf|ege dBG|(g/a/bg) (f/g/af)|e3g3|!
+gbg faf|ege dBG|G2d dBd|e3g3|]
+
+X:155
+T:Novelty,The. JC.154
+T:March of the Men of Devon
+T:Ymdiath Gwyr Dyfnant
+R:Country-dance
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR.Time si 2/3 in Ms. Bars 4,10,18,26, the 3 qu’s in Ms are given here
+N:as one qu & 2 semiqu’s.Bar 6,294 qu’s in ms given as
+N:semiqu’s.Bar15,31,3 crots in ms given as qu & 2 semiqu’s.Bar 18,4th
+N:note crot in ms.Bar30 all notes qu’s in MS.
+N:CGP. I have re-beamed bars 17 & 20.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=110
+K:D
+“_see notes”A2G2|\
+F2DD D2DD|D2F2A2d2|c2AA A2AA|A2c2e2g2|!
+f4d2df|edcB g2f2|efed cdcB|ABAG FGFE|!
+F2DD D2DD|D2F2A2d2|c2AA A2AA|A2c2e2g2|!
+f2d2d2f2|edcB g2f2|efge d2c2|d2dd:|!
+|:f2g2|a2ff f2ff|f2d2f2a2|f2ee e2ee|e2c2e2g2|\
+f2dd d2f2|!
+edcB g2f2|efed cdcB|ABAG FGFE|F2DD D2DD|!
+D2F2A2d2|c2AA A2AA|A2c2e2g2|f2d2d2f2|\
+edcB g2f2|efdc Bcec|d2dd|]
+
+X:156
+T:Bonny Lasses. JC.155
+R:Reel
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=140
+K:G
+BG cA|dB eg|dB GB|dB A2|\
+BG cA|dB eg|ag eg|dB G2:|!
+|:af ge|fd eA|af Bc|d2d2|\
+af ge|fd eA|af ge|Bc ” D.C.”d2:|
+
+X:157
+T:Fairy Dance. JC.156
+R:Reel
+C:claimed by Nathaniel Gow
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+f2fd g2ge|\
+f2fd ecBA|f2fd gfed|cABc d2d2:|!
+|:a2af b2b2|g2ge a2a2|f2fd Aged|cABc d4:|
+
+X:158
+T:Tank. JC.157
+R:Country-dance
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=180
+K:G
+G2g2|E2e2|dedc|BAG2|\
+BcdB|cdec|d2g2|g4:|!
+|:B2d2|d2cB|eccA|AFFD|\
+B2d2|d2cB|ecAF|G4:|
+
+X:159
+T:Stringers Hornpipe. JC.158
+T:Staten Island Hp, aka. JC.158
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+AG|\
+FDFA d2d2|efge dcBA|BGG2AFF2|EFGA GFED|!
+FDFAd2d2|efge dcBA|fefg afdf|gedc d2d2:|!
+|:fdd2 ecc2|Bcde dcBA|BGG2AFF2|EFGA GFED|!
+FDFA d2d2|efge dcBA|fefg afdf|gedc d2d2:|
+
+X:160
+T:Kiss My Lady. JC.159
+R:Country-dance
+S:John Clare,Poet,Helpstone (1793-1864)
+N:A kissing dance with kissing in the first bar would give every
+N:incentive for the tune to linger a little, as here. CGP.
+N:No TS in MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=100
+K:Bb
+F2|\
+(B3cB2d2)|c>dce|df f/e/d/c/|B/c/d/c/ B/A/G/F/|!
+BcBd|c>dce|df ” qu”f/e/d/c/|BBB2:|!
+|:zfdf|zgeg|zece|zfdf|zbfd|zgec|zdfc|” qu’s”B2B2:|!
+|:F2DE|FFFF|e2zc|d2zB|A4B4|gfed|AAA2:|!
+e4|d4|eeec|dddB|ggge|fbgf|dBdA|BBB2:|
+
+X:161
+T:Irish Washer Woman. JC.160
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR 1st 2 notes & the notes after the 1st double bar lines are given as
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+d/c/|\
+BGG DGG|BGB dcB|cAA DAA|cAc edc|!
+BGG DGG|BGB dcB|d/c/Bc Adc|BGG G2:|!
+|:g/a/|agg dgg|bgb bag|afd Ada|fdf agf|!
+(egg) (dgg)|Agg Bgg|d/c/Bc ABc|BGG G2|]
+
+X:162
+T:New Drops of Brandy. JC.161
+R:Slip Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:9/8
+L:1/8
+Q:3/8=120
+K:G
+d2c BGB BGB|\
+d2c BGB cBA|d2c BGB BGB|cBc ” crot”A3 cBA:|!
+|:G2g gdB gdB|G2g gdB cBA|G2g gdB gdB|cBc A2B cBA:|
+
+X:163
+T:Green Grows The Rushes O’. JC.162
+R:Reel
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS or KS inMs. Triplet was 3 quavers
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:G
+G2 GA BG G2|\
+A2 AB cA A2|BAde cBAd|BABc AGEE:|!
+|:gfge dBGd|gfga bee2|dgfg edBG|BABc ((3AGG)G2:|
+
+X:164
+T:Morgiania In Spain. JC.163
+R:Single Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS in MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+F2G A2d|\
+F2G A2d|B2B e2d|ced cBA|!
+F2G A2d|F2G A2d|B2e cBc|d2d d2||!
+f|e2d c2f|e2d c2f|e2d c2B|A2A A2f|!
+e2d c2f|e2d c2f|efd cdB|ABG FG” D.C.”E|]
+
+X:165
+T:Turnpike Gate. JC.164
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+ded|\
+f2d g2e|a2f ded|e2g B2d|c2A ded|!
+f2d g2e|a2f2 ded|e2″ crot in MS”g ABd|” crot”d3:|!
+|:aba|a2f f2f|g2e e2e|f2d dcd|ecA A2A|!
+dcd ede|fef gfg|aba agf|f2″ D.C.”e:|
+
+X:166
+T:Sailors Journal,Comd by Dibdin,The. JC.165
+R:Song & Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/4
+L:1/8
+Q:1/4=120
+K:A
+” INTRO”ecA|” ANDANTINO”A2{BA}G {c}AFD|C>.D.E.F.G.A|\
+Bc{e}d3c|cBzafd|cecAGE|!
+D2{EF}E Ace|{e}d>c{e}d3B|c” SONG”Az” Two’s past the Me–ri—dian”e c A|\
+(A2{BA}G) ” half past four”A F D|!
+(C>DE)” by signal I from Nancy parted” F G A|B c{e}d3c|\
+c Bz” at six she lin–gered”e c A|(A2{BA}G) A ” on the”F D|!
+” shore, with uplift”(C>DE) A c e|\
+” hands & broken hearted”d3/2 c/ {e}d3/2 B|c Az” at seven while”A c B/A/|\
+” taughtening the forestay I saw her”BG Ec B G|!
+E3F E C|” faint or else was fancy”(A,>B,C) E A c|\
+c Bz ” at eight we all got” e f e|{e}d3c ” under weigh”{c}B c/A/|!
+(A2{BA}G)” and bade a long” A F D|C ” Adieu to Nancy”Ed3e|c Azafd|cecAGE|!
+D2{EF}EAce|\
+{e}d>c{e}d3B|c” FIN”Az||!
+K:D
+” FLUTE SOLO”afd|d2{ed}cdBG|{G}F>G ABcd|ef{a}g3fzfezafd|d2{ed}cdBG|!
+F>GAdfa|g>f{a}g3e|fdzd/e/f e/d/|e>cAedc|A3BAF|!
+D>EFAdf|fezaba|{a}g3f ef/d/|d2{ed}cdBG|F2A2G3a|fdz|]
+W:NB words relate to the tune below them CGP.
+
+X:167
+T:Untitled. JC.166
+R:Waltz
+S:John Clare,Poet,Helpstone (1793-1864)
+N:See the Bath Waltz, 101.MR. A slur & a 3 are added to the 1st 3 notes.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+((3ABc)|\
+d2d2d2|d4Ad|f2f2f2|f4df|a4fd|b4ge|c2cdec|d4:|!
+|:(fa)|(ag)g2 (ec)|(ed)d2 (fa)|(ag)g2a2|a4(fa)|\
+(ag)g2 (ed)|edd2 a2|babgec|d4:|
+
+X:168
+T:Female Drummer. JC.167
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=90
+K:G
+d|g2fg|edcB|cAGF|G3G|\
+A2AB|cBcd|efge|d3:|!
+|:A|A2AB|cBcd|egfa|g2fg|\
+gfge|edcB|cAGF|G3:|
+
+X:169
+T:Bath Waltz. JC.168
+R:Waltz
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/8
+L:1/8
+Q:1/8=120
+K:G
+D(BG)|D(BG)|{B}c2A/G/|FA/F/D|\
+DBG|DBG|{B}c2A/F/|G3:|!
+|:dd/e/f/g/|d2B|A/G/A/B/c/d/|BGG|\
+dd/e/f/g/|d2B|cAF|G3:|
+
+X:170
+T:Hornpipe. JC.169
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+G2GA GABc|\
+dBge dcBA|c2ec BdBG|F2A2A2B2|!
+cBcd efge|dBAG GFED|EGFA GBAc|B2G2G2z2:|!
+|:dBGB defd|e2c2c2B2|cBcd efge|f2d2d2B2|!
+cBcd efge|dBAG GFED|EGFA GBAc|B2G2G2z2:|
+
+X:171
+T:Jock Wilson’s Hornpipe, aka. JC.170
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Untitled in MS. Known slightly differently in one of the Northumbrian
+N:tune books under this title, but untitled in J.Clare.CGP
+N:MR Bar 4, the 4th and 5th notes are semi-qu’s in Ms.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+AG|\
+FAdd d2cB|Acee e2dc|defd gfed|c/d/e AAA2AG|!
+FAdd d2cB|Acee e2ag|fdec dABG|F2D2D2:|!
+|:A2|dAFA DFAd|edcB Aceg|fdAF DFAd|edcB A2z2|!
+BGG2 gee2|fdcd B>AGF|GABc dABG|F2D2D2:|
+
+X:172
+T:Colledge Hornpipe. JC.171
+T:Sailors Hp,aka. JC.171
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+((3ABc)|\
+d2D2D2AG|FAd2d2((3fed)|e2E2E2ed|ceg4bc’|!
+d’c’ba bagf|gefg dcBA|(Bd)(ce) (df)(eg)|f2d2d2:|!
+|:(AG)|(FA)(dA) (FA)(dA)|B2G2G2(BA)|GBeB GBeB|c2A2A2gf|!
+(ga)b2bagf|(ge)(fg) (dc)(BA)|((3Bcd) ((3cde) ((3def) ((3efg)|f2d2d2:|
+
+X:173
+T:New London Hornpipe. JC.172
+T:London Hp,aka. JC.172
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+“_Key D in MS”dcBA G2ef|\
+g2ef f2dB|cecA BdBG|cAB2 GFED|!
+EGFA G2AB|c2BA B2ed|cBAG BAGF|G2G2G2z2:|!
+|:g2bg e2e2|abag f2ed|gfed edcB|cBAG F2ED|!
+EGFA G2AB|c2BAB2ed|cBAG BAGF|G2G2G2z2:|
+
+X:174
+T:Primo, A Hornpipe 173
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+Bc|\
+d2d2 dBgd|B2B2 BdBG|FDAD BDAD|BdFA GFED|!
+d2d2 dBgd|B2B2 BdBG|FADB cAFA|G2G2G2:|!
+|:AF|D2D2 DcAF|D2D2 DcAF|dGFG eGFG|egfg dBAG|!
+e2e2 ecge|d2d2 dBgd|egec BAGF|G2G2G2:|
+
+X:175
+T:Gloucestershire Hornpipe, aka. JC.174
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Untitled in MS
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+AF|\
+D3d dAGF|G3B BcdB|AFAE BAGF|EFGE DCB,A,|!
+D3d dAGF|G3B BcdB|AFAF BGEC|D2D2 D2:|!
+|:z2|FDFD F/G/AA2|BGBG cde2|AFAF BAGF|EFGE DCB,G,|!
+FDFD FGA2|BGBG Bcd2|FAFA BGEC|D2D2 D2:|
+
+X:176
+T:All Around The Maypole See How They Trott. JC.175
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists,(or not). See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=75
+K:G
+GABc d2d2|\
+g2g2 e4|d2z2 B2z2|AGAB G4:|!
+|:gggg e2d2|gggg A2G2|gggg ffff|egfe d4|!
+GABc d2d2|g2g2 e4|d2z2 B2z2|AGAB G4:|
+
+X:177
+T:Irish Girl. JC.176
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR. 1st 2 notes and Bar 4,following the dotted qu., the qu in the ms is
+N:given as a semi-qu.The 2 notes after the 1st double bar lines are given
+N:as semi-qu’sin MS.. Bar 12 incompletein MS, here given as Bar 10.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:D
+d>c|\
+B>cA>A F>FDF|G>B E>GD2d>c|B>cAA F>FDF|G>B E>FD2||!
+FG|AF AB/c/ ddBd|ce A^GA3F/G/|AF AB/c/ ddBd|cecA {G}F2d>c|!
+B>cAA F>FDF|G>B E>FD2d>c|B>cAA F>FDF|!
+G>B E>FD2” Sy”d>c|B>cAA FE/F/ Db|ad f/e/d/c/d2|]
+
+X:178
+T:Garryowen, aka. JC.177
+T:Cosy Olwen.? JC.177
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:2nd word in title unclear. PH.. This appears as “Cosy Olwen” with the
+N:rider from Marion Ross that it is not very legible in the MS, so I feel
+N:justified in giving it it’s well known title of Garryowen until someone
+N:may care to re-examine the MS and show otherwise . CGP.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+g/f/|\
+edc BAG|B>cB Bgf|edc BAG|A>BAA2g/f/|!
+edc BAG|BcBB2d|defg2B|A>BAA2:|!
+d|d2Bd2B|d2Bd2e|e2ce2c|e2ce2f|!
+g2a {ga}b2a|g2e edB|defg2B|ABAA2|]
+
+X:179
+T:Fowler,The. JC.178
+R:Air
+C:W.A.Mozart (The Magic Flute)
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=60
+K:C
+e/d/|\
+” $”cc d/c/B/c/|ded d/B/|G>Gg>g|edc e|!
+d/c/B/c/ d/c/B/c/|dedz/d/|g>gd>d|BAG G/B/|!
+dd e/d/c/d/|edc g|{g}BB d/c/B/c/|ded c/d/|!
+e>e f/e/d/e/|fga f/d/|B>B c/B/A/B/|cd/B/ c “~”e/d/|]
+
+X:180
+T:Turks March. JC.179
+R:March
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS in the MS. 2/4 added.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=100
+K:G
+“_should probably be in Key D”\
+a>gff|f>edd|edec|d/e/f/e/ d/e/f/g/|!
+a>gff|f>edd|{f}e>dec|d2″ Fine”z2:|!
+|:e2f2|gg/f/ ee|f2g2|aa/g/ fa|!
+aggf|aggf|ab/a/ gf|f>e” D.C.”e2|]
+
+X:181
+T:Hornpipe. JC.180
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+A2|\
+dcdB AGFA|Bdced2ef|gf bagf ed|cdecA3A|!
+BGBd cAce|fdfa dcBA|dfeg fdec|d2d2d2:|!
+|:fg|agfg edcd|BGFGE2ga|bgfg edcd|ecdBA3A|!
+BGBd cAce|fefa dcBA|dfeg fdec|d2d2d2:|
+
+X:182
+T:John Clare’s H’pipe, aka. JC.181
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Bar six should probably be omitted. CGP.
+N:No TS given: 2/4 added.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+” Key D in MS”\
+(d3c e)dcB|(dgfg) edcB|AGBG AGBG|DGBd cBAG|!
+d3e edcB|(dgfg) edcB|”_Here,have this spare bar!”\
+(dgfg) edcB|(gfgd) ecAF|G2G2G2z2:|!
+|:d3e edcB|e2e2e2z2|c3d cAFA|dgfa agfe|!
+dBdg eceg|fdfa gfgd|egfg ecAF|G2G2G2z2:|
+W:untitled in MS.
+
+X:183
+T:Helpstone Hornpipe, aka. JC.182
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+N:title by CGP; untitled in MS.
+N:No TS given: 2/4 added.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+f2((3efg) fdAG|\
+FAdf cecA|FAdf gbef|gfed ceA2|!
+f2((3efg) fdAG|FAdf cecA|FAdf gbag|fgecd4:|!
+|:a2fg afdf|gbed dcBA|dggb affa|gfed dcBA|!
+AB/c/ dA BGAF|gfed dcBA|BGFG ABAg|fgecd4:|
+
+X:184
+T:Mozarts Waltz. JC.183
+R:Waltz
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+N:Erratic repeats.
+Z:vmp.P. Headford
+M:3/8
+L:1/8
+Q:1/8=140
+K:G
+D|\
+GGD|GGD|GGD|G2G/A/|BBA|BBA|BBA|B2B/c/|!
+dgd|dBd|cAc|cB B/c/|dgd|dBd|cAc|cBA|!
+BBB|AAA|^ccc|d2D|GG/A/B/G/|EEE|cAF|G2|!
+|:B|cc/B/c/d/|BBc|cc/B/c/d/|B2B|cc/B/c/e/|dBd|cBA|G2:|!
+|z|G/A/B/c/d/c/|BBA|G/A/B/c/d/c/|BBA|G2d|eg/e/g/e/|dBd|cAF|G2|]
+
+X:185
+T:Soldiers Life,The. JC.184
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=60
+K:D
+A2|\
+d3e (d>ed>e)|f2d2d2A2|e3f e>fg>e|f2d2d2ze|!
+f2d2{e}d2{c}B2|\
+e2c2c2zA|d3Bc2{B}A2|e2E2E2(A>c)|!
+e2e2e2f>d|c2B2″ tr”A2A2|d3dd2d2|e>de>fg2zd|!
+e2=c2A2d2|B2G2G2zB|e3ee2e2|f>ef>^ga2ze|!
+f2d2B2e2|c2A2A2A2|d3(e d>e)d>e|f2d2d2A2|!
+e3f e>fg>e|f2(d>f)e2(e>g)|(f>e)d>fe2(e>g)|(f>ed>)fe2(a>g)|!
+(f>ed>e)f2e2|d3fe2(a>g)|(f>ed>e)f2″ tr”e2|d6|]
+
+X:186
+T:Cornwallis March. JC.186
+R:March
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=75
+K:D
+A2|\
+d3de3e|a3fd2A2|B3c edcB|BAAAA2a>f|!
+g2e2e>e g>e|a2f>ff2A2|Bdgb|f2e2|d2d>dd2:|!
+|:” qu”A2|e2e>ef2f>f|a3g gfed|\
+e2e>e bged|c2e>e” qu”e2AB/c/|!
+d3c cB BA|B3A AGFE|Bege d2c2|d2d>dd2:|
+
+X:187
+T:New German March. JC.187
+R:March
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR has omitted this tune as she says it is identical to 188 except in
+N:Key of D.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/16
+Q:2/4=75
+K:D
+F3G|\
+A3GA3B A3GF3E|D4D3DD4F4|\
+E3DE3F E3DC3B,|A,4A,3A,A,4A3G|!
+F3GA3B E3FG3A|F2D2 (FGA)F E2C2 (EFG)E|D4D3DD4:|!
+|:F3G|A3GA3B A3dc3B|A4A3AA4F3G|\
+A3Fd3c c3AG3F|E4E3EE4A3G|!
+F3DD3DD4G3F|G3A,A,3A,A,4A3G|\
+F3D (FGAF) E3C (EFGE)|D4D3DD4:|
+
+X:188
+T:New German March. JC.188
+R:March
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=75
+K:G
+B>c|\
+d>cd>e d>cB>A|G2G>GG2B2|\
+A>GA>B A>GF>E|D2D>DD2d>c|!
+B>cd>e A>Bc>d|BG (B/c/d/)B/ AF (A/B/c/)A/|G2G>GG2:|!
+|:B>c|d>cd>e d>gf>e|d2d>dd2B>c|\
+d>Bg>f f>dc>B|A2A>AA2d>c|!
+B>GG>GG2c>B|c>DD>DD2d>c|\
+B>G (B/c/d/B/) A>F (A/B/c/A/)|G2G>GG2:|
+
+X:189
+T:Says Plato. JC.191
+T:Plato’s Advice, aka. JC.191
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS given: 2/4 added.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:G
+G2|\
+{c}B2AG{e}d2cB|{ef}g2fe{e}d3e|{e}d2cBc3B|A3d{c}B4|!
+A2Add3^c|defga3g|fed^cB2F2|G2A2d4|!
+(de/=f/) ed{d}c3B|((3cBA) dc{c}B3B|e3d{d}c3B|Aed{B}A{G}F3e|!
+d3FG3e|dcBAB3{ef}g|fed^cd3e/=f/|edcBc3B|!
+AGFED2zd|g3c BA/B/ {e}c {B}A|G2A>GG2|]
+
+X:190
+T:Black Ey’d Susan. JC.192
+R:Air
+C:words by John Gay, tune by R Leveridge
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/4
+L:1/4
+Q:1/4=120
+K:G
+Be” tr”f|\
+(gf)e|e^d/e/f|c3|cBA|(GF)E|!
+(G3/4A/4)B” tr”A{G/4A/4}|c3|Be” tr”f|\
+(gf)e|(g3/4a/4 b)” tr”a{^g/4}|b3|!
+bag|d2g|{b/}(ag)” tr”f|{e/4f/4}g3|\
+ba” tr”g|(ag)f|!
+gfe|^def|B3|\
+Gc^c|(d^c)B|!Bef|(gf)b|B2e|(fe)” tr”^d|e3|]
+
+X:191
+T:Sicilian Dance,The. JC.193
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+G>AG BAG|\
+d2dd2c|Bgbd2c|B2AG2D|!
+G>AG BAG|d2dd2g|f>gf ed^c|d3-d2z||!
+a2dc’2b|agf gfg|a2dc’2b|agfg2d|!
+ac’c’ dbb|caa Bgg|cBAd2F|G3-G2z||!
+B3{c}BAB|G2G GBd|d3{d}cBc|c2BB2g|!
+g2ff2e|e2dd2c|Bcd dcB|B3A2z||!
+g3ge^c|dedd3|c’3c’af|gagg2d|!
+ec’c’ dbb|caa Bgg|cBAd2F|G3-G2z|]
+
+X:192
+T:Briars,The. JC.194
+R:Scots Measure
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS given: 2/4 added.
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=80
+K:C
+C2c>d efed|\
+cAGE ADDE|C2c>d efed|cAGE GCC2:|!
+|:Gc {d}cB/c/ AcFA|GEcE dD DE/F/|\
+Gc {d}cB/c/ AcFA|Gc {e}dc/d/ ecc2:|
+
+X:193
+T:New Rigg’d Ship. JC.196
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS given: 2/4 added.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+G|\
+c2c” tr”c2e|c2c” tr”c2e|dBGG2B|dBG GAB|!
+c2c”tr”c2c|c2c dBG|A>Bc dBG|c3″ tr”c2:|!
+e/f/|g2eg2e|c2c ceg|a2fa2f|” tr”d2d def|!
+g2eg2e|” tr”c2c dBG|A>Bc dBG|” tr”c3-c2e/f/|!
+gfe gfe|c>dc ceg|agf agf|” tr”d>ed def|!
+gfe gfe|cec dBG|ABc dBG|cGEC2|]
+
+X:194
+T:Colledge Hornpipe. JC.197
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:Bb
+{c}BA|\
+B2B,4FE|DFB4((3dcB)|c2C2C2cB|Acf4ga|!
+bagf gfed|ecdB BAGF|GBAc Bdce|d2B2B2||!
+FE|DFBF DFBF|G2E2E2GF|=EGcG EGcG|A2F2F2ed|!
+e2g2gfed|ecdB BAGF|GBAc Bdce|d2B2B2|]
+
+X:195
+T:Devil Among The Taylors,The. JC.199
+R:Reel
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:Bb
+f2|\
+{a}b2fa {a}b2fa|{a}b2fb gfed|egcg egcg|egcb abc’a|!
+{a}b2fa {a}b2fa|{a}b2fb gfed|gedc fdcB|F2[E2A2][D2B2]:|!
+|:f2|dfBf dfBf|dfBb gfed|egcg egcg|egcb abc’a|!
+dfBf dfBf|dfBb gfed|gedc fdcB|F2[E2A2][D2B2]:|
+
+X:196
+T:Grinders,The. JC.200
+T:Tobias The Grinder, aka. JC.200
+T:Our Bride is No Maid,aka. JC.200
+R:Slip Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Known as Grenadiers in the Hardy Mss
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:9/8
+L:1/8
+Q:3/8=120
+K:D
+gfg edc BAG|\
+gfg efg afd|gfg edc BAG|AAA A2B d2B|!
+AAA A2B G2E|AAA A2B d2B|AAA A2B G2E|dBG GBd d2B:|
+
+X:197
+T:Yanky Doodle. JC.201
+R:air
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=75
+K:E
+eefg eedB|\
+eefg e2dB|eefg agfe|BGcd e2e2:|!
+|:c>dcA cde2|B>cBA G2B2|c>dcA cde2|c>edf e2e2:|
+
+X:198
+T:Scarlett & Green. JC.202
+R:Reel
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=85
+K:D
+A|\
+Adde fddf|gfed (f/g/)a (f/g/)a|Adde fddf|edecd2D:|!
+|:(f/g/)|affa geeg|fddf ecBA|affa geeg|gfeda2zf/g/|!
+affa geeg|fddf ecBA|Addf gfed|(f/g/a) Acd2D:|
+
+X:199
+T:St Davids Day. JC.203
+T:Welchman’s Leek,The, aka. JC.203
+R:air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|\
+Add” qu”d2e|fed e2A|Add” qu”d2e|fed faA|!
+Add” qu”d2e|fed e2B|Bee e2d|cdB cA|!
+|:A|gfe fed|cBA A2A|gfe fed|cee e2A|!
+gfe fad|egd {d}cBA|Add” qu”d2A|Add d2:|
+
+X:200
+T:Roodalum Irish,The. JC.204
+R:Slip Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:9/8
+L:1/8
+Q:3/8=120
+K:D
+Bcd ABG FED|Bcd ABG FGA|Bcd ABG FEF|\
+DED AGF EFA:|!
+|:BEE BAG FED|BEE BAG FGA|\
+BEE BAG FEF|DED AGF EFA:|!
+|:d2d dfd cBA|d2d dfa gfe|d2d dfd cBA|\
+d” D.C. 2nd Part”cB ABG FGA:|
+
+X:201
+T:Saxe Coburg. JC.205
+R:March
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MS includes Dance Instructions.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=80
+K:C
+c2d ede|\
+fdf ece|fdf ece|{g}fef dBG|!
+c2d ece|fdf ecg|afa gec|{e}dcBc2z||!
+g2f egc’|g2f egc’|afa gec|Bcd dBG|!
+g2f egc’|g2f egc’|c’af gec|{e}dcBc2z||!
+[c2e2]z[c2e2]z|[ce][df][ce][B2d2][ce]|\
+[d2f2][ce][B2d2][ce]|[d2f2][ce][B2d2][c|!
+[c2e2]z[c2e2]z|[ce][df][ce][G2d2][Ec]|\
+[F2d2][Ec][F2d2][Ge]|[Fd][Ec][Dd][E2c2]z|]
+
+X:202
+T:La Dansomanic. JC.206
+R:Country-dance
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR.Bars 1,2,5,6,10,12,13,14,15, a slur and a 3 has been added to the 3
+N:qu’s, making them equal to a crotchet.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+e>c {d}((3cBc)|\
+e>c {d}((3cBc)|d>d g>g|e2c2|!
+e>c {d}((3cBc)|e>c {d}((3cBc)|d>d g>g|e2c2:||:!
+d>d g>g|e2 ((3cBc)|d>d g>g|e2((3efg)|!
+a>f {g}((3fef)|g>e {f}((3ede)|f>d {e}((3dcd)|e2c2:|
+
+X:203
+T:Miss Douglas Moncrief. JC.207
+R:Reel
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+c|\
+BGdG BG-GB|AEAG FD-Dc|BGdG BG-GB|EcAF G2(Gc)|!
+BGdG BG-GB|cEAG FD-Dc|BGdB gdec|BGAFG3||!
+|c|Bcdg ecgc|BGdG FD-Dc|B(cd).g efge|dBcA G/G/G(Gc)|!
+B(cd).g ecgc|BGAG FD-Dc|Bdgb ceag|fdef g/g/g g|]
+
+X:204
+T:Favourite [?] Hornpipe. JC.208
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR.. This tune is written in the ms in pencil underneath
+N:the tune “O The Days When I Was Young”, No.209.
+N:No TS given: 2/4 added.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=90
+K:D
+fg|\
+afafd2fd|ececA2GF|GABc defg|ecAcd2fg|!
+afafd2fd|ececA2GF|Ggbg fdec|d2d2d2:|!
+|:de|fdedB2ga|b2e2e2cd|ecdcA2fg|a2d2d3c|!
+BccB AFAF|BcdB BFAF|Ggbg fdec|d2d2d2:|
+
+X:205
+T:O’The Days When I Was Young. JC.209
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS given: 2/4 added.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:D
+d” Sy”B|\
+AFDFE2dB|AFDFA2dB|AFDFB2″ Qu’s”e/f/g/e/|fdAcd2″ Soy”dB|!
+AFDFE2dB|AFDFA2dB|AFDFB2 eG|Fdecd2″ Sy”f/f/g/e/|!
+fdAcd2″ So”dd|ccBBA2Ac|edcBA2dd|ccBBA2AB/c/|!
+dFEDA4|A6dB|AFDFE2dB|AFDFA2dB|!
+AFDFB2eG|Fdecd2e/f/g/e/|fdAcd2|]
+
+X:206
+T:Valiant Soldier. JC.210
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=75
+K:D
+d|\
+fff2|eg dc|B3f|aab2|af gf/e/|f3:|!
+|:f|fad2|cB ef|g2fe|fd cA|\
+de fg|b>a ba|fedc|d3:|
+
+X:207
+T:Bards Legacy,The. JC.211
+T:Legacy,The, aka. JC.211
+R:air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+c2c cGE|\
+g2g gec|c2d ede|A2Bc3|!
+c2c cGE|g2g gec|c2d ede|A2Bc3||!
+|cegc’2c’|(ba).g (ag).f|ceg c’2c’|(ba)g. a2b|!
+c’2c’ (bg).e|a2a gec|c2d ede|A2Bc3|]
+
+X:208
+T:Young Huzzar. JC.212
+R:Waltz
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/8
+L:1/8
+Q:1/8=120
+K:D
+A|.A(fe)|(dF).A|(GE).c|df.A|\
+(Af).e|(dF).A|GE.c|d2|!
+|F|(GE).c|(df).G|(GE).c|d2F|\
+(GE).c|(df) F|(GE) c|d2A|!
+(Af).e|dF.A|(GE).c|(df) A|\
+(Af).e|(dF).A|(GE).c|d2|]
+
+X:209
+T:Alldivaloch. JC.213
+T:Roy’s Wife Of,etc.aka. JC.213
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR.No TS in Ms.Bars 1.20.the 1st note qu in Ms.Bar 9 left as MS.Bar
+N:11.1st 4 notesQu’s in Ms.Bar 14 3rd note qu in MS.Bar17 dot after 2nd
+N:note in Ms is omitted.
+N:No TS given: 2/4 added.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=60
+K:D
+AF3 F3 E|F3 E F d3|AF3 F3 D|E3 D E B3|\
+A3 F F3 D|d3 e {e}f3 e|!
+{e}d3 B {B}A3 F|{F}E3 D E F3|A|A3 d d3 f|\
+(ed) (ef) d3 A|A3 d d3 F|E3 cD E F2 A|!
+A3 d d3f|{g}(ed) {a}gf {g}e3 d|f3 e d3 F|\
+F3 E F(A {e}d{c}B)|(AF3) F3 E|F3 E F d3|!
+(AF3) F3D|{F}E3 D E B3|A3F F3 D|\
+d3 e {e}f3 e|d3 B A3 F|E3 D E F3|]
+
+X:210
+T:Sprig of Shillelah,The. JC.214
+T:Black Joke.aka. JC.214
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No T.Sig given.MR. Most quavers not beamed in M/S,but to make it easier
+N:for you all I’ve beamed them up, as it makes no difference to the tune.
+N:CGP….MR.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+E|DEG GFG|A>BA Az” Qu’s”G/F/|\
+GBd dcB|AcB A>GF|!
+G>AB EFG|DGF G2″ crot”d|g>ab efg|dgfg2||!
+G|BGB dBd|ece d2d|BGB dBd|eced2B|!
+ccc BBB|A>BAA2(G/A/)|BGB d>cB|!
+AcB A>GF|GAB EFG|DGFG2|]
+
+X:211
+T:Black Ey’d Susan. JC.215
+R:Air
+C:words by John Gay, tune by R Leveridge
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/4
+L:1/4
+Q:1/4=120
+K:Eb
+Gc” tr”d|edc|=Bcd/e/|Gc/G/E/C/|\
+F/A/D/F/=B,/D/|C/E/G/c/e/g/|\
+d/e/4f/4[ce][=Be]|[E3G3c3]|!
+Gc” tr”d|(ed)c|(c=B/c/)d|[=B,3D3G3]|AGF|(ED3/2)C/|\
+(E3/4F/4)G” tr”F|[B,3D3G3]|!
+Gc” tr”d|(ed)c|(e3/4f/4)gf{^f/}|[B3e3g3]|gfe|B2e|\
+{g}fe” tr”d{c/4d/4}|[G3c3e3]|!
+gf” tr”e|(fe)d|(ed)c|(=Bc)d|[=B,3D3A3]|EG=A|\
+B=AG|Gcd|!
+ed[=Bdg]|[=B,2D2G2][EGc]|{e}[FAd][EGc][DF=B]|[E3G3c3]|\
+Gc” tr”d|edc|=Bcd/e/|Gc/G/E/C/|!
+F/A/D/F/=B,/D/|C/E/G/c/e/g/|(3d/e/f/[ce]” tr”[=Bd]|c3|]
+
+X:212
+T:Soldiers Cloak. JC.216
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS given: 2/4 added.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=75
+K:D
+F/G/|\
+A2A AFA|d2ef2f|ecA ABA|G3F2F/G/|!
+A2A AFA|d2ef2f|ecA B2c|d3d2:|!
+|:d/e/|f2f def|g2ge2c|d2A ABA|G3F2F/G/|!
+A2A AFA|d2ef2f|ecAB2cd3d2:|
+
+X:213
+T:Christ Church Bells. JC.217
+T:Bonnie Christ Church Bells,The, aka. JC.217
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS given: 2/4 added.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/4
+Q:2/4=80
+K:D
+d>ddd|\
+ddd.f|.e.d.c.B|A>AAA|!
+FADA|dF/G/Aa/g/|fbe/f/g|f>ed2|!
+f>fff|fffa|gf/g/ed|eAee|!
+fefe|feed/c/|dBec|d>ef2|!
+a/a/a/a/aa/a/|aa/a/aA|Bcde|{d}c3B/c/|!
+dcdc|decB/A/|BGA>A|D4|]
+
+X:214
+T:Top Sail Shivers (in the wind). JC.218
+R:Air
+C:music by T.Arne, words by capt. Edward Thompson.
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR.Bars 4.13; following the dotted qu, a qu in the Ms is
+N:given here as a semi-qu. Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:D
+A2|\
+d2d2 d>e{f}f>e|d2D2 D2de|f2f2 (f>g)ag|(f3/g/4)f/4e2 z2a>g|!
+f2f>e d2b>a|g2g>f e2A2|d>cd>g f>a a/g/f/e/|d2z2 z2A2|!
+dAB=c cBAG|eBcd dcBA|fcde d3d|bagf fefg|!
+a>fdA FAdf|afba {a}g3 (g3/2a/4b/4)|\
+a2b3/2c’/4d’/4 af>” tr”ed|f<a a/g/f/e/{e}d2|]
+
+X:215
+T:Paties Mill. JC.219
+T:Lass Of Patty’s Mill, aka. JC.219
+R:Air
+C:by Allan Ramsay, 18th C.
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=50
+K:D
+A>G|F2ED F>GA2|(d3{f/e/d/e/}e)f2zA|\
+Bc dc BA GF|{F}E4z2A>G|!
+{G}F2EDFGA2|(d3e/f/A2)zd|B>c dB cd ef|{e}d6|!
+|f2|gf ed {d}c2BA|” tr”d3ef3A|Bc dA BA GF|E4z2f>g|!
+af ge fd Bg|{f}e4z2G>F|G2A>BA2c2|d6|]
+
+X:216
+T:Tommy Jenkins. JC.220
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+G/A/|\
+Bcd dcB|cde ABc|Bcd GAB|AFD D2G/A/|!
+Bcd dcB|cde ABc|BAG FEF|G3G2:|!
+|:F/G/|A2A Adc|BGG G2F/G/|A2A Adc|B3GBd|!
+(ec).G (dB).G|(cA).F GBd|(ec).A (dB).G|(cA).GG2:|
+
+X:217
+T:St Sebastion. JC.221
+R:Waltz
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS given: 2/4 added.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:3/8
+L:1/8
+Q:1/8=120
+K:C
+gg (e/c/)|aa d/c/|BBg|(fe) .f|\
+.g.g e/c/|aa d/c/|BgB|” crot”c3:|!
+|:.f.f (d/B/)|e-e (c/e/)|d-d (B/G/)|ceg|.f.f (d/B/)|\
+.e.e (c/e/)|dd B/G/|” crot”c3:|
+
+X:218
+T:Regents Fete. JC.222
+R:jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+g|\
+d2gB2d|G2G GFG|A2A Adc|B2AG2g|!
+d2gB2d|G2G GFG|A2A AdF|G3-G2:|!
+|:B|A2A ABc|d2cB2d|gfe dcB|ABcB2B|!
+A2A ABc|d2cB2d|dBG DEF|G3-G2:|
+
+X:219
+T:Teneriff. JC.223
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+G|(G2c)(c2e)|e2gg2e|f2de2c|BcdG2G|!
+G2cc2e|e2gg2e|def Bcd|c2ec2:|!
+|d|d2BB2G|g2dd2B|c2AB2G|^FAdd2d|!
+d2BB2G|g2ee2c|B2GA2^F|GA^F GE^F|c2ec2|]
+
+X:220
+T:Cuckoos Nest. JC.225
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=60
+K:F
+(cB)|\
+A2GF a2gf|ecAc d2cB|AGAF E2GB|e2B2 c2cB|!
+A2GF a2gf|ecAc d2dB|AFAF EFGB|A2F2 F2:|!
+|:c2|f2f2 fagf|e2c2 c2cd|e2e2 egfe|d2B2 B2cB|!
+AGAF fagf|ecAc d2cB|A2GF EFGB|A2F2 F2:|
+
+X:221
+T:Dusky Night. JC.226
+T:A-Hunting We Will Go, aka. JC.226
+R:air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR. Bar 8,following the dotted qu,a qu in Ms is given here as a
+N:semi-qu..
+N:No TS given: 2/4 added.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|d2dA2G|\
+F>EFD2A|B2AG2F|F3E2E|A2AB2B|!
+c>BcA2A|d2de2e|f>efd2A|(B>cd) (e>fg)|(A>B)cd2A|!
+B2B A>GA|D3zzD/D/|A2AA2A|” crot”A3zzA/A/|d2d d>ef|!
+d3zzA/A/|(B>c)d (e>f)g|(A>B)cd2A/A/|B2G A>GA|D3zz|]
+
+X:222
+T:Queens March. JC.227
+R:March
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS in MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=75
+K:D
+d4 A4|\
+GFED F2A2|d3d e3e|gfed dcBA|d4 A4|!
+GFED F2A2|d2gd a2gf|e2e>e e2z2:|!
+|:g3e dcBA|f2d2 f2d2|g3e dcBA|a2f2 a2f2|!
+d3e efge|dcBA” crot”a3g|f2f>g e2ef|d2d>d d2z2:|
+
+X:223
+T:Sham Peter. JC.228
+T:Champetre, aka. JC.228
+R:March
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR.. Bars 2.6.7.9.11.13.14..a qu follows a dotted qu in the MS,semi-qu
+N:given here.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=100
+K:G
+B/c/|\
+dgdg|d>cBd|cBcd|” qu in MS”B3(B/c/)|!
+dgdg|d>cBd|c>BcA|” crot”G3:|!
+|:z|A>BcB|AdAB|A>BcB|AG AB|!
+B>cdc|B>cdc|\
+(B/d/)(B/G/) (A/c/)(A/F/)|” crot”G3:|
+
+X:224
+T:New May Day. JC.229
+T:Shutter’s H’p, aka JC.229
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:A
+A2A2A2(cd)|\
+fcdB AcBA|B2B2 B2(fe)|dcBA GBGE|!
+A2A2 A2(cd)|ecdB Aagf|gbge fgf^d|e2e2 e2z2||!
+B2B2 B2(cd)|ecBA GBGE|e2e2 e2(fg)|gfed cecA|!
+f2d2 d2d2((3agf)|e2c2 c2ae|fdec dBAG|A2A2 A2z2|]
+
+X:225
+T:Lincolnshire March. JC.230
+R:March
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:140
+Q:2/4=75
+K:G
+((3def)|g2d>dd2c2|B2G>GG2((3ABc)|\
+BGcA dBgB|A2AAA2((3def)|!
+g2d>dd2c2|B2G>GG2((3ABc)|\
+((3Bcd) ((3efg) f2e2|d2d>dd2||!
+((3def)|edcBc2((3cde)|dcBAB2((3def)|\
+gfed cBAG|d2d>dd2((3ABc)|!
+B2G>GG2((3GAB)|c2A>AA2″_not in MS”((3ABc)|\
+((3Bgf) ((3edc) B2A2|G2G>GG2|]
+
+X:226
+T:Toast. JC.231
+T:General Toast, aka. JC.231
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Toast,toast,toast.MRBars 3.5.7. qu follows dotteed qu in MS, given here
+N:as semi-qu’s.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=100
+K:G
+G>AG g>fg|\
+efed3|G>AG g>fg|e3d3|!
+G>AG g>fg|fgfd3|cdc B>cB|” crots”A3G3:|!
+|:B>cd ded|(dc)B A2G|ded dcB|A3G3|!
+Bcd ded|dcBA2G|cdc BcB|A3F3:|
+W:Here’s to the Girl…
+
+X:227
+T:Swiss Alemand. JC.232
+R:Allemande
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS given: 2/4 added.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/16
+Q:1/4=90
+K:D
+d3ef2f2|\
+d2d2e4|(dc)BA B2c2|dcde d2A2|!
+d3ef2f2|d2d2e4|(dc)BA B2c2|d6d2:|!
+|:fgag fgag|gabae4|efgf efgf|fgafd4|!
+d3ef2g2|d2d2e4|(dc)BA B2c2|d6d2:|
+
+X:228
+T:Jack In Green. JC.233
+R:jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+“_Usually in 9/8″C2E D2F|E2G F2B|AFG FED|\
+C2E D2F|E2c d2d|dAG FED||!
+|:e2d c2B|AB” qu’s”c/d/e2d|edd cBA|\
+e2d c2B|ABc d2d|dAG FED:|
+
+X:229
+T:Bell,The. JC.234
+T:Ball,The,aka. JC.234
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+d|\
+B2G (AG)F|(GB)GD2D|E2Gc2A|(G3F2)d|!
+B2G (AG)F|(GB)GD2D|E2cA2F|(F3G2):|!
+|:B|B2D (cB)A|Bcd GAB|A2D (cB)A|c3B2d|!
+e2cA2f|g2d BAG|g2d BAG|E2cA2F|F3G2:|
+
+X:230
+T:Washerwoman. JC.235
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+f2a (gf)e|\
+(dc)de2A|f2a gfe|ddd” crot”d3:|!
+|:DDDF2A|DDDF2A|FFFA2d|FFFA2d|!
+d2fd2f|ecA” crot”A3|.B2d.B2d|AFFF3|!
+G2dF2d|E2dD2d|fgf edc|ddd” crot”d3:|
+
+X:231
+T:Neptune. JC.236
+R:reel
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+dAFD dAFD|\
+dAFDE2E2|dAFD EFGA|BGFED2D2:|!
+|:fefa gecA|fefag2g2|fdfa gbeg|fedcd2d2:|
+
+X:232
+T:Novey Gallows. JC.237
+T:Stoney Steps Hp, aka. JC.237
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+GBdg c’gfg|\
+ecBA GFED|ECB,C A,B,CD|ABcA GFED|!
+GBdg c’gfg|ecBA| GFED|ECB,C A,CG, (A/B/ )|cAGFG4:||:!
+(B,D)D2(DF)G2|ABcA GFED|(B,D)D2(EF)G2|(gf) ged4|!
+ecBc dBAG|ABcA GFED|ECB,C A,B,G, A/B/|cAGFG4:|
+
+X:233
+T:When The Heart Of A Man..?aka. JC.238
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS in Ms. No title in MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=60
+K:D
+d/e/|\
+fdA AGF|Eee ede|fdB AFA|Bdd d2:||:!
+f/e/|dfa dfa|dfa afd|dfa dfa|bee e>fe|!
+dfa dfa|dfa a2g|fdB AGA|Bdd d2:|
+
+X:234
+T:Handels Gavot..(No1). JC.239
+R:Gavotte
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS in the MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+d3e|\
+defg|a2a2|g2f2|A3B|B>G e>f|gfed|dcBA|!
+d3e|defg|a2a2|g2f2|A3c|Bgfe|d2c2|d3z:|!
+|:gfga|b2b2|f>e fg|a2a2|edef|ga fg|ef de|dcBA|!
+gf ga|b2b2|fefg|a2a2|edef|ga fg|fedc|d4:|
+
+X:235
+T:Lady Comptons Whim. JC.240
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No TS or KS in the MS.
+O:England
+A:Northamptonshire
+Z:vmp.Phil Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+G2G BAG|\
+F2GA2c|B2B dcB|ABG FED|!
+G2G BAG|F2FA2c|BcB AGF|” crots”E3E3:|!
+|:g2ee2g|f2d dcd|e2cc2e|d2B BAG|!
+c2AA2c|B2GG2B|E2AG2F|” crots”G3G3:|
+
+X:236
+T:Kingsbridge Assembly. JC.241
+T:Liberty For The Sailors, aka. JC.241
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.Phil Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+g2ef2e|\
+dcdA2A|BGB AFA|GDGF2D|!
+f2ef2e|dcdA2A|BAG FGE|D2D” crot”D3:|!
+|:CFA AFD|GABB3|Ace ecA|def” crot”f3|!
+afd BcB|gec ABA|BAG FGE|D2D” qu”D3:|
+
+X:237
+T:Wars Alarms. JC.242
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Irregular time in the MS.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:G
+” As Writ”\
+d2B2e2A3c|BGEAG2ED|G2G2G>AB>c|{Bc}d2cBB2A4|!
+d2BeA3c|BGEAG2FED2|G2G2G>AB>c|B2A2G4:|!
+|:e2ed eBcB|c2cB BA GF|c2F2B2e2|BAGFE3F|!
+G2G2Ge2d|{d}c>BB2A>G|(G2F3)E D|d2BeA3ABc2|B2A2G4:|
+W:Sung by Nancy (played by Miss Walpole) in The Camp, by Richard
+W:Brinsley Sheridan, Drury Lane Oct 15 1778, Act I, Scene 2.
+
+X:238
+T:Green Grows The Rushes O’. JC.243
+R:Strathspey
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C
+L:1/8
+Q:2/4=60
+K:G
+“_key of D in MS”B/A/|G>G B>A BGGB|AA e>d eA A>B|\
+c>c ce d>c BG|A>c B>A GEE2||!
+dg g>f gdd2|ea a>g ae e>f|g>a gf/e/ d>B G>B|A>c B/c/B/A/ GEE2|]
+
+X:239
+T:New Tyrolean Waltz (part), aka. JC.244
+R:Waltz
+S:John Clare,Poet,Helpstone (1793-1864)
+N:This is the first half of the tune only. CGP. No title, TS or KS in
+N:the MS…MR.Bars 2.3.6.7..a slur & 3 added to each 3 qu’s making them
+N:equal to one crotchet. Bar 5. dotted qu followed by qu in Ms, semi-qu
+N:given here.Bar 8, crot in Ms given here as minim.
+O:England
+A:Northamptonshire
+Z:vmp.Phil Headford
+M:3/4
+L:1/8
+Q:1/4=120
+K:F
+C2|\
+F>F A>A c>c|a2f2((3fef)|g2b2((3ede)|f2a2C2|!
+F>F A>A c>c|a2g2((3fef)|g2b2((3ede)|f4|]
+
+X:240
+T:Ashley’s Flag, aka. JC.245
+R:.Hornpipe
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Untitled in MS.
+O:England
+A:Northamptonshire
+Z:vmp.Phil Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:G
+” qu”c2|\
+BdBG c2AF|G2G2 G3d|e2g2 d2g2|ABcA GFED|!
+BdBG c2AF|G2g2 g2ef|gfed Ad^ce|d2d2 d2:|!
+|:AB|cBAG Gged|c2A2 A2AB|cBAG Fedc|B2G2 G2″ qu”D2|!
+E2g2 D2f2|G2e2 B2c2|cBAG Fedc|B2G2 G2:|
+
+X:241
+T:Woods Hornpipe. JC.246
+R:Hp
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.Phil Headford
+M:C
+L:1/8
+Q:2/4=90
+K:G
+((3DEF)|\
+G2G2 G2Bc|dBdg dBAG|edcB cBAG|FGAB A2DE/F/|!
+G2G2 G2Bc|dBdg dBAG|edcB cBAG|D2G2 G2:|!
+|:Bc|dBdg dBdg|eceg eceg|edcB cBAG|FGAB A2Bc|!
+dBdg dBdg|eceg eceg|gfed cBAG|D2G2 G2:|
+
+X:242
+T:Mary No More. JC.247
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR This tune is written in pencil in MS.
+N:Bars 1.2.3.4.6.10. Dotted qu’s followed by qu’s in MS.
+O:England
+A:Northamptonshire
+Z:vmp.Phil Headford
+M:C|
+L:1/8
+Q:2/4=60
+K:D
+A|\
+d>cd>e dccd|B>AB>d B>AF>d|A>FE>D D2FA|B>dc2 {Bc}d2z:|!
+|:A|d2d>e f3f|g3e fdB>A|d>dfa dccd|BA Bd BA Fd/f/|!
+a3b a<fed|BA>Bd B>A Fd|AFED D2FA|B2c2 d2z:|
+
+X:243
+T:Wounded Huzzar,The. JC.248
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.Phil Headford
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+ED|\
+C2E2F2|G4FE|FGAGFE|^D2E2F2|!
+G2B2B2|BAGFED|C2E2E2|E4:|!
+|:EF|G2B2B2|B4AG|F2A2A2|A4GF|!
+E2e2^d2|^e2f2g2|B2gfe^d|e4ef|!
+g2f2e2|d2B2{f}g2|GBAGFE|D2E2F2|!
+G2BGBd|BAGFED|C2E2E2|E4:|
+W:Tunes from here on are as loose paper inserts into MS book.
+
+X:244
+T:Portugal Dance,The. JC.249
+T:Oats & Beans & Barley Grow, aka. JC.249
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR. Bar 18 last note dotted qu in MS.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+f2ff2f|\
+eded3|c2d edc|d2ef2z|!
+f2ff2f|ede def|g2fe2d|cdcd2z:|!
+|:e2ec2A|defe2c|e2ec2A|def efg|!
+a2ag2g|f2fe2e|d2dc2c|BABA2z:|!
+|:a2aa2a|gfgf3|e2f gfe|f2ga3|!
+a2aa2a|gfg fgc’|b2ag2f|edeA2z:|
+
+X:245
+T:Gee O’Dobbin. JC.250
+T:How Do You Do?, aka. JC.250
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No KS in MS.More or less the same as the morris dance
+N:tune, “How Do You Do,” from Sherborne. CGP.
+N:Song text exists,(or not). See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=60
+K:D
+” qu’s”A/G/|\
+FDF AFA|BAB ABc|dcd Bge|cAcd2:|!
+|:” qu’s”c/d/|efe dcB|ecAA2F/G/|ABA AGF|GEG” crot”G3|!
+F2A FDF|G2B GEG|FGA Bcd|cBcd2:|
+
+X:246
+T:Poor Soldier. JC.251
+T:Deadly Wars, aka JC.251
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:cf Just as the Tide was Flowing.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=60
+K:G
+GA|\
+B2D2D2GF|EDEGA2GA|B2D2cBAG|E3FG2:|!
+|:D2|GABcd2d2|edcBA2D2|GABc dedc|B3cd2D2|!
+GABcd2d2|edcBA2GA|B2D2cBAG|E3FG2:|
+
+X:247
+T:Devils Dream,(with 3 parts). JC.252
+R:Reel
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:A
+eaga eaga|\
+eaga fedc|dfBf dfBf|dfBf fedc|!
+eaga eaga|eaga fedc|fdcB .e(cB)A|E2G2A4:||:!
+ceAe ceAe|ceAe (fe).d.c|dfBf dfBf|dfBf agfe|!
+ceAe ceAe|ceAe (fe).d.c|fdcB edcA|E2B,2″ crot”A,4||!
+(ae)ce (ae)ce|(ae)ce a2ga|(bg)eg (bg)eg|(bg)eg b2ag|!
+(ae)ce (ae)ce|(ae)ce a2gb|(ag)fe dcBA|E2G2A4|]
+
+X:248
+T:Egg Hornpipe. JC.253
+T:Fisher’s Hornpipe, aka. JC.253
+T:Blanchard’s Hornpipe, aka. JC253
+R:Hp
+C:by James Arnold Fishar, dir. at Covent Garden during 1770’s.
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR. No KS in MS. 1st 2 notes after 1st double bar lines and last 2
+N:notes in bar 12 are semi-qu’s in MS.
+N:aka Peckhover Walk HP, China Orange HP.CGP.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+((3ABc)|\
+dAFA GBAG|FDFA GBAG|GEDE GEEG|\
+FDD” qu’s in MS”FB2c2|!
+dAFA GBAG|FDFA GBAG|FAdf Aceg|fedc d2:|!
+|:cd|ecAc efge|fdcd efge|fdcd efge|cBAG A2Bc|!
+dAFA BcdB|AFDA GABG|AFDF GEFG|A2″ crots in MS”DA,D2|]
+
+X:249
+T:Dukes Hornpipe. JC.254
+T:Lady Flashdash, aka. JC.254
+T:Back Of Th Haggard,The, aka. JC.254
+R:Hp
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Has also aquired the name “Kershaw’s HP” more recently off Jamie
+N:Knowles due to it’s untitled appearance in the Joseph Kershaw MS. CGP.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=90
+K:D
+” qu”A2|\
+dfdf ecAc|dBGB AFDF|EGFA Gged|c2A2A2″ qu”A2|!
+dAA2″ qu”eA”qu”A2|fefg aAA2|BdGB AGFE|D2D2 D2:|!
+|:” qu”A2|dAdA FAFD|BGDG BGdB|gefd edcB|cded cBAG|!
+Fdd2 Gee2|Aff2 Bgg2|afdf gedc|d2d2 d2:|
+
+X:250
+T:Nightingale,The. JC.255
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:MR Bars 1.2.3.5.,The dots are moved from before the qu’s,as in ms to
+N:after as here.Bars 9.11.19.crot in MS given as dotted crot.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:2/4=60
+K:D
+a2|\
+f3e d<e d<e|f3e d<e d<e|f<g f<e d<e f<g|a3ba2||!
+” qu”f2|a2a<ba2f<g|a>ga>ba2a>g|g>f g>a g>fg>a|b2B4c>d|!
+e3d cBA2|a2ed cBA2|a3b ag fg|e3dd2||!
+g>a|b2g2g2g>a|b2gag2ga|bg bg bg bg|ce ce ce ce|!
+a2ed cBA2|a2ed cBA2|a3b ag fg|e2d2″ qu”d2||!
+ga|bg gg gg gg|bg gg gg gg|bg bg bg bg|f>d f>d f>d f>d|\
+b2e>d c>BA2|]
+
+X:251
+T:Handels Gavott..(No2). JC.256
+T:Sidney Smith’s March, aka. JC.256
+R:Gavotte
+S:John Clare,Poet,Helpstone (1793-1864)
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:C|
+L:1/8
+Q:1/4=180
+K:G
+Bc|\
+d2d2d2d2|e2d2c2B2|dc BcA2dc|BcABG2dc|!
+BdBd AdAd|GdGd” qu”F2dc|Bcded2″ minim”^c2|d6:|!
+|:AG|FDFA dABc|B4dcdc|BdBd gde” fd6 in MS”=f|e6gf|!
+egeg dgdg|cgcg BgBg|egeg dgdg|cgcg BgBg|!
+e2d2c2B2|e2d2c2B2|e2d2c2B2|A6Bc|!
+d2d2d2d2|e2d2c2B2|c2BcA2dc|BcABG2dc|!
+BdBd AdAd|GdGd FdFd|EdEd FdFd|GdGd AdAd|cedcB2A2|G6|]
+W:Bars 7,8 as |Bcedd2| in MS. CGP.
+
+X:252
+T:Haste to the Wedding. JC.257
+R:air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:TS 2/4 in MS. Deacon gives the text to the song, and the tempo is
+N:according to that,but it has to be said that I at least would find it
+N:too high for singing in this key, and Clare probably had it as a dance
+N:tune. CGP.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|\
+AFG Agf|ede fdB|AFA BdF|EEE E” qu”B2|!
+AFG Agf|ede fdB|AFA faf|ddd d2||!
+” crot”a|afa afa|bgb bgb|afa agf|eee e3|!
+a3″ crot”f3|ede fdB|AFA faf|ddd d2|]
+
+X:253
+T:Sea,The Open Sea,The T.Williams,1834. JC.258
+R:March
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists,(or not). See Deacon.
+N:Bryan Waller Procter, aka Barry Cornwall (1787-1874)
+N:credited with the words. Published by James Lindsay, Glasgow.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=90
+K:F
+c|f3-fzc|a3-azf|\
+g3c3|f3zcc|g2ef2d|e2cd2=B|!
+c2e gf d|c3zz2|zzcc2d|e2e ed e|f2f f d =B|^G2G A=B c|!
+B3z2e|e3e d e|g3-g2e|f3-fg f|e3zzc|c=B A ^G G|!
+AG FE2e|fe d c=B A|d3e3|A3zz2|f3f2f|f3zz2|!
+c3c2c|c3zzc|f2f fe d|c2A A B c|d2d d c B|A2F Fc2|!
+f3e3|d3e3|^c3 c=B ” crot”c|d3zd c|c3-cd e|f3-f e f|!
+g3gfg|a3zzf|g czzzg|a fzz2z|g2ge de|!
+f2zzzd|g czzzg|a fzz2z|ga b cd e|f3z2|]
+
+X:254
+T:Wandering Girl,The. JC.259
+T:Bud Of The Rose,The, aka. JC.259
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=60
+K:C
+” As Writ”G|\
+cBc dBG|ede fgf|dcd G A f/d/|d/c/ BAB ” crot”c:|!
+|:g|gec GBd|efd BGG|cBc edc|cBcc2:|!
+|:G|cBc dBG|ede fgf|dce GA f/e/|d/c/ BcB ” crot”c:|
+
+X:255
+T:Gardengate,The. JC.260
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:2/4
+L:1/8
+Q:1/4=60
+K:Bb
+” As Writ”D|\
+GA Bc|dBG2|ABc AG|FG||!
+D|GA Bc|dBG|ABc AG|F G:|!
+|:B2c2|d2B Bd2|c A A B|cBAG F G|D D|!
+|E F G|B AG|cBcd e|dcBAG d2c|B G G:|
+
+X:256
+T:Oyster Girl,The. JC.261
+R:Air
+S:John Clare,Poet,Helpstone (1793-1864)
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:4/4
+L:1/8
+Q:2/4=60
+K:Bb
+” as writ”de BG|A2G2D2E2|F2G2G2B2|B2G2d2B2|\
+A2d2e2B2|G2g2e2c2|e2e2d2B2|!
+d2c2A2G2|G2:||:B2BBB2A2AAA2|G2A2B2A2|\
+G2F2G2A2|B2A2G2F2|” DE”G2:|
+
+X:257
+T:Off She Goes. JC.262
+R:Jig
+S:John Clare,Poet,Helpstone (1793-1864)
+N:No Key sig in MS…Although this exists as a Broadside, Deacon says he
+N:cannot trace it as such from any oral sources.Since it exists very
+N:commonly in tune books, the inference must be that it was generally
+N:known as only a dance
+N:tune.CGP.
+N:Song text exists. See Deacon.
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+F2AG2B|\
+ABcd3|F2AG2B|AFD” crot”E3|!
+F2AG2B|ABc” crot”d3|def agf|edc” crot”d3:||:!
+faf def|eae cde|faf def|ecA” crot”A3|!
+faf def|eae cde|faf gec|” crots”d3d3:|
+
+X:258
+T:Redowa Polka, aka. JC.263
+R:Polka
+S:John Clare,Poet,Helpstone (1793-1864)
+N:This is the well known Redowa Polka, although untitled in the MS.
+N:It raises one or two points. Firstly, polkas were not introduced
+N:into this country until 1848, according to V.Sylvester and
+N:J.Richardson, yet a couple of tunes ago we were apparently in
+N:1834. Secondly,whoever pricked it down was not at all familiar
+N:with the polka rhythm, especially the time sig.
+N:Either “T.Williams,1834″ refers to something other than the
+N:collection date,or John Clare put the MS down for a few years and
+N:came back to it in a fit of sanity, or enthusiasm for the new dance
+N:rhythm, or somebody else entirely was responsible for entering this
+N:tune (not by any means rare in fiddlers tune books) Reference t
+O:England
+A:Northamptonshire
+Z:vmp.P. Headford
+M:6/8
+L:1/8
+Q:1/4=120
+K:G
+” As Writ, see notes”\
+G/B/d2dd2|dedc BB|GAB GAB|B2A2A2|!
+A/B/c2cc2|cdcB AA|FGA FGA|B2G2G2:|!
+|:G/B/d2d2c/B/|B2A AGA|A/c/ e2e2d/c/|cB BAB2|!
+G/B/d2d2c/e/” B”|A/c/ e2e2d/f/|g3e d/c/B/A/|B2G2G2:|!
+|:D2G2G/A/G/F/|E2A2A/B/A/G/|F2DE2F|G/F/G/B/e2d2|!
+D2G2G/A/G/F/|E2A2A/B/A/G/|F2DE2F|G2G2G2:|

@@ -1,0 +1,1067 @@
+%abc
+%%abc-alias Albert J.Hughes
+%early 19thC, UK Shropshire Whitchurch, Private collection, Article in EDS Autumn 2007 pp12-14
+%%abc-creator ABCexplorer 1.3.7 [01/01/2010]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP Neil Brookes 2006
+%Revised 12/2008
+%Revised again 12/2009
+%Multi-voice tunes reformatted by Phil Taylor (with mince pies and Balvenie Doublewood) 12/2009
+
+X:1
+T:Sir Rodger de Coverly. AJH.001
+T:Sir Roger de Coverley,aka. AJH.001
+M:9/8
+L:1/8
+Q:3/8=120
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:D
+A,/2B,/2C/2|:D2D D2 B AFD|B,2E EFD CB,A,|\
+D2D D2B AFA|d2D DED CB,A,:|!
+|:F2A G2B AFD|B,2E E2D CB,A,|F2A G2B AFA|d2D DED CB,A,:|!
+|:a2f g2e f2d|cde e2f gfe|afa geg fdf|d2d A2G FED:|
+
+X:2
+T:Triumph,The. AJH.002
+M:2/4
+L:1/16
+Q:1/4=100
+O:England
+S:A.J.Hughes MS
+A:North Shropshire
+Z:Neil Brookes 2006
+K:G
+g2|(dB)BG (cA)AF”qu’s in MS”|Ggfg e2d2|dBBG cAAF|G2B2 G2:|!
+|:z2|A3c B2d2|A3c B2d2|A2B2 c2e2|dcBA G2:|!
+A2|B3d dcBc|A3B cBAB|GABc defg|dcBA G3G|!
+B3d dcBd|A3B cBAB|GABc defg|fgaf g2|]
+
+X:3
+T:Miss Leigh’s Fancy.2voices. AJH.003
+M:6/8
+L:1/8
+Q:3/8=120
+O:England
+S:A.J.Hughes MS
+A:North Shropshire
+W:Right hands across. Left hands Back again. Cast of(sic).
+W:Allemade(sic) with (3?) partner.
+W:Lead thro the Bottom and top hands (to? ?ound.
+W:No formation given.
+Z:Neil Brookes 2006
+V:1 clef=treble
+V:2 clef=bass
+%%score {1 | 2}
+K:D
+[V:1] |: FDF FDF | BAG FED | FDF FDF | GEE E3 |
+[V:2] |: D,3 F,3 | G,3 A,3 | D,3 F,3 | A,3 A,3 |
+%
+[V:1] FDF FDF | BAG FED | Bcd efg | fdd d3 😐
+[V:2] D,3 F,3 | G,3 A,3 | G,3 E,3 | D,3 D,3 😐
+%
+[V:1] |: agf edc | fed cBA | ded faf | gee e3 |
+[V:2] |: A,3 A,3 | D,3 D,3 | F,3 D,3 | A,3 A,3 |
+%
+[V:1] agf edc | fed cBA | Bcd efg | fdd d3 😐
+[V:2] G,3A,3 | D,3 F,3 | G,3 A,3 | D,3 D,3 😐
+
+X:4
+T:Quick and Merry.2voices. AJH.004
+M:6/8
+L:1/8
+Q:3/8=120
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+W:The first Gent’n lead his partner With both round the 2nd cup to their own places.
+W:The 2nd Cup do the same round the 1st Cup to their own places.
+W:1st Cup lead down the middle up again. Allemade(sic) with partner
+Z:Neil Brookes 2006
+V:1 clef=treble
+V:2 clef=bass
+%%staves {1 2}
+K:D
+[V:1] |: D2d dcB | ABA AGF | GGG FFF | EEE GFE |
+[V:2] |: D,F,A, F,2G, | F,3 D,3 | E,E,E, D,D,D, | C,2A,, D,3 |
+%
+[V:1] D2d dcB | ABA AGF | Bcd efg | fge d3 😐
+[V:2] D,F,A, F,2G, | F,3 D,3 | G,3 E,3 | A,2A,, D,3 😐
+%
+[V:1] |: a3 f3 | BdB BdB | g3 e3 | AcA AcA |
+[V:2] |: D,F,A, D,F,A, | D,G,B, D,G,B, | C,E,A, C,E,A, | C,E,A, C,E,A, |
+%
+[V:1] ddd BBB | ggg eee | fga agf | gec d3 😐 !
+[V:2] D,F,A, D,F,A, |C,E,A, C,E,A, | F,2G, F,2D, | A,2A,, D,3 😐
+
+X:5
+T:March the 3(?) by S(?) Wien.2voices. AJH.005
+M:4/4
+L:1/8
+Q:1/4=120
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+N:Two bars in Primo have notes superimposed over the melody line. These
+N:correspond to the bass line (V2) one octave higher. to achieve the
+N:effect I have modified V2 to add these notes as chords.
+Z:Neil Brookes 2006
+V:1 clef=treble
+V:2 clef=bass
+%%staves {1 2}
+K:D
+[V:1] |: d2d>d dcde | f2f>f fefg | a2a>a b>ag>f |\
+e2e>e e2d2 | c>Bf>d c2B2 | A2A>A A2 😐
+[V:2] |: D,>DA,>F,D,2z2 | D,>DA,>F,D,2z2 | D,2D,>D,F,2G,2 |\
+A,>A,E,>C,A,,2E,2 | A,2C2D2E,2 | A,2E,>C,A,,2 😐
+%
+[V:1]|: A>A | B2zB c2zc | d2d>d d2a>a | aTg/a/ b>a g>fe>d | e2e>ee2A>A |
+[V:2]|: F,>D, | G,2zG,E,2zA,, | D,2D,>D,D,2z2 | D,2D,2G,2^G,2 |A,2A,>A, A,>G,F,>E, |
+%
+[V:1]”^d>df>daAc>A superimposed over 2 crots”d2z2e2z2 |\
+“d^>d superimposed over first crot”f2z2g2z2 | a2b>g f>ed>c | d2d>dd2 😐
+[V:2] [D3/D,3/][D/D,/][F3/F,3/][D/D,/] [A3/A,3/]A,,/[C3/C,3/][A/A,/] |\
+[D3/D,3/][D/D,/]F,>D, A,>A,,C,>A,, | D,2G,2A,2A,,2 | D,>DA,>F,D,2 😐
+
+X:6
+T:Oh Dear What Can The Matter Be?2voices. AJH.006
+M:6/8
+L:1/8
+Q:3/8=100
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+V:1 clef=treble
+V:2 clef=bass
+%%staves {1 2}
+K:G
+[V:1] |: “_rest added”z|d3 d3 | dBg dBG | c3 c3 | cAB cBA |
+[V:2] |: z|G,B,G, F,D,F, | G,3 G,2F, | E,G,C C,E,G, | D,3 D,3 |
+%
+[V:1] d3 d3 | dBg dBG | EGc BcA | G3 z2 😐
+[V:2] G,B,G, F,D,F, | G,3 G,3 | C,3 D,3 | G,D,B,, G,,2 😐
+%
+[V:1] |: d | dBc dBc | dBg dBG | cAB cAB | cAB cBA |
+[V:2] |: z | G,3 G,3 | G,3 G,3 | D,3 D,3 | D,3 D,3 |
+%
+[V:1] dBc dBc | dBg dBG | EGc BcA | G3″_dotted in MS” G2 😐
+[V:2] G,3 G,3 | G,3 G,3 | B,,3 D,3 | G,D,B,, G,,2 😐
+
+X:7
+T:Jingling Johnny.2voices. AJH.007
+T:Kate Dalrymple,aka.2voices. AJH.007
+M:4/4
+L:1/8
+Q:1/2=100
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+V:1 clef=treble
+V:2 clef=bass
+%%staves {1 2}
+K:D
+[V:1] d2 df e2 eg | d2df e2eg | d2d’2 a2gf | efge f2d2 ||
+[V:2] D,2 D,F, E,2 E,G, | D,2D,F, E,2 E,G, |\
+D,2D2 A,2 G,F, | E,F,G,E, F,2D,2 ||
+%
+[V:1] a2a2 a2 (3fga | a2a2 a2gf | a2d’2 a2d’2 | a2a2 a2gf |
+[V:2] A,2A,2 A,2 (3F,G,A, | A,2A,2 A,2G,F, |\
+A,2D,2 A,2D,2 | A,2A,2 A,2G,F, |
+%
+[V:1] g2ga f2fg | e2ef e2f2 | d2d’2 a2gf | efgef2d2|]
+[V:2] G,2G,A, F,2F,G, | E,2E,F, E,2F,2 |\
+D,2D2 A,2G,F, | E,F,G,E, F,2[D,2D,,2]|]
+
+X:8
+T:March by H(or J).Hughes.2voices. AJH.008
+M:4/4
+L:1/8
+Q:1/4=120
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+V:1 clef=treble
+V:2 clef=bass
+N:Voice 2 is written in MS in bass clef
+Z:Neil Brookes 2006
+K:G
+[V:1] |: GB | d2d>d d2 (3cBA | G2G>G G2c2 | gd cA B2G2 | A2A>A A2 G>B |
+[V:2] |: z2 | D2A,>F, D,2z2 | G,,2G,,>G,, G,,2z2 |\
+G,2D,2 B,,2G,,2 | D,2D,>D, D,2z2 |
+%
+[V:1] d2d>d d2 (3cBA | G2g>g g2 ec | A2a2 g>fe2 | d2d>d d2 😐
+[V:2] D2A,>F, D,2z2 | G,,2G,,>G,,G,,2 [E,2C,2] |\
+A,2F,2 A,2A,,2 | D,2D,>D, D,2 😐
+%
+[V:1] |: (3gfe |c2c>c c2 (3gfe | B2B>B B2 (3dcB |\
+G2 eg fd BG | A2A>A A2G>B |
+[V:2] |: z2 |C,2C,>C, C,2C,2 | G,2G,2 G,2z2 |\
+G,2D,2 B,,2G,,2 | D,2D,>D, D,2z2 |
+%
+[V:1] d2d>d d2 (3cBA | G2g>g g2 ec |dB cA BG AF | G2G>G G2 😐
+[V:2] D2A,>F, D,2z2 | G,,2G,,>G,, G,,2E,2 |\
+G,2E,2 D,2D,,2 | G,,2G,,>G,, G,,2 😐
+
+X:9
+T:A Very Grand March by WL.2voices. AJH.009
+M:4/4
+L:1/8
+Q:1/4=120
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+N:Certainly is!
+V:1
+V:2 clef=bass
+Z:Neil Brookes 2006
+K:G
+[V:1] |: g2d>dd3c | B2G>GG4 | DGGB GBBd | de/d/ cB{B}A4 |
+[V:2] |: G,2G,,2B,,2D,2 | G,2G,,2B,,2G,,2 | D,2B,,2E,2G,2 | F,2G,2CD,E,F, |
+%
+[V:1] g2d>dd3c | B2G>GG2g2 | (3fag (3fed A2^c2 | d2 d>dd4 😐
+[V:2] G,2G,,2B,,2D,2 | G,2G,,2B,,2^C,2 | D,2F,2A,2A,,2 | D,2D,>D,D,4 😐
+%
+[V:1] |: A2A>AA2D/F/G/A/ | B2 B>B B2 (3def | g2d>c B2 G/A/B/c/ | d2 D>DD2d2 |
+[V:2] |: D,2D,>D,D,2z2 | G,2G,,>G,,G,,2 D,E,/F,/ |\
+G,2D,>C,B,,2G,,2 | D,2D,>D,D,2G,,2 |
+%
+[V:1] e2e>ee2f2 |g2fe d2c2 | (3Bgf (3edc B2A2 | G2 G>G G4 😐
+[V:2] C,2C,2C,2C,2 |B,,2B,,2B,,2A,,2 | G,,2C,2D,2D,,2 | G,,2G,,>G,,G,,4 😐
+
+X:10
+T:Mill of Howth.2voices. AJH.010
+T:Duchess Of Hamilton’s Rant,aka.2voices. AJH.010
+M:6/8
+L:1/8
+Q:3/8=120
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+N:First part like D of H’s…
+V:1
+V:2 clef=bass
+Z:Neil Brookes 2006
+K:G
+[V:1] |: d | dBG c2e | dBG c2e | dBG dBG | AAA A2d |
+[V:2] |: z | B,2G,C3 | B,2G,C3 | B,3G,3 | D,2D,D,3 |
+%
+[V:1] dBG c2e | dBG c2e | dgd cBA | GGGG2 😐
+[V:2] B,2G,C3 | B,2G,C3 | B,2CD2D, | G,3G,,2 😐
+%
+[V:1] |: g | gfe ^def | g2fe2g | gdB cde | dcB A2d |
+[V:2] |: z | E,2F,G,2A, | B,2A,G,3 | B,3A,B,C | B,A,G, D,2z |
+%
+[V:1] dBG c2e | dBG c2e | dgd cBA | GGGG2 😐
+[V:2] B,2G,C3 | B,2G,C3 | B,2CD2D, | G,3G,,2 😐
+
+X:11
+T:Set of Quadrilles. AJH.011
+M:6/8
+L:1/8
+Q:3/8=120
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:C
+P:1st
+G”^$”|c3 e3|c3z GF|E2E EDE|G2F D2G|!
+d3 f3|d3 dcB|BAG GAB|d3 c2||!
+G|f2d dcd|e2c cBc|e2B GAB|c2e c2G|!
+f2d dcd|e2c cBc|d2B GAB|c3 Sc2||!
+z|A2A Adc|B2B Bdf|e2e dcd|e2e cBc|!
+A2A Aec|B2B Bdf|e2e ^g2g|”^DC”a2zz2|]!
+P:2nd
+M:4/4
+L:1/4
+Q:1/4=110
+c/d/|g/e/c/e/ ga|g/e/c/e/ ga|ggfe|d/c/d/e/ dc/e/|!
+g/e/c/e/ ga|g/e/c/e/ ga|g/e/g/e/ f/d/f/d/|c3||!
+c/d/|d/B/G/B/ dd|e/c/G/c/ ee|fg/f/ ef/e/|d/c/d/e/ dB/c/|!
+d/B/G/B/ dd|e/c/G/c/ ee|fg/f/ ef/e/|d”DC”d d|]!
+P:3rd
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+dS|dbb fag|d3 d2e|d2B d2B|d2c A2d|!
+dbb fag|e3 edc|Bdd dAF|A3 G2||!
+B|cAF d2c|Bdg b2g|c’af d2c|Bed d2c|!
+cAF d2c|Bdg b2g|fac’ d’c’f|a3 g2S||!
+B|e3 g3|f3 afd|egb c’gf|e3 ^d2B|!
+e3 g3|c3 f2a|g2e f2^d|e3″DCapo” z2|]!
+P:4th
+Q:3/8=120
+K:D
+|:A|d2e f2e|d3 d2A|BGB AFA|BGB A2A|!
+d2e f2e|d3 d2a|agf ede|d3 Hd2:|!
+A/G/|F2A d2A|f2d e2c|d2B A2^G|A2G FAG|!
+F2A d2A|f2d e2c|d2B A2^G|”^inverse ferm sign”IA3 A2A|!
+e3 efe|d3 def|g3 gag|f3 f2A|!
+e3 efe|d3 d2f|ege dcB|A2A”^DCapo” A2|]!
+P:5th
+M:4/4
+L:1/4
+Q:1/4=110
+K:G
+|:.dd3/4d/4 .dd3/4d/4|.dd3/4d/4 dg|GB ed|dc A2|!
+.cc3/4c/4 .ee3/4e/4|.cc3/4c/4 .AA3/4A/4|FedF|\
+“^4 dots in spaces – fine?”A2Gz:|!
+|:B2c^c|dgBd|AfdF|GABc|!
+B2c^c|defg|FedF|A2GSz:|!
+|:.BB3/4B/4 .BB3/4B/4|.BB3/4B/4 Be|^deag|fbB2|!
+.BB3/4B/4 .BB3/4B/4|.BB3/4B/4 Bg|”^DCapo”fe ^d/e/f/d/|f2e2:|
+
+X:12
+T:Illegible.3voices. AJH.012
+M:6/8
+L:1/8
+Q:3/8=100
+O:England
+A:North Shropshire
+S:A.J.Hughes MS
+N:Title very faint and not readable.
+N:The bare melody is not very inspiring but a clever arrangement in which
+N:voice 2 echoes phrases in voice 1 is quite pleasing. Voice 3 written in
+N:bass clef in MS.
+V:1
+V:2
+V:3 clef=bass
+Z:Neil Brookes 2006
+K:D
+[V:1] |: A | dddd2f | dddd2A | ffff2a | ffff2g | aaaa2f |\
+gggg2e | fed agf | eeee2 😐
+[V:2] |: z | z6 | z2zz2A | dddd2f | dddd2e | ffff2d |\
+eeee2A | dAF fed | AAAA2 😐
+[V:3] |: z | D,D,D,D,2A,, | D,D,D,D,2A,, | F,F,F,F,2A, | A,,A,,A,,A,,2z |\
+F,F,F,F,2D, | E,E,E,E,2A,, | D,2A,, F,E,D, | A,,A,,A,,A,,2 😐
+%
+[V:1] |: A | eeee2f | dcBA2A | ffff2a | gfed2c | ffd eec | ddB ccA |\
+ffd eec | ddB ccA |
+[V:2] |: E | AAAA2d | BA^GA2A | dddd2f | edcd2z | ddB ccA | ffd eec |\
+ddB ccA | ffd eec |
+[V:3] |: z | A,,A,,A,,A,,2D, | D,3A,,3 | D,D,D,D,2F, | G,3D,2z |\
+D,3C,3 | F,3E,3 | D,3C,3 | D,2FE,2B,, |
+%
+[V:1] ead cdB | AAAA2D | FAdd2f | dddd2D | FAdf2a | ffff2z |\
+d’2a “^MS includes d as a 7th qu”afd |\
+fdA DFA |
+[V:2] c2de2E | AAAA2z | D3F3 | AFFF2z | F3A3 |\
+fddd2z | fdA DFA | d’2a afd |
+[V:3] C,2D,E,2D, | A,,A,,A,,A,,2z | F,3D,3 | D,D,D,D,2z | A,,3A,,3 |\
+F,D,D,D,2z | F,2D,D,2A,, | D,2D,A,,2A,, |
+%
+[V:1] d’2a afd | fdA DFA |a2d ede | fddd2 😐
+[V:2] fdA DFA | d’2a afd | f2d A2A | FFFF2 😐
+[V:3] F,2D,D,2A,, | D,2D,A,,2A,, | F,2D,A,2A,, | D,D,D,D,2 😐
+
+X:13
+T:Captn Edwards Waltz. AJH.013
+M:3/4
+L:1/8
+Q:1/4=160
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+N:The waltz is marked “1” in the margin. An untitled section (AJH014) in
+N:2 (marked “2”) follows on the next page and both may be part of a
+N:single piece.
+N:The start of the waltz A part and the end of the B part are marked
+N:with Segno symbols.
+Z:Neil Brookes
+K:G
+P:1
+Wd2|d2 dBcd|e2 edcB|A2 dcBA|GFGABc|!
+d2 dBcd|e2edcB|A2 dcBA|G4:|!
+|:G2|FGABAG|FD d2A2|BD e2d2|^cB A2G2|!
+FGABAG|FD d2A2|BD e2^c2| Wd4 :|!
+|:B2|B2gfed|cB A2A2|A2 fedc|BA G2B2|!
+B2gfed|cB A2A2|A2 (3fed (3cBA|G4:|!
+|:”^Bass Solo”E4^D2|E2E2B,2|C2C2A,2|B,6|!
+b3 agf|g2g2b2|[1 a2a2g2|f6:|[2 (3aba (3gag (3fgf|e6|]
+
+X:14
+T:Untitled. AJH.014
+M:2/4
+L:1/8
+Q:1/4=140
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+N:This tune follows AJH013 could have been be played after it.
+N:In the MS there is no indication of the key change to A, but it is
+N:almost certainly intended.
+Z:Neil Brookes 2006
+K:D
+A|dddA|BBBA|Bcde|c/d/B/c/AA|!
+fa/g/ f/e/d/c/|Bg/f/ e/d/c/B/|AA/c/ B/d/c/e/|d/f/a/f/”cr in MS” d:|!
+K:A
+|:E|AA/A/ Ac|ec A2|dB A/G/F/E/|A/c/e/c/ AE|!
+AA/A/ Ac|ecA2|dB A/G/F/E/|Ac/B/ AA/A/|!
+K:D
+dA/A/ dA/A/|dB/B/ dB/B/|Ad f/e/d/c/|d/c/d/e/ dA|!
+dA/A/ dA/A/|dB/B/ dB/B/|Ad f/e/d/c/|d3:|
+
+X:15
+T:Danish March.2voices. AJH.015
+T:Napoleon’s Grand March,aka.2voices. AJH.015
+M:4/4
+L:1/8
+Q:1/4=120
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:D
+[V:1] A>A | d2d>dd2A/B/c/d/ | e2e>ee2 A>d | f2e>fg2f2 | e2e>ee2 AA |
+[V:2] z2 | F2F>FF2z2 | c2c>cc2z2 | d2c>de2d2 | c2c>cc2AA |
+%
+[V:1] d>dA>A F>FA>A | d>dA>A F>FA>A | e2e>e e>de>f | d2d>dd2z2 |
+[V:2] d>dA>A F>FA>A | d>dA>A F>FA>A | c2c>c c>Bc>d | [d2B2][d3/B3/][d/B/][d2B2]z2 |
+%
+[V:1] e>dc>B A>Bc>A | d>cd>e d>ef>d | e>dc>B A>Bc>A | d>cd>e d>ef>d |
+[V:2] A2A2A2A2 | F2F2F2F2 | A2A2A2A2 | F2F2F2F2 |
+%
+[V:1] B2g>gg2B2 | A2f>ff2d2 | e2e>e e>de>f | d2d>dd2 😐
+[V:2] G2B2B2z2 | A2d2d2F2 | G2G2G2G2 | F2F>FF2 😐
+%
+[V:1] |: f>g | a2a2b2b2 | a3gf2fa | g2g>af2f>g | e2e>ee2z2 |
+[V:2] |: d>e | f2f2g2g2 | f3ed2d2 |e2e2d2d2 | c2c>cc2z2 |
+%
+[V:1] g2g/f/e/d/c2z2 | a>af>fd2z2 | f3a gfed | a2A>AA2z2 |
+[V:2] e2e/d/c/B/A2z2 | d>dA>AF2z2 | d3f edcd | c2c>cc2z2 |
+%
+[V:1] e>dc>B A>Bc>A | d>cd>e d>ef>d | e>dc>B A>Bc>A | d>cd>e d>ef>d |
+[V:2] A2A2A2A2 | F2F2F2F2 | A2A2A2A2 | F2F2F2F2 |
+%
+[V:1] B2g>gg2B2 | A2f>ff2d2 | e2e>e e>de>f | d2d>dd2 😐
+[V:2] G2B2B2z2 | A2d2d2F2 | c2c>c c>Bc>d | B2B>BB2 😐
+
+X:16
+T:Lass of Gowry,The. AJH.016
+M:2/4
+L:1/8
+Q:1/4=140
+S:A.J.Hughes MS
+N:There is a space for a second voice which has not been entered in MS.
+N:The tune in D is followed by lines in G marked “No1”
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:D
+A/G/|FAA B/c/|d/c/d/e/ dc/B/|B>ABd|cee A/G/|!
+FAA B/c/|d/c/d/e/ [fd][f/d/][e/c/]|d/c/B/A/ dF|E2d::!
+a/g/|fade|f/e/f/g/ ag/f/|gb ef|g/f/g/a/ ba/g/|!
+f<ae<f|d/c/d/e/ f/e/|d/c/B/A/dF|E2d:|
+
+X:17
+T:No1. AJH.017
+M:2/4
+L:1/8
+Q:1/4=80
+S:A.J.Hughes MS
+O:England
+O:England
+A:a
+N:Tune follows on from Lass O’ Gowry AJH016 and may have
+N:made up a set. Also found in the Richard Hughes MS#RH.155.
+Z:Neil Brookes 2006
+K:G
+G/B/d/B/ Gg|dddg|fedc|BAGF|!
+G/B/d/B/ Gg|ddd g/a/|a/f/g/e/ f/d/e/^c/|ddd2:|!
+|:a/f/a/f/ dd|b/g/b/g/ da/b/|c’bag|g/f/e/f/ dB|!
+G/B/d/B/ Gg|ddd b/c’/|d’/b/c’/a/ b/g/a/f/|ggg2:|
+
+X:18
+T:Conquering Hero,The.2voices. AJH.018
+M:4/4
+L:1/8
+Q:1/4=120
+S:A.J.Hughes MS
+N:Arrangement for3 voices apparently intended but only 2 completed in MS.
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:G
+[V:1] |: d4B3c | d4G4 | ABcd c2B2 | (B4A4) | Bcded2d2 | g4d4 | cBAGB2A2 | G8 😐
+[V:2] |: B4G3A | B4D4 | FGAB A2G2 | (G4F4) | GABcB2B2 | e4B4 | AGFE G2F2 | [B8G8D8] 😐
+%
+[V:1] |: BABc (B2A2) | (A2G2)G4 | c2B2A2G2 | F8 | e^defe2f2 | g4e4 | f2e2d2^c2 | “^Da Capo”d8  😐
+[V:2] |: GFGA (G2F2) | (F2E2)E4 | A2G2F2E2 | d8 | c2c2c2d2 | e4c4 | d2c2B2A2 | “^Da Capo”B8 😐
+
+X:19
+T:Rory O’Moore.3voices. AJH.019
+M:6/8
+L:1/8
+Q:3/8=100
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+V:1
+V:2
+V:3 clef=bass
+Z:Neil Brookes 2006
+K:A
+[V:1] |: f | eAA cAA | eAA B2f | eAA cAA | GBBB2f |
+[V:2] |: d | cee eee | ccc[c2A2]d | cee ecc | BGGG2d |
+[V:3] |: z | A,3A,3 | A,3A,3 | A,3A,,3 | E,2E,E,2E, |
+%
+[V:1] eAA cAA | eAAA2c | efe efg | aAAA2 😐
+[V:2] cee eee | ecc c2A | cdc cde | cccc2 😐
+[V:3] A,3A,3 | A,3A,3 | E,3E,F,G, | A,2A,,A,,2 😐
+%
+[V:1] |: a | agf fed | dcB A2G | FGA Bcd | egf e2a |
+[V:2] |: f | fed dcB | BAGF2E | Ace Ace | AAAA2[fd] |
+[V:3] |: A, | A,G,F, F,E,D, | D,C,B,, A,,2A,, | E,G,B, E,2z | E,G,B, E,2A, |
+%
+[V:1] agf fed | dcB A2G | FGA Bcd | egf e2 😐
+[V:2] fed dcB | BAGF2E | Ace Ace | [cAF][cAF][cAF][c2A2F2] 😐
+[V:3] A,G,F, F,E,D, | D,C,B,, A,,B,,C, | D,3D,3 | E,3E,2 😐
+
+X:20
+T:Paddy O’Rafferty.2voices. AJH.020
+M:6/8
+L:1/8
+Q:3/8=100
+S:A.J.Hughes MS
+N:Key sig of A(3#) given but more likely should be D.
+N:Only 3 parts (cf John Jones MS has 6 parts),
+N:but an accompaniment is added
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:D
+[V:1] |: Aff Aee | Aff ede | Aff Aee | ded cBA |
+[V:2] |: [dAF][dB][dB] [cA][cA][cA] | [dAF][dB][dB] [cA][cA][cA] | [dAF][dB][dB] [cA][cA][cA] | A3A3 |
+%
+[V:1] Aff Aee | Aff ede | dfa afd | d>ed cBA 😐
+[V:2] [dA]dd ccc | Add ccc | Adf fdd | A3A3 😐
+%
+[V:1] |: dfa dfa |dfa afd | dfa dfa | ded cBA |
+[V:2] |: Adf Adf |Adf fdB | Adf Adf | fedA3 |
+%
+[V:1] dfa dfa | dfa abc’ |d’bg bge | d>ed cBA 😐
+[V:2] Adf Adf | Adf F^ga |bge gec | A3F3 😐
+%
+[V:1] |: afa bgb | agf fed | afa bc’d’ |d>ed cBA |
+[V:2] |: fdf geg | fed dcd | fdf gab |agf fed |
+%
+[V:1] afa bgb | c’bc’ Hd’2c’/b/ | aba fge | d>ed cBA 😐
+[V:2] fdf geg | afa Hb2 a/g/ | fge dec | A2G4 😐
+
+X:21
+T:Honey Moon. 2voices.AJH.021
+M:2/4
+L:1/8
+Q:1/4=140
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:D
+[V:1] |: Addd | dffa | gfed | ce d/c/B/A/ | Addd | dffa | gfef | d2d2 😐
+[V:2] |: FFFF | AddA | BAGF | E3z | FFFF | AddA | EFGE | F2F2 😐
+%
+[V:1] |: dAA2 | B>c e/d/c/B/ | A>F G/F/E/D/ | CEEz | dAAA | B>cde | f>gef | d2d2 😐
+[V:2] |: FFFF | GA GE | F>A Bd | cccz | FFFF | G>ABc | d>BAG | F2F2 😐
+%
+[V:1] |: faa2 | gbb2 | af g/f/e/d/ | ceez | faa2 | gbb2 | afef | d2d2 😐
+[V:2] |: dff2 |egg2 | fd cB | cccz | dff2 | egg2 | fdcd | [f2F2][f2F2] 😐
+
+X:22
+T:Lord Cathcart Dance.2voices. AJH.022
+M:2/4
+L:1/8
+Q:1/4=100
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:G
+[V:1] |: d/e/d/c/ | BBBB | (dB)BB | cAAA |
+[V:2] |: B3/A/ | GGGG | BGGG | AFFF |
+%
+[V:1] (Bd) d/e/d/c/ | BBBB | (dB)BB | cAAF | G2 😐
+[V:2] GF B>A | GGGG | BGGG | AFFD | [B2G2D2] 😐
+%
+[V:1] d | g>ggg | fafd | g>ggg | fafd |
+[V:2] A | B>BBB | dAAA | B>BBB | dAAA |
+%
+[V:1] ged^c | Hd2 d/c/ | B2b>g | g/f/e/d/ c/B/A/G/ |
+[V:2] dBA^G | HA2 B/A/ | GGGG | z4 |
+%
+[V:1] A2A>a | a/g/f/e/ d/c/B/A/ | B2B>g | g/f/e/d/ c/B/A/G/ | A2d>c | “^Da Capo”B2|]
+[V:2] FFFF | z4 | GGGG | z4 | F2 D2 |”^Da Capo”G2|]
+
+X:23
+T:Gipsey’s Hornpipe. AJH.023
+M:4/4
+L:1/8
+Q:1/2=90
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+Z:Neil Brookes
+K:D
+d2|Adcd Adcd|fdad bdad|Adcd Adcd|f2e2e2e2|!
+Adcd Adcd|fdad bdad|Adcd Bbag|f2d2d2::!
+f2|abag fgfe|dedc BAGF|FAdA FGAF|G2E2E2a2|!
+abag fgfe|dedc BAGF|FAdc Bbag|f2d2d2:|
+
+X:24
+T:Hanley Hornpipe. AJH.024
+M:4/4
+L:1/8
+Q:1/2=90
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+Z:Neil Brookes
+K:G
+dc|BGBG AFAF|GFGA GABc|dBgf edcB|c2A2A2 dc|!
+BGBG AFAF|GFGA GABc|dBgf ecAF|G2G2G2:|!
+|:(3def|g2eg f2(3def|g2eg f2(3def|gfed cBAG|!
+c2A2A2dc|BGBG AFAF|GFGA GABc|dBgf ecAF|G2G2G2:|
+
+X:25
+T:West Cottage Hornpipe. AJH.025
+T:Horse Block Hornpipe. AJH.025
+M:4/4
+L:1/8
+Q:1/2=90
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+N:Alternative title in MS.
+Z:Neil Brookes 2006
+K:A
+cd|ecAc dBAG|Aceg a2 gf|ecAc dfec|d2B2B2cd|!
+ecAc dBAG|Aceg a2 gf|ecAc dfed|c2A2A2:|!
+|:(3efg|a2 fa gbge|afaf g2e2|agaf ecAc|d2B2B2 cd|!
+ecAc dBAG|Aceg a2 gf|ecAc dfed|c2A2A2:|
+
+X:26
+T:Albert Hughes’Waltz,aka. AJH.026
+M:3/8
+L:1/8
+Q:3/8=50
+S:A.J.Hughes MS
+C:untitled in MS
+N:Such a nice tune deserves a title – “Albert Hughes’s Waltz”?
+N:In 3/8 it would perhaps be better as a mazurka. I have set the pace at
+N:slightly faster than Capt Edward’s Waltz. NeilB.
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:D
+D/F/|AA F/A/|dde/f/|g/f/e/ d/c/B/|A/B/A/ F/D/F/|!
+AA F/A/|dde/f/|g/f/e/ d/c/e/|d2::!
+c/d/|ed/c/B/A/|fe/d/c/B/|gg/f/e/d/|ce A/c/|!
+ed/c/B/A/|gg/f/e/d/|BB/d/c/e/|d2::!
+F/G/|A (3f/e/d/ (3d/c/B/|AFA|Bg/f/e/d/|dc F/G/|!
+A (3f/e/d/ (3d/c/B/|AFA|BB/d/ c/e/|d2:|
+
+X:27
+T:Waterloo Dance. AJH.027
+T:Blanchland Races,aka. AJH.027
+T:Timour the Tartar,aka. AJH.027
+M:4/4
+L:1/8
+Q:1/4=200
+S:A.J.Hughes MS
+N:Not the usual Waterloo Dance.
+N:More commonly known as ‘Timour the Tartar’ or ‘Blanchland Races’
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:G
+D|G2 (3BAG”triplets written as 3 semiqu n MS” dGBG|dGgG fGeG|\
+dG (3BAG dGcG|ADBD cDBD|!
+G2 (3BAG dBBA|dGg GfGeG|dedB dgdB|D2F2G3:|!
+|:F|F2 (3BAG FDFD|ADBD cDBD|B2(3cBA dGdG|dGgG dGeG|!
+dc (3BAG gGeG|dB (3BAG gGfG|dBed cBAG|GABG FDEF|”as writ”G2:|
+
+X:28
+T:Wragg’s Duetto the 28th,aka.3voices. AJH.028
+T:Untitled.3voices. AJH.028
+M:2/4
+L:1/8
+Q:1/4=100
+S:A.J.Hughes MS
+N:cf Wragg’s Duetto the 28th.in the MS of Rev R. Harrison, Cumbria RH.015
+N:”*” signs denote fermata over following note.
+N:There are a few odd notes in the accompaniment, but
+N:otherwise a splendid little piece!
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+V:1
+V:2
+V:3 clef=bass
+K:G
+[V:1] |:GG/A/ BB/c/ | .d/g/f/g/ d2 | .e/g/f/g/ d/g/f/g/ | c/B/A/G/ AD |
+[V:2] |:z2GG/A/ | Bd BG | cz cz | A/G/F/E/ D/E/F/D/ |
+[V:3] |:G,,G,, B,,B,, | G,G, D,2 | G,G, B,,B,, | C,D, G,,2 |
+%
+[V:1] GG/A/ BB/c/ | .d/g/f/g/ gf/e/ | dg b/a/g/f/ | g2g2 😐
+[V:2] z2GG/A/ | Bd ed/c/ | BG dD | GBG2 😐
+[V:3] G,,G,, B,,B,, | G,G, D,2 | G,B,, C,D, | G,,4 😐
+%
+[V:1] |: dd/c/ BB | ee/d/ cz | cc/B/ AA | d/e/d/c/ Bz |
+[V:2] |: BB/A/ G/A/B/G/ | cc/B/ Az | AA/G/ F/G/A/F/ | BB/A/ Gz |
+[V:3] |: D,D, B,,B,, | A,,A,, D,z | C,C, A,,A,, | D,D, G,,z |
+%
+[V:1] BB/A/ Gg | cc/B/ Aa | ba/b/ ag/a/ | g/e/d/^c/”DC””*”d2 😐
+[V:2] dd/c/ B/A/B/G/ | AA/G/ F/E/F/D/ | Gg fe | AA F2 😐
+[V:3] B,,B,, G,,G,, | A,,A,, D,z | A,2A,,2 | D,4 😐
+%
+[V:1] gg aa | bb c’2 | b>d’ bg | ea fd |
+[V:2] Bz cz | FzA2 | GB GB | AA dD |
+[V:3] G,z D,z | B,,z C,2 | B,,C, D,G, |A,,A,, D,D, |
+%
+[V:1] gg aa | bb c’2 | bg af | g>a g2 😐
+[V:2] Bz cz | Gz AD | GB cA | B>c B2 😐
+[V:3] G,,z A,,z | B,,z C,2 | G,B,, C,D, | G,,4 😐
+%
+[V:1] d>B GG | e>c AA | d>B GG | FG Az |
+[V:2] GG/A/ BB | c>A Fz | GG/A/ BG | DE FD |
+[V:3] D,B,, G,,G,, | E,C, A,,z | D,B,, G,,G,, | G,G, F,z |
+%
+[V:1] d>B GG | e>c Ag | fd ef | “DC”d2z2 ||
+[V:2] GG/A/ BB | c>A FG | A3A | D2z2 ||
+[V:3] D,B,, G,,G,, | G,G, D,D, | A,2A,,2 | “DC”D,2z2 ||
+%
+[V:1] GG F/G/F/G/ | AAA2 | d>c BG | FA G/F/E/D/ |
+[V:2] BB AA/G/ | FF Dz | B>A GD | D>C Dz |
+[V:3] G,G, F,F, | A,,A,, D,2 | D,D, G,G, | D,A,, D,z |
+%
+[V:1] GG F/G/F/G/ | AAA2 | d>c BG | DFG2 |
+[V:2] BB AA/G/ | FF Dz | B>A GB | dD G2 |
+[V:3] G,G, D,D, | A,,A,, A,,2 | D,C, B,,G,, | D,D, G,,2 |
+%
+[V:1] gg f/g/.f/.g/ | aaa2 | d’>c’ bg | fa g/f/.e/.d/ |
+[V:2] BB AA/B/ | cc Az | b>a gd | d^c dc |
+[V:3] G,G, F,F, | A,A, A,2 | D,E, F,G, | E,A, G,E, |
+%
+[V:1] gg f/g/.f/.g/ | aaa2 | d’>c’ bg | b/a/g/f/g2 ||
+[V:2] BB AA/B/ | cc Az | b>agd | e/c/B/A/B2 ||
+[V:3] G,G, F,F, | D,D, A,,z | D,C, B,,G,, | D,D, G,,2 ||
+%
+[V:1] ee c/d/e/c/ | dd Bz | cc A/B/c/A/ | F/G/A/F/ dz |
+[V:2] c’c’ a/b/c’/a/ | bb g/a/b/g/ | aa f/g/a/f/ | d/d’/c’/d’/ ez |
+[V:3] E,E, C,E, | D,D, B,,z | C,C, A,,C, | F,A, D,z |
+%
+[V:1] ee c/d/e/c/ | dd Bz | A/B/A/B/ c/B/A/G/ | “DC”d2z2|]
+[V:2] cc A/B/.c/.A/ | BB G/A/B/G/ | FF/G/ A/G/F/E/ | “DC”D/d/A/F/d2|]
+[V:3] C,C, A,,A,, | D,D, G,G, | A,2A,,2 | “DC”D,4|]
+
+X:29
+T:Ally Croaker. AJH.029
+T:Crocker’s Reel,aka. AJH.028
+M:4/4
+L:1/8
+Q:1/2=120
+S:A.J.Hughes MS
+O:England
+A:North Shropshire
+D:version recorded on John Kirkpatrick & Sue Harris’s album “Facing the Music”
+D:(1980 Topic Records) as “Crocker’s (or Betty Crocker’s???) reel.
+Z:Neil Brookes 2006
+K:D
+dddd d2d2|edcd efge|fddd d2d2|edcd ef g2:|!
+|:faaa a2a2|bagf ef g2|eggg g2g2|agfe fg a2|!
+dddd cccc|BBBB A2A2|gggg f2b2|agfe d2d2:|
+
+X:30
+T:Trip to the Cottage. AJH.030
+M:6/8
+L:1/8
+Q:3/8=120
+S:A.J.Hughes MS
+N:MS gives 2 lines with D.C. at end.
+N:I therefore have put in the extra A music line.
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:G
+B/2c/2|dBB BGG|cAA AFD|DGG FAA|GBB A2 B/2c/2|
+dBB BGG|cAA AFD|DGG FAA|BGGG2:|
+d|gfe d2B|edc Bcd|ecA ecG|FAG FED|
+gfe d2B|edc Bcd|efg fdf|edc d2||!
+B/2c/2|dBB BGG|cAA AFD|DGG FAA|GBB A2 B/2c/2|
+dBB BGG|cAA AFD|DGG FAA|BGGG2|]
+
+X:31
+T:French Set of Quadrilles. AJH.031
+M:6/8
+L:1/8
+Q:3/8=110
+S:A.J.Hughes MS
+N:Some of the redirections and time sigs not clear in the
+N:MS copy. Clarification needed by consulting original.
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:F
+P:1st
+“_qu’s”A/B/|Scef cef|a3agf|gba gfe|fag fed|
+cef cef|a3agf|gba gfe|f3f2||!
+A/B/|c3 cfe|d3def|agf fed|dcB A2B|
+c3 cfe|d3 def|agf efd|SA3 “_A2added”A2||!
+a|d2^c d2e|^f2g a2g|^f2e d2e|a2A A2A|
+d2e ^fe2|^f2g a2g|f2d fe^c|”_d2in MS”d3d2||!
+K:C
+|:e/f/|gag gde|c3 cde|cfe dec|Bdg G2 e/f/|
+gag gde|c3 cde|Aag fed|d3c2:|!
+|:A|GAG GBG|GAG GcG|Gce edc|Bdd d2 A|
+GAG GBG|GAG Gce|edc cBA|GBce2:|!
+K:D
+M:2/4
+Q:1/4=100
+P:2nd
+|:(3d/c/d/|A “_triplets not marked. Seems to be a bouree timing”\
+(3d/c/d/ A (3f/e/f/|\
+d (3a/g/a/ f (3a/g/a/|(3g/f/e/ (3d/c/B/ (3A/B/A/ (3G/F/E/|\
+(3D/F/A/ (3d/A/F/ D (3d/c/d/|!
+A (3d/c/d/ A (3f/e/f/|d (3a/g/a/ f (3a/g/a/|\
+(3g/f/e/ (3d/c/B/ (3A/B/A/ (3G/F/E/|\
+(3D/F/A/ (3d/f/a/ “_cr”d:|
+Q:1/4=120
+P:3rd
+|:d/e/|f3g|bagd|feBc|d/A/B/c/ d/e/f/g/|
+f3g|bagd|feBc|d3:|
+“_Rest added” z| D2″_qu’s in MS”d2|d/c/B/^A/B2|\
+B2b2|b/a/g/f/g2|
+g/A/c/e/ a/b/a/g/|f/A/d/f/ (3d’/c’/b/ (3a/g/f/|\
+e/A/c/e/ g/B/c/e/|d3|]
+M:6/8
+Q:3/8=110
+P:4th
+F/G/S|ABA Adf|a3 agf|e2f gBc|def A3|
+A^GA c3|BAB e3|cde ABc|d3 d2||
+f|fdB A2F|Bdf b3|ecA ^G2E|Adf a3|
+faa eaa|z6|gec Bfe|A3 A3||
+Adf ^e2f|dfa ^g2a|gec A2G|FBA F2G|
+Adf ^e2f|dfa ^g2a|gec Aba|d3 d2||
+SA/G/|FAd dcd|f3 d2f|e^de ABc|dfa a2 A/G/|
+FAd dcd|f3 d2f|e^de ABc|d3 d2||
+e|c3 e3|a3 a2f|gfg Bed|cea A2a|
+Bdd cee|dff egg|faa g2g”MS unclear here”|a3Sa2||
+b|bab f2e|d2c B2B|Bfe dcB|f3 z2a|
+bab f2e|d2c B2 b/^a/|bge dc^B|B3 B2|]
+M:3/4
+K:C
+P:5th
+|:(3Gce|g>e c2 (3cde|G>ce2f>e|d3 G>ed|c4 (3Gce|
+g>e c2 (3cde|G>ce2f>e|d3da<g|c4:|!
+|:d2|d>BG2 dd|e>c G3g|^f3f2(3fef|g4e2|
+eee2GG|eee2GG|e3Ge>d|c2B3G|
+G>e c3G|G>ec3G|g3g g>g|”DC”g4:|
+
+X:32
+T:Green Hills of Tyrol. AJH.032
+M:3/4
+L:1/8
+Q:1/4=120
+S:A.J.Hughes MS
+Z:Neil Brookes 2006
+K:G
+GA|B3 GBc|d3 gBe|dcAFDe|dBGDGA|!
+B3GBc|d3eBe|dcADFA|G4:|!
+|:d2|g3 gfe|edd2ed|dcc2dc|cBB2d2|!
+g3gfe|edd2ed|d^cc2Bc|!
+d3AfA|d3eBe|dcAFDF|G4:|!
+|:DGA|B3GeG|B3cBA|G3DBD|G3DGA|!
+B3GeG|B3dBA|G3DBD|G2z2d2|!
+g3gfe|edd2ed|dcc2dc|cBB2d2|!
+g3gfe|edd2e2|gfedef|g4:|
+
+X:33
+T:Mill Mill O,The,aka. AJH.033
+T:Deadly Wars,The,aka. AJH.033
+M:2/4
+L:1/8
+Q:1/4=120
+S:A.J.Hughes MS
+C:untitled in MS
+N:No key sig given, but D fits the usual tune.
+O:England
+A:North shropshire
+W:There are some bars missing.
+Z:Neil Brookes 2006
+K:D
+def2|A2A2|dc BA|Bce2|def2|a2gf|ed B>c|d3::!
+A|de fg|a2a2|ba gf|e2d2|[Ad]e fg|ab ag|f2a2|!
+de fg|a2a2|ba g/f/e|de f2|a2gf|ed B>c|d3:|
+
+X:34
+T:Set of Quadrilles. AJH.034
+M:6/8
+L:1/8
+Q:3/8=120
+S:A.J.Hughes MS
+N:Redirections are as in MS. may need some tweaking to
+N:get a playable set, but nevertheless a fine piece in typical
+N:quadrille style.
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:A
+P:1st
+E|A2A c2c|f2e c2A|e2dB2G|Afe dcB|!
+A2A c2c|f2e c2A|Afee2G|B3A2||!
+K:E
+G/A/|B^AB e^de|g3e2g|f2a B2^d|egf edc|!
+B^AB e^de|g3efg|fga Bcd|e3^dBSc||!
+K:A
+C|F^EF AGA|c^Bc f2g|AcB AGF|^EFG C2c|!
+ded cdc|BcB ABA|Gdc c2^E|F3^E2E||!
+P:2nd
+M:2/4
+Q:1/4=110
+AE/E/ AE/E/|AE/E/ AB/c/|\
+dB/c/ dB/c/|1dB/c/ e/d/c/B/:|2e/d/c/B/A2|!
+|:e/d/c/B/ A/B/c/d/|e3f/g/|ag/a/ cd/e/|\
+f2e2|ed/c/ Bc/d/|!
+ef/g/ ag/a/|1bg/e/ Bc/d/|f2e2:|2fe/d/ ed/B/|B2A2||!
+P:3rd
+K:C
+M:6/8
+Q:3/8=120
+e/f/|Sgag dfe|c3Gce|d2^cd2c|dag ece|!
+gag dfe|c3Gce|dag fdB|d3c2||!
+K:G
+B/c/|d^fg dfg|dag g^fg|aga de^f|gBc dBc|!
+d^fg dfg|dba g^fg|a^ga de^f|g3g Se^f||!
+K:Am
+e3agf|e3edc|B2c dcB|cBc Acd|!
+e3agf|e3edc|[BG][cA][dB] cBc|ABc def||!
+K:A
+c2c eAB|c2de3|edd dcc|agf c2B|!
+c2d eAB|c2d efg|agf fec|edBA2|”^D.C.”:|!
+Se/d/|cfe Bdc|A3ABc|edB dcA|Bee fed|!
+cfe Bdc|A3ABc|dcd efg|aecA2:|!
+e/g/|Sa3aec|e3edc|dcd Bcd|f2ec2e|!
+a3aec|f3fga|efe dcB|A3A2||!
+K:E
+g3Sgfg|b3a2a|gag fef|e3B2e|!
+g3gfg|b3a2a|gag fef|efe dcd|]
+
+X:35
+T: Wragg’s Duetto No20,A March,aka.3voices. AJH.035
+M:4/4
+L:1/8
+Q:1/4=140
+S:A.J.Hughes MS
+C:untitled in MS
+N:cf Rev.R.Harrison’s MS,c1815,Cumbria
+N:Tune is RH005 Wragg’s Duetto No20, A March.(late c18th?)
+O:England
+A:North Shropshire
+V:1
+V:2
+V:3 clef=bass
+Z:Neil Brookes 2006
+K:G
+[V:1] |:D2| G2G>GG2A2 | B2B>BB2c2 | de/f/ g/f/.e/.d/ edcB | A2A>AA2D2 |
+[V:2] |:z2| z4z2D2 | G2G>GG2A2 | Bc/d/ e/d/c/B/ cBAG | D2D>DD2z2 |
+[V:3] |:z2| G,2G,>G,G,2G,,2 | D,2D,>D,D,2A,,2 | D,2G,2A,2G,,2 | D,2D,>D,D,2z2 |
+%
+[V:1] G2G>GG2A2 | B2B>BB2c2 | .d>e.f>g B2A2 | G2G>GG2 😐
+[V:2] z4z2D2 | G2G>GG2A2 | B>cA>BG2F2 | G2B>BB2 😐
+[V:3] G,,2G,,>G,,G,,2A,,2 | D,2D,>D,D,2E,2 | G,2B,,2C,2D,2 | G,,2G,,>G,,G,,2 😐
+%
+[V:1] A2| d2d>dd2e2 | f2f>ff2g2 | afaf bagf | e2e>ee2A2 |
+[V:2] z2| z4z2A2 | d2d>dd2e2 | fdfd gf.e.d | A2A>A A>GF>E |
+[V:3] z2| D,2D,>D,D,2A,,2 | D,2D,>D,D,2G,2 | F,2D,2G,2E,2 | A,,2A,>A,,A,,2z2 |
+%
+[V:1] d2d>dd2e2 | f2f>ff2g2 | a>gb>g f>ed>^c | d2d>e d>cB>A |
+[V:2] D2z2z2A2 | d2d>dd2e2 | d>eg>e d2A2 | D2d>c B>A G>F |
+[V:3] D,2D,>D,D,2z2 | F,2F,>F,F,2G,2 | F,2D,2D,2A,,2 | D,2D,2D,>C,B,,>A,, |
+%
+[V:1] G2G>GG2A2 | B2B>BB2c2 | de/f/ g/f/.e/.d/ edcB | A2A>AA2D2 |
+[V:2] G2z2z2D2 | G2G>GG2A2 | Bc/d/ e/d/.c/.B/ cBAG | D2D>DD2z2 |
+[V:3] G,,2G,,>G,,G,,2A,,2 | D,2D,>D,D,2A,,2 | D,2E,2 C,B,,A,,G,, | D,2D,>D,D,2z2 |
+%
+[V:1] G2G>GG2A2 | B2B>BB2c2 | d/e/f/g/ f/e/d/c/B2A2 | G3D GDGD |
+[V:2] B4z2D2 | G2G>GG2A2 | B>B d/c/B/A/ G2F2 | G2z2z4 |
+[V:3] G,2G,>G,G,2z2 | D,2D,>D,D,2z2 | D,F, D,B,,G,2D,2 | G,,3G,,G,,2G,,2 |
+%
+[V:1] B3G BGBG | d3B dBdB | g3d gege | g>ab>a g>fe>d |
+[V:2] G3D GDGD | B3G BGBG | d3B dBdB | G2z2z4 |
+[V:3] D,3G,G,2G,2 | D,3G,D,2G,,2 | G,,3G,,G,2G,2 | D,2B,,2G,2E,2 |
+%
+[V:1] e>fg>f e>dc>B | {FG}A8 | {GA}G3b gbgb | g2z2g2z2 | g8|]
+[V:2] g>ab>a g>fe>d | cBcB d2D2 | D3d BdBd | GBdB GBdB | G8|]
+[V:3] G,2B,,2G,2E,2 | A,,4D,4 | G,,3D,G,2G,2 | G,2z2G,2z2 | G,,8|]
+
+X:36
+T:Set of Quadrilles. AJH.036
+M:2/4
+L:1/8
+Q:1/4=110
+S:A.J.Hughes MS
+N:An expert on the Quadrille would no doubt be able to verify the
+N:redirection signs and give a better idea on how the tunes
+N:are used for the dance.
+O:England
+A:North Shropshire
+Z:Neil Brookes 2006
+K:D
+P:1
+A|Af/g/ fe/f/|ed dc/d/|cB Bc/d/|fe AA|!
+Af/g/ fg/f/|ed dc/d/|cB ed|1c/d/B/c/ A:|2dd “^Fine?”d||!
+z|A2d/e/f/d/|A2d/e/f/d/|a/g/f/g/ ee|a/g/f/g/ ee|!
+A2d/e/f/d/|A2d/e/f/g/|a/g/f/g/ ee|a/g/f/g/ e||!
+A|Af/g/ fe/f/|ed dc/d/|cB Bd/e/|fe AA|!
+Af/g/ fe/f/|eddc|cBec|ddd||!
+K:G
+g|gb ba/b/|ag gd|dc’ c’b/a/|^ga ad|!
+dd’ d’c’/b/|ba ab/a/|ga/g/ f/g/a/b/|”^D.C.”a2g|]!
+P:2nd
+K:F
+M:6/8
+Q:3/8=120
+a|a3 a^ga|a3 a^ga|g3 d2=B|cde fga|!
+a3 a^ga|a3 a^ga|g2b cde|fca f2||!
+c|cde fga|”_dcr written as cr”Hf3f2g|agf fed|a2g fed|!
+cde fga|”cr”Hf3f2a|b3d2e|fcd “D.C.”efg|]!
+P:3rd
+K:G
+M:2/4
+Q:1/4=110
+D|G3B|d3e|dcAe|dBGD|\
+G3B|dd/d/ dg|\
+“_f written as minim above 4 qu’s”\
+[df4]BcA|[g3G3]”^fine”||!
+agfe|fddg|efga|bggg|agfe|fddf|eB^ce|d3|]!
+P:4th
+K:C
+Q:1/4=90
+g/f/|efga|gc’c’g|gfda|gec g/f/|\
+efga|gc’c’e|gfde|”D.C.”c3||
+K:G
+SG(3D/E/D/ G(3D/E/D/|G(3D/E/D/ G/>G/A/>B/|\
+c(3A/B/A/ c(3A/B/A/|c(3A/B/A/ d/>c/B/>A/|!
+G(3D/E/D/ G(3D/E/D/|G(3D/E/D/ G/>G/A/>B/|\
+c(3A/B/A/ c(3A/B/A/|d/>c/B/>A/G2||!
+dB/A/ GB/c/|d3e/f/|gf/g/ Bc/d/|e2d2|!
+dB/A/ Ge/d/|de/f/ gf/e/|aA A/B/c/d/|e2Sd2||!
+A>^G =G/F/E/D/|B>^A =A/G/F/E/|A>^G =G/F/E/D/|B>^A =A/G/F/E/|!
+dB/A/ GB/c/|d^c/d/ fe/d/|ed/B/ dc/A/|”D.C.”A2G|]!
+P:5th
+K:F
+M:6/8
+Q:3/8=120
+A|A3 A2A|A2A ABc|d3 c3|c2c c2A|\
+c2B G3|G2G G2G|A2G F2a|gfe dcB||!
+A3 A2A|A2A ABc|d3 c3|c2c c2A|\
+c2B G3|G2G G2G|A2G F2c|BAG F2||!
+f|G2G G2G|A2G F2C|C3 C2C|C3 C2f|\
+G2G G2G|A2G F2A|A3 A^GE|A3A2A|!
+G3 c3|c3 f3|fed dcB|Adc Adc|\
+G3 c3|c3 f3|f2c cBG|F3 F2|]

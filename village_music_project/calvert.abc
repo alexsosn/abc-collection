@@ -1,0 +1,915 @@
+%abc
+%%abc-alias Wm.Calvert MS, 1812, UK N.Yorks. Leyburn, private collection
+%%abc-creator ABCexplorer 1.3.4 [10/01/2009]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP Chris Partington May/2003,
+%Revised 25/01/2004
+%Revised 11/2008
+%Revised 12/2009
+
+X:1
+T:Miller’s Rant. WCa.01
+M:6/8
+L:1/8
+Q:3/8=127
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.jig
+O:England
+A:North Yorkshire
+N:This has a different B strain to the same tune in Leadley..CGP
+Z:vmp.Chris Partington, May 2003
+K:G
+a|cAA eAA|cBA GAB|cAA eAA|dcBA2a|!
+cAA eAA|cBA GAB|A2ae2c|dcBA2:|!
+|:B|G2g gdg|d^cd GAB|A2a aea|g2fe2f|!
+gagf2e|d^cd GAB|A2ae2c|dBGA2:|
+
+X:2
+T:Merrily Dance The Quaker. WCa.02
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.jig
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+A|(GAB)D2B|c2BA2G|(GAB)D2D|E3G2:|!
+|:e|dcB edc|dcB ABc|dcB efg|B3d3|!
+dcB gfe|dcBG2A|GABD2D|E3G2:|
+
+X:3
+T:Duncan Davison. WCa.03
+M:C|
+L:1/8
+Q:1/2=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+(DF)(AB) (AF)(AB)|(DF)(A”_sic”c) (AF)E2|\
+(DF)(AB) (AF)(Af)|(ed)(ef)”^tr”d4:|!
+|:f>ed>e fgaf|(cA)(eA) (cA)(eA)|\
+f>ed>e fgaf|(ed)(ef)”^tr”d4:|
+
+X:4
+T:Royal Review. WCa.04
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Slip Jig
+O:England
+A:North Yorkshire
+N:A strain sounds ungainly at first, but grows..CGP…
+Z:vmp.Chris Partington, May 2003
+K:D
+“_Barred 6/8 in MS, in Gmaj”a2f faf b2g|\
+g2e efd cBA|a2f faf b2g| faf gecd3:|!
+|:FGA AFA BGB|g2e efd cBA|\
+FGA AFA B2g| faf gec”^cr”d3:|
+
+X:5
+T:Bung Your Eye. WCa.05
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.jig
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:C
+E|ABA c2d|edcB2A|GAG B2c|dge dBG|!
+ABA c2d|edc Bcd|e2A BAG|A3A2:|!
+|:G|cdeg2a|gec gec|GAGB2c|dgd dBG|!
+cdeg2a|gec deg|a2A BAG|A3A2:|
+
+X:6
+T:Hymn For Christmas Day. WCa.06
+M:2/4
+L:1/8
+Q:1/2=40
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.hymn
+O:England
+A:North Yorkshire
+N:Preceded in MS by Psalm 51…..CGP..
+Z:vmp.Chris Partington, May 2003
+K:C
+z2G2|(ce) (df)|(fe) (dc)|(ed) (cB)|{B}c2ze|!
+(ed) (dc)|(cB) {d}(cB/A/)|G2^F2|G4||!
+G2c>B|A3A|d2(dc)|{c}B3G||!
+(cd)e2|ABc2|(de/f/) (ef)|(ed)zG|!
+(ce) df|(ec) (fd)|c2B2|c4|]
+
+X:7
+T:Chos(?) Brisk(?). WCa.07
+M:3/4
+L:1/4
+Q:3/4=40
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Air
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:C
+G2c|(cB)B|c2d|e2z||c2c|B2c|(d3/4e/4f)e|(ed)z||!
+(cB)A|(G^F)G|(A/B/4c/4B)A|G2z||\
+(Gc)B|(A/^G/A/)B/A|A-dc|{c}B2z||!
+(c3/4d/4c/d/)e|(A3/4B/4A/B/)c|(d/e/f)e|e-dz||\
+c2G|(AB)c|(d/e/4f/4e)d|c2|]
+
+X:8
+T:Lord Barnard’s March. WCa.08
+M:C|
+L:1/8
+Q:1/2=70
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.March
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+d/c/B/A/|G2G>A G2c/B/A/G/|A2A>BA2B>c|\
+d>B d>B d>c B>A|!
+G2G>AG2d/c/B/A/|\
+G2G>A G>B A>G|F>G A>B c>d e>f|!
+g>d B>G F2E2|D2D>DD2::\
+D/E/F/G/|A>F c>A B>G d>B|!
+A>F c>A B>G d>B|\
+e3d c>B A>G|A2A>AA2d>c|!
+B2d>BA2d>c|B/d/c/B/ c/B/A/G/A2B>c|\
+d>B G>D E>A G>F|!
+G>A B>c d>e f>g|d>B G>D E>A G>F|G2G>GG2:|
+
+X:9
+T:Green Grow The Rushes. WCa.09
+M:C|
+L:1/8
+Q:1/2=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+A|G2GA BGGB|A2cd eAAB|cdec BcdB|AcBA GE E:|!
+|:d|gfge dBAG|gfga beef|gfge dBAG|(A/B/c) BA GE E:|
+
+X:10
+T:Miss Wedderburn’s Reel. WCa.10
+M:C|
+L:1/8
+Q:1/2=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:A
+E2E2 EFGA|BABd cAFA|E2E2 EGAc|BABc A/A/AA2:|!
+|:cBAB cdec|BAGA BdcB|cBAB cdec|BABc A/A/AA2:|!
+|:d2fd c2ec|B2dB cAFA|d2fdc2ec|B>AB>c A/A/AA2:|
+
+X:11
+T:Cameronian’s Rant. WCa.11
+M:C|
+L:1/8
+Q:1/2=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+BG G/G/G BGBG|BG G/G/G dBdB|cA A/A/A cAcA|cA A/A/A ecc2:|!
+|:Ggga gedB|Ggga gedB|Aaab agfe|Aaab agfe|!
+Ggga gedB|Ggga gedg|f/g/a eg f/g/a eg|f/g/a eg fdd2:|
+
+X:12
+T:Devil’s Dream,The. WCa.12
+M:2/4
+L:1/8
+Q:1/2=110
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:A
+eaga eaga|eaga fedc|dfBf dfBf|dfBf gfed|!
+eaga eaga|eaga fedc|defg aefd|c2B2 A4:|!
+|:ceAe ceAe|ceAe fedc|dfBf dfBf|dfBf gfed|!
+ceAe ceAe|ceAe fedc|defg aefd|c2B2 A4:|
+
+X:13
+T:Off She Goes. WCa.13
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Jig
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+F2AG2B|ABAd3|F2AG2B|AFDE3|!
+F2AG2B|ABAd3|f2dg2f|edcd3:|!
+|:fafd2f|egec2e|fafd2f|edcd3|!
+fafd2f|egec2e|f2dg2f|edcd3:|
+
+X:14
+T:Lochaber. WCa.14
+M:3/4
+L:1/8
+Q:3/4=35
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Air
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+G-A | B2 B2 B2 | B2 A2 Bd | e2 A2 B>c | {B/}A4 G>A |!
+B2 cBAG | D3 E GA | B2 G2 G>A | G4 |!
+|G2 | B>c d2 d2 | cdcBAG | G2 g2 ga | g4 G2 |!
+B>c d2 d2 | dedcBA | G2 g2ga | g4 d2 |!
+e2 g2 dg |d2 e2 f2 | a2 A2 A>B | {B/} A4 GA |!
+B2 cBAG | D3 E GA | B2 G2 G>A | G4 |]
+
+X:15
+T:Speed The Plough. WCa.15
+M:C
+L:1/8
+Q:1/2=75
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Country Dance
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:A
+A>AA>c e>fe>c|e>ae>c e>fe>c|\
+d>ed>B c>dc>A|FB-BA GBB2|!
+A>AA>c e>fe>c|e>ae>c e>fe>c|\
+d>ec>d B>cA>B|F>AG>B AAA2:|!
+|:aaaA aAeA|aAgA fAeA|\
+d>dd>B c>cc>A|F>BB>A G>BB2|!
+A>AA>c e>fe>c|e>ae>c e>fe>c|\
+d>ec>d B>cA>B|F>AG>B AAA2:|
+
+X:16
+T:Moon & Seven Stars,The. WCa.16
+T:Seven Stars. WCa.16
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.jig
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+d2″^cr”A AGF|GAB”^cr”A3|Bcd efg|fed cBA|!
+d2A AGF|GABA3|Bcd efg|Adc”_NB”d3:|!
+|:e2AA2f|efgf3|fgfe2d|cdBA3|!
+BGB AFA|BGB AFA|Bcd efg|cdcd3:|
+W:NB=Repeat marks absent from MS
+
+X:17
+T:Croppies Lay Down. WCa.17
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.jig
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+g|dBG GFG|ABA ABd|ege dBd|gGG Gge|!
+dBG GFG|ABA ABd|ege dBd|gGGG2:|!
+|:e|def gfg|efga2f|gab efg|dBG AGF|!
+GBd efg|dBG AGF|G3efg|dBdG2:|
+
+X:18
+T:Go To The Devil & Shake Himself. WCa.18
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.jig
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:C
+Gcc cBA|GAG GEG|Gcc c2d|ecAA2G|!
+Gcc cBA|GAG GEG|cec dfd|eccc2c:|!
+|:gec cBc|AFFF2F|afd ded|BGGG2G|!
+Gcc cBA|GAG GFG|cec dfd|eccc2:|
+
+X:19
+T:Pease Upon A Trencher. WCa.19
+M:2/4
+L:1/8
+Q:1/2=100
+C:”W Calvert”
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Country Dance
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+GDGA|B2B2|AGAB|c2c2|\
+GABc|dedB|cAdB|G2G2:|!
+|:gG GA|B2AG|aA AB|c2BA|\
+GABc|dedB|cAdB|G2G2:|
+
+X:20
+T:Heaving of the Lead,The. WCa.20
+M:C
+L:1/8
+Q:1/2=60
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Air
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+G>A|B2B2A2B>A|G2F2G2zD|(GA)(Bc)d3d|efged2zd|!
+g3fe3d|^cBAGF2zA|d2d2Befg|d2^c2d2:|!
+|:d2|g3g f3f|(fe)e2d2zd|(dBBd) (ecce)|d2^c2d2z2|!
+G3GA3G|G4z4|B3Bc3B|B4z4|(Aedc) (cBdB)|(Aedc) (cBdB)|!
+(cBAB) (cBcd)|(edef)Hg3c|B2c2A4|GG3|]
+
+X:21
+T:Banks & Braes of Bonny Doon,The. WCa.21
+M:6/8
+L:1/8
+Q:3/8=60
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Air
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+A|d2d ede|fgf ede|fed dBA|ABde2″_sic”A2|!
+d2d ede|fgf ede|{de}fed dBA|ABcd2:|!
+|:f|a2b afd|a2b afd|afd afd|Ha2(gf)H{f}e2A|!
+d2d ede|{de}fgf ede|{de}fed dBA|ABcd2:|
+
+X:22
+T:Trip To Bengall,A. WCa.22
+M:C|
+L:1/8
+Q:1/2=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Country Dance
+O:England
+A:North Yorkshire
+N:Last repeat missing in MS…CGP..
+Z:vmp.Chris Partington, May 2003
+K:G
+gdBG cAB2|gdBG AFG2|gdBG FAc2|Bedcd2d2:|!
+|:dBBd ecc2|cAAc dBB2|BGg2dBg2|ecBAG2G2:|
+
+X:23
+T:Sailor’s Liberty,The. WCa.23
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.jig
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:C
+G|c2cc2f|egeg3|egf edc|Bdc BAG|!
+c2cc2f|egeg3|egf edc|GcBc3:|!
+|:e2ee2g|abag3|faf edc|BdB BAG|!
+e2ee2g|abag3|faf edc|GcBc3:|
+
+X:24
+T:All Hands Upon Deck. WCa.24
+M:C|
+L:1/8
+Q:1/2=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:A
+ceeg (fa)(eg)|(fa)(ec) dBfB|ceeg (fa)(eg)|fbecB2A2:|!
+|:(c/d/e) A2cdec|(d/e/f)B2defd|(c/d/e) A2cdec|dfecB2A2:|
+
+X:25
+T:Life Let Us Cherrish. WCa.25
+M:6/8
+L:1/8
+Q:3/8=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.air
+O:England
+A:North Yorkshire
+N:There is a pause written directly over the double bar between the A and
+N:B music. ..CGP…
+Z:vmp.Chris Partington, May 2003
+K:G major
+B3cBc|(d2g)g2z|G3(AG)A|(BcB)A2z|!
+B2B (cBc)|d2gg2z|B3AGA|G3″^Fine”G2H:|!
+|:d|d2c (ABc)|d2BG2d|d2c (ABc)|d2BG2d|!
+e2cg2g|d2Bg2d|ded dcB|B3″^DC”A2:|
+
+X:26
+T:New Rigg’d Ship,The. WCa.26
+M:C|
+L:1/8
+Q:1/2=90
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:A
+e|cAEcd2df|ecac dBBd|cAEc dfea|fdBe cA A :|!
+g|a2ec f/g/a/f/ ec|dfec dBBg |a2ec f/g/a/f/ ec|fdBe cAAg|!
+a2ec f/g/a/f/ ec|dfec dBBe|cAEc dfea|fdBe cA A|]
+
+X:27
+T:Sir David Reel. WCa.27
+M:C
+L:1/8
+Q:1/2=80
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Reel
+O:England
+A:North Yorkshire
+N:Each note is accompanied by the violin fingering..CGP..
+Z:vmp.Chris Partington, May 2003
+K:D
+d2A>B A>B A>B|A>df2A>df2|g2e>f e>f e>f|e>d c>e e>cA2:|!
+|:f>dd2GdFA|DFBd cee2|f>dd2AdFA|DFAc e>cd2:|
+W:Accompanied by fiddle fingering in MS.
+
+X:28
+T:Miss Baker’s Hornpipe. WCa.28
+M:C|
+L:1/8
+Q:1/2=90
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Hornpipe
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:F
+cB|A2F2-FAGF|EGB2-BdcB|Acde fcdB|A2F2F2:|!
+|:((3cde)|fcAc fagf|gece gbag|afge fdgf|e2c2c2fc|!
+((3def) ((3ABc) B2ba|gfed (cc) BA|\
+((3Bcd) ((3EFG) FdcB|A2F2F2:|
+
+X:29
+T:Beggar’s Girl,The. WCa.29
+M:6/8
+L:1/8
+Q:3/8=60
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.air
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+“_Exactly as written”d>cB d>cB|A>GA B2GA/B/c/|d>cB d>cB|{B}A>GAG2d|!
+d>cB d>cB|A>GA Bcd|d>cB d>cB|A>GAG2B/c/|!
+dBg e2d/c/B/A/G/|A>GAG2z|DGB DAc|DcB B/A/ A {B}A|!
+DG^F Dc>c|BAGHd2z|d>cB d>cB|{B}AGA B>cd|!
+dcB efg|B>cBA2B/c/|d/b/a/g/f/g/e2g/f/e/d/c/|B>cAG2z|]
+
+X:30
+T:Edinborough Hornpipe. WCa.30
+M:C|
+L:1/8
+Q:1/2=90
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.hornpipe
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+AG|FAdf gece|d2A2A2GF|GABA BAGF|E2C2C2AG|!
+FAdf gece|d2A2A2(GF)|GBAG FEDC|D2D2D2:|!
+|:ed|c2A2A2ed|c2A2A2(ef)|gefd edcB|BABG GFED|!
+FAFA GBGB|EGEG FAFA|gege fdfc|d2d2d2:|!
+|:”_sic”AG|D2D2D2D2|FGAB BAGF|A,2A,2A,2A,2|EFGA GFED|!
+d2fdA2dA|G2BGF2AF|GBAG FEDC|D2D2D2:||
+
+X:31
+T:Admiral Lord Nelson’s Hornpipe. WCa.31
+M:C|
+L:1/8
+Q:1/2=90
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.hornpipe
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+Bc|dBecB2cA|GFAFG2Bc|dBgf edcB|ABcA GFED|!
+dBecB2cA|GFAFG2ec|B2cA G2F2|G2G2G2:|!
+|:Bc|dgfg edcB|((3efg) ((3fga) g2f2|edcB cBAG|F2A2A2GF|!
+EFGE FGAF|Bdceg2ec|B2cAG2F2|G2G2G2:|
+
+X:32
+T:No.1 Hornpipe. WCa.32
+M:C|
+L:1/8
+Q:1/2=80
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.hornpipe
+O:England
+Z:vmp.Chris Partington, May 2003
+K:F
+F>G|A>BA>F D>EF>G|A2(F2F2)A>c|d>ef>d cAGF|D2(G2G2)F>G|!
+A>BA>F D>EF>G|A>BA>B c>dc>A|d>ef>d c>AG>A|F2D2D2:|!
+|:d>e|f>gf>d Aceg|a2f2f2a>f|g2g>a bagf|d2g2g2f>g|!
+agfef2fa|gfedc2de|fgfc ABAG|F2D2D2:|
+
+X:33
+T:Newcastle Hornpipe. WCa.33
+M:C|
+L:1/8
+Q:1/2=90
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.hornpipe
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+g2|B2B2BcdB|G2G2GABc|dBdB gdcB|cBAG GFED|!
+B2B2Bdce|d2d2d2B2|BAGF GEDC|D2D2D2:|!
+|:B2|c2c2c2AB|cBAG FEDC|B,DGBg2d2|ecAG GFED|!
+e2e2efge|dBge dBAG|AccA BdFA|G2G2G2:|
+
+X:34
+T:Jack’s Alive. WCa.34
+M:C
+L:1/8
+Q:1/2=90
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+G2BG ABc2|dBcA BGFD|G2BG ABc2|dBAFG2G,2:|!
+|:gg ((3gbg) ff ((3faf)|ee ((3efg) afed|\
+gg ((3gag) ff ((3fgf)|((3efg) ((3agf) g2G2|!
+gg ((3gbg) ff ((3faf)|ee ((3efg) afed|\
+ggBB eeAA|dBAF G2G,2|]
+
+X:35
+T:Tink a Tink. WCa.35
+M:C|
+L:1/8
+Q:1/2=90
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Country Dance
+O:England
+A:North Yorkshire
+N:Accompanied by violin fingering….CGP..
+Z:vmp.Chris Partington, May 2003
+K:G
+G2d>BG2d>B|c>dc>B A>GF2|G2d>BG2d>B|c>AG>FG2z2:|!
+|:d2g>f e>dc>B|A>Bc>d B2G2|d2g>f e>dc>B|A>cF>AG2z2:|
+W:Accompanied by fiddle fingering.
+
+X:36
+T:Russian Dance. WCa.36
+T:Opera Hat. WCa.36
+M:2/4
+L:1/8
+Q:1/2=90
+C:”or Opera Hat”
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Country Dance
+O:England
+A:North Yorkshire
+N:Accompanied by violin fingering in the MS…CGP..
+Z:vmp.Chris Partington, May 2003
+K:G
+DG|B2DG|B2DG|cdBc|A2DF|A2DF|A2DF|BcAB|G2:|!
+|:dc|B2BA|G2gf|edcB|c2dc|B2AG|FGAG|FDEF|G2:|
+W:Accompanied by fiddle fingering.
+
+X:37
+T:Self Dance. WCa.37
+T:Sylph,The,aka. WCa.37
+T:Plymouth Lasses,aka. WCa.37
+M:6/8
+L:1/8
+Q:3/8=120
+C:”Wm Calvert Book 1812″
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.jig
+O:England
+A:North Yorkshire
+N:Unnecessary Segno sign at end of A Strain…CGP…
+Z:vmp.Chris Partington, May 2003
+K:D
+A|AFA dfa|agf efg|fed fdc|ceee2A|!
+AFA dfa|agf efg|faf gec|ddd”^$?”d2:|!
+|:A|FAd dcB|BAGA2D|(F/G/)AD (F/G/)AD |CEEE2A|!
+FAd dcB|BAGF2D|(F/G/)AF GEC|”^NB”DDDD2:|
+W:NB.Final bar=D2DDD in MS
+
+X:38
+T:Honey Moon. WCa.38
+M:C|
+L:1/8
+Q:1/4=130
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Strathspey
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+A<dd2(d<f)(f<a)|g<fe<d c<ee2|\
+A<dd2(d<f)(f<a)|g<f e<gd2z2:|!
+|:d<AA2B<dd2|A<FE<D C<EE2|\
+d<AA2 B<dd2|f<g e>fd2z2:|
+
+X:39
+T:I’ll Never Leave Thee. WCa.39
+M:C|
+L:1/8
+Q:1/2=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.reel
+O:England
+A:North Yorkshire
+N:violin fingering in MS…CGP…
+Z:vmp.Chris Partington, May 2003
+K:D
+“_Key sig. Amaj in MS”d2fa gfef|d2fag2B2|d2fa gfef|A2edc2A2:|!
+|:dcBA GAB2|d2fag2B2|dcBA GAB2|A2edc2A2:|
+W:Accompanied by fiddle fingering.
+
+X:40
+T:Keel Row,The. WCa.40
+M:2/4
+L:1/8
+Q:1/4=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Country Dance
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+c|B2GB|c2Ac|B2GB|A2D2|B2GB|c2Ac|BGAF|G3:|!
+|:c|Bddg|e2dc|B2GB|A2D2|Bddg|e2dc|BGAF|G3:|
+W:Accompanied by fiddle fingering.
+
+X:41
+T:Nong Tong Paw. WCa.41
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.jig
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+“_Key G in MS”a|f2ff2e|d2dd2c|Bcd e2d|c2BA2a|!
+f2ff2e|d2dd2c|Bcd edc|d3D2:|!
+|:a|f2af2a|gfge2a|f2af2a|gfge2a|!
+f2ff2e|d2dd2c|Bcd edc|d3D2:|
+
+X:42
+T:Grinders,The. WCa.42
+T:Our Bride is No Maid,aka. WCa.42
+M:9/8
+L:1/8
+Q:3/8=120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Slip jig
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+“_Key D in MS”gfg edc BAG|gfg efg agf|\
+gfg edc BAG|AAAA2Bd2B:|!
+|:AAAA2BG2E|AAAA2Bd2B|\
+AAAA2BG2E|dBG GBcd2B:|
+
+X:43
+T:Ranger’s Hornpipe,The. WCa.43
+M:C|
+L:1/8
+Q:1/2=90
+C:”Wm Calvert’s Book”
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.hornpipe
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+(FG)|ABAFA2de|edefd2Bc|dedB ABAF|G2E2E2(FG)|!
+ABAFA2de|edefd2Bc|dedc A>BA>G|F2D2D2:|!
+|:”^qu”g2|fefg afdg|fefg afdg|g2bgf2af|g2e2e2(FG)|!
+ABAFA2de|fdefd2Bc|dedc ABAG|F2D2D2:|
+
+X:44
+T:Saxona’s Hornpipe. WCa.44
+M:C|
+L:1/8
+Q:1/2=90
+C:”Wm Calverts Book”
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.hornpipe
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+AF|D2d2d2cd|ecAcd2de|fefd gfge|afdfe2AF|!
+D2d2d2cd|ecAcd2de|fdec dBA^G|A2A2A2:|!
+|:fg|afdf AcBA|B2G2G2ga|bgeg BdcB|c2A2A2fg|!
+((3agf) ((3agf) gb gb|((3agf) ((3agf) gb gb|\
+afge fdec|d2d2d2:|
+
+X:45
+T:Dutch Skipper. WCa.45
+M:C
+L:1/8
+Q:1/2=90
+C:”Wm Calvert”
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+DGBG dGBG|DGBG EAA2|DGBG dBeg|dcBA G>GG2:|!
+d>g g2dgbg|agbg eaa2|dgg2dgbg|agbg egg2|!
+d/g/ g3 dgbg|agbg eaa2|g<be<a d<gB<g|dcBA G<GG2|]
+
+X:46
+T:There’s nae luck about the house. WCa.46
+M:2/4
+L:1/8
+Q:1/2=100
+C:”Wm Calvert”
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Country dance
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+B|dBAF|GGGB|dBAF|E2zB|\
+dBAF|GGGB|AGFE|D2z:|!
+|:E|F2FD|GFGF|F2FD|E2zA|\
+FFFD|GGGB|AGFE|D2z:|
+
+X:47
+T:Chapter of Things. WCa.47
+M:6/8
+L:1/8
+Q:3/8=90
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Air
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:Bb
+F|FBB BAB|c2AF2F|Fcc c>de|f2dB2f/e/|!
+d>ef fed|g2ec2c/d/|ede edc|f2dB2F|!
+FBB Acc|dBB ecc|d>ef e>dc|(B3B2)F|!
+FBB Acc|dBB ecc|d>ef edc|(B3B2):|
+
+X:48
+T:Seymour’s Reel. WCa.48
+T:Torryburn Lasses,aka. WCa.48
+M:C|
+L:1/8
+Q:1/2=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+G2BG BddB|c2ec dggd|G2BG Bcdg|edcBA2G2:|!
+|:g2bg gfed|edef gdBG|g2bg gfed|edefg2ga|!
+bagf gfed|edef gdBG|cBcd efge|dcBAG2G2:|
+
+X:49
+T:Batchelor’s Hall. WCa.49
+M:6/8
+L:1/8
+Q:3/8=50
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Air
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:C
+G|ccc egc|Bdd d2d/e/|fdd BG/A/B/G/|ccc cd e/f/|!
+gdd BG/A/B/G/|ddd d2d/c/|BG/A/B/G/ FD/E/F/D/|GGGG2G/G/|!
+ccc cGG|EC/D/E/F/ G2″^qu’s”((3G/A/B/)|ccc cGG|EC/D/E/F/ G2G/G/|!
+AAA fdd|cBdHg2g/f/|ecc BGB|cee g2g/f/|!
+ecc BG/A/B/G/|ccc c2e/c/|d2e/c/d2d/e/|fff/g/Ha2a/f/|!
+ecc BG/A/B/G/|cccc2a/g/|f2f/e/d2d/c/|!
+BBBB2g/f/|ec/d/e/c/ BG/A/B/G/|ceee2:|
+
+X:50
+T:Butcher’s Hornpipe. WCa.50
+M:C|
+L:1/8
+Q:1/2=90
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.hornpipe
+O:England
+A:North Yorkshire
+N:Also appears in Vicker’s MS, in a partially different version with some
+N:dotted rhythms.
+Z:vmp.Chris Partington, May 2003
+K:G
+GG/G/G FE DC (B,/A,/)|G,A,B,G, GG/G/G (c/B/)|\
+AGFE DEFD|!
+GG/G/G (F/E/) DCB,A,|G,3c BdBG|AcAF GG/G/G3/4:|!
+|:dd/d/d ef ed (c/B/)|ABcB BB/B/B (d/B/)|AGFE D3|!
+CD/C/ B,D/B,/ A,D/A,/|G,3c BdBG|AcAF GG/G/G3/4:||!
+zzzz|zzzz|zzzz|zzzz|!
+“^Version Edited by CGP”|:G2GGG2FE| DCB,A, G,A,B,G,|\
+G2GGG2cB|AGFE DEFD|!
+G2GGG2FE|DCB,A, G,3c |BdBG AcAF|G2GGG4:|!
+|:d2ddd2 ef|edcB ABcA|B2BBB2 dB|AGFE D4|!
+C2DC B,2DB,|A,2DA, G,3c|BdBG AcAF|G2GGG4:|
+
+X:51
+T:Slingsbys Allemand. WCa.51
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Allemande
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+f2|egec d2f2|egec d2A2|B2A2B2c2|dcde d2f2|!
+egec d2f2|egec d2A2|B2A2B2c2|d4D2:|!
+|:g2|fafd fafd|gbge gbge|fafd fafd|cece c2g2|!
+fafd fafd|gbge gbge|fafd egec|d4D2:|
+
+X:52
+T:Gabio,The. WCa.52
+T:Gobbeo,aka. WCa.52
+M:6/8
+L:1/8
+Q:3/8=120
+C:”Wm Calvert”
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.jig
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:C
+B|c2A AcA|E2A ABA|cdc cBA|dBG GAB|!
+cdc cBA|Bcd efg|edc BAG|E2AA2:|!
+|:”_rest added”z|A2Bc2d|e2fg3|gag gfe|dBG GAB|!
+cdc cBA|Bcd efg|edc BAG|E2AA2:|
+
+X:53
+T:Money Musk. JC.073
+M:C
+L:1/8
+Q:1/4=100
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Reel
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+e|d>GB>G d>Gc>e|d>GB>G AB/A/ c>e|d>GB>G Bc/d/ d>g|e>cA>d B>GG:|!
+|:e/f/|g>dB>g d>gB>g|g>dc>g B>gA>f|g>dB>g d>gB>g|e>cA>c BGGf|!
+g>dB>g d>gB>g|g>dc>g B>gA>f|g>dB>g d>gB>g|e>cA>d BGG:|
+
+X:54
+T:Goddess,The. WCa.54
+M:2/4
+L:1/8
+Q:1/4=80
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:.Country dance
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+DFAd|d/c/e/c/ A2|Aceg|fa/f/d2|fa/f/ gg|eg/e/f2|dd/f/ ef|g/e/d/c/d2:|!
+|:ee d/c/B/A/|ee d/c/B/A/|aa g/f/e/d/|aa g/f/e/d/|!
+fa/f/ gg|eg/e/ f2|dd/f/ e>f|g/e/d/c/d2:|!
+|:Adfa|geg2|fedc|d/c/d/e/ dA|Adfa|a2gf|gedc|d2d2:|!
+|:A2GF|G>ABB|Ag ec|d/c/d/e/ dd|A2GF|G/F/G/A/ BB|Agec|d2d2:|

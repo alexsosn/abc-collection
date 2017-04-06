@@ -1,0 +1,744 @@
+%abc
+%%abc-alias Anonymous Staffordshire MS
+%1820, UK Staffordshire, Private collection
+%%abc-creator ABCexplorer 1.4.0 [11/01/2012]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP.Tim Willetts
+%Revised 21/05/2003
+%Revised again 11/2008
+%Revised again 12/2009
+
+X:1
+T:Allen a Dale. ST.01
+M:6/8
+L:1/8
+Q:3/8=80
+C:First legible tune in photocopy
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+N:From p.14.
+H:Photocopy does not include all of original manuscript, and sections of
+H:t
+H:copy are not legible.
+H:ABC transcription carried out on a Linux system to abc standard 1.6,
+H:an
+H:checked using both abc2ps and abc2win.
+Z:vmp.Tim Willets
+K:C
+cBc dcB|cde (dB)z|Acc Adc|Bdg ecz|!
+edc dBG|gec cAf|dBg ece|ccf gfe|!
+gfd d2G|cBc dfe|AdB c2z|]
+
+X:2
+T:Tekili,(Incomplete). ST.02
+M:6/8
+L:1/8
+Q:3/8=120
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Jig
+O:England
+A:Staffordshire
+N:From p.14,only first 7 bars present in photocopy,pp.1 to 12,andpp.15,16
+N:missing
+Z:vmp.Tim Willets
+K:C
+c2c cBc|A2c G3|GAB cde|f2d B2G|c2c cBc|A2cG3|” incomplete”GAB|]
+
+X:3
+T:Fragment of untitled tune. ST.03
+M:6/8
+L:1/8
+Q:3/8=80
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Misc
+O:England
+A:Staffordshire
+N:From p.17,fragment of tune, title unknown.
+N:key is guesswork – no key signature legible on ms.
+Z:vmp.Tim Willets
+K:D
+“_No Key Sig. in MS”GEcd2″^F”A|(GE)ce2(A/2F/2)|\
+(GE)c (df)A|(Af)e d-FA|GEcd3|]
+
+X:4
+T:Drops of Brandy. ST.04
+M:9/8
+L:1/8
+Q:3/8=120
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Slip Jig
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:G
+d2c (BG)B (BG)B|d2c (BGB) (cBA)|d2c (BG)B (BG)B|c2B A2B cBA:|!
+|:GBd edB gdB|GBd gdB cBA|GBd gdB gdB|c2B A2B cBA:|
+
+X:5
+T:Meg Merriless. ST.05
+T:Persian Hunt,aka. ST.05
+T:Boyne Hunt,aka. ST.05
+M:2/4
+L:1/8
+Q:1/2=90
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Reel
+O:England
+A:Staffordshire
+N:The way this has been strangely written down with what would normally
+N:be considered to be inappropriate bar lines, lead in notes, and
+N:incorrect spelling of Meg Merrilees, strongly suggests to me that this
+N:has been attempted from memory rather than sloppy copying, and
+N:indicates that the author of the MS has a “consumer’s” knowledge of
+N:music notation. CGP
+Z:vmp.Tim Willets
+K:D
+“^unedited”A2FA|DAFA|DAFA|BEEc|”^Incomplete”A2FA|D||!
+a2|f/2e/2d ad|bdad|f/2e/2d af|beea|!
+f/2e/2d ad|bdad|A>B de|fdd a|!
+f/2e/2d ad|bdad|f/2e/2d af|bee g|!
+fadf|gb e>f|A>B de|fdd|]
+
+X:6
+T:Ronda. ST.06
+T:Ode To Joy,aka. ST.06
+M:2/4
+L:1/8
+Q:1/4=100
+C:Beethoven
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Ode?
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:D
+a|.d.d.e.e|fdaf|(g/a/).b/.g/ (f/g/).a/.f/|\
+(e/f/).g/.e/ (d/c/).B/2.A/2|!
+.d”sq’s in MS”.d.e.e|fda>g|(f/g/).a/.b/ (a/g/).f/.e/2|dcd2:|!
+|:.e.e.f.d|.e.a.f.d|.e.e.f.d|c/B/2A/^G/”cr” Az|!
+ee/f/ ff|^gg/g/ aa|a(a/^g/) “qu’s”(a/b/)(c’/d’/)|”qu’s”c’/b/a/^g/a2:|
+
+X:7
+T:March in Blue Beard. ST.07
+M:4/4
+L:1/8
+Q:1/2=75
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.March
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:D
+a3gf2e2|d4e4|fefg a2gf|eeeee2z2|!
+a3gf2e2|d4e4|fefgf2e2|d2d>d”^cr”d4:|!
+|:e3dc2d2|e4″^g”f4|gfga b2gf|eeeee2z2|!
+e3dc2d2|e4f4|”^qu’s”e2d2c2B2|A2A>AA2z2|!
+a3gf2e2|d4e4|fefga2gf|e2e>ee2z2|!
+a3gf2e2|d4e4|fefgf2e2|d2d>dd4:|
+
+X:8
+T:Turkish Air.A. ST.08
+M:2/4
+L:1/8
+Q:1/4=100
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+N:ms. also has title “Hope told a Flattering Tale” at top of this tune, b
+N:crossed out. Tempo indication of “Allegro”.
+Z:vmp.Tim Willets
+K:A minor
+“^Allegro”A/2B/2c/2d/2|ee A/B/c/d/ cA A/2B/2c/2d/2|eA B^G|A2:|!
+|:c/2d/2e/2f/2|gg a/2g/2f/2e/2|fd B/2c/2d/2e/2|ff g/2f/2e/2d/2|!
+ec A/2B/2c/2d/2|ee A/2B/2c/2d/2|ee A/2B/2c/2d/2|ea e/2d/2c/2B/2|A2||!
+e>d|^cAB^G|Aae>d|^cAB^G|!
+A2e>d|^cAB^G|Aae>d|^cAB^G|A4|]
+
+X:9
+T:Tis But Fancy’s Sketch. ST.09
+M:4/4
+L:1/8
+Q:1/4=100
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+N:
+Z:vmp.Tim Willets
+K:G
+G|”^Moderato”B2ed dcBA|G4zGG|d2ed dcBA|B4z2B2|AA AA B2^c2|!
+d4z2B2|BG df fed^c|d4z2d2|d2=fed2c/2B/2e/2d/2|c4z2d2|!
+(gf).e.d (cB).A.G|(B4A2)zd|BGdB GBdg|He4c2e2|.e.dz2z2d2|\
+dcz2z4|!
+(B/2A/2)(c/2B/2) (d/2c/2) (3B/2c/2A/2|\
+A2G4(Fd)|d2z2GHg{f}He2|(ed) (gG) (cA).d.F|G4z3|]
+
+X:10
+T:Cambrian Lyrist,The. ST.10
+M:6/8
+L:1/8
+Q:3/8=110
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Quadrille
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:G
+GA|B2B BAG|d2d dcB|g2g gfe|dcB Adc|!
+B2B BAG|d2d dcB|g2g fef|g2gg2:|!
+|:g|f2g agf|g2bd2g|f2g agf|gab dec|!
+B2B BAG|d2d dcB|g2g fef|g2gg2:|
+
+X:11
+T:Downfall of Paris. ST.11
+M:2/4
+L:1/16
+Q:1/4=80
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:D
+d2(d>e) d2(d>e)|d2(d>e) (gf)ed|e2e>f e2e>f|e2e>f agfe|!
+f2f>g f2f>g|f2fg bagf|e2e>d e2e>d|efge cABc|!
+d2d>e d2d>e|d2d>e gfed|e2e>f e2e>f|e2e>f agfe|!
+f2fd a3g|g4f2fd|a4g4|fefe f2e2|d2d2d4:|!
+|:a8|a2f2b2a2|g2g>f g2g>f|g2gfg4|!
+a8|g2e2a2g2|f2fe f2fe|f2fef4:|!
+|:ABcd cBAF|FGAB AGFE|d2d2e2e2|f2f2d4|!
+GABd AGGF|FGAB AGFE|d2e2f2d2|d2d2d4:|!
+|:.c2.d2.e2.f2|.g2.f2.e2.d2|c2d2e2f2|g2e2e4|!
+(ABcd) cBAG|FGAB AGFE|d2e2f2e2|d2d2:|
+
+X:12
+T:Come Under My Plaidy. ST.12
+T:Johnny McGill,aka. ST.12
+M:6/8
+L:1/8
+Q:3/8=120
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Jig
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:G
+g|dBB BAB|dBBB2g|dBB BAB|GEE E2g|!
+dBB BAB|dBB BAG|AAA BAB|GEEE2:|!
+|:d|gfg aga|bag fed|gfg aga|bge ega|!
+bgb afa|gef gfe|dBB BAB| GEE E2:|
+
+X:13
+T:Cuckoo,The. ST.13
+M:4/4
+L:1/4
+Q:1/2=80
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+N:First bar is unclear on ms. but appears to be similar to bar 5 which I
+N:h
+N:e copied to bar 1.
+Z:vmp.Tim Willets
+K:G
+G>ABG|cedz|g>ed>B|(A/2F/2)(A/2B/2)Az|!
+G>ABG|cedz|g>ed>B|{B}(A/2G/2)A/2B/2Az|!
+gag>f|egdz|c>edc|B>cdz|!
+g>agf|egdz|cABG|FAA2|!
+G>ABG|cedz|g>ed>B|(A/2G/2)(A/2B/2)G2|!
+.g/2d/2 z .g/2d/2 z|.g/2d/2 z .g/2d/2 z|\
+G>ed>B|{B}(A/2G/2)(A/2B/2)G2|]
+
+X:14
+T:Miss Fords Dance. ST.14
+T:Shepherd’s Hey,aka. ST.14
+M:2/4
+L:1/8
+Q:1/4=100
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Country-dance
+O:England
+A:Staffordshire
+N:Time signature is given as 2/4 in ms. However first 4 bars have 3
+N:croche
+N:/bar, and other bars have extra beats. I have retained this in abc. as
+N:”
+N:rrecting” would involve more than a minor editorial decision.
+Z:vmp.Tim Willets
+K:G
+“qu’s”G/B/d/B/ cc|”qu’s”G/B/d/B/ AA|”qu’s”G/B/d/G/ cc/2e/2|\
+d/2c/2B/2A/2GG:|!
+|:”qu’s”g/d/c/B/ “^crs”cc|e/2c/2e/2c/2 AA|”qu’s”g/d/c/B/ cc/2e/2|\
+d/2c/2B/2A/2 GG:|!
+|:D/2G/2B/2G/2 D/2A/2c/2A/2|D/2G/2B/2G/2 AA|\
+D/2G/2d/2B/2 D/2B/2c/2e/2|d/2c/2B/2A/2 GG|
+
+X:15
+T:Life Let Us Cherish. ST.15
+M:6/8
+L:1/8
+Q:3/8=120
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Jig
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:G
+B3cBc|(d2g)g2z|G3AGA|BcBA3|!
+B2B cBc|(d2g)g3|B3AGA|(G3G2)||!
+d|d2c ABc|d2BG2d|d2c ABc|d2BG2d|!
+e2cg2g|d2Bg2d|ded (dcB)|B3A2z||!
+“^P”B3cBc|d2gg2z|G3AGA|BcBA3|!
+B2B cBc|d2gg3|B3AGB|G3G2|]
+
+X:16
+T:Tyrolese(?) Song of Liberty. ST.16
+T:New Tyrolean Waltz,aka. ST.16
+M:3/4
+L:1/8
+Q:3/4=50
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+N:First word of title is indistinct.
+Z:vmp.Tim Willets
+K:G
+D2|G>G B>B d>d|d>bg2 ((3Bdg) |a2c’z ((3Acf) |g2bz “qu”D2|!
+G>G B>B d>d|d>bg2 ((3Bdg) |a2c’ z ((3Acf) |g2z2|]
+
+X:17
+T:Welch Air. ST.17
+M:2/4
+L:1/16
+Q:1/4=70
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:D
+d2(fa gfed)|(cdef) g2(fe)|d2f2e2d2|{d}(cBcd) e2 “^P”(dc)|.d2(fa gfed)|!
+(cdef) g2 (ag)|f2(gf) e2(fe)|d2d’2d2 “^F”a2|(gfed) c2d2|(e3fe2d2)|!
+(c2a2)(e3d)|c2a2 (e2fg)|f3gf3e|(defg) a2(gf)|g2b2a2f2|!
+(efga bc’d’b)|a2f2 (gfed)|(cdef) g2(ag)|.f(agf) .e(gfe)|d2d’2d2z2|]
+
+X:18
+T:Washington’s March at the Battle of ? ST.18
+M:4/4
+L:1/8
+Q:1/4=100
+C:Incomplete in MS
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.March
+O:England
+A:Staffordshire
+N:Illegible.Only a 4-bar fragment in ms. occupying only part of a stave.
+Z:vmp.Tim Willets
+K:G
+“Maestoso”G2D>GB2G>B|d2B>dg2z2|e>fg>ed2B>d|d>cB>AB2B>d|]
+W:Illegible after this
+
+X:19
+T:Portuguese Laudie(?),The. ST.19
+M:2/4
+L:1/8
+Q:1/2=90
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Country-dance
+O:England
+A:Staffordshire
+N:Not very legible in MS, but not “Lady”.CGP
+Z:vmp.Tim Willets
+K:G
+d|gfed|d2zB|cBce|dBG d|!
+b>a g/2f/2e/2d/2|d2zB|cBce|d2z:|!
+|:d|cAFD|GBd d|^c/2d/2e/2d/2 =c/2B/2c/2A/2|G2zd|!
+cAFD|GBd d|^c/2d/2e/2d/2 =c/2B/2c/2A/2|G2z:|
+
+X:20
+T:Pray Goody. ST.20
+M:4/4
+L:1/8
+Q:1/2=80
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Country-dance
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:G
+d4 cBAG|BAGF GBdf|g2fe dBAG|gdcB (B2A2)|!
+d4 cBAG|BAGF GBdf|{ef}g2fe dBec|BdcAG2z2||!
+g2d2e2d2|gBBB(c2B2)|gddd gddd| gdcB HB2HA2|!
+d4cBAG|BAGF GBdf|g2fe dBAG|gdcB (B2A2)|!
+d4 cBAG|BAGF GBdf|{ef}g2fe dBec|BdcAG4|]
+
+X:21
+T:Oranje B?ven ST.21
+M:4/4
+L:1/8
+Q:1/4=100
+C:”- Sung by Mr Braham.”
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:D
+A2|d3cd2e2|f2e2d2ze|f2edc2d2|e3dc2ze|e2f2e2d2|(ca2)zz2^gf|!
+e3fe2c|A4z2A2|e3g fedc|d2e2f2zA|g3e agfe|f2g2a2zA|!
+a3g fedc|B6g2|f2ede2c2|d4z2A2|f3ed2c2|B4z2f2|!
+g3fe2d2|c4z2c2|d3ef2d2|(B2Hg4)g>f|e4a4|d4z4||!
+d4B4|e2e>dc2A2|af dg Hb2g>f|e4a4|d8|]
+
+X:22
+T:Said a Smile to a Tear. ST.22
+M:2/4
+L:1/8
+Q:1/2=80
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:D
+df|a2″squ’s”gf|f2ff|(ag).f.e|e2ze|(gf).e.d|d2ef|ge z2|!
+z2df|a2gf|f2ff|(ag).f.e|e2zg|f2a>d|e2a>a|fdfe|d2cd|!
+e2ee|e2ee|(gf).f.f|f2zf|(ag).f.e|gf af|fez2|!
+z2za|afz d|bHg d’b|ad’fa|d2e>a|fdz|]
+
+X:23
+T:Copenhagen Waltz. ST.23
+M:3/8
+L:1/16
+Q:3/8=50
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Waltz
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:D
+(f<a)|(g<b) f<a e<g|(d<f) A2 (d<f)|(e<g) A2 (c<e)|(d<f) A2 (f<a)|!
+(g<b) (f<a) (e<g)|(d<f) A2 (d<f)|(c<e) A2 (c<e)|”qu”d4||!
+(d<f)|(c<e) A2 (c<e)|(d<f) A2 (d<f)|c<e A2 (c<e)|d4 (f<a)|!
+(g<b) (f<a) (e<g)|(d<f) A2 (d<f)|(c<e) A2 (c<e)|d4||!
+a2|(b2a2f2)|d4 a2|(b2a2f2)|e4 a2|(b2a2f2|dcdfaf|edefgf|d4|]
+
+X:24
+T:Opera Hat,The. ST.24
+M:6/8
+L:1/8
+Q:3/8=120
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Jig
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:D
+A2|d2d def|A2AA2A|B2dc2e|d2f ecA|!
+d2d def|A2AA2A|B2dc2e|(d3d2)||!
+f|e2e efg|f2ed2f|e2e efg|(f3d2)f|!
+e2e efg|f2ed2f|{f}e2d {d}c2B|A2GF2E|!
+F3 GFG|A2A A2A|B2dc2e|d2f ecA|!
+F3GFG|A2AA2A|B2dc2e|(d3d2)|]
+
+X:25
+T:Mrs McLeod . ST.25
+M:4/4
+L:1/8
+Q:1/2=100
+C:”- A Popular Dance”
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Reel
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:D
+B|A2a2fefa|c2cBc2c>B|A2a2 fefa|B2 BA B2Bc|!
+A2a2fefa|c2cBc2ce|fgfef2eg|a2ecB3||!
+“^cr”c| AAcA ecce|c2cBc2a2|AAcA ecce|B2BAB3c|!
+AAcA ecca|c2cBc2ce|f2fef2eg|a2ecB3|]
+
+X:26
+T:Arthur the Brave. ST.26
+M:4/4
+L:1/4
+Q:1/2=80
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:F
+c|”^Maestoso”f>ga.g|f2ze|d>efd|c2zc|fga=b|c’2ze|!
+f>dg=B|c2zg/2f/2|e>cde|f2cg|a>gda|b2zb|!
+afed|^c2z/2ag|f>d f/2e/2d/2^c/2|d2zc|f>ffe|edcc|!
+f>gaf|b2d’2|c’>efg|e/2cz/2c’>b|a>fg>e|f3|]
+
+X:27
+T:Fly Not Yet. ST.27
+M:6/8
+L:1/8
+Q:3/8=110
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Quadrille
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:F
+F2FF2G|A2Bc2A|c2de2f|g2f edc|a2gg2f|!
+f2ed2c|d2ef2d|c2BA2G|F2f fge|(f3″^cr”f3):|!
+|:(F3f3)|(F3f3)|a2gg2f|f2ed2c|!
+d2e fed|cdB A2G|F2f fge|(f3f3):|
+
+X:28
+T:Orange Waltz,The. ST.28
+M:3/8
+L:1/8
+Q:3/8=50
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Waltz
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:F
+.c|.f(f/2e/2).f|.g(g/2^f/2).g|.e(e/2d/2).e|fac’|.f(f/2e/2).f|\
+.g(g/2^f/2).g|.e(e/2d/2).e|f2:|!
+|:e/2f/2|cag|fef|gec|cc/2d/2c|cag|fef|gec|f2||!
+e/2f/2|g(g/2e/2)c|a(a/2f/2)c|(b/2a/2).g/2.f/2(e/2d/2)|\
+ceg|gg/2e/2c|aa/2f/2c|dd/2f/2e/2g/2|f2:|!
+c|cag|fef|gec|cc/2d/2c|cag|fef|gec|f2|]
+
+X:29
+T:Irish Air. ST.29
+T:William & Nancy,aka. ST.29
+M:6/8
+L:1/8
+Q:3/8=110
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.March
+O:England
+A:Staffordshire
+N:The tune for the William & Nancy Morris dance, Bledington tradition…
+Z:vmp.Tim Willets
+K:Bb
+“^Allegro”B2B BFD|f2f fdB|B2c dcd|G2AB3:|!
+|:Bdf b2b|agf (gf).e|Bdf b2b|agf g2a|!
+b2b afd|g2g fdB|B2c dcd|G2AB3:|
+
+X:30
+T:Beauty In Tears. ST.30
+M:3/4
+L:1/8
+Q:1/4=90
+C:Sung By Mr Braham
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:Bb
+B2|”^Mod”B2d2f2|d2B2d2|c2 edcB|(A2c2)F2|B2dcBA|(G2e2)c2|B3cA2|B4:|!
+B2|B2d2f2|b2f2d2|cdefag|fedcBA|B2d2f2|f2c2B2|A2f2=e2|f6|!
+{^fgedfec}B2d2=fe|d2B2d2|cGedcB|(Ac2)zF2|!
+B2dcBA|G2He2ec|B3cA2|B4:|
+
+X:31
+T:Fal Lal La. ST.31
+M:2/4
+L:1/8
+Q:1/4=100
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:A
+A2|.e.e.c.c|AA (A/4B/4c/2)z|ddcz/2A/2|G/2>A/2B/2>c/2B/2z/2B/2|!
+eecc|AA A/4B/4c/2z|ddcz/2A/2|B/2>A/2B/2>c/2A|]
+
+X:32
+T:New Lango Lee. ST.32
+T:Lango Lee,aka. ST.32
+T:Banks of the Dee,aka. ST.32
+M:6/8
+L:1/8
+Q:3/8=100
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.JIg
+O:England
+A:Staffordshire
+N:Different from the usual New Lango Lee….
+Z:vmp.Tim Willets
+K:G
+D|D>EF G>AB|c>ed cBA|BGE DEG|B>ccG2D|!
+DEF GAB|ced dBA|BGE DEG|B>cAG2:|!
+|:B|B2cd2d|e>dc dBG|Bcd efg|G>AG FED|!
+cec BdB|A>GA BGE|GFE Ddc|B>eB|G2:|
+
+X:33
+T:Staffordshire March. ST.33
+M:4/4
+L:1/8
+Q:1/4=120
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.March
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:D
+d3d cdec|d2d>dd4|f3f efge|f2f>ff4|!
+d3f gfed|cAcea4|efedc2~B2|A2A.AA4||!
+a3g f^dfa|g2bge3f|g3f eceg|f2afd3A|!
+d>de>ef3e|f>fg>ga3g|(3fga (3bag f2e2|d2d>dd4|]
+
+X:34
+T:Boxing the Compass. ST.34
+M:2/4
+L:1/8
+Q:1/2=60
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:G
+d/c/|Bd gd/c/|BG GA/B/|cABG|FADF|!
+GBe^c|d2g2|f/g/a A^c|d2z2d||!
+^cc c/d/e/f/|gf/e/ fd|BB B/c/d/e/|=fe/d/ ed/d/|!
+cd/e/ EA/G/|F2z/d/e/f/|gefd|e/d/^c/e/ dd|!
+^cd/e/ Ac|d2 zd/c/|BG GA/G/|!
+FA/c/ AG/F/|B/d/e/f/ g/e/d/c/|BGG|]
+
+X:35
+T:I Am Quite the Thing. ST.35
+M:6/8
+L:1/8
+Q:3/8=100
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:G
+d2Bd2B|(AB)cB2G|d2BG2G|GAB A2z|!
+d2Bd2B|(AB)cB2G|G2FE2E|EDE {E}D2f|!
+ede def|ede d2z|DEF G2G|GAB E2E|!
+EF^G A2A|ABc HF2(B/2G/2)|G2BG2c|G2dG2He|!
+A2A (AB)c|B2AG2z|B2B cea|d2cB2B|AGA G3|]
+
+X:36
+T:Smile Again My Bonnie Lassie. ST.36
+M:2/4
+L:1/8
+Q:1/2=60
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+N:”Andante”
+Z:vmp.Tim Willets
+K:C
+“^Andante”c>de>d|(c<G)(A<G)|(A<d) f>e|(e2{fe}dz)|\
+c>de>d|(c<A) (A<G)|c>a g>B|c2z2|!
+d>B gf/2e/2|d>c .c.B|A>A d>c|(c2{dc}B)z|\
+d>Bg2(3f/2g/2e/2|d>c .c.c|A>A d>^F|(G3A/2B/2)|!
+c>ded|(c<G)(A<G)|(A<D)F>e|e2{fe}d G|\
+A>B c>A|(G<E) (G<c)|c<a g2z|!
+{agfedcBAG}d2{ed}c g|a>bc’>a (g<e) g<c’|\
+c<a g {GBGdB}B|c2z2|]
+
+X:37
+T:Favourite Italian Dance,The. ST.37
+M:6/8
+L:1/8
+Q:3/8=120
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Monferina
+O:England
+A:Staffordshire
+N:See “Quadrille. JMT.002″.CGP
+Z:vmp.Tim Willets
+K:D
+Ade|f2Af2A|(fg)f (ef)e|d2cd2f|e>dc/2B/2 Ade|!
+f2Af2A|(fg)f (ef)e|(dc)B (dc)B|f2zF2G|!
+(AB)c (de)f|a2g efg|(cd)e (AB)c|d2zF2G|!
+(AB)c (de)f|f2e Bed|cBc ABc|d3|]
+
+X:38
+T:A Love of Beauty. ST.38
+T:Love of Beauty. ST.38
+M:C
+L:1/8
+Q:1/4=100
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+N:”Andante”
+Z:vmp.Tim Willets
+K:G
+B3GG2G2|d2cc2B2|g3d (fedc)|(BAG)F(G3A)|\
+B3AA2G2|d3cc2B2|!
+g3d (ge).d.c|cA(d>F) G2z2|\
+A3GF2F2|c3BB2A2|HA3AB2B2|c2^c>dH(d3^c)|!
+B3AA2G2|d3cc2B2|g3d (fe).c.A|AG Hd>FG4|\
+g3f (a/2g/2).f/2.e/2 (d/2c/2)(B/2A/2)|(AG) Hd>FG4|]
+
+X:39
+T:March In M?s?ielle. ST.39
+M:C
+L:1/8
+Q:1/4=100
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.March
+O:England
+A:Staffordshire
+N:Title not legible.
+Z:vmp.Tim Willets
+K:C
+e>f|”^F”g2e>d c2e>f|g6a>b|c’2bc’e2f>g|(a4g2)zg|!
+g2f>ed2a>g|g2a>bc’2b>a|d’2d>e^f2g>a|g6:|!
+|:d>d|d2d>d c>BA>G|e2 e>e d>cBc|d2 d>d c>BA>G|(e4c2)e>f|!
+g2e>dc2e>f|g6a>b|c’2(b>c’)e2(f>g)|(a4g2)zg|!
+g2f>ed2a>g|g2a>bc’2e>f|g2e>cg2f>d|c2c’>c’c’2:|
+
+X:40
+T:Mistletoe Bough,The. ST.40
+M:6/8
+L:1/8
+Q:3/8=100
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+Z:vmp.Tim Willets
+K:C
+G|GGG GGG|G2G G2G|(AG).A (BA).B|(dc).c c2G|!
+GGG GGG|G2G G2G|AGA BAB| ecc c2||!
+c|cBc dcd|e2cc2E|FEF G2G|(c3c2)c|!
+(cB)c (dc)d|e2c c2E|FEF G2G|c2cc2z|!
+c2c dcd|(e3e2)E|F2A GAB|(c3c2)G|!
+c2c dcd|(e3e2)e|f2a gab|(c’3c’2)|]
+
+X:41
+T:Whan Love Hath Bereft Him. ST.41
+M:C
+L:1/8
+Q:1/4=100
+S:Anonymous Staffordshire MS, Early 19thC.
+R:.Air
+O:England
+A:Staffordshire
+N:Tune not legible on photocopy after bar 24
+Z:vmp.Tim Willets
+K:G
+(GF)|G6GF|A2G2(Bc)|d6(AB)|(A2G6)|z4z2(GF)|G6GF|!
+A2G4(Bc)|d6(AB)|G4z2(FG)|A2A4(GA)|c2B4^AB|^c6(Bc)|!
+d6(^cd)|e6 (de)|f2f3g (Be)|d3AG3e|(e3f/2e/2d2)(GF)|A2G4GF|!
+A2G4(Bc)|d6(AB)|G4c2(Bc)|(d2e2d2B2)|!
+(GF)G4GA|(B2c2B2G2)|”^Illegible after…”(EFE4)(EF)|”^etc..”GFEF|

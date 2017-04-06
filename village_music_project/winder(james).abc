@@ -1,0 +1,6012 @@
+%abc
+%%abc-alias James Winder MS
+%(not Edward), 1835, UK Lancs, Wyresdale, Private collection
+%%abc-creator ABCexplorer 1.6.1 [29/03/2015]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP-Chris Partington, Aug 2004
+%Revised 05/01/2005
+%Revised again 12/2008
+%Revised again 12/2009
+%Revised again 3/2015 added a title
+
+X:1
+T:Boney Lad. JaW.001
+T:Because He Was A Bonny Lad,aka. JaW.001
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+N:NB=Bar missing in MS, reconstructed by me..CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:A
+c>BAg|faec|efec|B2B2|\
+c>BAg|faec|d>fec|A2A2:|!
+|:cAeA|fAeA|”NB”efec|B2B2|\
+cAeA|fAeA| d>fecA2A2:|
+
+X:2
+T:Over The Water To Charlie. JaW.002
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+D2A AFA|BdB AFD|D2A AFA|B3 d3|!
+D2A AFA|BdB AFD|dfd ecA|B3 d3:|!
+|:dfd ecA|BdB AFD|dfd ecA|B3 d3|!
+dfd ecA|BdB AFD|D2A AFA|B3 d3:|
+
+X:3
+T:Chester Hornpipe. JaW.003
+M:C|
+L:1/8
+Q:1/2=90
+C:”This is the best way of playing….”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+z2|dBAG F2E2|DFAc d2d2|BcdB gfed|cAB^G A2(Ac)|!
+BAGf gfed|cde^g a2(ag)|fafd egec|d2d2 d2:|!
+|:z2|defg afed|cdef g2gf|g2(ga) gfed|cAB^G A2Ac|!
+BAGB gfed|cAce a2ag|fafd egec|d2d2 d2:|
+
+X:4
+T:Green Sleeves. JaW.004
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+c2c cde|d2BG2B|c2A ABc|B2GE2B|!
+c2c cde|d2B G2B|cBA BAG|A3A3:|!
+|:g2g gfe|d2BG2f|g2g gfe|a2fd2f|!
+g2g gfe|d2B G2B|cBA BAG|A3A3:|
+
+X:5
+T:O’er The Hills And Far Away. JaW.005
+T:Over The Hills,etc..aka. JaW.005
+M:2/4
+Q:1/4=100
+L:1/8
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+A|dfdf|dBBA|dfdf|geeA|!
+dfdf|dBg2|B(A/G/) AB|gee:|!
+“qu’s”f/g/|ab a/g/f/e/|dBBf|ab b/a/g/f/|ge ef/g/|!
+ab “qu’s”a/g/f/e/|dBg2|BA/G/ AB|gee|]
+
+X:6
+T:Paddy Wack. JaW.006
+M:6/8
+Q:3/8=120
+L:1/8
+C:”1834″
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D|GBd gfg|edc BAG|GBd gfg|fddd2e/f/|!
+geg fdB|cec dBG|GBd cAc|BGGG3:|!
+|:BdB cec|dBGA2G|Bcd efg|fddd2(e/f/)|!
+geg fdB|cec dBG|GBd cAd|BGGG2:|
+
+X:7
+T:Come hast to the Wedding. JaW.007
+T:Haste To The Wedding,aka. JaW.007
+T:Rural Felicity,aka. JaW.007
+M:6/8
+L:1/8
+Q:3/8=120
+C:”1834″
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A|AFA Aaf|ede fdB|AFA BdF|EEE E2 A|!
+AFG Aaf|ede fdB|AFA faf|ddd d2:|!
+|:a|(af)a (af)a|(bg)b (bg)b|afa agf|eee e3|!
+a3 f3|ede fdB|AFA faf|ddd d3:|
+
+X:8
+T:Poor Men’s Labours Never Done. JaW.008
+M:C|
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+BB AA GF GD|BB AA GF G2|BB AA GF GD|BB AA GF G2||!
+Bd dd e2dc|d2G2 Bd dd|”unclear in MS”e2dcd4|!
+e2(dc) d2(cB)|c2(BA)F2D2|B3c A3d|G2F2G4|]
+
+X:10
+T:Willy With Wisp. JaW.010
+M:C|
+L:1/8
+Q:1/2=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+c2|B2G2G2B2|A2D2D2c2|B2G2B2d2|g4 (agfe)|!
+B2G2G2B2|A2D2D2g2|f2e2d2c2|”Minim”d4-d4:|!
+|:d2B2B2(cd)|e2c2c4|c2A2A2(Bc)|d2B2B4|!
+B2G2G2(AB)|c2A2A2c2|B2G2A2F2|G4-G4:|
+
+X:11
+T:Buttard Peas. JaW.011
+T:Buttered Peas,aka. JaW.011
+M:C|
+L:1/8
+Q:1/4=100
+C:”Thomas Houghton’s Way Of Playing It”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+Bdd(c/B/) cee(d/c/)|Bdd(c/B/) cA A2|Bdd(c/B/) cee(d/c/)|BdAc BG G2:|!
+|:Bddf (g/f/)(e/f/) g2|Bdd(c/B/) BAA2|Bddf (g/f/)(e/f/)g2|BdAc BGG2:|
+
+X:12
+T:Jack’s Alive. JaW.012
+M:C|
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2GB A2Ac|dBcA BG F(E/D/)|G2GB A2Ac|dBcA G2G2:|!
+g2ga f2fg|e2eg agfe|g2ga f2fg|egaf g2g2|!
+g2ga f2fg|e2eg agfd|g2Bd e2Ac|dBcA|G2G2|]
+
+X:9
+T:Drive Aggy To Water Jigg JaW.009
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+c2ce d2df|c2BA BAGB|c2ce d2df|eagf aAA2:|!
+|:afec efg2|afec decA|afec efg2|eagf aAA2:|
+
+X:13
+T:Devil’s Dream,The. JaW.013
+M:C|
+L:1/8
+Q:1/4=200
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+eaga eaga|eaga fedc|dfBf dfBf|dfBf dcBA|!
+eaga eaga|eaga fedc|dcde fgaf|edcB A2A2:|!
+|:ceAe ceAe|ceAe fedc|dfGf dfGf|dfBf dcBA|!
+ceAe ceAe|ceAe dcBA|dcde fgaf|edcB A2A2:|
+
+X:14
+T:Three Sheep Skins. JaW.014
+M:C|
+L:1/8
+Q:1/2=100
+C:”Learners Begins With 3 sheepskins”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+d2 fg a2 gf|g2fea2e2::fddf eddf|edcB c2A2:|
+
+X:15
+T:Lord Stranger’s Hornpipe. JaW.015
+T:Lord Strange,aka. JaW.015
+M:3/2
+Q:1/2=100
+L:1/8
+S:James Winder Ms, Lancashire, 1835-41
+R:.Triple Hp
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+“1”AG|:F2FG A2Ac d2d2|F2FG A2AB cBAG|\
+F2FG A2AB c2c2|E2EF G2AB cBAG:|!
+|:”2″F2DF AFdF AFdA|F2DF A2GF EFGE|\
+F2DF AFdF AFdF|E2EF G2AB cBAG:|!
+|:”3″d2f2 d2f2 dcBA|d2f2 d2f2 dcBA|\
+B2g2 B2g2BcdB|A2a2 A2a2 dcBA:|!
+|:”4″agfe defg a2ab|agfe defd g2ga|\
+gfed BcdB fgaf|edcB Aaed c2BA:|!
+|:”5″d2 fd fdfd c2(BA)|d2fd fdfd dcBA|\
+B2gB gBgB BcdB|A2aA aAaA dcBA:|!
+|:”6″dAFA dAFA d2(fe)|dAFA dAFA d2(dc)|\
+BAGF EFGE ABcA|edcB Aaed c2(BA):|!
+|:”7″DEFG ABAG A2F2|DEFG A2(GF) EFGE|\
+DEFG ABAG A2A,2|C2E2 C2F2 EFGE:|!
+|:”8″DEFE DEFE D2A,2|DEFE DEFG A2(GF)|\
+DEFE DEFE D2A,2|C2E2 C2F2 EFGE:|
+
+X:16
+T:Souldies Joy. JaW.016
+T:Soldiers Joy,aka. JaW.016
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+(FG)|(AF)(DF) (AF)(DF)|D2d2 d2(cB)|(AF)(DF) (AF)(DF)|\
+G2E2 E2 (FG)|!
+AFDF AFDF|D2d2 defg|afdf gece|d2d2 d2:|!
+|:e2|(fe)(fg) (fa)(gf)|(ed)(ef) (ef)(ge)|(fe)(fg) (fa)(gf)|edcB A2A2|!
+(fe)(fg) fagf|(ed)(ef) efge|afdf gece|d2d2 d2:|
+
+X:26
+T:Peas Upon a Trencher. JaW.026
+M:2/4
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country dance
+O:England
+A:Wyresdale,Lancashire
+N:Trencher = Plate
+Z:vmp.Chris Partington, Aug 2004
+K:G
+GDGA|B2B2|AGAB|c2c2|GABc|dedB|cAdB|G2G2:|!
+|:gGGA|B2AG|aAAB|c2BA|GABc|dedB|cAdB|G2G2:|
+
+X:17
+T:Iron Legs Hornpipe. JaW.017
+M:C|
+L:1/8
+Q:1/2=90
+C:”John Winder Dancing Master Way of Playing It”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+AG | F2 AF E2 AG | F2EF D2 A2 | B2 c2 d2 ed | c2Bc A2AG |!
+F2 A2 E2 AG | F2EF D2 A2 | Bcde fedc | d2d2 d2 :|!
+|:z2|fgfg egeg | fgfg egeg | dede cece | dede cece |!
+BdBd AdAd |BdBd AdAd | Bcd2 gedc | d2d2 d2 😐
+
+X:18
+T:Mistress Ceasey. JaW.018
+T:Mrs. Casey,aka. JaW.018
+M:6/8
+Q:3/8=120
+L:1/8
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+d2B (BcB)|A2A (ABA)|B2B (BcB)|g3 (f2e)|!
+d2B (BcB)|A2A (ABA)|B2B (BcB)d3 (f2e):|!
+d2e f2g|a2b a2f|d2e f2g|a3-aga|!
+a2g a2g|g2e a2f|d2B (BcB)|g3 (g2f)|]
+
+X:19
+T:Carol For Christmas Day,A. JaW.019
+M:C|
+L:1/8
+Q:1/4=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+A|d2c2d3c|B2B2A3A|f2f2e3c|d2e2f4:|!
+|:e|a2g2f3e|d2f2A3G|F2E2D3f|e3fd4:|
+
+X:20
+T:Flours of Edinburgh. JaW.020
+T:Flowers Of Edinburgh. JaW.020
+M:C|
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_key D in ms”(GF/E/)|D3 E G3A|BABd B2 AG|F3E DEFG|AFdF EFGE|!
+D3E G3A|BABd e3g|B2 AG AGAc|B2G2 G2:|!
+|:d2|gfga b2 ag|fefg a2 gf|edef gfed|B2 e2 e2g2|!
+dBAG d2 cB|edef g3a|B2 AG AGAc|B2 G2 G2:|!
+|:GE|DEDE GEGA|BABc BdcB|AGAB cBcd|edef gab2|!
+DEDE GEGA|BABc e2B2|B2AG BAGA|B2G2 G2:|!
+|:d2|gdfa b2ag|fefg a2gf|edef gfed|B2e2 e2G2|!
+Bdg2 Bde2|Add2 Gcc2|B2AG BAGA|B2G2 G2:|
+
+X:21
+T:Cudll Me Cudy. JaW.021
+T:Mad Moll. JaW.021
+T:Peacock Followed The Hen,aka. JaW.021
+M:9/4
+L:1/4
+Q:3/4=120
+C:..”or Mad Moll”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Slip Jig
+O:England
+A:Wyresdale,Lancashire
+N:Identical, except barring to PLFD 9C
+Z:vmp.Chris Partington, Aug 2004
+K:C
+“_Barred 6/4 in MS”A|:c>decAAcAA|c>decAAB2G|!
+c>decAAcAA|B>cdd>edB2G:|!
+|:c>de(ge)e(ge)e|c>de(ge)eg2d|!
+c>de(ge)e(ge)e|B>cdd>edB2G:|
+
+X:22
+T:Kendal Gill(Ghyll). JaW.022
+T:Thomas & ?Snadeor?. JaW.022
+M:6/8
+L:1/8
+Q:3/8=120
+C:”Thomas & ?Snadeor?”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:C# in bar 2 in other versions. Illegible alternative title. CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“Key as in MS”d2e f2g|fed cBA|d2e f2g|agf gfe|!
+d3 def|A3 AGF|G2B A2G|AFD D3:|!
+|:F3 A3|cBA cBA|G3 B3|dcB dcB|!
+F3 A3|cBA cBA|”unclear in MS”G2A B2G|FDD D3:|
+
+X:23
+T:White Cock-aid. JaW.023
+T:White Cockade,aka. JaW.023
+M:C
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Scots measure
+O:England
+A:Wyresdale,Lancashire
+N:Original spelling, I’m just the messenger.CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+g2|d2 (cB) cBAG|B2B2B2g2|d2 (cB) cBAG|B2A2A2(GA)|!
+B2B2 cBAG|G2G2g2(fg)|a2(gf) g2 (fe)|d2B2B2:|!
+|:(Bc)|d2B2g2(Bc)|d2B2B2g2|d2B2g2(fg)|a2A2A2(GA)|!
+B2B2 cBAB|G2G2g2(fg)|a2(gf) g2 (fe)|d2B2B2:|
+
+X:24
+T:Female Rake,The. JaW.024
+M:6/8
+Q:3/8=120
+L:1/8
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+ded dAF|GEA FDF|FGA Bcd|efd c2A|!
+ded dAF|GEA FDE|FGA Bcd|ecA d3:|!
+|:efd ecA |fdB ecA|e2f gfe|dcB A2F|!
+GFG g2G|FEF f2F|EFG AFD|ecA d3:|
+
+X:25
+T:Trumpet Minuet. JaW.025
+M:3/4
+Q:1/4=120
+L:1/8
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+D2DDDD|F2FFFF|A2AAAA|d4e2|!
+f2d2e2|f2d2e2|f2gfef|d6:|!
+|:a2aaaa|a2bagf|g2gggg|g2agfe|!
+f2ffff|f2g2a2|e2eeee|e6:|
+
+X:27
+T:Highland Laddy. JaW.027
+M:2/4
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+f|ecAc|e2(dc)|dBBc|dBBf|ecAc|e2(dc)|BAAc|B>AA:|!
+|:g|fefg|e2(dc)|dBBc|dBBg|fefa|e2(dc)|BAAc|B>AA:|
+
+X:28
+T:Lord Loudon’s March. JaW.028
+M:C|
+L:1/8
+Q:1/4=140
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+F2FF F2E2|DFAd B2A2|BdAd ” F in MS”GdF2|E2EE E2E2|!
+F2FF F2E2|DFAd B2A2|BdAd FAdg|fedc ” cr”d4:|!
+|agfg aagf|efge f2e2|d2de f2fg|a2gf f2e2|!
+agfg aagf|efge f2e2|d2de f2fg|a2gf f2e2|!
+f2ff f2z2|dfB>c B2A2|BdAd ” F in MS”GdF2|E2EE E2E2|!
+F2FF F2E2|DFAd B2A2|BdAd FAdg|fedc ” cr”d4|]
+
+X:29
+T:Scotch Gray’s March. JaW.029
+M:3/4
+L:1/8
+Q:3/4=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+D2D>DD>D|F2D2F2|A2A>AA>A|A2F2A2|!
+d2d>dd>d|d2A2F2|D2D>DD>D|D6:|!
+|:d2d>dd>d|d4 (3fdf |e2A>AA>A|A6|!
+e2e>ee>e|e4 (3geg |f2d>dd>d|” D.C.”d6:|
+
+X:30
+T:Short & Pretty(?). JaW.030
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+N:Title not clear in MS..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+BG-GB cA-Ac|BG-GB c2A2|BG-GB cA-Ac|BGAF G4:|!
+|:gb-bg fa-af|eg-ge f2d2|ce-ec Bd-dB|cAGF G4:|
+
+X:31
+T:Thomas Houghton’s…. JaW.031
+M:C|
+L:1/8
+Q:1/2=90
+C:”..way of playing Hettebe(?) Bender(?)”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:Title not clear in MS..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+B2AG G2G2|A2G2 ABc2|B2AG G2G2|A2G2 ABc2:|!
+B>c dd d2d2|edcB ABc2|c2cc c2ce|dcBA GAB2|!
+G2GG F2FF|E2E2D2D2|c2cc B2ce|dcBA GFG2|]
+
+X:32
+T:Jack’s Alive. JaW.032
+M:C|
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_Key C in MS”G2GB A2Ac|dBcA BG F(E/D/)|G2GB A2Ac|dBcA G2G2:|!
+g2ga f2fg|e2eg agfe|g2ga f2fg|egaf g2g2|!
+g2ga f2fg|e2eg agfe|a2Bd e2Ac|dB cA G2G2|]
+
+X:33
+T:Ould Highland Laddy,The. JaW.033
+T:Old Highland Laddie,aka. JaW.033
+T:Highland Laddie,aka. JaW.033
+M:C|
+L:1/8
+Q:1/2=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+d|e2A2 c2A2|d4 c4|d2B2-B2d2|f2B2-B2f2|!
+e2A2 c2f2|e4 c4|c2A2-A2c2|e2A2A3:|!
+|:a|(agfe) fgaf|e4 c4|d2B2-B2d2|f2B2 B2a2|(agfg) (efga)|!
+e4 c4|1e2A2A2f2|e2A2A3:|2eaaa aaaa|a8|]
+
+X:34
+T:Farewell To Newcastle… JaW.034
+M:6/8
+L:1/8
+Q:3/8=70
+C:”..Our Time Is But Short, etc.”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+f|gdc BGB|Ggf “qu”g2f|gdc BGB|Ggf “qu”g2|!
+|f|gag agf|efg f2e|def gdc|BGB d2B|!
+A3 B(AB)|c3 BGB|dBd e3|f2″qu’s”(e/f/) gdc|BcAG2|]
+
+X:35
+T:Ally Croker. JaW.035
+M:2/4
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Scots Measure
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2GG|G2G2|AGFG|ABcd|BGGG G2G2|AGFG|ABc2:|!
+|:{Bc}d2dd|d2d2|edcB|ABc2|{AB}c2cc|c2c2|dcBA|GAB2|!
+G2G>G|F2F>F|E2E>E|D2D2|c2dc|B2A2|BGcA|F2G2:|
+
+X:36
+T:Shutters Hornpipe. JaW.036
+M:C
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+A2-A2 ABcd|edcB AcBA|B2B>B B2 (fe)|dcBA GBGE|!
+A2 A2 ABcd|edcB A2 a2|gbge fafd|e2e>ee4:|!
+|:B2B>BB2 c-d|ecBA GBGE|e2e>ee2 (fg)|agfe dfdB|!
+f2d2 (fgaf)|e2c2 defd|cBcd edcB|A2A>A A4:|
+
+X:37
+T:Cuckoo’s Nest. JaW.037
+T:Come Ashore Jolly…aka. JaW.037
+T:Jacky Tar,aka. JaW.037
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+AG|FEFD f2ed|cAGF B2AG|FEFD CDFC|c2G2 G2AG|!
+FEFD f2ed|cAGF B2AG|FEFD CBAG|F2D2 D2:|!
+|:A2|d2d2 defe|d2A2 A2AB|c2c2 cded|c2G2 G2fe|!
+dcde f2ed|cAGF B2AG|FEFD CBAG|F2D2 D2:|!
+|:FG|AFDF AFDF|AGFE D2EF|GECE GECE|GFED C2FG|!
+AFDF AFDF|AGFE f2ed|cAGF GBAG|F2D2 D2:|
+
+X:38
+T:Jackie Stewart’s Reel. JaW.038
+M:C
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+cg2e gcge|cg2e dBGB|cg2e gcge|afge dBGB:|!
+|:ceAe ceAe|ceAe (d/c/B/A/) GB|ceAe ceAe|afge dBGB:|
+
+X:39
+T:Illegible Jig. JaW.039
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:…Behind the Bush in the Garden?
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A|d2e f2d|g2e f2d|d2e f2d|c3 e3|!
+d2e f2d|g2e f2d|(faf) (ece)|d3 d2:|!
+|:g|fed cBA|BcB A2g|fed cBA|B3 d2g|!
+fed cBA|BcB A2g|(faf) (ece)|d3 d2:|
+
+X:40
+T:Daniel Cooper. JaW.040
+M:C
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+|:d2g2 fedf|edce d2d2::BGGB cAAc|!
+BGGB d2g2|BGGB cAAc|BGAF G2G2:|
+
+X:41
+T:Pantheon Cotillon,The. JaW.041
+T:Grant’s Rant. JaW.041
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d2dd2c|B2BB2A|G2G AGA|B2BB2c|!
+d2dd2c|B2BB2A|G2G AGA|G3G3||!
+b2b bag|a2d def|g2g gfe|f2B Bcd|!
+e2e edc|d2G GAB|cdc BcB|B3″tr”A3||!
+B3″tr”AGA|BcB “tr”AGA|BcB AGA|BcBA3|!
+a2aa2g|f2ff2e|d2d “tr”ede|d2-d ((4G/A/B/c/)|!
+d2dd2c|B2BB2A|G2G AGA|B2BB2c|!
+d2dd2c|B2BB2A|G2G AGA|G3G3|]
+
+X:42
+T:Rose Tree In Full Bloom,The. JaW.042
+M:C
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+(ed)|c2A2G2E2|G3AG2G2|c4 edcd|e2d2-d2 (ed)|!
+c3AG2E2|G3AG2G2|c4 edcd|e2c2c2:|!
+|:z2|c2d2 cdef|g3a g2fe|a2a2g3a|d4d3e/c/|!
+c2A2G2E2|G3AG2G2|c4 edcd||e2c2c2:|
+
+X:43
+T:Auld Lan Syne. JaW.043
+M:C
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|c>cce d>cd>e|c<ceg a2c’2|g>ee>c d>cd>e|c>A A>G c3:|!
+|:a|g>ee>c d>cd>e|g>ee>g a2c’2|g>ee>c d>cd>e|c>AA>G c3:|
+
+X:44
+T:Sweet Home. JaW.044
+M:C
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+(G>A)B4|c2c2d4|B2d2c2B2|c2A2B4|!
+G3A B4|c3c d4|B2d2 (c2B2)|c2A2G4:|!
+|:z2d2g4|f2e2d4|B2d2c4|c2A2B4|!
+z2d2g4|f2e2d4|”qu’s”B2d2c2B2|(c2A2)G4|” As Writ”B4c4|d4B4|!
+A4-A4| z2d2g4|f2e2e4|B2d2e4|c2A2G4|]
+
+X:45
+T:Girl I Left Behind Me,The. JaW.045
+T:Brighton Camp,aka. JaW.045
+M:C
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c’2|g>f e>d e>c A>B|cc c/d/e/f/ a>f ec’|\
+g>f e>d e>c A>B|Bd G>B c2c:|!
+|:c|eg ab c’g ec|eg ab c’b c’2|\
+ag ed e/d/c/B/ Ac|Bd GB c2c2:|
+
+X:46
+T:Stanley For Ever. JaW.046
+M:C
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+(f/g/)|a4 g4|f2gf e2A2|defg e2A2|defg e2A2|!
+a2ba g2ag|f2gf e2A2|defg e2(dc)|d4D4:|!
+|:F2A2 F2A2|F2A2 A2GF|G2B2 G2B2|G2B2 B2AG|!
+FGAG FGAG|FGAG D2a2|g2fe f2ec |d4D4:|
+
+X:47
+T:Lovely Nancy. JaW.047
+M:3/4
+L:1/8
+Q:3/4=30
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+B>A|G2G2GB|A2A2(AB/c/)|B2(ge) (dc)|A4B>A|!
+G2G2(dB)|A2A2(ge)|(d>e) (d>B)A>B|G4:|!
+|:B>c|d2d2ge|d4(B>c)|d2d2(gB)|A4B>A|!
+G2G2(dB)|A2A2(cd/e/)|(d>e) (d>B) (A>B)|”sic”B4:|
+
+X:48
+T:Devil To Pay,The. JaW.048
+M:6/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.misc.
+O:England
+A:Wyresdale,Lancashire
+N:Make of it what you will.CGP
+Z:vmp.Chris Partington, Aug 2004
+K:F
+“_As Written”edc2G2DEC2| efe2d2cd ec dB|cA G2A2B2cAA2|G2G4:|!
+|:G2|c2f2G2f2e2d2|ED FA GB Ad ge fd|ec|d4:|
+
+X:49
+T:Duke of York March. JaW.049
+M:C
+L:1/8
+Q:1/2=75
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+C2C>C E2E>E|GEGE C2G2|cGcG cGEC|G2G>G G2z2|!
+a3e c3e|d3e fedc|e3f agfe|d2d>dd4:|!
+|:G2G>G Gceg|G2G>G Gceg|fddd ecc2|agfe (e2d2)|!
+c2c/d/e/d/ cGAB|B2A>A A2=B/c/d/e/|ff ee dd f/e/d/c/|=B2AG GFED|!
+C2C>C E2E>E|GEGE C2f2|egge fdc=B|c2c>cc4:|
+
+X:50
+T:King William’s March. JaW.050
+T:Shore’s Maggot.or. JaW.050
+M:6/8
+L:1/8
+Q:3/8=110
+C:”..or Shore’s Maggot..Country Dance”
+S:James Winder Ms, Lancashire, 1835-41
+R:.”Country Dance”
+O:England
+A:Wyresdale,Lancashire
+N:Shore – a family of King’s trumpeters late 17th, early 18th C, as is
+N:the convention of showing D major as top F,Bottom F, and C all sharp,
+N:equals three sharps in MS. William = of Orange.CGP
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A|AFA AFA|AFA A2A|dAd dAd|dAd d2d|!
+fga efg|fga efg|fga a2g|a3-a2:|!
+|:a|fdd gee|fdd gee|fdd g2f|e3-e2f/g/|!
+a2z g2z|f2z e2z|f2z g2z|f2z e2a|!
+fad eAa|fad eAa|fed e2c|d3 d2:|
+
+X:51
+T:Billy’s A Bonney Lad. JaW.051
+M:2/4
+L:1/8
+Q:1/2=100
+C:”..a gud reel”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+fefd|ceef|fefd|g2((3gfe)|fefd|ceeg|faec|d2d2:|!
+|:A>BAG|FDDF|A>BAc|d2 (cB)|A>BAG|FDDg|faec|d2d2:|
+
+X:52
+T:Election Tune. JaW.052
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig?
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c2e e3|d2f f3|e2c cBc|dBG G3|!
+c2e e3|d2f f3|edc dcB|c3 c3:|!
+|:GAG E2F|G2B c3|GAG EFG|AFD D3|!
+GAG E2F|G2g g2f|edc dcB|c3 c3:|
+
+X:53
+T:Highland Laddy,The. JaW.053
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+f|e(cBA) e2cB|dBBc dBBf|e(cBA) e2d2|cAAc BAA:|!
+|:g|fefa e2(dc)|dBBc dBBg|fefa|e2d2|cAAc BAA:|
+
+X:54
+T:Moon & 7 Stars,The. JaW.054
+T:Seven Stars,aka. JaW.054
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+d2A AGF|GAB A3|Bcd efg|fed cBA|!
+d2A AGF|GAB A3|Bcd efg|Adc d3:|!
+|:e2A A2f|efg f3|fgf e2d|cdB A3|!
+BGB AFA|BGB AFA|Bcd efg|Adc d3:|
+
+X:55
+T:May Day In The Morning. JaW.055
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+DFED EGFd|DFED CEA,C|DFED EFGE|Ddc(B/c/) d2d2:|!
+|:(d/e/f/g/) af afed|(B/c/d/e/) ec ecBA|\
+(d/e/f/g/) af afed|ceA(B/c/) d2d2:|
+
+X:56
+T:Fife Hunt. JaW.056
+M:C|
+L:1/8
+Q:1/2=90
+C:”..Play the latter part for once only”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+N:..even though the MS shows :||: after the first measure. CGP
+Z:vmp.Chris Partington, Aug 2004
+K:C
+f|ecc2 GEE2|Dddc d2df|ecc2 GEE2|CccB c3:|!
+f|ecgc acgc|Dddc d2df|ecgc acgc|GccB c2df|!
+ecgc acgc|Dddc d2df|ecgc acgc|GccB c3|]
+
+X:57
+T:High Thee Jemmy Home Again. JaW.057
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+(ef) (ef) ga ge|(de) dc BG B2|(ef) (ef) ga ge|(de) dc BG B2:|!
+|:eA ((3cBA) eA ((3cBA) |eA ((3cBA) BGB2|\
+eA ((3cBA) eA ((3cBA) |BG BG BG B2:|
+
+X:58
+T:….Laddy, a gud tune. JaW.058
+T:Because He Was A Bonnie Lad,aka. JaW.058
+M:C|
+L:1/8
+Q:180
+C:FRAGMENT.
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+N:Orphaned at the end of the page, showing that my photocopies are not in
+N:the correct order. CGP
+Z:vmp.Chris Partington, Aug 2004
+K:D
+“_No key in MS”dfec|B2B2|\
+c>BAg|faec|d>fec|A2A2:|!
+|:cAeA|fAeA|cAec|B2B2|\
+cAeA|fAec|dfec|A2A2:|
+
+X:59
+T:Come Hast to the Wedding. JaW.059
+T:Haste To The Wedding. JaW.059
+T:Rural Felicity,aka. JaW.059
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:Hast = Haste
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G2|GEG Gge|dcd ecA|GEG AcE|DDDD2G|!
+GEG Gge|dcd ecA|GEG ege|cccc2:|!
+|:g|(ge)g (ge)g|(af)a (af)a|(ge)g gfe|dddd3|!
+{ef}g3e3|dcd ecA|GEG ege|cccc3:|
+
+X:60
+T:Oyster Girl. JaW.060
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:This is , yes, how it is clearly written in the MS, suggesting that it
+N:was not copied from a printed source! James seems to be struggling with
+N:his notation. It is a well enough known tune so I HAVE NOT FELT THE
+N:NEED TO EDIT IT . CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:C
+“_As written”gag e3|cd3 BG2|G3 ABc|f2e e3|!
+d2 gag|e3a2c’2b|f3 b/b/a e2|g2e2d d2c2||!
+ded d3|c2B d3B2|G3G2 ABc|f2e e3d2|!
+gag e3|g c’a f3|aag e2|ge d d3c2|]
+
+X:61
+T:Shuter’s Hornpipe. JaW.061
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+N:All C’s are natural in the MS.CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2-G2 GABc|dcBA GBAG|A2A>A A2(ed)|cBAG FAFD|!
+G2G2 GABc|dcBA G2g2|fafd egec|d2d>d d4:|!
+|:A2A>A A2(Bc)|dcBA FAFD|d2d>d d2(ef)|gfed cecA|!
+e2c2 (efge)|d2B2 cdec|BABc dcBA|G2G>G G4:|
+W:All C’s are natural in the MS
+
+X:62
+T:I Cannot Help It Now. JaW.062
+M:C|
+L:1/8
+Q:1/4=180
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+GAGe dBAG|gage d2B2|gage dBAG|AcBA G2E2:|!
+|:gdBd gdcB|gefg a2A2|gdBd gdcB|AcBA G2E2:|
+
+X:63
+T:Slow March,The. JaW.063
+M:C
+L:1/8
+Q:1/2=70
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c2G2 E2C2|c>de>f e2c2|g2fe f2ed|e2dc d2G2|!
+c2G2 E2C2|c>de>f e2c2|g2fe f2ef|gfed c4:|!
+|:d2de d2G2|cdef g4|ecde fefg|agfe d4|!
+eggg eccc|faaa fddd|eggg e>cf>d|e>cd>G c4|!
+egeg ecec|fafa fdfd|egeg e>cf>d|e>cd>G c4:|
+
+X:64
+T:Duke Of York March another way. JaW.064
+T:Lancashire Hp,aka. JaW.064
+M:3/8
+L:1/8
+Q:3/8=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.?
+O:England
+A:Wyresdale,Lancashire
+N:As Written, honestly.CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:C
+“_Unedited”g/b/c’/|d’2g2g2|gagf ecc|ce/d/c/|Bdd ceg|gfe|!
+dg/a/b/|c’gg|g2ag/f/|ec/c/|c2g2 ab/a/b/a/|ge/g/e/g/|f2d2B2|c2:|!
+|:c Bdd|cee|cff|eg/e/c/|Bd/B/d/B/|ce/c/e/c/|df/d/f/d/|egab|c’2g2g2|!
+gagf|ecc|c2g|a/g/a/b/c’/a/|a/c’/d’/b/c’/|f2d2B2|c3:|
+
+X:65
+T:Robert & John. JaW.065
+T:Bob & Joan. JaW.065
+T:Love and Whisky. JaW.065
+M:3/2
+L:1/4
+Q:1/2=100
+C:”Love and Whisky”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Triple Hornpipe
+O:England
+A:Wyresdale,Lancashire
+N:As written, you can find other versions easily enough.CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+BG GE G2 | BG GE FA | BG GE GB | AB AG FA :|!
+|:GB dc B2 | GB dc “sic”B/cB/ |A>B A/B/A/G/ FA:|
+
+X:66
+T:Irish Washerwoman,The. JaW.066
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d/c/|BGG DGG|BGB dcB| cAA EAA| cAc edc|!
+BGG DGG|BGB dcB|cBc Adc|BGGG2:|!
+|:g/a/|bgg dgg|bgb c’af|afd dfd|fdf agf|!
+egg dgg|cgg Bgg|cBc Adc|BGG G2:|
+
+X:67
+T:Rigadoon. JaW.067
+M:6/4
+L:1/4
+Q:3/4=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rigadoon
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|c>Bc (de)c|d3 G2c/d/|”qu’s”(ec)A (fd)c|\
+d3-d2::G/4A/4B/|c>BA GcG|!
+(Ac)A F2A|(df)d (Ad)A|BdB G2c/d/|(ec)d (Gc)B|c3-c2:|
+
+X:68
+T:Minuet. JaW.068
+M:3/4
+L:1/4
+Q:3/4=50
+C:”A Good Tune”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+N:As written, not quite right is it?
+Z:vmp.Chris Partington, Aug 2004
+K:G
+Bc/B/A/G/|ADG|A/G/A/B/|B2A|dc/B/A/G/|gf/e/d/c/|BcA|G3:|!
+|:Bc/B/A/G/|Ad2|Bc/B/A/G/|A3|!
+d=f/e/d/c/|d”tr”g2|d”tr”g2|d”tr”g2|”music runs out…”cd/c/B/A/B/c/|
+
+X:69
+T:Rigadoon. JaW.069
+M:6/4
+L:1/4
+Q:3/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rigadoon
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G|D2G A>GF|G2A B>AG|c>BA d>cB|A3-A2::A|D2A B>AG|!
+A2d G2c|A2d G2c|A>Bc d>cB|A>Bc BAG|G3-G2:|
+
+X:70
+T:Broad Hoop. JaW.070
+M:C|
+L:1/4
+Q:1/2=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.misc.
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_Unedited”BGGB|dBdf|AFFA/B/|cFAc|!
+BGGB|dcdg|fdcA|G-G:|!
+|:”sic”gd/d(e/f/)|g/ d/ d3/2f|c<c (e/f/)g|!
+c<cfd|d(e/f/)gd|dgec|AFGG:||!
+zzzz|zzzz|zzzz||!
+” Edited by CGP”
+|:BGGB|dBdf|AFFA/B/|cFAc|!
+BGGB|dcdg|fdcA|G2G2:|!
+|:”sic”g>dd(e/f/)|gd d>g|fcc (d/e/)|fcc(e/f/)|!
+gd d(e/f/)|gd dg|ec AF |G2G2:|
+
+X:71
+T:Minuet,A. JaW.071
+M:3/4
+L:1/8
+Q:3/4=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:Bb
+g2d4|B2ABG2|e2d2c2|B4A2|
+B2GABc|d2cBAG|^FG (G3^F/G/)|A6:|!
+|:f2f2f2|f2edcB|AB (B3A/B/)|c6|
+a2^f2c2|B4A2|{e}d2cBAG|^F2=EFD2|
+(AG)^F2F2|(c3B)A2|(e2d2)c2|^f6|
+g2fedc|B2ABG2|A2D2^F2|G6:|
+
+X:72
+T:Barley Raking. JaW.072
+M:6/8
+L:1/8
+Q:3/8=120
+C:”A reel or Jigg”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+” Brisk Prestissimo”D2F (ABA)|G2F E2F|D2 (cB2A)|B2cd2:|!
+|:e|d2ef2d|g2fe2f|d2ef2e(|dcB) A2A|!
+d2ef2d|g2f (efe)|d2AB2d|A2FD2:|
+
+X:73
+T:Dainel Cooper. JaW.073
+T:Daniel Cooper. JaW.073
+M:C|
+L:1/8
+Q:1/2=110
+C:”…For A Country Dance”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:Spelt “Dainel” in MS, presumed error.
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A2d2 d2B2|B2e2 e2B2|A2d2 d2B2|f4 “cr”d4:|!
+|:f3g a2(gf)|g3f e2(dc)|f3g a2(gf)|g4 e4|!
+f3g a2(gf)|g3f e2(dc)|A3e d2(cB)|f4 “cr”{e}d4:|
+
+X:74
+T:Scotch Hornpipe. JaW.074
+T:Well Done Jack,aka. JaW.074
+M:C|
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+a2|g2(fe) (fg)a2|e2(dc)f4|e2(dc)B2A2|G2 B4a2|!
+g2(fe) (fg)a2|e2(dc)f4|e2(dc)B2A2|E2A2-A2:|!
+|:” rest added”z2|(Ac) (ac)|(fe)(dc) (dc)(BA)|G2B4(cB)|!
+(Ac) (ac)|(fe)(dc) (dc)(BA)|”_D in ms”E2 HA4:|
+
+X:75
+T:Minuet,A. JaW.075
+M:3/4
+L:1/8
+Q:3/4=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+N:As written, with new time sig for return to 3/4. If you ignore the
+N:barlines for the odd bit it works OK. CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:Bb
+Bfdfcf|d2cdB2|e2g2b2|d4c2|!
+Bfdfcf|d2cdB2|bagfed|c6:|!
+|:AcFcAc|B2c2d2|\
+M:C
+“sic”D2D2G,2D2|B,4(A,2G,2)|!
+M:3/4
+BdFdBd|c2d2e2|fedfef|gfegfg|abc4|B6:|
+
+X:76
+T:Minuet,A. JaW.076
+M:3/4
+L:1/8
+Q:3/4=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+e^de2f2|B2(^d3^c/d/)|e2EFGA|BABcB2|!
+e^de2f2|B2(^d3^c/d/)|e2EFGA|B6:|!
+|gfg2a2|d2(f3e/f/)|g2fedc|B2GABc|!
+d2(d3c/d/)|edcBAG|A2F4|G6|!
+BAB2g2|AGA2f2|GFG2e2|F2G2A2|!
+cBAGFE|^d4e2|GFF4|E6|]
+
+X:77
+T:Rigadoon. JaW.077
+M:6/4
+L:1/8
+Q:3/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rigadoon
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+EF|G4E2 B2G2E2|e4f2 g2f2e2|d2c2B2 A4G2|G6-G4::GA|B4G2 d2B2G2|!
+A4F2 c2A2F2|G4E2 B2G2E2|F4^D2 E2F2G2|A2F2B2 F6|E6-E4:|
+
+X:78
+T:Minuet,A. JaW.078
+M:3/4
+L:1/8
+Q:3/4=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+B2e^de2|B2fef2|B2gfga|F4g2|!
+a2f2^d2|B2a4|g2agfg|e6:|!
+|:B2B4|cdcBcA|c2c4|ded=cdc|^d2d4|!
+[1e2fgag|f2B2^d2|e6:|[2e2dcBA|GAF4|E6|]
+
+X:79
+T:Rigadoon,A. JaW.079
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rigadoon
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+B2|e2^de B2e2|f2efB2f2|g2fg efga|b6::ba|^g2fef2^g2|!
+a4c’2a2|f2gae2=fg|d2efA2Bc|B^deFF4|E6:|
+
+X:80
+T:Drunken Barnaby. JaW.080
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.misc.
+O:England
+A:Wyresdale,Lancashire
+N:”Oh Barnaby thow hast been drinking I can tell by thy face and thy
+N:Winking”
+Z:vmp.Chris Partington, Aug 2004
+K:G
+[B3g3] efg|cfe d2c::cde ede|cfe d2c:|!
+|:g2(agfe)|a2(bagf)|g2(agfe)|d2c:|!
+cGc cGc|cfe d2c::cBA GFE|Dfe d2c:|!
+|:D>EF EFG|cde d2c:|
+
+X:81
+T:Go To Bed Betty and… JaW.081
+M:6/8
+L:1/8
+Q:3/8=80
+C:”….I’ll come to thee love”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+N:”….I’ll come to thee love”. Beaming as MS.
+Z:vmp.Chris Partington, Aug 2004
+K:C
+(g/f/)|e>dc cGc|ded egf|e>dc cGA|c>dc dag:|!
+|:c2c (e/f/)ge|d2d (f/g/)af|c2c (e/f/)ge|c2c (e/f/)ge|!
+(f/g/)af (e/f/)ge|d>ed eag|e>dc cGA|cdc eag:|!
+|:cgc ece|dad ada|cgc gcg|cgc efg|!
+a2(ba)(gf)|g2(ag)(fe)|ded eag|!
+e>dc cGA|c>dc eag:|
+
+X:82
+T:Minuet,A. JaW.082
+M:3/4
+L:1/8
+Q:3/4=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+GFG2B2|GFG2d2|GFG2B2|c4A2|!
+GFG2d2|GFG2c2|B2A4|G6:|!
+|:dcd2ad|d2cBc2|cBc2ac|c2BAB2|!
+GDADBD|c2BAf2|gGA4|G6:|
+
+X:83
+T:La Favourite Minuet. JaW.083
+M:3/4
+L:1/8
+Q:3/4=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:Bb
+GAB2A2|G2e2d2|c2B2A2|G^FGABc|!
+d2g2f2|e2d2c2|f2B2A2|B6:|!
+|:b2a2g2|f2(edcB)|g2f2e2|d2cBAG|!
+e2d2c2|B2ABGA|(^FG)(G3F/G/)|A=BB3(A/B/)|!
+cde2d2|=ea^f4|g2B2A2|G6:|
+
+X:84
+T:Rigadoon,A. JaW.084
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rigadoon
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:Bb
+GABc d2G2|d2g2^f2d2|g2a2 b2ag|a2^f2 g2G2::def2 f2b2|!
+f2d2 B4|ABc2 c2f2|(ed)(cB) A2d2|(cB)(AG)|A2^F2|G2-G2:|
+
+X:85
+T:Gracious Lady. JaW.085
+M:C|
+L:1/8
+Q:1/2=90
+C:”…A Good Tune”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+F3G A2d2|c2A2-A2(d2|c2)A2-A2GF|G4-G2A2|!
+F3G A2d2|c2A2-A2(d2|c2)A2(BA)(GF)|F4-F4:|!
+|:f2f2(gf)(ed)|f2f2(gf)(ed)|(ef)g2G4|!
+F3G A2d2|c2A2-A2(d2|c2)A2(BA)(GF)|F4-F4:|
+
+X:86
+T:Minuet,A. JaW.086
+M:3/4
+L:1/8
+Q:3/4=40
+C:”A Good Tune”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+fga2G2|FGA2G2|FGAGFE|F2EFD2|!
+fga2G2|FGA2G2|FGAGFE|D6:|!
+|:d2D2D2|E6|e2E2E2|F6|!
+fga2f2|efgfed|e2A2c2|d6:|
+
+X:87
+T:Rigadoon,A. JaW.087
+M:6/4
+L:1/4
+Q:3/4=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rigadoon
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A|d>cd F>GA|D3 d>ef|f>ed c2d|e3 A2A|!
+d>cd F>GA|D3 d>ef|e>dc B3|A3-A2:|!
+|:A|B>cd c>de|d3 c3|d>ef f>ed|!
+a3 (af)d|(ge)c eAc|d3-d2:|
+
+X:88
+T:Rigadoon,A. JaW.088
+M:6/4
+L:1/4
+Q:3/4=100
+C:”A Good Tune”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rigadoon
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+E|A2A A>^GA|B2B B>AB|c>dc B2A|e3-e2:|!
+|:(c/d/)|e2e e>fg|d2d d>ef|c2c c>de|!
+B>cd e2d|e>dc B>A^G|A3-A2:|
+
+X:89
+T:Minuet,A. JaW.089
+M:3/4
+L:1/4
+Q:3/4=40
+C:”A Good One”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+AEA|BEB|cd/c/B/A/|B/A/G/F/E|cGc|dGg|ef/e/d/e/|c3:|!
+|:ef/e/d/c/|dcB|cd/c/B/A/|^G/A/BE|AEA|BeB|cd/c/B/c/|A3:|
+
+X:90
+T:Rigadoon,A. JaW.090
+M:6/4
+L:1/4
+Q:3/4=90
+C:”A Good One”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rigadoon
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c/d/|e>fe d>cB|c2A E2A/B/|c>Bc d>cd|e3-e2::e/f/|g>ag f2e|!
+f2d A2d/e/|f>gf e>dB|e2^G E2c/d/|e>dc B2A|A3-A2:|
+
+X:91
+T:Bell-sids-Minuet. JaW.091
+T:Belsize Minuet?aka. JaW.091
+M:3/4
+L:1/4
+Q:3/4=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+N:( = ) and ( + ) mysterious ornaments in MS.
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2A|B2d/e/|dcB|A2B|ce/c/A/c/|Bd/B/G/B/|!
+c/d/ e/c/A/c/|B/c/ d/B/G/B/|AGF|G3|!
+|dgf|gab|agf|e2f|gb/g/e/g/|!
+f”_g in MS”a/f/d/f/|g/a/ b/g/e/g/|f/g/ a/f/d/f/|ed” nat. in MS”^c|d3|!
+dg2|c/d/ e/c/A/c/|B/c/ d/B/G/B/|A”=”D2|!
+G2″+”A|B/A/ B/c/d/B/|G2″+”A|B/A/ B/c/d/B/|gBA|G3||
+
+X:92
+T:Peggy & Nancy Hornpipe. JaW.092
+T:Pegg & Nan’s Hornpipe. JaW.092
+M:3/2
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Triple Hp
+O:England
+A:Wyresdale,Lancashire
+N:Time Sig 6/4 in MS.
+Z:vmp.Chris Partington, Aug 2004
+K:G
+g3e g3d (ge)(dB)|B4 D3G B3d|c3A B3G (cA)(GF)|G4 D3G B3d:|!
+|:(ge)(dc) defe (gf)(ed)|B4 D3G B3d|(cA)(GF) GABG (cA)(GF)|G4 D3G B3d:|!
+|:(ga)b2 (ag)f2 efed|B4 D3G B3d|(cd)e2 (dc)B2 ABcA|G4D3G B3d:|!
+|:gece afdf (ge)(dc)|B4 D3G B3d|cAFA dBGB cAFA|G4 D3G B3Hd:|
+
+X:93
+T:Spanish Jig. JaW.093
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:”=” – underscored with an equals sign, presumably means ornament that
+N:note.
+Z:vmp.Chris Partington, Aug 2004
+K:D
+“_=”D3 “_=”F3|(AF)A d2A|Bcd AGF|EFE CB,A,|!
+“_D in MS”D3 F3|(AF)A d2A|Bcd edc|dec d3:|!
+|:d3f3|efe cBA|BcB AGF|EFE CB,A,|!
+g3 f3|efe cBA|Bcd edc|dec d3:|
+
+X:94
+T:Rigadoon,A. JaW.094
+M:6/4
+L:1/4
+Q:3/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rigadoon
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+A|AEA A2B|c3-c2d/e/|f>ge d>cd|e3-e2::e|ece e2f|!
+g2d c2d|dBd d2e|f3-f2e|e>dc B2A|A3-A2:|
+
+X:95
+T:Minuet,A. JaW.095
+M:3/4
+L:1/4
+Q:3/4=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+GcB|cAe|BcA|B/A/^G/F/ E2|AcB|cAB|(c/d/)d2|e3:|!
+|:ege|dgd|ege|dgd|fed|gcf|(f/e/)d2|c3|!
+cec|BeB|cec|BeB|cBA|fea|(c/B/)B2|A3:|
+
+X:96
+T:Macantash. JaW.096
+M:C|
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D|G2G2 B2AG|c2c2 c2BA|G2G2 B2AG|A3B A2g2|!
+G2G2 B2AG|c2c2 dcBA|B2g2A2f2|G3A G3:|!
+|:D|GABG BcdB|cdec BcdB|A3B A2g2|!
+GABG BcdB|B2g2 A2f2|G3A G3:|!
+|:e|dBGB dBGB|c2A2 A2e2|dBGB dBGB|A3B A2e2|!
+dBGB dBGB|c2A2 A2e2|B2g2 A2f2|G3A G3:|
+
+X:97
+T:Minuet,A. JaW.097
+M:3/4
+L:1/4
+Q:3/4=40
+C:”..A Good One”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+GcB|cAe|BcA|B/A/G/^F/E|AcB|cAB|(c/d/)d2|e3:|!
+|:ege|dgd|ege|dgd|fed|gcf|(f/e/)d2|c3|!
+cec|BdB|cec|BeB|cBA|fea|(c/B/)B2|A3:|
+
+X:98
+T:Minuet. JaW.098
+M:3/4
+L:1/8
+Q:3/4=40
+C:”A Good One”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+e3f^d2|e2g2f2|e2^d2e2|fefgf2|!
+“_=”B4A2|G2e2G2|F2e2^d2|e6:|!
+|:B2BcBc|d3cB2|ABcBAG|”_=”F3ED2|!
+d2dcB2|edefgG|B2cBAB|G6:|!
+|:g2g2b2|f2f2a2|edegfe|”_=”^d3^cB2|!
+e4B2|A2G2F2|E2e2^d2|e6:|
+
+X:99
+T:Cheshire Round. JaW.099
+M:3/2
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Triple Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_As Written”f4e3d fga2|b2e2-e2(dc)(BA)|\
+f2ef (gf)(ed) (fg)a2|A2(Bc) d2(F2E2)D2:|!
+|:B2(AB) (cB)(AG) F4|E2 e2-e2d2c2(BA)|\
+B2(AB) (cB)(AG) F3E|D2 (Bcd) (FED):|
+
+X:100
+T:Bridge of Lodi. JaW.100
+T:Nelson’s Hornpipe,aka. JaW.100
+T:Saxon’s Hornpipe,aka. JaW.100
+M:C
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+GE|C2c2 c2Bc|dBGB c2cd|ecec fdfd|gece dBGE|!
+C2c2 c2Bc|dBGB c2cd|ecec BAG^F|G2G2 G2:|!
+|:ef|gfed cBAG|A2F2 F2fg|agfe dcBA|B2G2 G2ef|!
+gege afaf|gege afaf|geaf ecdB|c2c2 c2:|
+
+X:101
+T:Marquis Wellington. JaW.101
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+(gf)|”$”e2c {d}cBc|d2G G2B|c2d e2f|g2a g2f|!
+e2c {d}cBc|d2G G2B|c2d e2f|d2B c2:|!
+|:g|a2g fga|g2f e2g|a2g fga|g2f e2g|!
+agf gfe|fed edc|Bcd edc|Bcd ” DC al segno”Ggf|]
+
+X:102
+T:St Patrick’s Day in The Morning. JaW.102
+T:Barbary Bells,aka. JaW.102
+M:6/8
+L:1/8
+Q:3/8=120
+C:2A + 2B = 40 bars.
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|cdc cde|gag gec|efe ecG|ABA A2G|!
+cdc cde|gag gec|efe ecA|A3c3:|!
+|:gab c’2a|b2g agf|gab c’2a|b2g a3|!
+gab c’ba|bag abc’|cdc cde|gag gec|efe ecG|!
+ABA A2G|cdc cde|gag gec|efe ecA|A3c3:|
+
+X:103
+T:Copenhagen Waltz. JaW.103
+T:Danish Waltz. JaW.103
+M:3/8
+L:1/16
+Q:3/8=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+e<g|f<a e<g d<f|c<e G2 c<e|c<e G2 B<d|B<d G2 e<g|!
+f<a e<g d<f|c<e G2 c<e|d<f G2 B<d|c4:|!
+|:c<e|d<f G2 B<d|c<e G2 c<e|d<f G2 B<d|c<e G2 e<g|!
+f<a e<g d<f|c<e G2 c<e|d<f G2 B<d|c4:|!
+|:g2|(a2g2)e2|c4g2|(a2g2)e2|d4g2|!
+(a2g2)e2|(cBceg)e|(d^cdef)d|c4:|
+
+X:104
+T:Duke of Bellug’s(?) Quickstep. JaW.104
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G/B/|ded ded|g2G GFG|ABA ABc|d2c BAG|!
+ded ded|g2G GFG|ABc BcA|(A3G2):|!
+d|A2d A2d|B2d gab|agf edc|Bcd d2B|!
+A2d A2d|Bcd efg|aba fge|ded cBA|!
+ded ded|g2G GFG|ABA ABc|d2c BAG|!
+ded ded|g2G GFG|ABc BcA|(A3G2)|]
+
+X:105
+T:Russian’s Dance. JaW.105
+M:2/4
+L:1/16
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+(Gc)|e2(Gc) e2(Gc)|(fg)(ef) d2(GB)|d2(GB) d2(GB)|(ef)(de) c2:|!
+|:(gf)|e2(ed) c2c’b|(a^g)(ag) (a=g)(fe)|\
+(de)(cd) (Bd)(gB)|{d}(cB)(cd) c2:|
+
+X:106
+T:Morgiana in Spain. JaW.106
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+E2F G2c|E2F G2c|A2A d2c|Bdc BAG|!
+E2F G2c|E2F G2c|E2d BAB|c2c ” cr”c3:|!
+|d2cB2e|d2c B2G|d2c B2A|G2G G2e|!
+d2c B2e|d2c B2e|dec BcA|(GA)F (EF)D|!
+E2F G2c|E2F G2c|A2A d2c|Bdc BAG|!
+E2F G2c|E2F G2c|E2d BAB|c2c ” cr”c3|]
+
+X:107
+T:New Coldstream March. JaW.107
+M:C
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+z/G/A/B/|c4e4|g2f2e2d2|c4G4|A2A2{AB}c2BA|\
+G3AG2G2|A2A2{AB}c2BA|!
+G3AG2c2|B3dc2e2|\
+d3fe2e2|d2c2B2c2|d3ed2g2|g4f4|g2g>gg2:|!
+|:z/G/A/B/|c2c2c2ed|c2A2F2fe|d2d2d2g2|\
+{f}e4d2z2|c4e4|g2f2e2d2|c4G4|!
+A2A2{AB}c2BA|G3AG2G2|f2f2{fg}a2gf|\
+e2f2g2c’2|e4d4|c4:|
+
+X:108
+T:Paddy Carey. JaW.108
+M:6/8
+L:1/8
+Q:3/8=120
+C:”A Good One”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+F|G2c cBc|e2c cBc|A2d dcd|f2d BAG|!
+G2c cBc|e2c cBc|BAG GAB|c2zz2z||!
+c2ef2a|g2a gec|c2ef2a|gec d2e|!
+c2ef2a|g2a gec|c3 edc|BAB c2G|!
+cGe cGe|c3-c3:|
+
+X:109
+T:Christ Church Bells. JaW.109
+M:C
+L:1/8
+Q:1/2=100
+C:”in Oxon – Oxford”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c3cc2c2|c2c2c2e2|d2c2B2A2|G6G2|!
+E2G2C2G2|c2F2G2gf|e2a2def2|e3dc4:|!
+|:e3ee2e2|e3ee2g2|f2(ef)d2c2|!
+d2G2d3d|e2d2d2(cB)|c2A2d2B2|c3de4:|!
+gg gg g2 gg|g2ggg2G2|A3Bc2d2|B6AB|!
+c2B2c2B2|c2d2B2AG|G2G2G3G|G6:|
+
+X:110
+T:Patrick Day in the Morning. JaW.110
+T:Barbary Belles. JaW.110
+T:St. Patrick’s Day,aka. JaW.110
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+“_No Key Given”GAG GAB|ded dBG|BAB BGE|EFE E2D|!
+GAG GAB|ded dBG|BAB BGE|E3G3:|!
+|def g2e|f2d e2c|def g2e|f2d e3|!
+def g2e| efg def|g2ef2d|e6|!
+dBG GAB|ded dBG|BAB BGE|EFE E2D|!
+GAG GAB|ded dBG|BAB BGE|E3G3|]
+
+X:111
+T:Mac Donald’s Air. JaW.111
+M:6/8
+L:1/8
+Q:3/8=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:E
+e/f/|gfe edc|BGB BGB|gfe ebg|gff f2(e/f/)|!
+gfe edc|BGB BGB|ebg fef|gee e2:|!
+|:(B/A/)|GBe ege|Bdf faf|GBe ebg|gff f2(e/f/)|!
+gfe edc|BGB BGB|ebg fef|gee e2:|
+
+X:112
+T:Good One Waltz,A. JaW.112
+M:3/8
+L:1/8
+Q:3/8=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+dde|fdf|gec|dfa|dde|fdf|gec|d2:|!
+|:a|(a^g=g)|fdf|gec|dfa|(a^g=g)|fdf|gec|d2:|
+
+X:113
+T:Trip To The Parish. JaW.113
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:The final
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2 (Bd) cAFD|GBdg d2cB|ceAc BdGB|AcAF G2A,2:|!
+|:gbeg fadf|egfe d2d2|ceAc BdGB|AcAF G2A,2:|
+
+X:114
+T:Bugle March,The. JaW.114
+M:C
+L:1/8
+Q:1/2=80
+C:”A Good Tune”
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2G>GG2Bc|d>B G2G>G c>d|(e<c) g2(d<B)g2|gfag fedc|!
+(B<c) (B<G) (A<c) (c<F)|GBcd efga|bgfg fed^c|d2d>dd2:|!
+|:a2a>a ac’ba|g2g>g gbag|fedg fedc|B2A>AA2z2|!
+G2G>G GBcd|(e<c) a2(f<d)g2|(B<c) (c<e) (A<c) (D<F)|G2G>G G2z2:|!
+|:B4A2A2|(G3A/G/) FGAB|(dc).c.c (cB).B.B|(BA).A.A A2z2|!
+d4c2c>c|B4ABcd|(e<c) (c<A) (A<G) (G<F)|(F4G2):|!
+|:f2a>af2z2|g2b>bg2z2|GBcd efga|g4e2e>e|!
+B4A2A>A|d2d>dc4|B2(3AcA “tr”G2F2|F4G2:|
+
+X:115
+T:Saturday Night, JaW.115
+T:?. JaW.115
+M:2/4
+L:1/16
+Q:1/4=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+c2(AB) c2fe|dBdg fedc|fgaf d2ga|bgaf fedc|!
+c2(AB) c2fe|dBdg fedc|fgaf dbag|fage f4:|!
+|:fagf gedc|gabg afcA|BdgB AcfA|GABc BAGF|!
+fagf gedc|gabg agfe|fac_e dbag|gfge f4:|
+
+X:116
+T:Waltz. JaW.116
+M:3/4
+L:1/8
+Q:3/4=40
+C:”M Caiuis(?)”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:Eb
+B2|B4 ((3eBG) |E4 ((3EFG) |A4 ((3cAF) |E2C2B,2|!
+E2EGEB,|E2EGEB,|EGBGAF|E2E2:|!
+|:B2|eBGBeB|eBGBeB|dBFBdB|e4(E/F/G/A/)|!
+B4(A/G/F/E/)|c4ec|BGEGFD|E4:|!
+|:F2|(3DFB (3DFB (3DFB |(3EGB (3EGB (3EGB |\
+(3F=Ac (3ecA (3FAc |(3Bdc (3BAG (3FGE|!
+(3DFB (3DFB (3DFB |(3EGB (3EGB (3EGB |\
+(3F=Ac (3ecA (3FG=A|B4:|
+
+X:117
+T:Good Tune,A. JaW.117
+M:3/4
+L:1/8
+Q:1/4=120
+C:” M Caiuis(?)”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:Eb
+[G,2E2] [G,2E2] [G,2E2] |[G,2E2] [G,2E2] fg|\
+(3egf (3edc (3BcA|(3BcB (3AGF (3EDC|!
+[G,2E2] [G,2E2] [G,2E2] |[G,2E2] [G,2E2] fg|\
+(3gag (3fgf (3efe| (3ded (3cBA (3GAF:|!
+|:EB gBgB|EB gBbG|DB fBfB|DB fBaB|!
+EB gBgB|EB gBbG|agfedf|d2A2:|!
+|:B,2|BAFD B,2|EeBG E2|BAFD B,2|EeBG E2|!
+[B6a6]|[B6g6]|fed|[G4e4]:|
+
+X:118
+T:Hungarian Waltz. JaW.118
+M:3/8
+L:1/8
+Q:3/4=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G|(gf)G|(ed)G|(cA)G|(ed)G|\
+(gf)G|(ed)G|(dc)A|G2:|!
+|:B|(cB)G|(ed)G|(cB)G|(ed)G|\
+(gf)G|(ed)G|(dc)A|G2:|!
+|:d|dba|gBd|cAf|gbd|\
+dba|gBd|c(Af)|g2:|!
+|:B|cAf|gbB|cAf|g2d|\
+dba|gBd|cAf|g2:|
+
+X:119
+T:March. JaW.119
+M:C
+L:1/8
+Q:1/4=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d>d|g2g>g d2d>d|B>cd>B G2zA|B2B>B ^c2c>c|d2d>d d2:|!
+|:d.d|d>fa>f d2d>d|d>gb>g d2zd|e2e>e f>ga>f|g6zd|!
+d2g>d B2d2|e2g>e c2e2|d>d c>c B>B A>A|G2g>gg2:|
+
+X:120
+T:Off She Goes. JaW.120
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+F2A G2B|ABc d3|F2A G2B|AGF E3|!
+F2A G2B|ABc d3|f2d g2e|edc d3:|!
+|:faf def|eae cde|faf def|ecA A3|!
+faf def|eae cde|faf gec|ddd d3:|
+
+X:121
+T:Nelson Hornpipe. JaW.121
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+Bc|dBec BAcB|GFAF G2Bd|eBge edcB|BAdA BAGF|!
+dBec BAcB|GFAF Ggec|BAcA GFAF|G2G2G2:|!
+|:Bc|dfgf edcB|ddef g2fe|edcB AGFE|F2DD D2GF|!
+EFAF GBdB|cege dBec|BAcA GFAF|G2G2G2:|
+
+X:122
+T:Fairey Dance. JaW.122
+M:2/4
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+e2ec|e2ec|e2ec|BGAB|e2ec|fedc|BGAB|c2c2:|!
+|:g2ge|a2ag|fefd|g2ge|e3c|afdc|BAGBc2:|
+
+X:123
+T:Banks And Braes,The. JaW.123
+M:6/8
+L:1/8
+Q:3/8=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|c2c (d>cd)|ege d>cd|(e>d)c cAG|GAc d2G|!
+c2c (d>cd)|ege d>cd|(e>d)c (c<A)G|(GAB) c2||!
+e|g2a (ge)c|g2a gec|gec (ge)c|{a}(gf)e Hd2G|!
+c2c (d>cd)|ege d>cd|(e>d)c (c<A)G|(GAB) c2:|
+
+X:124
+T:Illegible. JaW.124
+M:2/4
+L:1/8
+Q:1/4=50
+C:”November The 9th 1840″
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c/d/e/f/|g2g2|g2 f/e/d/c/|zac’a|!
+ag z/c/e/g/|ac’c’a|ag zf|edcB|c3:|!
+|:e|d/f/e/g/ f/g/d/g/|e/c/e/g/ c’/g/e/c/|d/g/e/g/ f/g/d/g/|!
+e/c/e/g/ c’/g/e/c/|g2g2|gc’/g/ f/e/d/c/|df/d/ cB|c3:|
+
+X:125
+T:Scotch Reel,A. JaW.125
+M:6/8
+L:1/8
+Q:3/8=120
+C:”Clarinette Primo”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+a|g2e ege|g2e e2a|g2e ege|c2e e2a|!
+g2e ege|gab c’2b|agf edc|A2d d2:|!
+|:g|c’2c’ geg|g2e e2g|c’2c’ geg|e2a a2g|!
+c’2c’ geg|geg c’2b|agf edc|A2d d2:|
+
+X:126
+T:Untitled. JaW.126
+M:2/4
+L:1/8
+Q:1/4=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:A surprising tune.
+Z:vmp.Chris Partington, Aug 2004
+K:C
+e2 f/d/B/d/|cGGG|e2 f/d/B/d/|c2c2|!
+e2 f/d/B/d/|cGGG|e2 f/d/B/d/|”cr”c4:|!
+|:f>gaa|ffcc|f>gaa|ff f/a/g/f/|!
+e2 f/d/B/d/|cGGG|e2 f/d/B/d/|”cr”c3:|!
+|:a/g/|^fd de/f/|gg g/b/a/g/|^fd de/f/|gg ga/g/|!
+^fd de/f/|gg g/b/a/g/|^fd de/f/|gg g/a/g/f/|!
+e2f/d/B/d/|cGGG|e2f/d/B/d/|c2c2|!
+e2f/d/B/d/|cGGG|e2f/d/B/d/|c4:|!
+|:aac’c’|aac’c’|d’2c’b|c’3g|!
+aac’c’|aac’c’|d’2c’b|c’3g|!
+egeg|c’3g|egeg|e4:|
+
+X:127
+T:Slow March. JaW.127
+M:2/4
+L:1/8
+Q:1/8=60
+C:”Clarinette Primo”
+S:James Winder Ms, Lancashire, 1835-41
+R:.misc.
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+ce gc’|c’b/a/ g2|egeg|d/c/d/e/ dz|\
+ce gc’|c’b/a/ g2|eg d/c/d/e/ cc c2:|!
+|:.d.d.e.e|gfez|.e.e.f.f|agez|\
+ce gc’|c’b/a/ g2|eg d/c/d/e/ cc c2:|!
+ccdd|eef2|egec|Ad c/B/A/G/|\
+ccdd|eef2|eceB|cd c2:|!
+|:gecc|afdd|gecc|dBG2|\
+gecc|afdc’|bgab|ga g/f/e/d/|!
+ce/g/ c’c’|c’b/a/ g2|egeg|d/c/d/e/ dz|\
+ce/g/ c’c’|c’b/a/ g2|eg d/c/d/e/|cc c2:|!
+|:cc B/c/B/c/|dd d2|gfec|Ad c/B/A/G/|!
+cc B/c/B/c/|dd d2|gfec|e/d/c/B/ c2:|!
+|:aa f/g/a/f/|gg e2|ff d/e/f/d/|B/c/d/B/ G2|!
+aa f/g/a/f/|gg e2|d/e/d/e/ g/f/e/d/|ga g/f/e/d/:|
+
+X:128
+T:Slow March. JaW.128
+M:C
+L:1/8
+Q:1/4=130
+C:”Clarinette Primo”
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+A|c2c>c c3e|g2ab c’3g|a2g2 f2e2|d2d>d d2e>f|!
+g2c’>a g2c’>a|g>fe>d e2d>c|B>dgc B2A2|G2G>G G2:|!
+|:G>G|d2d>d d2g>f|e>def e>a(gf)|e2a2g2f2|e2e>ee2c>e|!
+d>cde d2g>f|e2d2 e2d2|c>de>f g>ag^f|g2g>g g2c/d/e/f/|!
+g3f e2e2|f>gf>e d2d>f|e>dc>a g2fe|d2d>d d2e>f|!
+g2c’>a g2c’>a|g>f.e.d e2c>d|e>ga>f e2d/c/d/e/|c2c>c c2:|
+
+X:129
+T:Untitled. JaW.129
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.misc.
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+g>a g/a/g/f/|eccf|(ec)(fd)|(ec)(fd)|!
+g>a g/a/g/f/|ecce|BdcB|c2c2:|!
+|:.g.g.c’.c’|.e.e.g.g|d>e d/e/d/c/|Bd c/d/e/f/|!
+g>a g/a/g/f/|eccd|BdcB|c2c2:|
+
+X:130
+T:… Fete?. Quick March. JaW.130
+T:Weymouth Quickstep,aka. JaW.130
+M:6/8
+L:1/8
+Q:3/8=120
+C:”A New …..”?
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+N:Illegible Title.
+Z:vmp.Chris Partington, Aug 2004
+K:F
+cd/e/|f2c cAc|f2g a2b|c’2a fga|b2g g2a|!
+f2c cAc|f2g a2b|c’2a gfg|a2f f2:|!
+|:c|f2f {f}ede|fcA FAc|f2f {f}ede|f2a f2c|!
+f2f {f}ede|fcA FAc|f2f {f}ede|f3 f2:|!
+|:c|d2d fed|d2c c2A|G2A BAG|A2B c2c|!
+d2d fed|d2c c2A|A2A {A}GFG|F3 F2:|!
+|:c|.f2z .f2z|g3-g2g|e2e {f}ede|f2g a2c|!
+.f2z .f2z|g3-g2g|e2e {f}ede|f3 f2:|
+
+X:131
+T:James Winder’s Quick March. JaW.131
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+N:At head it has James Winder, then Quick march, not necessarily claiming
+N:composership.
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|c2c e2c|d2B GAB|c2c ece|f3 d2B|!
+c2c cBA|B2c def|A2d BGB|c2c c2:|!
+|:g|c’2g c’bd’|c’2a g2e|c2c ceg|a2e d2g|!
+c’2g c’bd’|c’2a g2e|G2G GAB|c2c ceg|!
+c’2g c’bd’|c’2a g2e|c2c ceg|a2d dgf|!
+e2g g2c’|f2a a2f|gec GAB|c2c c2:|
+
+X:132
+T:William Thompson’s Allegro. JaW.132
+M:2/4
+L:1/8
+Q:1/2=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+N:”Allegro” at head of tune,”William Thompson ” at foot.
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|c>de>f|g3g|afaf|eceg|afaf|gedf|e2d2|c4:|!
+|:d2e2|d3c|d2e2|d3c|defd|gagf|e2d2|c4|!
+a2ge|c’2ge|f2df|egec|d’2ge|c’2ge|dcde|c4:|
+
+X:133
+T:Clarinet March. JaW.133
+M:C
+L:1/8
+Q:1/2=750
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+N:Title mostly illegible.
+Z:vmp.Chris Partington, Aug 2004
+K:F
+“_No key given in MS”c2A>B c2c2|c>de>f c2zA|\
+B2B>c {B}A2A>B|{A}G2G>G G2z2|!
+c2A>B c2c2|c>de>f cagf|e>gf>e c>ed>=B|c2c>c ” cr”c4:|!
+|:g>ag>f e2z2|b>c’b>a g2z2|a>ba>g f>fe>f|(a4 g2)dc|!
+B2G>G G2cB|A2F>F F2f>_e|d2d>d b>ag>f|e2e4f2|!
+g3a/b/ f2e2|f2c>c g2c>c|a3g f2zc|g2c>c a2c>c|!
+b3a g2c>c|c’3b a>gf>_e|d2d>d d2(gd)|c2c>c c2a>f|!
+d>d’c’>b a2g2|c2A>B c2c2|c>de>f c2c’>b|a2a>a g2g>g|f2f>f Hf4:|!
+K:C
+|:e3e c2c>c|f3f d2d>d|g>cd>e f2e2|d2d>d d2G2|!
+e3e c2c>c|f3f a2a>a|{a}g2fe {e}dcde|c2c>c ” cr”c4:|!
+f2e>e d2z2|g2f>f e2z2|f2e>e d2c>c|B2A>A G>B c>d|!
+e3e c2c>c|f3f d2d>d|g2ce {e}dcde|c2c>c ” cr”c4:|
+
+X:134
+T:Quick March. JaW.134
+M:2/4
+L:1/8
+Q:1/2=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+N:My copy has a faded illegible comment with this tune..CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:F
+c/B/|Af fc/B/|AFFa|gg/a/ c’/b/a/g/|af fc/B/|!
+Af fc/B/|AFFa|g/c’/=b/a/ g/f/e/d/|c4:|!
+|:f/e/f/e/ f/c/d/_e/|d/^c/d/c/ da|b/a/b/a/ a/c’/b/a/|a2 gc/B/|!
+Af fc/B/|AF Ae|d/g/b/g/ a/f/e/f/|e2 H”H”f|!
+|a|ag fe|d/^c/d/c/ de|fg/a/ gf|e/a/^g/a/ Aa|!
+ag fe|d/^c/d/c/ db|agfe|d3|]
+
+X:135
+T:Rush(?) Waltz. JaW.135
+M:3/8
+L:1/8
+Q:3/8=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+GB/d/|gg/f/g|efg|d2B/d/|c2A/c/|B2G/B/|AGF|G2:|!
+|:.A.B.c|Bcd|ece|d2B/d/|cc A/c/|BB G/B/|AGF|G3:|
+
+X:136
+T:Illegible. JaW.136
+M:2/4
+L:1/8
+Q:1/2=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.misc.
+O:England
+A:Wyresdale,Lancashire
+N:Key given is C in MS, but may be preferrable in F?CGP
+Z:vmp.Chris Partington, Aug 2004
+K:F
+“_Key C as in MS”c|ffgg|{f}ed/c/ cd/e/|ffgg|{b}a2ge|!
+ffgg|{f}ed/c/ cd/e/|ff {a}g/f/g/a/|f3|!
+a/b/|c’c’aa|bbg2|{b}afdf|{f}eg/e/ ca/b/|!
+c’c’aa|bbg2|{b}a/f/d/g/ fe|f3|]
+
+X:137
+T:March By T.Barry. JaW.137
+T:Barry’s March. JaW.137
+M:C|
+L:1/8
+Q:180
+C:”James Winder 1841″
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+N:Something odd about the key in Part B
+Z:vmp.Chris Partington, Aug 2004
+K:F
+c2c>cc2G2|cGcec2G2|e2e>ee2c2|ecege2c2|a2f4fg/a/|!
+g2e4ef/g/|f2d4de/f/|e2c4de|feag ^fedc|B2B>BB2z2||!
+g2g>gg2d2|gdgbg2d2|c2c>cc2g2|agc’e’c’2g2|!
+eceg ^fdfa|g4a4|g4afdB|f2a4f>d|e2g4e>c|!
+d2f4d>B|cBAG FEDC|f2a4f>d|e2g4e>c|d2f4d2|e2e>ee2|]
+
+X:138
+T:Tink-a-Tink,aka. JaW.138
+M:2/4
+L:1/8
+Q:1/2=100
+C:”Clarinett Primo”, Untitled in MS
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c2g>e|c2g>e|f>gf>e|d>cB2|c2g>e|c2g>e|f>dc>B|c2-c2:|!
+|:g2c’>b|a>gf>e|d>ef>g|e2c2|g2c’>b|a>gf>e|d>fB>d|c2-c2:|
+
+X:139
+T:Ploughman,The. JaW.139
+M:C
+L:1/8
+Q:1/2=75
+C:”Clarinetto Primo”
+S:James Winder Ms, Lancashire, 1835-41
+R:.misc.
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c>d|e2e>ee2fe|edefg2ab|c’gfe fegc|e2d>dd2c>d|!
+e2e>ee2fe|edefg2ab|c’bag bag^f|g6dc|!
+Begb bag^f|g4z2gf|ega_b c’agf|agfef2ga|!
+agfe fedc|cBdBG2gg|e’d’c’b babc’|gagfe2fg|!
+a2AAd2ef|g2GGc2de|fdef ecde|cBdBG2z2|!
+cdee cdee|edef g2G2|cdee cdee|edefg2gg|!
+c’aac’ bgge|fffa agze|fedc cagf|e2d2c2|]
+
+X:140
+T:Crompton’s Slow March. JaW.140
+M:C
+L:1/8
+Q:1/2=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.march
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+F|A2F>A c2d>e|f2f>f f2z/c/d/e/|fedc BAGF|c2c>cc2zF|!
+A2F>A c2d>e|f2f>f f2e>f|g>ec>d e2″tr”d2|c2c>cc3:|!
+|:c|g2g>g g>ab>g|a2f>f f2zc|dcdc BAGF|c2c>cc2zF|!
+A2F>A c2d>e|f2f>f f2zc|d/b/a/b/ c’/b/a/g/ f2e2|f2f>f f3:|
+
+X:141
+T:Crompton’s Quick March. JaW.141
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+A/B/|c2de|f3a|agfe|f/e/f/g/ fA/B/|c2de|f3a|agfe|f3||!
+e/f/|g3a|b3a|baba|g/f/e/d/ c/d/e/f/|g3a|b3a|baba|g3A/B/|!
+c2de|f3a|agfe|f/e/f/g/ fA/B/|c2de|f3a|agfe|f3|]
+
+X:142
+T:Illegible March. JaW.142
+M:C
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+f3g .f.f.f.f|a3b .a.a.a.a|c’aff bgee|f3g/e/f2z2|!
+a3b/g/ .a.a.a.a|c’bag fgab|a2g>g g2z2|g2e>f g2e>f|!
+g/f/e/f/ d>d d2zf|f2d>f f2d>f|e2c>c c2zc/d/|e3f .g.g.g.g|\
+a3b .c’.c’.c’.c’|!
+dcde fefa|agfe gfed|c2zg/e/ .c.c.d.d|c2zg/e/ .c.c.d.d|c2c>c c2z2||!
+g4e4 f4d4|c=Bcd ecge|d2d>d d2z2|.f.f(gf) .e.e(fe)|!
+.f.f(gf) .d.d(ed)|c=Bcd efga|b2b>b b2zg/a/|b2b>b b2z (3c/d/e/ |!
+f3g ac’ba|g2g>g g2zc|c2A>c c2A>c|c2{fg}ag fedc|!
+B2G>B B2G>B|B2{ef}gf edcB|A3B .c.c.c.c|d3e .f.f.f.f|!
+gfga babc’|”sic”d’c’ba|f2zc’/a/ .f.f.g.g|f2zc’/a/ .f.f.g.g|f2f>ff2|]
+
+X:143
+T:Quick Step. JaW.143
+M:2/4
+L:1/16
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+f2f2 f2ef|g2g2 g3a|b2g2a2f2|efge c2de|!
+f2f2 f2ef|g2g2 g2ab|c’2a2 b2g2|f2f2 f4:|!
+|:c’4 a4|b4g4|a2f2 fac’a|a2g2g4|!
+c4A4|B4G4|A2F2 FAcA|A2G2 G2c2|!
+fgag fedc|fgag fedc|c’2a2b2g2|f2f2 f4:|
+
+X:144
+T:Untitled. JaW.144
+M:6/8
+L:1/8
+Q:3/8=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+Fz((3c/d/c/) Az((3a/b/a/)|fz((3d/e/d/) Bz((3g/a/g/)|\
+ez((3c/d/c/) Az((3f/g/f/)|d2BG2E|!
+Fz((3c/d/c/) Az((3a/b/a/)|fz((3d/e/d/) Bz((3g/a/g/)|\
+e2cd2e|f3f2||!
+c|cBA fed|cAF EGc|cBA AGF|A3G2c|!
+|cBA fed|cAF EGc|cBA BGE|(G3F2)|]
+
+X:145
+T:Killing Jamey(?). JaW.145
+T:Chilling O’Guiry,aka. JaW.145
+T:Cats Dinner,The,aka. JaW.145
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+cee dff|cee f2g|ecc fdg|ecc ” cr”c3:|!
+ceg c’2b|aff f3|efa d’2c’|bgg g2c|!
+ceg c’2b|aff g2f|ecc fdg|ecc c3|]
+
+X:146
+T:March By Marginghi. JaW.146
+T:Marginghi’s March. JaW.146
+M:C
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G2|c2c>de2c2|g2g>ef2d2|e2f>dc2B2|c4z2G2|!
+c2c>de2c2|g2g>ef2d2|e2f>dc2B2|c2c>cc2zd|!
+d2d>Bg2g>d|b2b>ag2e2|d2d>BA2d2|G2G>GG2{A}G>F|!
+ABcAd3c|Bcdef2e2|e2d>dd2G2|g2-g>ef2-f>d|!
+e2-e>cd2g2|c’3g .f.e.d.c.|g2g>gHg3G|c2c>d e2c2|!
+g2-g>ef2d2|e2f>dc2B2|c2z2z2a2|g4z2a2|!
+g4z2a2|g2g>fe2d2|c4z2a2|g4z2a2|!
+g4z2a2|g2g>fe2d2|c2c>cc2|]
+
+X:147
+T:Captain Thornton’s(?) Quick March. JaW.147
+M:6/8
+L:1/8
+Q:3/8=110
+C:”James Winder,February 1st,1841″
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+c|c2f {g}f>ef|a2f {g}f>ef|{e}d^cd ded|g>ag {g}fed|!
+c2f {g}f>ef|a2f {g}f>ef|{e}d^cd e<ge|e<ff f2:|!
+|:c|cBA AGA|AGA Acf|BAG GFG|GFG G2c|!
+f/g/af fef|g/a/bg gfg|cfa dbg|ceg f2:|
+
+X:148
+T:Thomas Atkinson’s Quickstep. JaW.148
+M:2/4
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+cd|e2e2g2e2|d2d2f2d2|c2c2e2c2|g^fgf gag=f|!
+e2e2g2e2|d2d2f2d2|cedf egfb|c’2c2c2:|!
+|:Bc|d2de gfed|e2c2 c2ef|g2ge a2af|e4 {fe}d4|!
+Gcec Gdfd|g2g2e2c2|Gcec Gdfa|gfed c2:|!
+|:ef|g2g2 gabc’|a2c’a g2fe|f2f2 f2af|e4 d2ef|!
+g2g2 gabc’|a2c’2 g2e2|fefa gfed|c2c2c2:|
+
+X:149
+T:William Thompson’s Bugle Solo. JaW.149
+M:2/4
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G2|c2e2 g2G2|c2cc c2de|f2df fedc|BcdB G2G2|!
+c2e2 g2G2|c2cc c2eg|gfdf feGB|c2cc c2:|!
+|:e2|fefg afed|edef gedc|dcde fedc|B2GG G2G2|!
+c2e2 g2G2|c2cc c2eg|gfdf fegb|c’2c’c’ c’2:|
+
+X:150
+T:Rondo. JaW.150
+M:6/8
+L:1/8
+Q:3/8=120
+C:”Clarinetto Primo”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+c>dc fed|c2c c2B|Acf cAF|GGG GAB|!
+c>dc fed|c2c c2B|AcF GFG|F3HF3:|!
+(af).c (AF).a|gec (GE).g|f2e edc|=Bcd G2F|!
+EGc FAd|Afe c=Ba|gec fd=B|” DC”c3 c3||!
+FFF F2G|AAA A2B|c>dc cBA|GGG G3|!
+FFF F2G|AAA A2B|c>dc cBA|” DC”GGG G3||!
+(Ac).f (ag).f|fed c2B|Acf agf|ege c2B|!
+Acf agf|ga=b c’2a|gc’g fed|” DC”ccc c3|]
+
+X:151
+T:Mary Jane(?). JaW.151
+M:2/4
+L:1/16
+Q:1/4=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Set Dance
+O:England
+A:Wyresdale,Lancashire
+N:Title illegible.
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D2|G2GB AcBd|dcBc A2c2|BGcA dBec|B4{cB}A2D2|!
+G2GB AcBd|dcBc A2c2|Bdec B2A2|A4G2||!
+Bd|c2c2 A3c|cBAB G3B|ABcd edcB|G4 F2Bd|!
+cdcd A3c|cBAG G2g2|fage dfe^c|dedc “DC”BcAB|]
+
+X:152
+T:Untitled. JaW.152
+M:C
+L:1/8
+Q:1/4=160
+S:James Winder Ms, Lancashire, 1835-41
+R:.Strathspey
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G|D>EGG G2g>e|dBAG|A2-AB|D>EGG G2(g>e)|(d<B)(A<B) “cr”G3:|!
+d|g>agf edeg|dBAG A2-Ae/f/|g>agf edeg|d<BA>B G2Gd|!
+g>agf edeg|dBAG A2-AB|D>EGG G2(g>e)|(d<B)(A<B) “cr”G3|]
+
+X:153
+T:Quick March. JaW.153
+M:2/4
+L:1/16
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+N:?or Hornpipe..cgp
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c2c2 cBcd|e2e2 edef|g2eg f2df|efgd cBAG|!
+c2c2 cBcd|e2e2 edef|gc’ba gfed|c2c2c4:|!
+|:g2g2 gecG|d2d2 dBAG|g2g2 g2c’b|agfe d4|!
+c2c2 cBcd|e2e2 edef|gc’ba gfed|c2c2c4:|
+
+X:154
+T:Moorhead’s March. JaW.154
+T:March By Moorhead. JaW.154
+M:C
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c>d|e2e>f d2d>e|c2c>e d2e>f|g>ea>g f>ed>c|B>cd>e d>Gc>d|!
+e2e>f d2d>e|c2c>e d2e>f|g>ef>d c2e>d|c2c>c c2:|!
+B>c|d4 e4|d4z2c>d|e4f4|e4z2e>f|g>ef>d e>ca>f|!
+g>ef>d e>ca>f|g>ef>g a>gf>e|{e}d>cd>e d>gf>d|!
+e2e>f d2d>e|c2c>e d2e>f|g>ea>g f>ed>c|B>cd>e d>Gc>d|!
+e2e>f d2d>e|c2c>e d2e>f|g>ef>d c2e>d|c2c>c c2|]
+
+X:155
+T:Waltz,A Good Tune. JaW.155
+M:3/8
+L:1/16
+Q:3/8=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+N:Only 7 bars in C Strain but it sounds ok.
+Z:vmp.Chris Partington, Aug 2004
+K:Bb
+FE|(DF)BFdB|fdbfdf|fedcBA|cBdBFE|!
+(DF)BFdB|fdbfdf|fedcBA|B4:|!
+|:AB|cAFAcf|cAFAcf|=efgabg|fafd AB|!
+cAFAcf|cAFAcf|=efgabg|f4:|!
+|:de|g4fd|ABcde=e|fgfede|fdBdfb|!
+{^f}g4ec|ABcdeA|B4:|
+
+X:156
+T:Volunas Waltz. JaW.156
+M:3/8
+L:1/16
+Q:3/8=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+N:”Look forward sir” is written at the end of the page, and a hand
+N:pointing off the page; but my photocopy seems to have lost it’s sense
+N:of order and the next page doesn’t match.CGP
+Z:vmp.Chris Partington, Aug 2004
+K:F
+F3(GAB)| (Ac)(ac)(ac)| (GB)(gB)(gB)| (Ac)(fc)(fc)|!
+F3(GAB)| (Ac)(ac)(ac)| (GB)(gB)(gB)| {A}f4:|!
+|:{e}f2(FAcf)| (bg)(^fg)(fg)| {b}c’2(Gceg)|gfefef|!
+F3(GAB)| (Ac)(ac)(ac)| (GB)(gB)(gB)| {F}f4:|!
+K:Bb
+|:(DF)(BF)(dF)| (DF)(BF)(dF)| {d}e2{d}e2{d}e2| c3(GFE)|!
+(DF)(BF)(dF)| (DF)(BF)(dF)| {d}e2{d}e2 cA|B4:|
+
+X:157
+T:Easter Sunday Waltz,aka. JaW.157
+M:3/8
+L:1/16
+Q:3/8=50
+C:”Easter Sunday 1841″
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+N:Untitled in MS
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G2|cBcdef|g3ec2|f2g2a2|g4G2|!
+A3Bc2|B2f2e2|edfdBG|BdcBAG|!
+cBcdef|g2e2c2|f2g2a2|g4G2|!
+A3Bc2|B2f2e2|edfdBG|c4||!
+g2|g2e2g2|c’2b2a2|_a2=a2^f2|g4ef|!
+g2e2g2|c’2b2a2|g2e2c2|B4G2|!
+c2G2c2|e2c2e2|g2e2g2|c’2b2a2|!
+^g2a2f2|e2f2d2|G2A2B2|c4:|!
+|:G2|G2c2e2|G2d2f2|G2c2e2|e2d2G2|!
+G2c2e2|G2f2a2|gagfed|c4G2|!
+GcBcec|d2B2f2|d^d=defd|e2g2c’2|!
+GcBcec|d2f2a2|gagfed|c4:|
+
+X:158
+T:James Winder’s Good Hp. JaW.158
+T:Good Hornpipe,A. JaW.158
+M:C|
+L:1/8
+Q:1/2=80
+C:untitled in MS “-A good Hornpipe”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+N:signed “James Winder 1835”
+Z:vmp.Chris Partington, Aug 2004
+K:Bb
+DC|B,DFB dBFD|CEGc ecGE|DB,FD FBdB|c2c2c2DC|!
+B,DFB dBFD|CEGc ecGE|DFEG Ffed|c2B2B2:|!
+|:de|fBB2dff2|dfBf dfbf|egeg dfdf|c2F2F2dc|!
+BFDB, B,DBd|EGce dBFD|dfBd ceAc|B2B2B2:|
+W:signed “James Winder 1835″ |
+
+X:159
+T:Ballyfier Waltz. JaW.159
+M:3/4
+L:1/8
+Q:3/4=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+N:Some strange bits might need some T.L.C., but theres a good tune in
+N:there.CGP
+Z:vmp.Chris Partington, Aug 2004
+K:F
+(F/A/c)|(f>e) (f>d) (c>B)|A2F2 (F/A/c)|\
+(f>e) (f>d) (g>f)|e>dc2 (F/A/c)|!
+(f>e) (f>d) (c>B)|(A<c) (B>d) (c/A/F)|\
+(B<f)(A<f)(G<e)|e4:|!
+|:(F/A/c)|(f>e) f<c (A/c/f)|(a<g) a<f (c/f/a)|\
+c’2ba (g<f)|edc2(F/A/c)|!
+(a<g) (a<f) (c/f/a)|g>f (e<f) (g<a)|f4:|!
+|:(a/g/)|”sic”(f/g/)(f/g/).a/.b/|f2(d/f/)|\
+{f}f/e/ d/c/|(B/d/)F (a/g/)|!
+(f/g/)(f/g/)(a/b/)|f2(d/f/)|{f}ee (c/A/)|B3:|
+
+X:160
+T:Battle of Prague. JaW.160
+M:C
+L:1/8
+Q:1/4=120
+C:”Clarinetto Primo”
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+f2f>ff2g/f/e/d/|{d}c2c>cc2af|{e}d2b>g{f}e2g>e|f2f>ff2(ag)|!
+g2ef .g.g(ag)|{g}f2de .f.fgf|{f}ed/e/ g/f/e/d/ c2=B2|c2c>cc2z:|!
+|:c2c>d e>fg>a|b2g>ba2ab|c’aff b>gaf|g2c>cc2A>B|!
+c2d>ef2a>f|{f}e2b>ga2((3cfa)|c’a.f.f agfe|f2f>ff2z:|
+
+X:161
+T:Slow March. JaW.161
+M:C
+L:1/8
+Q:1/4=120
+C:”May 2nd 1841, James Winder”
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c2|g2g>g g>fe>d|c2c>c c2c’>b|a>bc’>a g2f>e|e2d>d d2f>e|!
+f2f>f f2g2|a>bc’>c’ c’2g>f|edcg a>gf>e|d2d>d d2:|!
+|:d2|d2d>d d>ef>d|e2c>c c2c’b|a2a>a a>bc’>a|b2g>g g2f>e|!
+f>gaa efgg|a>bc’c’ c’2g>f|((3efg) ((3agf) e2d2|c2c>c c2:|
+
+X:162
+T:Wellington’s,A Grand Waltz. JaW.162
+M:3/8
+L:1/16
+Q:3/8=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+(G2c2e2)|(G2c2e2)|(G2e2f2)|{a}g4e2|\
+.f2(f2d2)|.e2(e2d2)|(de)f(edc)|(BcdcBA)|!
+.G2(Gc)e2|.G2(Gc)e2|(G2e2f2)|{a}g4e2|\
+f2{g}(fefd)|e2{f}(edec)|(dfedcB)|d4z2:|!
+|:(d2B2G2)|{A}(G2^F2G2)|(e2c2G2)|(e2c2G2)|\
+.d2(dedc)|(BAGABc)|(d2B2G2)|{A}(G2^F2G2)|!
+(e2B2G2)|{A}(G2^F2G2)|(f2d2G2)|(e2c2G2)|\
+(dedcBA)|G^FGFGF|]
+
+X:163
+T:Prussian Grand Waltz. JaW.163
+M:3/4
+L:1/8
+Q:3/4=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+(ABc)|”$”.d2.d2.d2|d4d’c’|(bagfed)|c2e2(Ac)|!
+.e2.e2.e2|e4(ag)|(fedcBA)|d4:|!
+|:{e}(dc)|dfgabc’|d’4a2|(a2g2e2)|(g2f2d2)|!
+(dfgabc’)|d’4a2|abagfe|d4:|!
+|:de|.f2.f2 (fg)|.e2.e2 (ef)|.d2.d2 (df)|(ecA2) (de)|!
+.f2.f2 (fg)|.e2.e2 (ef)|(dA)(df)ed|d4:|
+
+X:164
+T:Celebrated Waltz,The.2voices. JaW.164
+M:3/4
+L:1/8
+Q:3/4=50
+C:”This is supposed to be the best composition out”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+Z:vmp.Chris Partington, Aug 2004
+K:C
+[V:1]|:g>e| c2c2(d>B)|G2G2(f>d)|B2B2B2|c2z2(c’b)|!
+[V:2]|:z2|E2G2z2|B2G2z2|G2F2z2|E2z2ag|!
+%
+[V:1]ag^fedc|Bdgdec|(B/A/B/c/) dB cA|G4:|!
+[V:2]^fedcBA|G2B2cA|(G/^F/G/A/) BG AF|G4:|!
+%
+[V:1]|:f>d|B2B2g>e|c2c2ac|d2d2^d2|He4g2|!
+[V:2]|:z2|F2F2z2|E2E2z2|F2F2F2|HE4g2|!
+%
+[V:1]{^fga}g4e2|(c’bagfe)|.d(fedcB)|c4:|!
+[V:2]e4c2|(agfedc)|F2F2G2|E4:|!
+%
+[V:1]|:”^dolce”G2|(e4c2)|B2d2G2|(g4e2)|c4G2|\
+e4c2|(A2f2)d2|B2A2B2|c4:|!
+[V:2]|:z2|z4G2|f4d2|cez2G2|egz2e2|c4c2|F4F2|G4G2|E4:|!
+%
+[V:1]|:g2|.e.g.c.g.e.g|.f.g.d.g.f.g|.e.g.c.g.e.g|G4g2|!
+[V:2]|:e2|c2G2c2|d2G2B2|c2G2c2|!
+%
+[V:1](eg_bgec)|(dfafed)|(cegfed)|c4:|!
+[V:2]B4e2|c4E2|F4F2|G4GF|E4:|!
+%
+[V:1]|:d’2|b2g2c’2|c’2g2c’2|b2d’2b2|c’4a2|!
+[V:2]|:e2|dBGBce|dBGBce|dBGBdf|e4c2|!
+%
+[V:1]^g2e2a2|g2e2a2|^g2b2g2|g4G2|!
+[V:2]B^GBGAc|B^GEGAc|B^GEGBd|d4z2|!
+%
+[V:1]e4c2|B2d2G2|g4e2|c4G2|!
+[V:2]z4G2|{G}f4d2|c2e2G2|e2g2e2|!
+%
+[V:1]{G}e4c2|A2f2d2|B2A2B2|c4:|
+[V:2]c4E2|F4F2|G4GF|E4:|
+
+X:165
+T:Dutches Hamilton,of Wedicarmear(?). JaW.165
+T:Duchess of Hamilton’s Rant,aka. JaW.165
+M:6/8
+L:1/8
+Q:3/8=120
+C:”…A Good Scotch Tune”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+f | ecA def|ecA d2f|ecA ecA|BcB d2f|!
+ecA def|ecA d2f|faf edc|BcB d2:|!
+|:f | ecA acA|ecA d2f| ecA acA|BcB d2f|!
+ecA acA|ecA d2e|faf edc|BcB d2 😐
+
+X:166
+T:In My Cottage Near The Wood. JaW.166
+M:C|
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+N:I have rebarred it all two crotchets to the right.CGP.
+Z:vmp.Chris Partington, Aug 2004
+K:C
+“_rebarred”E3FG2G2|A2A2G2z2|c2d2e2f>d|c2B2c2z2|!
+E3FG2G2|A2A2G2z2|c2d2e2(f>d)|c2B2c2z2:|!
+|:f2e2d2e2|f2e2d2z2|f2e2d2c2|B2A2G3F|!
+E3FG2G2 |A2A2G2z2|c2d2e2(f>d)|”qus”c2B2c2z2:|
+
+X:167
+T:Isle Of Sky. JaW.167
+M:C
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|cGEG cGEG|FDDd dAAB|cGEG cGEG|FAGF ECC:|!
+|:c/e/|g^fga gece|dcde cAAc|g^fgc’ gece|dcde c/c/c ce|!
+g^fga gece|dcde cAAc|gcac bcc’g|(f/e/d/c/) Bg ecc:|
+
+X:168
+T:Knights Of Snowdonia. JaW.168
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+(c/d/)|e2e edc|B2G GAB|c2c cde|gfe d2(c/d/)|!
+e2e edc|B2G GAB|c2c dcd|e2c c2:|!
+(B/c/)|d2d d2d|def fga|(ag).g (gfe)|(ed).d d2(B/c/)|!
+d2d d2d|def fga|agf fed|cag fed|!
+cde e2e|efg g2g|gc’a gc’a|gaf e2d|!
+cde e2e|efg g2g|gc’a gaf|e2c c2|]
+
+X:169
+T:Voulez Vous Danser Mademoiselle. JaW.169
+T:Portuguese Dance,The. JaW.169
+T:Oats & Beans & Barley Grow,aka. JaW.169
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:”..or the Poruguese dance” in margin.
+Z:vmp.Chris Partington, Aug 2004
+K:C
+e2e e2e|{e}dcd c2c|B2c d2B|c2d e2c|!
+e2e e2e|{e}dcd cde|f2e (dec)|(cdB) c3:|!
+d2d B2G|cde d2d|d2d B2G|cde d3|!
+g2g {a}g^fg|(^fe).e (ed).d|(dc).c {c}B2d/c/|B2A G3||!
+{ef}g2g g2g|{g}fef e2e|d2e f2d|e2f g2e|!
+{ef}g2g g2g|{g}fef efg|a2g fge|efe c3|]
+
+X:170
+T:Gentleman Hill’s Quickstep. JaW.170
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+N:There are some segnos and P’s around but it is unclear to which lines
+N:they refer so I have omitted them.CGP
+Z:vmp.Chris Partington, Aug 2004
+K:C
+B|cde efd|ceg fab|c’ba gfe|edd d2G|!
+cde efd|ceg fab|c’ge gec|dGG G2:|!
+|:g|gag _bag|fgf agf|efg afd|cBd Gef|!
+gag _bag|fgf agf|egc’ gec|(dGA Bcd)|!
+|cde efd|ceg gab|c’ba gfe|edd d2G|!
+cde efd|ceg fab|c’ge def|ecc cde|!
+fgf agf|efe gfe|def GAB|ced cde|!
+fgf agf|efe gfe|def gab|c’cc {d}cBc|!
+def gab|c’3ceg|c’3 ceg|c’cc ccc|c3-c3|]
+
+X:171
+T:Be A Good Boy… JaW.171
+M:6/8
+L:1/8
+Q:3/8=100
+C:”..and take care of yourself.
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A|Adf fed|dcB BAA|Adf fed|cde ecc|cde edc|!
+def Hf2d|d<BB B<dd|AFA A2A|A<df e>de|edd d2|]
+
+X:172
+T:Village Maid,The. JaW.172
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+(F/E/F/G/) FA|GFF2|A/G/A/B/ Ac|BAA2|!
+c(e/d/) c(g/f/)|Aa/f/ ca|bgfe|f2F2:|!
+|:af de/f/|ge cd/e/|fdc=B|c/=B/c/d/ cc|!
+af de/f/|ge cd/e/|fdc=B|c2c2:|!
+|:c3/2d/4c/4 =BA|ccBA|d3/2e/4d/4 cB|ddcB|!
+c3/2d/4c/4 BA|ccBA|BGFE|F2F2:|!
+|:C3/2c/4=B/4 c_B|Afef|C3/2c/4=B/4 c_B|Afef|!
+dbbb|caaa|(g/a/g/f/) (e/f/e/d/)|(c/d/c/B/) (A/B/A/G/)|!
+c3/2d/4c/4 BA|ccBA|d3/2e/4d/4 cB|ddcB|!
+c3/2d/4c/4 BA|ccBA|BGFE|F2F2:|
+
+X:173
+T:Chips And Shavings. JaW.173
+M:C|
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+dA FD|G2(FE)|FAAF GEE2|dA FD G2(FE)|FAAG FDD2:|!
+|:dfaf g2(fe)|dfaf gee2|dfaf g2(fe)|afge fdd2:|
+
+X:174
+T:Jack Upon The Green. JaW.174
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Misc.
+O:England
+A:Wyresdale,Lancashire
+N:Same tune appears twice in JWDM. ..CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+DG2GA2|A (B/c/d B)G2|GA2AB2|AG2GA2|!
+” cr”A (B/c/d B)g2|dB2cd2:: eg2gg2|fe2da2|!
+aa2gf2|(e/f/)g2gg2|fe2fg2|dd2cB2:|
+
+X:175
+T:Young Man’s Delight,The. JaW.175
+T:Cuckoo’s Nest,The. JaW.175
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+“_Key Sig. G in MS”DE|FEFD f2ed|cAGFB2AG|FEFD CDFC|c2G2G2AG|!
+FEFD fga-f|cAGFB2AG|FEFD CDEG|F2D2D2:|!
+|:A2|d2d2fgaf|d2A2A2AB|c2c2efge|c2G2G2fe|!
+dcdef2ed|cAGFB2AG|FEFD CDEG|F2D2D2:|!
+|:FG|AFDF AFDF|AGFED2EF|GECE GECE|GFEDC2FG|!
+AFDF AFDF|AGFEf2f-g|agfe fedc|d2D2D2:|
+
+X:176
+T:Never Give Over. JaW.176
+M:C|
+L:1/8
+Q:1/2=75
+C:”…a 3 reel”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Strathspey?
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+D/D/D F>G A>cdA|Be-ed d/c/B AF|\
+D/D/D F>G A>cd>A|Be e/d/c d2d2:|!
+|:d>ef>d gefd|B/B/B ed c>BA>c|\
+d>ef>d gefd|B/B/B ec d2d2:|!
+|:((3AFD) ((3DFA) ((3BGE) ((3EGB)|((3AFD) ((3DFD) (3ECA, A,2|\
+((3AFD) ((3DFA) ((3BGE) ((3EGB)|Ad ((3cBc) d2d2:|
+
+X:177
+T:Drops Of Brandy. JaW.177
+M:9/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Slip Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2B B>AB B>AB|”_A in MS”G2B B>AG Bdg|G2B B>AB B>AG|A3 EFG FED:|!
+|:G2B gdB gdB|G2B gdB d2a|G2B adB adB|cde edB A2B:|
+
+X:178
+T:Sayler’s Delight. JaW.178
+M:3/2
+L:1/8
+Q:1/2=100
+C:”..a Hornpipe”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Triple H’pipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+F2f2(efge)f2cB|(ABcA) F2B2 (ABcA)|G2f2e2dcd4|D2G2G2B2ABcA:|!
+|:a2gf (efge)f2cB|(ABcA)F2B2(ABcA)|a2gf (efge)d4|D2G2G2B2(ABcA):|!
+|:B2dB (ABcA)G4|f2gf f2ed (ABcA)|B2dB (ABcA)G4|D2G2G2B2(ABcA):|
+
+X:179
+T:Through The Wood Laddie,Old Way. JaW.179
+M:3/4
+L:1/8
+Q:1/4=90
+C:”..an ould way of playing it”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+FC|D2F2G2|A4(fe)|d2(fd)(cA)|G4(FG)|!
+A3B AG|A2F2FG|AGABAG|A2F2C2|!
+D2F2G2|A4(fg)|(ag)(fd)(cA)|G4(Bc)|!
+d2fdcA|c2dcBA|B2D2E2|F4:|!
+|:(fe)|d2f2g2|a4(fg)|a2bagf|g4fg|!
+a3b ag|a2f2(fg)|agabag|a2f2c2|!
+d2f2g2|a4(fg)|agfdcA|G4Bc|!
+d2fdcA|c2dcBA|B2D2E2|F4:|
+
+X:180
+T:First of Aug,The. JaW.180
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A2A2 F2F2|B2B2 A2A2|Bcd2 cde2|f2gf e4|!
+A2A2 F2F2|B2B2 A2A2|Bcd2 cde2|f2e2d4:|!
+|:f2gf e2dc|d2ed c2B2|Bcd2 cde2|f2gf e4|!
+A2A2 F2F2|B2B2 A2A2|Bcd2 cde2|f2e2d4:|
+
+X:181
+T:Register,The. JaW.181
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D|G2G GAB|c2c c2B|A2A ABc|d2d d2B|!
+g2g gfe|d2d def|gec BcA|G2G G2:|!
+|:f|g2g gfe|d2d def|g2g gfe|d2d d2B|!
+c2c edc|B2B dcB|ABc BcA|G2G G2:|
+
+X:182
+T:Country Bumpkin. JaW.182
+M:6/8
+L:1/8
+Q:3/8=120
+C:”…for a nine reel”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+c3 B3|ABG FED|G2B BAB|G2B BAB|c3 B3|!
+A2G FED|c2B c2B|A2G FED|g2d edc|B3 G3:|!
+|:gfe dcB|ABA FED|G2B BAB|G2B BAB|!
+gfe dcB|ABA FED|g2d edc|B3 G3:|!
+|:cac BgB|ABA FED|G2B BAB|G2B BAB|!
+cac BgB|ABA FED|g2d edc|B3G3:|
+
+X:183
+T:White Joak,The. JaW.183
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+d2d fed|dcB A>GF|B2B Bcd|A2F DEF|!
+G3 BAG|FGE D3::A2A ABc|def e3|!
+AFA ABc|def e>dc|B2d A2d|G2d F>GA|!
+B2B B>cd|A2F D>EF|G3 B>AG|FGE D3:|
+
+X:184
+T:MacDonald’s Rant. JaW.184
+M:C
+L:1/8
+Q:1/2=75
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+FA2f/g/ afed|gfed BdBA|FA2f/g/ afed|(e/f/)g (f/g/)a e2d2:|!
+|:FA3 F>GAB|G/G/G G2 GABG|FA2B ABAF|GAFd E2D2:|!
+|:FA2f/g/ afed|gfed BdBA|FA2f/g/ afed|(e/f/)g (f/g/)a e2d2:|!
+|:fa3 f>gaf|g/g/g g2 g>abg|fa2b abaf|gafg e2d2:|
+
+X:185
+T:Washer Woman,The. JaW.185
+M:6/8
+L:1/8
+Q:3/8=130
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:Bars 3+4in the B strain might be improved by replacing the “b” with
+N:”a”..CGP
+Z:vmp.Chris Partington, Aug 2004
+K:G
+B2d cBA|G2G A2G|B2d cBA|G2G G3|!
+B2d cBA|G2G A2G|B2d cBA|G2G G3:|!
+|:G2G B2d|G2G B2d|”sic”d2d f2b|d2d f2b|!
+g2b g2b|afd dBd|e2g e2g|dBG GAB|!
+c2e B2d|A2A g2a|bge e2d|dgg Hg2:|
+
+X:186
+T:Cheshire Round. JaW.186
+M:3/2
+L:1/8
+Q:1/2=100
+C:”..a good tune”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Triple H’pipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+“_6/8 in MS”f3g e2d2 (fg)a2|b2e4d2 c2(BA)|!
+f2(ef) (gf)(ed) (fg)a2|A2d4F2 E2D2:|!
+|:B3c A2G2 FGAF|E2e4d2 c2(BA)|!
+(BA)(Bc) (dc)(BA) (FG)(AF)|D2d4F2 E2D2:|!
+|:B2d2 G2d2 F2d2|E2e4d2 c2(BA)|!
+B2d2 A2B2 F2A2|D2d4F2 E2D2:|!
+|:(BA)(Bc) (dc)(BA) (FG)(AF)|E2e4d2 c2BA|!
+BABc (dc)(BA) FGAF|D2d4F2 E2D2:|
+
+X:187
+T:Farmer’s Tune(?). JaW.187
+M:C
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A2|dfdf cece|dfdf A2A2|d2b2bagf|gfed dcBA|!
+dfdf cece|dfdf A2A2|Bbag afed|(e4d2):|!
+|:fg|afaf afaf|bagf g2ef|gege gege|agfe f2A2|!
+dfdf cece|dfdf A2A2|Bbag fedc|d2d2d2:|
+
+X:188
+T:Sweet Susan. JaW.188
+M:3/4
+L:1/8
+Q:1/4=60
+C:”A Song Tune, May The 9th 1835″
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A2|FDA3F|(GA) (Be) (dc)|(BA) (Bd) (ce)|(df)d2c2|d4:|!
+|:d2|ed (e>fge)|cA (d>efd)|BB G2FE|FA D3A|!
+FDA3F|GA Bd dc|BA Bd ce|dfd2c2|d4:|
+
+X:189
+T:Chamber’s Lilt. JaW.189
+M:6/8
+L:1/8
+Q:3/8=110
+C:”A Reel Or Jig”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:Very Odd….
+Z:vmp.Chris Partington, Aug 2004
+K:D
+“_Key Sig as in MS”G>AG A2c|(B/c/dB) cec|G>AG A2c|(B/c/dB) c3:|!
+|:fdf ecA|fdf ece|(f/g/af)e3|G>AG A2c|!
+(B/c/dB) cec|G>AG A2c|(B/c/dB)|c3:|
+
+X:190
+T:Merrily Danced The Quaker. JaW.190
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+GAB D2B|c2B A2G|GAB D2D|E3G3:|!
+|:dcB edc|dcB ABc|dcB efg|B3d3|!
+dcB efg|fga BAG|Bcd D2D|E3G3:|
+
+X:191
+T:White Cock Aid Above Them All. JaW.191
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Scots Measure
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“Key as in MS”(ABcd) efed|e2fd dffd|deAd efed|(e2dc BA)GB|A2A2:|!
+|:aa gg ff e2|fdde fdde|aa gg ff e2|(dcBA) GBA2|A2:|
+
+X:192
+T:Mac Donald’s Reel. JaW.192
+M:2/4
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+E|A3c|BABc|A3c|e3a|A3c BABc|A(FED)|A3:|!
+|:(ecBA)|BA Bf|(ecBA)|c3f|(ecBA)|BG Bd|(AFFE)|A3:|
+
+X:193
+T:Green Hills of Tyrol. JaW.193
+M:6/8
+L:1/8
+Q:3/8=80
+C:Last page of 4 stave book
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+N:There appear to be some pages missing after this in my photocopy.CGP
+Z:vmp.Chris Partington, Aug 2004
+K:F
+C F G|A2A F A B |c2-c d A d|(cB) G E G d|cAF C F G|!
+A2-A F A B |c2-c d A d|c B G C E G|F2-F zF2|!
+f4e d |(dc) czd2|(cB) B zc2|BA A zF2|!
+f4 e d|d c c zd2|c=B BzAG|c2zG e G|!
+d2-d G =B G|c2-c G e G|d2-d G =B G|Hc2zCFG|!
+A2A F A B |c2c d A d |(cB) G E G d|(cAF) C F G |!
+A2-A F A B |c2-c d A d|(cB) G C E G |HF2z E F G|!
+A2-A E ^c E|” next page missing”zzzz|zzzz|zzzz|]
+
+X:194
+T:Your Verdant Shade… JaW.194
+M:6/8
+Q:3/8=80
+L:1/8
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+A2-A B A G|F2F C A C|F2z E F G |A2-A E ^c E|A2z B A G|!
+F2-F C A C |F-F2z(F2|g4) e d|dc czd2|(cB) B zc2|!
+(BA) A zF F|f2e2d2|(dc) czd2|(cB) HB2c2|f2z|]
+
+X:195
+T:Is There A Heart… JaW.195
+M:6/8
+L:1/8
+Q:3/8=80
+C:…That Never Loved
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c>dc e2g|g2f d2e|c2c agf|e3 {fe}d2z|!
+c>dc e2g|g^fe d2f|g2B dcA|G3-G2g|!
+a2f f2a|g2e c2G|c2d edc|G3-G2G|!
+A2B c2d|e2a/g/ Hf2e|(4d/e/d/^c/ (4d/A/f/d/ =c2B|c3-c2|]
+
+X:196
+T:Banks & Braes,The. JaW.196
+M:6/8
+L:1/8
+Q:3/8=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|c2c (d>cd)|ege d>cd|(e>dc) cAG|GAc d2G|!
+c2c (d>c)d|(eg)e d>cd|(e>d)c (c<AG)|(GAB) c2:|!
+|:e|g2a (ge)c|g2a (ge)c|(ge)c (ge)c |{a}(gf)e Hd2G|!
+c2c (d>c)d|(eg)e d>cd|(e>d)c (c<AG)|(G2A2B2) c2:|
+
+X:197
+T:Celebrated Quadrell. JaW.197
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d|g2d d^cd|B2d G2B|c2e A2G|F2A DEF|!
+G2G B2d|g2a d2e|c2B (Ad)F|G3 G2:|!
+|:d|gfg d2g|b2g d2B|cBc A2f|a2f d2g|!
+gfg d2g|b2g d2g|f2f ea^c|d3-d2:|
+
+X:198
+T:Tekeli Tune. JaW.198
+T:Tikeli,aka. JaW.198
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c2c cBc|A2c G3|GAB cde|f2d B2G|!
+c2c cBc|A2c G3|GAB cde|fdB c3:|!
+|:c2d e3|efe d2c|{e}d2c {e}d2c|c2d e3|!
+c2d e3|efe d2c|d2cd2g|c3 c3:|
+
+X:199
+T:Allen a Dale. JaW.199
+M:6/8
+Q:3/8=50
+L:1/8
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+cBc dcB|cde dBz|Acc Adc|Bdg ecz|!
+fgf fed|edc dBG|gec cAf|dBg ec e|!
+cce cce|gfd e2G|cBc dfe|AdB c3:|
+
+X:200
+T:Pray Goody. JaW.200
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:Almost a hornpipe.CGP…
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d4cBAG|BAGF GBdf|g2fe dBAG|gdcB “Qu’s”B2A2|!
+d4cBAG|BAGF GBdf|{ef}g2fe dBec|BdcA “cr”G4:|!
+|:g2d2e2d2|gBBB (c2B2)|gddd gddd|gdcB HB2 A2:|
+
+X:201
+T:Cambrian Lyrist. JaW.201
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G/A/|B2B BAG|d2d dcB|g2g gfe|dcB Adc|!
+B2B BAG|d2d dcB|g2g fef|g2g g2:|!
+|:g|f2g agf|g2b d2g|f2g agf|gab dec|!
+B2B BAG|d2d dcB|g2g fef|g2g g2:|
+
+X:202
+T:Hope Told a Flattering Tale. JaW.202
+M:6/8
+L:1/8
+Q:3/8=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+N:Doesn’t Quite add up somewhere, but here it is as writ..CGP
+Z:vmp.Chris Partington, Aug 2004
+K:C
+g/f/|e2e d2d|c3-c2e/f/|g2e a2f|e/d/z2 z2d|!
+e2e| (g3a2)f/d/|c2c e2d|c3-c2e/d/|^c2A a2g|!
+(g3f2)(f/4e/4d/4c/4)|B2G g2f|e3 e2g|^f2f c’2f|!
+g3-g2g|(gf).f (fe).e|edzz2c|e2e fef|!
+g3 Ha2f/e/f/d/|c2c g2B|c3-c2:||
+
+X:203
+T:March. JaW.203
+M:C
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A2|e4e4|f>ef>ga2g2|f2(ed)a2(gf)|e4z2A2|!
+d4e4|f>ef>ga2g2|f2d2e2c2|d2d>dd2:|!
+|:fg|a2a2a2(d’c’)|b2b2a3g|g2b2f2a2|e2e>ee2fg|!
+a2a2a2(d’c’)|b2b2a3g|f>ga>g f>g e>f|d2d>dd2:|
+
+X:204
+T:Quick March. JaW.204
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+(f/g/)|af ge|(d/c/d/e/) d (e/f/)|ge fd|e3f/g/|!
+af ge|(e/c/d/e/)|dc’|a>b a/g/f/e/|ddd:|!
+|:f|e>fge|.f.a.d.f|e>fge|.f.azf|!
+e>fge|.f.a .d.f|ee ef/^g/|a>b (a/g/f/g/)|!
+af ge|(d/c/d/e/) d e/f/|ge fd|e3f/g/|!
+af ge|(d/c/d/e/) db|a/g/f/e/|ddd:|
+
+X:205
+T:Jessee The Flour Of Dumblane. JaW.205
+M:6/8
+L:1/8
+Q:3/8=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c/d/|e>fe d>ge|c>Bc d>B c/A/|G>AF E<G c|c>de d2c/d/|!
+e>fe d>ge|c>Bc d<B c/A/|G>AG E/G/zc|”S’qu’s”dAB c2:|!
+|:c/d/|e>cd e>ag|g>ec d/e/ cB/c/|d>Bc d>ge|dB>G A G A/B/|!
+c>ed e>cd|e>ge f>de|f>ga g<ec|dAB c3:|
+
+X:206
+T:Quickstep Clarinet Primo. JaW.206
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|e2e dcd|c2c cde|fdf ece|d2d def|!
+g2g gfe|a2a agf|efe dcd|c3 c2:|!
+|:e|dfb dfb|egc’ egc’|dfb dfb|egc’ egc’|!
+afa c’bc’|geg c’ga|gag gfe|e3 d2:|!
+|:G|c2e e2g|c2e e2g|d2f B2d|c2e G2G|!
+c2e e2g|c2e e2g|d2g B2d|c3 c2:|
+
+X:207
+T:Nancy’s Fancy. JaW.207
+M:2/4
+L:1/16
+Q:1/4=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Set Tune
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d2|g2b2 b4|c’2a2 a4|c’bag f2g2|agab a2d2|!
+g2b2 b4|c’2a2 a4|c’bag fgaf|g2g2g4:|!
+|:g2f2 e2d2|c2B2 A2G2|c’bag f2g2|agab a2d2|!
+g2f2 e2d2|c2B2 A2G2|c’bag fgaf|g2g2g4:|!
+|:bgbg c’ac’a|c’ac’a c’ac’a|c’bag f2g2|agfe dfac’ |!
+bgbg bgbg|c’ac’a c’ac’a|c’bag fgaf|g2g2 g4:|
+
+X:208
+T:Untitled Quadrille. JaW.208
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d|gfe def|g2G G2d|gfe def|g3 b2d|!
+gfe def|g2G G2c|B3 A3|” sic”G3:|!
+|:c|Bcd dcB|cde edc|Bcd dcB|cBc A2c|!
+Bcd dcB|cde edc|B3A3|G3:|
+
+X:209
+T:Ricker’s Hornpipe. JaW.209
+M:C
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+N:The C Naturals sit a bit oddly in the B strain, but…..CGP
+Z:vmp.Chris Partington, Aug 2004
+K:D
+fg|afaf d2fd|ecec A2GF|GABc defg|ecAc e2fg|!
+afaf d2fd|ecec A2GF|Ggbg fdec|d2d2 d2:|!
+|:de|fde=c B2ga|b2e2e2=cd|e=cdB A2fg|a2d2 d3A|!
+BcdB AFAF|BcdB AFAF|Ggbg fdec|d2d2 d2:|
+
+X:210
+T:Quick March. JaW.210
+M:2/4
+L:1/8
+Q:1/2=80
+C:”James Winder 1841″
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+(g/a/4b/4)|c’geg|fddf|ecge|e2(df/a/4b/4)|c’geg|fddf|ecdB|c2z|!
+|:c|(Bd)dd|(fd)dd|(ce)ee|(ge)ee|aac’a|ggeg|fdcB|c3:|
+W:”James Procter is married the 16 of October” |
+
+X:211
+T:Untitled Quadrille. JaW.211
+M:6/8
+L:1/8
+Q:3/8120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|cdc c2e|g2e g2e|cdc c2e|gfe d3|!
+ded d2e|f2g abc’|gfe dcd|c2c c2||!
+g|e2d c3z2z z2g|f2e d2z|z2z z2g|!
+e2d c2g|f2e d2g|g^fa de=f|!
+gag fed|c2c c2::A|ABA A2B|c2d e2f|!
+e2f e2f|e2d c2B|ABA A2B|!
+c2d e2f|e2f e2^d|” DC”e3|]
+W:Funny number of bars?
+
+X:212
+T:Untitled Set Tune. JaW.212
+M:C
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Set Tune
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A>F|D2d>”^B in MS”A F2A>F|G2g4e>g|f>ad>f e>gc>e|d2d>d d2:|!
+|:A>c|e2c>e g2e>g|f>ad>f e2A>c|e2c>e g2e>g|f>ad>f e2A>F|!
+D2d>”^B in MS”A F2A>F|G2g4e>g|f>ad>f e>gc>e|d2d>d d2:|
+
+X:213
+T:Flowers Of Edinbourgh,The. JaW.213
+M:C
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+N:Though most widely used for a reel tune, this is really a
+N:fast hornpipe(rant), alongside “Devil’s Dream”…The second part of the tune
+N:goes a little beyond the normal range of the fiddle, suggesting either
+N:some violinistic technique or another instrument such as flute or
+N:clarinet..CGP
+Z:vmp.Chris Partington, Aug 2004
+K:C
+cB|G2GA c2cd|ecgd e2dc|dcBA GABc|dBgB ABcA|!
+G2GA c2cd|edef g2((3abc’)|e2dc B2cd|e2c2c2:|!
+|:g2|c’bc’d’ e’2d’c’|babc’ d’2c’b|agab c’bag|e2a2 a2(c’a)|!
+gece g2g2|agab c’2(c’a)|gfed cBcd|e2c2c2:|
+
+X:214
+T:Miss Mcleod. JaW.214
+M:C|
+L:1/4
+Q:1/2=100
+C:”20 of June 1842″
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+GG/A/ G/E/C/E/|FA/G/ A/B/c/A/|GG/A/ G/E/C/z/|f/e/d/c/ Ac:|!
+|:ee/c/ ff/d/|ee/c/ d/B/G/B/|ee/c/ ff/d/|g/e/d/c/ Ac:|
+
+X:215
+T:Green Groes The Rushes O. JaW.215
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2(GA) BGGB|ABcd eAAB|cdec Bcdc|AcBA GEE2||!
+dggf gddg|eaag aeef|gage dBGB|AcBA BEE2|]
+
+X:216
+T:Astley’s Hornpipe. JaW.216
+T:Ashley’s Hp,aka. JaW.216
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+GABc dBGd|gfge edcB|cecA BdBG|ABcA GFED|!
+GABc dBGd|gfge edcB|cecA BdBG|G2F2 G4||!
+defg afdf gage fafe|defg afdB|cecA BdBA|!
+GABc dBGd|gfge edcB|cecA BdBG|G2F2 G4|]
+
+X:217
+T:My Love She’s But A Lassie Yet. JaW.217
+M:2/4
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|cCEG|cCCG|cCEG|dDDG|!
+cCEG|cfed|c/B/A/G/ A/c/B/d/|cCC||!
+e/f/|gefd|ecc(e/f/)|gefe|dDD(e/f/)|!
+gefd|ecfd|c/B/A/G/ A/B/c/d/|cCC|]
+
+X:218
+T:Gambles Are Coming. JaW.218
+T:Campbells Are Coming,aka. JaW.218
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+GBe dBG|B>cB B2A|GBe dBG|A>BA A2B|!
+GBe dBG|B2d g2a|bag gfe|” no rest in ms”d>BB Bz2:|!
+|:g>ag gab|d>ed def|g>ag gab|e>fe e2f|!
+g>ag gfe|dBd g2a|bag gfe|” no rest in ms”d>BB Bz2:|
+
+X:219
+T:Such A Getting Up Stairs. JaW.219
+T:Getting Up Stairs,aka. JaW.219
+M:2/4
+L:1/8
+Q:1/4=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G|BcdG|BcdG|edcB|ABc”qu’s”d/G/|!
+BcdG|BcdG|edcB|ABc||!
+(d/c/)|(B/G/).A/.F/ DG|(F/G/A/B/) (c/A/).d/.c/|\
+(B/G/)(A/F/) .D.G|(F/G/).A/.B/ Gd/c/|!
+(B/G/)(A/F/) (D/F/E/G/)|F/G/A/B/ (c/A/)(d/c/)|\
+(B/G/)(A/F/) D/F/E/G/|(F/G/).A/.B/ G|]
+
+X:220
+T:Chinese Air. JaW.220
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air?
+O:England
+A:Wyresdale,Lancashire
+N:Has the feel of a silly quadrille.
+Z:vmp.Chris Partington, Aug 2004
+K:G
+(DG) (G>A)|(Bc) e>d|cd/c/ A>F|F>D D2|!
+(DG) (G>A)|(Bc) e>d|cd/c/ A>D|DG G2||!
+AF/A/ d/d/d/d/|^ce/G/ B/B/B/B/|EG/^C/ E/E/E/E/|D(F/A/) D2|!
+AF/A/ d/d/d/d/|^ce/G/ B/B/B/B/|EG/^C/ E/E/E/E/|D_edc|!
+_BG_E=F|D_edc|_BG_E=F|D_edc|!
+_BG_E=F|DG_E=F|DG_E=F|DDED|DDED|]
+
+X:221
+T:Old Father Christmas. JaW.221
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d|G3 A3|BFG c^GA|d2b c2a|B2g fed|!
+G3A3|BFG c^GA|d2b e2c’|d’3 d’2||!
+d|d2b d2b|c2a c2a|c2a fed|d’3b2z|!
+d2b d2b|c2a c2a|c2a fed|g3g2||!
+d|G3 A3|BFG c^GA|d2b c2a|B2g fed|!
+G3 A3|BFG c^GA|d2b c2f|g3g2|]
+
+X:222
+T:Joe The (…….?). JaW.222
+T:Lads A’Bunchum,Adderbury,aka. JaW.222
+M:2/4
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Set Tune
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+GA|B2BB|Bd cB|BA AA|A2 Bc|dg dB|ce dB|BG GG|G2||!
+BG|A2DD|D2 BG|A2DD|D2Bc|dg dB|ce dc|BG GG|G2|]
+
+X:223
+T:Blooming Molly. JaW.223
+M:C
+L:1/8
+Q:1/4=120
+C:”May the 16th and the Year 1835″
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A|dd de d2 AG|FA GE D3A|de ef e2 de|fd BG A3:|!
+|:A|d>e f3B cd|e3c BA dA|G3F GA BG|!
+FG Az AA dd|ef d2 AG FA|GF E2D3:|
+
+X:224
+T:Push About The Jorum. JaW.224
+M:2/4
+L:1/8
+Q:1/2=70
+C:4 stave book starts
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+g|dBAG|FAAc|BGBd|g2fe|dGBG|FAAc|EGFA|G2G:|!
+d|ggfg|afdd|ggfg|a2dd|ggfg|agfe|e/f/g f/g/a|g3f/e/|!
+dGBG|FAAc|BGBd|g2fe|dGBG|FAAc|EGFA|G2G|]
+
+X:230
+T:Scotch Hornpipe,A. JaW.230
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+(BA)|G2GA GABc|d2g2 dBAG|c2ce dBAG|FGAB A2(AB)|!
+cBcd efge|dcBA G>FED|GBAc|BdAc|B2G2G2:|!
+|:g2|dBGB dBge|dBGB A2AB|cBcd efge|f2d2d2(cB)|!
+cBcd efge|dcBA G>FED|GBAc BdAc|B2G2G2:|
+
+X:225
+T:Tom Fowler’s Hornpipe. JaW.225
+T:Tom Tollin;s Hp,aka. JaW.225
+T:Tom Tolley’s Hp,aka. JaW.225
+M:2/4
+L:1/16
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+Bc|(dc)(BA) Ggfg|e4 d4| (cd)(cB) (AB)(AG)|F4E4|!
+(DE)(FG) A2B2| c3d/e/ d2c2| BAGA D2F2| G6:|!
+|:d2|g2(bg) e2(ag)| “tr”f4d4| g2(bg) e2(ag)| “tr”f4 d2ef|!
+gddd gddd| gdgd gddd|g3f edcB| ABAG F3E|!
+DEFG A2B2| c3d/e/ d2c2| BAGA D2F2| G6 😐
+
+X:226
+T:Trip To The Paris. JaW.226
+T:Trip To Paris,aka. JaW.226
+M:C|
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2(Bd) cAFD|GBdg d2cB|ceAc BdGB|AcAF G2G2:|!
+|:gbeg fadf|egfe d2d2|ceAc BdGB|AcAF G2G2:|
+
+X:227
+T:Liverpool Hornpipe. JaW.227
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+FEFA dfaf|gefd dcBA|GBGB FAFA|EFGA GFED|!
+FEFA efaf|gefd dcBA|fafd egec|d2d2″ cr”d4:|!
+|:dffd ceec|BddB BAGF|GBGB FAFA|EFGA GFED|!
+FEFA dfaf|gefd dcBA|fafd egec|d2d2” cr”d4:|
+
+X:228
+T:Standish’s Quick March. JaW.228
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+gab|c’2g g^fg|e2c cBc|d2d def|f3 “cr”e2g|!
+c’2g g^fg|e2c cBc|dag fed|c2c c2:|!
+|:e|d2G GAB|c2c cBc|d2d def|f3 “cr”e2g|!
+c’2g g^fg|e2c cBc|dag fed|c2c c2:|
+
+X:229
+T:Quick Step. JaW.229
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_Key Sig Cmaj in MS”G|BcB Bcd|edd d2g|edd dcB|ABA AGA|!
+BcB Bcd|edd d2e|def gaf|ggg g2:|!
+|:g|bag fga|gdB gdB|cde dBG|ABA AGA|!
+BcB Bcd|edd d2e|def gaf|g2a g2:|
+
+X:231
+T:Pretty Cotillion,A. JaW.231
+M:C|
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Cotillion
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2B2 d2g2|fgaf d4|A2c2 BdBG|AcAF G4:|!
+|:G2G2 A2A2|d2dG F2ED|G2G2A2A2|d2D2 G4:|!
+|:G2B2 AGFE|D2dc B4|G2B2 AGFE|D2EF G4:|!
+
+X:232
+T:Illegible Jig,The. JaW.232
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:Title & Key Sig Illegible
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_Key Sig Illegible”B2B dBG|A2A e2d|B2B dBG|B3d2:|!
+|:(e/f/)|gfe dcB|A2A e2f|gfe dBG|B3d2(e/f/)|!
+gfe dcB|A2A e2d|B2B dBG|B3d2:|
+
+X:233
+T:K(..eep The To They Gill?). JaW.233
+M:6/8
+L:1/8
+Q:3/8=120
+C:Title Illegible
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:Title Illegible
+Z:vmp.Chris Partington, Aug 2004
+K:G
+(e/f/)|gdB gdB|B>AG AFD|gdB gdB|cA2G2:|!
+|:(B/c/)|dBG ecA|dBG AFD|dBG dBG|cA2G2:|
+
+X:234
+T:Blackamoor’s Jigg. JaW.234
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rigadon
+O:England
+A:Wyresdale,Lancashire
+N:This has the characteristic six bar halves of the Rigadon.
+Z:vmp.Chris Partington, Aug 2004
+K:F
+d|(cA)B G2d| (cA)B A2 G/F/| f3 F2d|!
+(cA)B G2d| (cA)B (FD)F| G3G2:|!
+|:a|g2e fga|dcB AGF|f3 fga|!
+g2e fga|dcB AGF|G3G2:|
+
+X:235
+T:O Twine A Wratch(?) JaW.235
+T:O Twine A Wreath,aka. JaW.235
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:There are longways dance instructions with this tune, but they are more
+N:or less illegible..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d/c/|Bdgf|agec|edBG|A2zd/c/|!
+Bdgf|(ag)ec|Be/d/ c/B/c/A/|G2z||!
+B|Ac ed/c/|Bdg B|Ac ed/c/|B2zd|!
+^cBA g|fed ((3b/g/e/)|d>d ^c/d/e/c/|d2z|]
+
+X:236
+T:Giovinetto Cavalier. JaW.236
+M:6/8
+L:1/8
+Q:3/8=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:Accompanied by instructions for an illegible longways Country Dance..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d|d2B d2B|dce A2A|A2B c2B|AGA B2d|!
+d2B d2B”sic” d2B|(dce) A2f|g/f/g/d/B/G/ g/f/g/d/B/G/ |\
+A/e/d/c/B/A/ G2:|!
+|:G|c2A c2A|FGA Ddc|B2c dBe|dcB A2B|!
+c2A c2A|FGA D2f|g/f/g/d/B/G/ g/f/g/d/B/G/|A/e/d/c/B/A/ G2:|
+
+X:237
+T:Der Freishutz Waltz. JaW.237
+M:3/4
+L:1/8
+Q:3/4=40
+C:”Waltz Figure”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+N:”Ber Freishutz Waltz” in MS..
+Z:vmp.Chris Partington, Aug 2004
+K:C
+.G.c.e|(ag).e.G.c.e|(ag).e.G.B.d|(gf).d.G.B.d|(fe).c.G.c.e|!
+(ag).e.G.c.e|(ag).e.G.c.e|(gf).d.G.B.d|(gf).d.G.B.d|c2z||!
+DGB|(ed)BDGB|(ed)BDGB|(dc)AD^FA|(cB)AD^FA|!
+(ed)BDGB|(ed)BDGB|(dc)AD^FA|G2z|]
+
+X:238
+T:Casper’s Songs. JaW.238
+M:2/4
+L:1/8
+Q:1/4=100
+C:”J…. Figure”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+N:”Figure” of a quadrille. Doesn’t make much sense.
+Z:vmp.Chris Partington, Aug 2004
+K:G
+e2e2|ed/c/ Bc|B2z2|B2e2|^dd/e/ ff|G4|!
+^def gB/c/|~d4|G2e2|db~e2|.d.bz2|!
+Bd cf|gdb2|Bd ce|gdb2|g3f/e/|(d/e/d/c/) (B/c/B/A/)|!
+G/A/B/c/ d2|e3f|g3f/e/|(d/e/d/c/) (B/c/B/A/)|G/A/B/c/ ~d2|\
+z2~e2|db ~e2|dbz2|~B4|eEz2|]
+
+X:239
+T:Macintosh’s Hornpipe. JaW.239
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D2G2 BABG|AcBd cBAG|D2G2 BABG|AcBd c2g2|!
+D2G2 BABG|AcBd c2BA|BdcB AcBA|BGAF G4:|!
+|:efgd Bdg2|G2FG ABA2|(ef)(gf) (ef)g2|G2FG ABA2|!
+efgd BdeG|FGAB c2BA|BdcB AcBA|BGAF G4:|
+
+X:240
+T:Huntsman’s Chorus. JaW.240
+M:2/4
+L:1/8
+Q:1/2=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:With instructions for longways country dance.
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|c2 c/d/e/f/|g2ee|dgdg|e/f/e/d/ cG|!
+c2 c/d/e/f/|g2ee|dgba|g2z:|!
+|:d|e2ee|c2cc|f2ff|d2dd|!
+ee/e/ ee|cc/c/ cc|ff/f/ fe|d2zG|!
+e2ee|{g}f2ee|d2 “qu’s”e/d/c/d/|(e2c) G|!
+e2ee|(gf)ee|e/d/c/d/ ed|c2z:|
+
+X:241
+T:Agnes. JaW.241
+M:2/4
+L:1/8
+Q:1/4=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+c2 (=B/c/d/c/)|f2 e/f/g/f/|b2 (g/f/e/d/)|(d2c) F|!
+GAB=B|cf2(e/d/)|dc2E|F2z:|!
+|:f/g/|ag/f/ (e/f/)c/A/|(d/c/).B/.G/ (d/c/).B/.G/|\
+ag/f/ (e/f/).c/.A/|(d/c/).B/.G/ (d/c/).B/.G/|!
+a/g/f/e/ d/c/B/A/|G/A/B/c/ d/e/f/g/|ag/f/ e/f/g/e/|f>F F:|
+
+X:242
+T:Jack Of Hazlden. JaW.242
+T:Jock Of Hazeldene,aka. JaW.242
+T:Girl I Left Behind Me,aka?. JaW.242
+M:2/4
+L:1/16
+Q:1/4=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+g2|d2B2A2G2|G2B2 D3E|G2G2 c3B|B4{cB}A2 g2|!
+d2B2A2G2|G2B2 D3E|G2B2 A3B|G4z2:|!
+|:B2|c3Bc2d2|e2c2 g3e|d2B2 G2g2|e3f gfge|!
+d2B2A2G2|G2B2 D3E|G3B A2d2|G4z2:|
+
+X:243
+T:Le Solitaire. JaW.243
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.jig
+O:England
+A:Wyresdale,Lancashire
+N:With longways country dance instructions
+Z:vmp.Chris Partington, Aug 2004
+K:C
+g|e2e c2g|(e3 c2) g|e2e edc|d3-d2g|!
+e2e c2g|(^f3 d2)d|g2g ag^f|g3-g2:|!
+|:g|e2e e2e|e2a e2e|ba^g fed|c2e c2e|!
+e2e edc|Bag g2f|e2e edc|g3-g2f|!
+e3-ede|f3-fef|d2d dgg|e2c gcd|!
+e3-ede|”_bar not in MS”f3-fef|d2″qu”d dgB|c3-c2:|
+
+X:244
+T:Parting Lovers,The. JaW.244
+T:Jack in the Green,aka. Jaw.244
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2B A2c|B2d c2e|def gfe|dcB AGF|!
+G2B A2c|B2d c2e|dcB AGF|G3 “^A, in MS”G,3:|!
+|:g2e f2d|g2e f2d|gfe agf|efd ^cBA|!
+g2e f2d|”_bar not in MS”g2e f2d|egf edc|d3 D3|!
+G2B A2c|B2d c2e|def gfe|dcB AGF|!
+G2B A2c|B2d c2e|dcB AGF|G3 “^A, in MS”G,3:|
+
+X:245
+T:Lucy Dear. JaW.245
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+FG/A/ Bc/d/|ec/A/f2|dc/d/ e/c/A|B/A/G/F/ E>G|!
+FG/A/ Bc/d/|ec/A/ f2|dc/d/ Be/d/|c/B/c/A/ d2||!
+AABB|c/B/c/A/ dd|Aa/g/ (g/f/).e/.d/|Bc/c/ df|!
+AABB|c/B/c/A/ dd|Aa/g/ g/f/e/d/ Bc/c/ d2|]
+
+X:246
+T:Faustus. JaW.246
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+F/G/|”$”AAA AAA|[A2f2] d A2F|GBG FAF|Eed cBA|!
+AAA AAA|[A2f2]d A2F|Ged cBc|d2D D2||!
+c/d/|eee ecA|ffe def|eee ecA|dfe d2c/d/|!
+eee ecA|aaa a^gf|eae dcB|” DC”AFG AFG|]
+
+X:247
+T:Captain Clapperton. JaW.247
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:…or quadrille..
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|cG/G/ dG/G/|dBGB|cedg|eccG|!
+cG/G/ cG/G/|dBG g/f/|ecdB|cCC||!
+e|dG/G/ dG/G/|f/e/d/c/ B/A/G/F/|EG ce|d/c/B/c/ Bc|!
+dG/G/ dG/G/|f/e/d/c/ B/A/G/F/|E/G/c/e/ dB|cCC|]
+
+X:248
+T:William Tell. JaW.248
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+F/G/|”$”ABc cFG|ABc c2c|f2f fAc|f2f fgf|!
+edc BAG|A2f fgf|edc BAG|F2AF2||!
+c|(Ac).c (cf).f|e2c c2A|(Bd).d (dc).B|BAG A2A|!
+Afe d2d|cdc cef|g2g GA=B|”DC”c3-c2B|]
+
+X:249
+T:Enterprize,The. JaW.249
+M:6/8
+L:1/8
+Q:3/8=115
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+e|e2c e2c|a2g fed|(cd)e fed|(cB).A (GB) e|!
+e2c e2c|a2g fed|cde edB|BAA A2||!
+c|B2e e2e|^def (Bb).a|gfe e^de|f^dB B2c|!
+B2e e2e|^def Bba|gfe ^def|e3-e2|]
+
+X:250
+T:Fly-Flappers,The. JaW.250
+M:2/4
+L:1/8
+Q:1/4=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+dz dz|fddd|ez ez|geee|!
+fagf|edcd|ez cz|1dDFA:|2d2 za||!
+Az az|Az gz|Az fz|ecAc|!
+dz dz|befg|fdec|1dafd:|2dDFA|]
+
+X:251
+T:Algiers Waltz. JaW.251
+M:3/8
+L:1/16
+Q:3/8=40
+C:”Waltz Figure”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+N:Waltz Figure presumably refers to a figure in a set of quadrilles
+Z:vmp.Chris Partington, Aug 2004
+K:F
+AB|cfedcB|AGFGAB|(cd) .c2.f2|(cd) .c2.f2|!
+|cfedcB|AGFGAB|cd c2e2|f4||!
+c2|(cA).f2.f2|(ec) .g2.g2|(cA).f2.f2|(ec) .g2.g2|!
+(fc) (a2g2)|(fc) (a2g2)|f2F2F2|F2F2F2|!
+F2 ((3AGF) c2|F2 ((3AGF) c2|d2d2e2|(f2a2) AG|!
+F2 ((3AGF) c2|F2 ((3AGF) c2|d2d2e2|f4|]
+
+X:252
+T:Anatomie Vivante. JaW.252
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+Z:vmp.Chris Partington, Aug 2004
+K:Bb
+FGF|(d2c) (d2c)|B2d (FG)F|(e2d) (e2d)|c2f (FG)F|!
+d2c B2A|GzB cde|dcB BcA|B2z||!
+(cd)c|a2g f2^=e|f2c cdc|a2g f2=e|f2z (f=e)d|!
+c2c (dc)B|A2A (cB)A|Bdc BAG|F2F|]
+
+X:253
+T:Ould Ebony. JaW.253
+T:Old Ebony. JaW.253
+M:2/4
+L:1/8
+Q:1/4=55
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+N:NB=Half bar missing from MS(.ff/g/)
+Z:vmp.Chris Partington, Aug 2004
+K:Bb
+F|BB/c/ dB|edcB|A/B/c/A/ FF|A/B/c/A/ FG/A/|!
+BB/c/ dB|edcB|A/B/c/A/ FA|B2z||!
+d/e/|.f f/g/ .ff/g/|fbag|fdBd|c/B/A/B/ cd/e/|!
+.f(f/g/) “NB”.f(f/g/)|fbag|f>f f/d/e/c/|BbB|]
+
+X:254
+T:Uncle Gabhal(?). JaW.254
+T:Uncle Gabriel,aka. JaW.254
+M:6/8
+Q:115
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+N:Tile indistinct.
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A|d2A F2A|d2d dcd|e2c A2c|e2e ede|!
+f2f f2f|g2g gfe|dfd cBc|d3-d2||!
+A|A2A ABc|d2e f2A|d2e f2^g|a2A A2F|!
+G2A B2c|d2d def|gfe dec|d2f d2|]
+
+X:255
+T:Crusaders,The. JaW.255
+M:2/4
+Q:50
+L:1/8
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+e/d/|:cGG e/d/|cGG (g/f/)|ec ce|d/c/B/c/ d e/d/|!
+cGG e/d/| cGG g/f/| ec dB|c2z:|!
+|:B/c/|dd/e/ fd|ee/f/ gc|dd/e/ f/e/d/c/|Bcd B/c/|!
+dd/e/ fd|ee/^f/ ge|d>e d/B/c/A/|”DC”GGAB:|
+
+X:256
+T:Quite Correct. JaW.256
+M:6/8
+Q:110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d|g2g (gf)(g|d2)d (d^c)d|G2A B2c|d2d def|!
+g2g gfg|d2d d^cd|Bed cBA|AGG G2:|!
+|:d|d2d (d^c)e|e2e (e^d)e|f2f fed|a2A AB^c|!
+d2d d^cd|e2e efg|fed ^cBc|d3-d2:|
+
+X:257
+T:Walladmoor. JaW.257
+M:6/8
+Q:120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c/B/|ABA e2d|cBA B2E|ABA B2E|ABA B2E|!
+ABA e2d|cBA ^GBE|A2B cdB|A3-A2||!
+G|cdc g2f|edc BdG|cdc d2G|cdc d2G|!
+cdc g2f|edc (Bd) ^G|A2B cdB|A2aA2|]
+
+X:258
+T:Moneymusk,The. JaW.258
+M:C|
+Q:150
+S:James Winder Ms, Lancashire, 1835-41
+R:.Strathspey
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+e|d>GB>G d>Gc>e|d>GB>G AB/A/ c>e|\
+c>GB>G Bc/d/ dg|e>cB>c BGG:|!
+|:e/f/|g>dB>g d>gB>g|g>dc>g B>gA>g|\
+g>de>g d>gB>g|e>cA>d BGG e/f/|!
+g>dc>g d>gB>g|g>dc>g B>gA>g|\
+g>de>g d>gc>g|B>gA>f BGG:|
+
+X:259
+T:New German March,The JaW.259
+M:C|
+Q:140
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+B>c|d>cd>e d>cB>A|G2G>G G2B2|\
+A>GA>B A>GF>E|D2D>D D2d>c|!
+B>cd>e A>Bc>c|B>cd>e A>Bc>c|\
+BG (B/c/d/B/) AF (A/B/c/A/)|G2G>G G2||!
+B>c|d>cd>e d>gf>e|d2d>d d2B>c|\
+d>Bg>f e>dc>B|A2A>A A2d>c|!
+B>GG>G G2c>B|A>DD>D D2d>c|\
+B>G (B/c/d/B/) A>F (A/B/c/A/)|G2G>G G2|]
+
+X:260
+T:Pad The Road,Sir. JaW.260
+M:C
+Q:150
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c3c|c3c c2c2|f2d2c2d2|B2G4d2|e2ed efg2|c2g2f2d2|B2c2d4||!
+d2e2 edef|g2e2c2g2|f2d2B2G2|e4 def(g|d)(ec)B AG F2|G2G2A2B2c4|]
+
+X:261
+T:Royal Quickstep. JaW.261
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+B/c/|d2f B2c|d2B G2B|ABA c2A|d2B G2B/c/|!
+d2f B2d|d2B G2B|AcB AGF|G3 “sic”G2G,2:|!
+|:g|fef def|gfe def|fef def|g2z z2g|!
+fef def|gfe def|gag fef|g2:|
+
+X:262
+T:Green Grows The Rushes. JaW.262
+M:C|
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+A|G/G/G BA BGGB|A/A/A e>d eAAB|\
+c3e d/e/c/B/ GB|A/B/c B>A GEE:|!
+|:A|G/G/G g>f gddg|e/e/e ag aeef|\
+gag(e d/)c/B/A/ GB|A/B/c BA GEEA|!
+G/G/G gf gddg|e/e/eag aeef|\
+gbeg dgBg|A/B/c B>A GEE:|
+
+X:263
+T:Holeywels Hornpipe. JaW.263
+T:Holywells Hornpipe,aka. JaW.263
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+N:Deficient in the B music?..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d2(dg) edcB|d2(dg) edcB|DGBG DGBG|DGBG cBAG|!
+d2(dg) edcB|d2(dg) edcB|gfga ecAF|G2GGG2:|!
+|:d2de dBGB|c2e2e2AB|c2(cd) cBAG|cdef g2ga|!
+fdeg fdeg|gfga gfgg|”sic”ecAF G2GG|G4:|
+
+X:264
+T:Peasant,The. JaW.264
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+f2f efg|afd c2A|FAc GBd|efg e3|!
+f2f efg|afd A2F|FAc Bgf|edcd3:|!
+|:afd ecA|afd ecA|afd Ggf|efd cBA|!
+afd ecA|afd ecA|dcd Bgf|edc d2:|
+
+X:265
+T:Marleborrow,The. JaW.265
+T:Malbrook,aka. JaW.265
+T:We Won’t Go Home…aka. JaW.265
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+N:The B strain is available in other collections with which to make a
+N:comparison..CGP
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G/A/|B2B B>AB|c3BdB|A2A ABA|B2G G2A|!
+B2B BAB|c3BdB|A2A AGA |G3:|!
+|:B/c/|” As written”d3Bee|d3 Bc|B2G g3|ee2d2:|
+
+X:266
+T:When I Was A Prentice In My Youth. JaW.266
+M:6/8
+L:1/8
+Q:3/8=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+N:Broken beaming is usual in song airs..
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G|GBd e2d|cB A G2G|GBd ecB|(Ac) de3:|!
+|:g2e (d>e) d|(de) f ge c|c (BA) (GA) G|!
+(GA) G BG E2|E2 FG (ABcB)|AG A F3:|
+
+X:267
+T:Give The Fiddler A Drink. JaW.267
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_Key Sig A in MS”D|GAB AFD|G3 AB2|efe dBG|d2B G3:|!
+|:d2B d2B|e2c e2f|gfe dBG|d2c A3:|
+
+X:268
+T:Denty Davy. JaW.268
+T:Dainty Davie,aka. JaW.268
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+f2|cAGF GAD2|FAAc DAAc|”sic”f2 cAGF GAD2|fdec d2f2:|!
+|:fafa faaf|egeg egge|fafa faaf|fdec d2f2:|
+
+X:269
+T:There Is No Luck About The House. JaW.269
+T:Nae Guid Luck Aboot The Hoose. JaW.269
+M:2/4
+L:1/8
+Q:1/2=70
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+B|dB AF|G>GGB|dB AF|E2zB|!
+dB AF|GGGB|A>GFE|D3B|!
+dB AF|G>GGB|dAGF|E3B|!
+dBAF|G>A Bd|A>GFE|D2DE|!
+F2FD|G>FGF|F2FD|E2zA|!
+FF F>D|G>GGB|AGFE|D3|]
+
+X:270
+T:Bonny Kate Of Aberdeen. JaW.270
+M:C|
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Strathspey
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A<FE<D A<FE<D|B2Bc d2cB|A<FE<D A<FE<D|E>FG>A G2FE|!
+A<FE<D A<FE<D|fgaf e2dc|dfdA BdBG|AFED D4:|!
+|:e<cB<A e<cB<A|d2cB c2BA|B2Bc c2ef|fdaf e2fg|!
+afed ecBA|BcdF E2DC|DfdA BdBG|AFED D4:|
+
+X:271
+T:Scotch Bamble,The. JaW.271
+T:Scotch Ramble,The,aka. JaW.271
+T:High Way to Eglinton,The. JaW.271
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+e|c>dc cGE|cGE cde|cdc cGE|DDD D2e|!
+c>dc cGE|cGE cGE|FGF EFE|[Cc][Cc][Cc] [C2c2]:|!
+|:e|c3/2d/e/f/ gec|gec c2g|c3/2d/e/f/ gec|afd d2a|!
+c3/d/e/f/ gec|gec gec|fgf efe|ccc c2:|
+
+X:272
+T:Gee Ho Dobbin. JaW.272
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:You may need to tweak this a little to make sense of the B strain, but
+N:I can see several different interpretations so it’s up to you…CGP
+Z:vmp.Chris Partington, Aug 2004
+K:D
+“_Key Sig G in MS”A|FED AGF|BAG A2A|dcd Bcd|ecA d2:|!
+|:d|def Bcd|e>cA B3|d3 A>BA|A>GF (GE)F|!
+G3 F3|A2″sic” F<D G2|B2 G<E F2|”sic”A GFE|Ddc d4:|
+
+X:273
+T:Maggy Louther. JaW.273
+T:Maggie Lauder,aka. JaW.273
+M:C|
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+“_Key Sig G in MS”Addd d>edd|eefd c2e2|fddd d>edd|faag dfa2:|!
+|:gggb fffa|eefd c2e2|fffd ggge|faef d2d2:|
+
+X:274
+T:Nancy Dawson. JaW.274
+M:6/8
+L:1/8
+Q:3/8=120
+C:”a Hornpipe”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+A2B A2B|A2B (AFD)|B2c d2e|d2e dBG|!
+c2B c2d|e2f gfe|dcB AGF|G3 G2:|
+
+X:275
+T:Keep They Country Bonnie Lass. JaW.275
+M:C|
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+e|A/A/A cA Bcdf|A/A/A cA eAcA|dfce|Bcdf|ecaf e2A:|!
+|:a|a/g/f/e/ ce Bcde|a/g/f/e/ ce cdeg|a/g/f/e/ ce dfce|Bcdf e2A:|
+
+X:276
+T:Joker,The. JaW.276
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+cBc GAB|cde fga|gec {d}cBc|dBG G3|!
+cBc GAB|cag fed|efg GAB|c3 c3:|!
+|:Bdf Bdf|ceg dfa|gec afd|gec BAG|!
+EGB FAc|GBd Acf|efg GAB|c3 c3:|
+
+X:277
+T:Siege Of Bellisle. JaW.277
+T:Monk’s March,aka. JaW.277
+T:Bellisle March,aka. JaW.277
+M:C
+L:1/8
+Q:1/2=70
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+N:Title almost illegible, but what looks like Belish could be Bellisle,
+N:as in the Benjamin Cooke MS..CGP…
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D2|G2GB A2Ac|B2ge d2c2|B2 (3dcB A2 (3cBA |G2GG G2:|!
+|:D2|dedc B2B2|cdcB {B}A4|dedc BcBc|ef (3dcB {B}A3D|!
+G2G>B A2Ac|B2ge {e}d3c|B2 (3dcB A2 (3cAF|G2GG G2:|
+
+X:278
+T:Foot’s Minuet. JaW.278
+M:3/4
+L:1/4
+Q:3/4=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+afa|agf|ede|fd/e/f/g/|afa|agf|ede|f3||!
+fff|e/d/e/f/e/f/|ggg|f/e/f/g/f/g/|afa|agf|(g/f/)ec|d3|]
+
+X:279
+T:Life Let Us Cherish. JaW.279
+M:6/8
+L:1/8
+Q:3/8=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+B3 cBc|d2g ” cr”g3|G3 AGA|BcB A3|!
+B3 cBc|d2g (gec)|B3 AGA|G3-G2:|!
+d|~d2c ABc|d2B G2d|d2c ABc|d2BG2d|!
+e2c g2e|d2B g2d|ded dcB|HB3 {AcB}HA3|!
+B3 cBc|d2g g3|G3 AGA|BcB A3|!
+B3 cBc|d2g gec|B3 AGA|G3-G2|]
+
+X:280
+T:French Air. JaW.280
+T:Twinkle Twinkle…aka. JaW.280
+M:C
+L:1/4
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+ccgg|aagz|ffee|ddc2:|!
+|:ggff|ee(ed)|ggff|(e/c/) (g/e/) d2|!
+ccgg|aag2|ffee|(d/c/d/e/) c2:|
+
+X:281
+T:Johnny Magic(?). JaW.281
+T:?aka. JaW.281
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+d/c/|BGG ~G2B|cAA ~A2f|gfe dec|BGG G2:|!
+|:g/a/|bab gab|~aga fga|(gf)g bag|fdd ~d2d|!
+ece c’ec|dBd edc|”_Bar Missing in MS”gfe dec|BGG ~G2:|
+
+X:282
+T:Hearts Of Oak. JaW.282
+M:C
+L:1/8
+Q:1/2=75
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|c2cc c2ed|c2BA G2zG|A2AB c2cd|e2fd e2zG|!
+c2EF G2AB|c2EF G2zd|e2dc g2Bc|d2dD G2d>d|!
+d2B>c d2e>e|e2c>d e2ze|dcBe cAz2|!
+c<cG2 ECzG|ABcd e2dc|g2GBc2z|]
+
+X:283
+T:King’s Waltz. JaW.283
+M:3/4
+L:1/8
+Q:3/4=35
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+N:The B Strain looks wrong and doesn’t appear to add up, But when you
+N:play it back it works fine..3/8 in Ms..CGP
+Z:vmp.Chris Partington, Aug 2004
+K:C
+“_Key G in MS”c>de>fg>a|aggfg2|c’geceg|gfd3|!
+cdefga|aggfg2|c’gecdB|c3:|!
+|:”_As Written-NB”G/B/d/ g3 g/e/c/|gfd3|cBcegc’|abc’ag2|!
+G/B/d/ g3 g/e/c/|gfd3|cdefgB|c3:|!
+|:gGeGcG|gGeGcG|dGBGBG|cGEGce|!
+gGeGcG|”_Bar missing in MS”gGeGcG|dGBGBd|c3:|
+
+X:284
+T:Hither To The Gill(?) Jaw.284
+M:6/8
+L:1/8
+Q:3/8=80
+C:Ghyll?
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jigg
+O:England
+A:Wyresdale,Lancashire
+N:Title Not Clear. The Clue To antiquity of this tune lies in the time
+N:signature, which in the Ms is 6/4, though spelt in jig time as
+N:here..CGP
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_Time Sig. as given”(e/f/)|gdB gdB|B>AG AFD|gdB gdB|cA2G2:|!
+|:(B/c/)|dBG ecA|dBG AFD|dBG gdB|cA2G2:|
+
+X:285
+T:Down With The French. JaW.285
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+g2e g2e|cdc e3|f2e f2e|dfc BAG|!
+g2e g2e|cdc e3|dfe dcB|c3 c3:|!
+|:d2d e2d|BcA G3|cAc ece|g2e c3|!
+d2d e2d|BcA G3|ABc dcB|c3 c3:|
+
+X:286
+T:Black Joak. JaW.286
+M:6/8
+L:1/8
+Q:3/8=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig/joak
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|cdc cBc|ded dcd|efe edc|ded dcB|!
+c3 A3|GAB “^c3 in MS”c2::\
+f|efg geg|abc’ g2f|!
+efg geg|abc’ g2f/e/|f2d’ e2d’|ded dcd|!
+efe gec|ded dcB|c3 A3|GAB c2:|
+
+X:287
+T:Fly Not Yet. JaW.287
+M:6/8
+L:1/8
+Q:120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille?
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2G G2A|B2c d2B|d2e f2g|a2g fed|b2a a2g|!
+g2f e2d|e2f g2e|d2c B2A|G2g gaf|g3-g3:|!
+|:G3g3|G3g3|b2a a2g|g2f e2d|!
+e2f g2e|dec B2A|G2g (ga).f|g3-g3:|
+
+X:288
+T:Maid Of Lodi,The. JaW.288
+M:6/8
+L:1/8
+Q:3/8=90
+C:”January 19th, 1836”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|c2c e2c|(BA2)z2f|(eg).c (dg).B|c3-c2G|!
+c2c (e/d/)(f/e/d/c/)|BA2z2f|(eg).c (dg)>B|c3-c2||!
+c|B2Gg2B|dc2z2c|B2Gg2B|c3c2(e/f/)|!
+g2g (a/g/f/e/d/c/)|BA2a3|gec dgB|c3-c2e/f/|!
+g2g (a/g/f/e/d/c/)|BA2a3{fga}|gec dgB|c3-c2|]
+
+X:289
+T:Tobias(?) The Grinder. JaW.289
+T:Grinders,The.aka. JaW.289
+T:Our Bride is No Maid,aka. JaW.289
+M:9/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Slip Jig
+O:England
+A:Wyresdale,Lancashire
+N:Tobias? Talbias?
+Z:vmp.Chris Partington, Aug 2004
+K:G
+gfg edc BAG|gfg efg afd|gfg edc BAG|AAA A2B d2B:|!
+|:AAA A2B G2E|AAA A2B d2B|AAA A2B G2E|dBG GBc d2B:|
+
+X:290
+T:Drops Of Brandy. JaW.290
+M:9/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Slip Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+d2c BGB BGB|d2c BGB cBA|d2c BGB BGB|cBc A2B cBA:|!
+|:G2g gdB gdB|G2g gdB cBA|G2g gdB gdB|cBc A2B cBA:|
+
+X:291
+T:Allegretto. JaW.291
+M:2/4
+L:1/8
+Q:1/2=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+cd|ee gg|dd gg|egce|ddd (c/d/)|ee gg|ff c’a|ge fd|c2z:|!
+|:e|.d.g .e.g|fg eg|.d.g .e.g|dgg G|cc ee|AA af|eg dg|c2z:|!
+|:”Minore”e|(ec) (dB)|(cA) (B^G)|Aeee|a3g|.f.A(fe)|cd Bc|A2z:|
+
+X:292
+T:Bavarian Air. JaW.292
+M:3/4
+L:1/8
+Q:3/4=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+F>F A>A c>c|(a2f2) f>f|(g2b2) e>e|f2a2 A>G|!
+F>F A>A c>c|a2f2 f>f|g2b2e2|f4||!
+f>f|e2g2 f>e|(f2a2) f>f|e2g2 f>e|”sic”f2b2A>G|!
+|F>F A>A c>c|a2f2 f>f|g2b2e2|f6|]
+
+X:293
+T:What Can The Matter Be.. JaW.293
+T:Oh,Dear, What Can The… JaW.293
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+N:..Johnny Stops Long At The Fair.
+Z:vmp.Chris Partington, Aug 2004
+K:C
+d3d3|dBg dBG|c3c3|cAB cBA|!
+d3d3|dBg dcB|Eed cBA|G3G3:|!
+|:d|dBc dBc|dBg dBG|cAB cAB|\
+“not clear from here”cBA GFE|!
+dBc dBc|dBd dBG|Eed cBA|G3zz2:|
+
+X:294
+T:Come Under My Plaidy. JaW.294
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+g|dBB BAB|dBB B2g|dBB BAB|GEE E2g|!
+dBB BAB|dBB BAG|AAA BAB|GEE E2:|!
+|:d|gfg aga|bag fed|gfg aga|bge e2g/a/|!
+bgb afa|geg dBG|AAA BAB|GEE E2:|
+
+X:295
+T:Girl I Left Behind Me,The. JaW.295
+T:Brighton Camp,aka. JaW.295
+M:2/4
+L:1/16
+Q:1/2=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+Bd|e3d B2G2|”Qu’s”B(ABA) E3D|G2G2 (GAB)c|d4 B2Bd|!
+e3d B2A2|”Qu’s”B(ABA) E2D2|G(FGE) (DEFD)|G4G4:|!
+|:B3c e2ef|gfed B4|e2ef gfed|e2f2 g2e2|!
+d2g2 d2c2|B(ABA) E2D2|G(FGE) (DEF)D|G4G4:|
+
+X:296
+T:Home Sweet Home. JaW.296
+M:2/4
+L:1/8
+Q:1/2=70
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2|B>c c>d|d2Bz/B/|c>BcA|B3(G/A/)|B>c c>d|(d2B) d|c>B cA|G2:|!
+d2|g>fe>d|d2B d|cBcA|B3d|g>fed|(d2B) d|dc A>B|G4|!
+d4|”sic”(cA)|G A|B d|g>fe>d|d2 B d|(de) (c/B/)A GA|G4|]
+
+X:297
+T:Scotch Wallace B(….?) JaW.297
+T:Scots Wae Hae,aka. JaW.297
+M:C|
+L:1/8
+Q:1/2=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+(G>G)(G>E) G>A c2|(A>A)(A>G) (A>B)(c>d)|\
+(e>f)(d>e) (c>d) (ed)|c>A A>G ” cr”G4||!
+(e>e) (e>d) (e>f) g2|(d>d)(d>c) d>ef>a|\
+(g>e) d>e (c>d) (e>d)|c<A A>G G4|]
+
+X:298
+T:Miss McLeod. JaW.298
+M:C|
+L:1/8
+Q:1/2=100
+C:”a Popular dance or Highland Gallop”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+c|A2a2 fefa|c2cB c2c>B|A2a2 fefa|B2BA B2Bc|!
+A2a2 fefa|c2cB c2c>e|f>gfe f2eg|a2ecB2:|!
+|:c2|AAcA ecce|c2cB c2a2|AAcA ecce|B2BA B3c|!
+AAcA ecca|c2cB c2ce|f2fe f2eg|a2ec B2:|
+
+X:299
+T:Merry-go-round,The. JaW.299
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+dfd ege|cAc dfa|dfd ege|cBc d2:|!
+|:afa geg|fdf ecA|afa geg|fad d2:||d4|]
+
+X:300
+T:Robinson Crusoe. JaW.300
+T:?aka JaW.300
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A|d2d {d}cBc|d3 def|{f}gfg e2a|{g}(f3e2) A|!
+B2B Bcd|AFD D2d|Bgf edc|d3-d2:|!
+|:A|AGF CEG|A2FD2F|BGD ddd|AFD Ddd|!
+ABA AGF|(F3E2)A|d2d {d}cBc|d3 def|!
+“NB”{f}gfg e2a|{a}(f3e2) A|B2B Bcd|!
+AFD D2d|Bgf edc|d3-d2|]
+W:NB=bar missing from MS |
+
+X:301
+T:Friskey,The. JaW.301
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+c>de e>dc|B>cd ~c2A|c>de e>dc|B>AG A3:|!
+|:{d}c>Bc c>Bc|ded c2A|{d}cBc cBc|dBG A3:|!
+|:a>ba g>ag|f>gf {g}f>ed|c>de f>ed|c>dB A3:|!
+|:E>CE F>DF|Bcd cBA|E>CE F>DF|dBG A3:|B4|]
+
+X:302
+T:New Hornpipe,A. JaW.302
+M:C
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+d2d2 fedc|d2ef d2A2|BdcB AGFE|D2DE D4|!
+d2d2fedc|d2(fg) a2gf|e2dc edcB|A2AB A4||!
+Acec Acec|Bdfd Bdfd|Bagf edcB|((3cde) A2 A2GF|!
+G2b2 F2a2|E2g2D2f2|gbag fedc|d2de d4|]
+
+X:303
+T:Princess Royal. JaW.303
+M:C|
+L:1/8
+Q:1/2=90
+C:Carolan
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:Last bar of all is illegible on my photocopy..
+Z:vmp.Chris Partington, Aug 2004
+K:Bb
+GA|B2(AB) G2(dc)|B2(AB) G2d2|e2(dc) B2c2|d2(cd) B2B2|!
+B2gB A2fA|GBAG F2(dc)|BABG|D2F2|F2G4:|!
+|:d2|gfga gfga|b2B2B2ga|bagf edcB|A2F2F2(GA)|!
+B2B2c2c2|d2d2 g4|f2d2 e4|d2G2c4|!
+B3A GBAG|F2(EF) D2(dc)|BABG “qu’s”D2F2|F2G4:|
+
+X:304
+T:Fisher’s Hornpipe. JaW.304
+M:C
+L:1/8
+Q:1/2=90
+C:”A Good Tune”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+N:Not The Usual Fisher’s HP.
+Z:vmp.Chris Partington, Aug 2004
+K:A
+aecA B2df|ecBA GBED|CEAc EAce|aedc c2B2|!
+aecA B2df|ecBA GBED|CEAc dBAG|A2A2A4:|!
+|:GBEd cAdc|B2Bc B2Bc|defg aecA|E2EE E4|!
+cecA ecBA|fdbf agfe|dBGE FAGB|A2A2A4:|
+
+X:305
+T:Spainish Spy,The. JaW.305
+M:2/4
+L:1/8
+Q:1/2=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:Aye, – Warts An’ All
+Z:vmp.Chris Partington, Aug 2004
+K:A
+“_As Written”e|A>A ((3A/B/c/) B/A/|B/A/B/c/ B/d/|\
+A>A ((3A/B/c/) B/A/|EAA:|!
+|:e|A/B/c/d/ e/f/e/d/|a/f/e/c/ a/f/e/c/|\
+A/B/c/d/ e/f/e/d/|B/A/B/c/ B/d/|!
+A/B/c/d/ e/f/e/c/|a/f/e/c/ a/f/e/c/|F2EA/B/|cAA:|
+
+X:306
+T:Barney Let The Girl Alone. JaW.306
+T:Polly Put The Kettle On,aka. JaW.306
+M:2/4
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+abag|fdd2|Beed|cAA2|abag|fdd2|B2cc|d4:|!
+|:fdge|fdge|Beed|cAA2|fdge|fdge|B2cc|d4:|
+
+X:307
+T:Come Let Us Away To The Camp. JaW.307
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quickstep
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|cdc efe|faf d2f|ege c2c|dcd|G2G|!
+cdc ege|faf d2f|ege fdB|c3-c2:|!
+|:e|e3 dcd|efe dcd|egc B2c|dcd G2e|!
+e3 dcd|efe dcd|ege fdB|c3-c2:|
+
+X:308
+T:Trip To Plymouth,A. JaW.308
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Cotillion?
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A|d2f ecA|B2d AFD|FGA Bcd|efd {d}cBA|!
+d2g ecA|B2d AFD|FGA Bcd|{f}edc d2:|!
+|:A|e2f ecA|f2g fdA|Bcd|efg|Bed {d}c2A|!
+d2f ecA|f2d AFD|FGA Bcd|{f}edc d2:|
+
+X:309
+T:Funny Eyes(?). JaW.309
+T:Salmon Tails,aka. JaW.309
+T:Salmon Tails up the Water,aka. JaW.309
+T:Trip to Aberdeen,aka. JaW.309
+T:Banks of Inverness,The,aka. JaW.309
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+N:Hard To Read The Title..
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c2|GEGc c2c2|efde cAA2|GEGc c2c2|efde c2:|!
+|:e2|egg2 faa2|gede cAA2|egg2 faa2|c’bag a2a2|!
+egg2 faa2|gede BAA2|GEGc c2c2|efde c2:|
+
+X:310
+T:Sailor Laddie,The. JaW.310
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D|G2g dBG|EAA A2B|G2g dBG|Bde g2a|!
+bag ede|aAA A2B|def gdc|BGG G2:|!
+|:(g/a/)|bag ede|aAA A2(g/a/)|bag efe|def gdB|!
+c2aB2g|aAA A2B|G2g ded|BGG G2:|
+
+X:311
+T:New Castle Hornpipe. JaW.311
+T:Kirkgate Hp,aka. Jaw.311
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_Key D in MS”dc|B2B2 BcAF|G2G2G2FG|BGBd edcB|AcGB GFED|!
+B2B2Bdce|d2d2d2ed|cBAG FGEF|D2D2D2:|!
+|:AB|c2c2c2AB|cBAG|GFED|GFGA BGBd|ecAG GFED|!
+e2e2egfg|dBge dBGB|cdec BGAF|d2ddd2:|
+
+X:312
+T:Patter On Pitter On. JaW.312
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|cedc|BAGE|Az Bz|c/B/c/d/ cG|!
+cedc|BAGE|Az Bz|c3:|!
+|:E|GG/G/ GG|d/e/f/e/ d/c/B/A/|GG/G/ GG|d/e/f/d/ eG|!
+cc/c/ cc|cccG|AcBA|Gz cz|dz B2|c3:|
+
+X:313
+T:Waddington Tune. JaW.313
+M:2/4
+L:1/8
+Q:1/4=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+N:There is a “E” at the end of the last bar of the tune, and it doesn’t
+N:fit, so I’ve left it off..CGP
+Z:vmp.Chris Partington, Aug 2004
+K:F
+c|fa/f/ fa/g/|ff/g/ af|c’a b/a/g/f/|e/f/g/e/ cc|!
+fa/g/ fa/g/|ff/g/ a/g/f/e/|db a/g/f/e/|faf:|!
+|:z|Az Az|Bz Az|BB dd|c2cz|!
+AA Az|AA BB|A2B2|A3:|!
+|:a/b/|c’c’/b/ aa/g/|f/e/f/g/ f/g/a/b/|\
+c’a b/a/g/f/|cc c/d/e/f/|!
+b2ac’|b/a/g/f/ f/e/d/c/|df cf|g/f/g/a/ f 😐
+
+X:314
+T:Miss West’s Favourite Tune. JaW.314
+M:C|
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:A
+c3d ecfe|dcBA AGFE|AEBE cEdE|cAdB AGFE|!
+c3d ecfe|dcBA AGFE|AEBE cEdE|cBAG A2-A2″Sic”|A,2:|!
+|:cABc ecBA|BGBd eceB|fBgB aBgB|fe^de f2B2|!
+bBaB gBfB|gBbB f2B2|bBaB gBfB|gef^d e2B2:|
+
+X:315
+T:Grand Quickstep,A. JaW.315
+M:2/4
+L:1/8
+Q:1/4=60
+C:”Clarinet Primo”
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+G|cc/c/ ce|cc/c/ ce|ee/e/ eg|ee/e/ eg|!
+gg(gf)|eeec|d(d/f/) B(B/d/)|Hc3:|!
+|:z|G” crs”G/G/ (AB)|c”crs”c/c/ (de)|ff ee|ddd g|!
+c’ba^g|abc’ f|ee dd|Hc3:|!
+|:z|e3d|c3B|AGAB|cBcd|!
+e3d|c3B|AGAB|Hc3:|!
+|:e|fG/G/ GG|eG/G/ GG|fG/G/ eG/G/|dG/G/ GG|!
+dG/G/ GG|eG/G/ GG|fG/G/ eG/G/|b/c’/d’/c’/ b/a/g/f/|!
+e3d|c3B|AGAB|cBcd|!
+e3d|c3B|BABc|Hc3:|
+
+X:316
+T:Swiss Boy – Quadrille. JaW. 316
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+N:NB1 .fc/c/ in bar 6 looks like it started as .f(c/d/), but the d/ has
+N:been altered and “C” written above it..NB2 .c(b/a/) .gag in MS.CGP
+Z:vmp.Chris Partington, Aug 2004
+K:F
+AB|.c(A/B/) .d(A/B/)|.c(a/g/) fc/c/|.c(b/a/) .g(a/g/)|.f(ag) (A/B/)|!
+.c(A/B/) .c(A/B/)|.c(a/g/) “NB1″.fc/c/|.c(b/a/) .g(a/g/)|f2-f||!
+c|.B(g/f/) ec|.c(a/g/) .fc/c/ |(B/c/g/f/) ec|.c(a/g/) .f(A/B/)|!
+(c/B/)(A/B/) (c/B/)(A/B/)|.c(a/g/) (f/A/)c/c/|”NB2″.c(b/a/) .ga/g/|faf|]
+
+X:317
+T:Oyster Girl. JaW.317
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+a|aba f2d|e2d A2A|ded f2d|a2g e2a|!
+aba f2d|d’2b g2b|bgf afe|d3-d2:|!
+|:f|f2ff2f|f2(f d’2g)|eee a2g|g3 f2a|!
+aba f2d|d2BG2g|baf age|d2zz2:|!
+|:z|a2g d2d|e2c A2A|ded f2d|a2g e2a|!
+aba f2d|d’2b g2b|baf age|d2zz2:|
+
+X:318
+T:Buy A Broom – Boy. JaW.318
+M:3/8
+L:1/8
+Q:3/8=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+GB|.d(d/e/d/c/)|cGG|ADD|cGG|\
+.d(d/e/d/c/)|BGG|ADF|G2:|!
+|:z|BGG|ADD|BGG|ADD|\
+.d(d/e/d/c/)|BGG|ADF|G3:|
+
+X:319
+T:Harvest Home. JaW.319
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Hornpipe
+O:England
+A:Wyresdale,Lancashire
+N:Only seven Bars In B Strain in MS..
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A2|DAFA DAFA|defe dcBA|gefd edcd|edcB AGFE|!
+DAFA DAFA|defe dcBA|gefd cABc|d2f2d2:|!
+|:f2|eAA/A/A eAA/A/A|” Bar Missing?”eAfA gAfA|edcB AGFE|!
+DAFA DAFA|defe dcBA|gefd cABc|d2f2d2:|
+
+X:320
+T:Geminiani’s Minuet. JaW.320
+M:3/8
+L:1/8
+Q:3/8=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.Minuet
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+d2c|d2c|d2e|f2e|g2f|e2d|c2d|e3:|!
+|:ecA|fdB|gec|a3|bge|cde|f2e|d3:|
+
+X:321
+T:Fairwell Ye Green Fields. JaW.321
+T:Farewell Ye Green Fields,aka. JaW.321
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D|AEA BGB|d3c3|BdB AGA|G3-G2:|!
+|:d|dBd dBd|e3 c3|Bcd {e}dcB|B3A2D|!
+GEG BGB|d3 c3|BdB AGA|G3G2:|
+
+X:322
+T:Bonny Jane. JaW.322
+M:C
+L:1/8
+Q:1/2=75
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+B>A|(G2G2G2)(F>E)|(D2D2D2)E>F|(G2G2G2)A2|(B2B2B2)(AG)|!
+(c2c2c2)(BA)|(B2B2B2)(AG)|(A2A2) AcBA|(G2E2E2)BA|!
+(G2G2G2)FE|(D2D2D2)B,2|C2B,2A,2G,2|g4agd2|!
+e2d2c2B2|A2G2e2(dc)|B2A2G4:|!
+|:(e>f)|g3ag3b|f2d2d2e2|d2efg2a2|b4a2g2|!
+g3ab2a2|g2d2d2g2|d2g2d2g2|d2g2d2B2|!
+(c2B2)(A2G2)|G2E2E2B>A|(G2G2G2)F>E|(D2D2D2)B,2|!
+C2B,2A,2G,2|g4a2d2|e2d2c2B2|A2G2e2(dc)|B2A2G4:|
+
+X:323
+T:Jigg,A. JaW.323
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+N:The B Strain is certainly open to interpretation..CGP
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_As Writ”(A/B/c)|dAG FED|dAG FED|E2FG2A|BGEE2″qu’s”B/c/|!
+dAG FED|dAG FED|E2FG2d|cADD2:|!
+|:A|d2e fdf|ece dAG|FEDE2F|G2A BGE|!
+E2Ad2e|fdf ece|dAG FED|E2FG2d|AFDD2:|
+
+X:325
+T:Duke Marlborough’s March. JaW.325
+M:C|
+L:1/8
+Q:1/2=100
+C:”James Winder 1836”
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+N:After the Tune, very bold “James Winder 1836”..
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A4|d2dd dddd|d6cB|AGFG AGFG|A4D2de|!
+f2ff ffff|f6gf|edcd edcd|e6A2|!
+d2dfe2ef|d2dfe2ef|{a}fedc B3A|A6||!
+E2|A2AA AAAA|A6A2|dcded2A2|d6e2|!
+ffff eeee|ffff eeee|fgfg (g3f/g)|a6ag|!
+fedcA2dc|BAGFE2E2|e6ef|g2fef2d2|!
+efedc2BA|d2efB2c2|d4|d8|]
+
+X:326
+T:Col. Thornton’s March. JaW.326
+M:3/4
+L:1/8
+Q:1/4=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+“_Unedited”dB G2 GG|GB Ac B2|BB Bd ce|dg fedc|BG G2 GG|G6:|!
+Bc d2 d2|dg fe d2|d2 d2 Bc|dBGB dB|GB A2 AA|!
+AcBA G2|GG GB Ac|B2BB Bd|ce dg fe|dcBA G2|GG G4||!
+zzzz|zzzz|zzzz||!
+M:4/4
+“^Edited”dB| G2 GG GBAc| B2 BB Bdce|dgfe dcBA| G2 GG G2:|!
+Bc| d2 d2 dgfe| d2 d2 d2 Bc|dBGB dBGB| A2 AA AcBA|!
+G2 GG GBAc|B2 BB Bdce| dgfe dcBA| G2 GG G2|]
+
+X:327
+T:Copenhagen Waltz. JaW.327
+M:3/8
+L:1/16
+Q:3/8=40
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+f<a|g<b f<a e<g|f<a d2 d<“sic”e|e<g A2 c<e|d<f A2 f<a|!
+g<b f<a e<g|f<a d2 d<f|e<gA2 c<e|d4:|!
+|:d<f|”sic”d<g A2 c<e|d<f A2 d<f|e<g A2 c<e|d<f A2 f<a|!
+g<“^c’ in ms”b f<a e<g|f<g d2 d<f|e<g A2c<e|d4:|!
+|:a2|b2a2f2|d4a2|b2a2f2|e4a2|!
+b2a2f2|dcdfaf|edegfe|d4:|
+
+X:328
+T:Lady (Of) The Lake,The. JaW.328
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+c||BcA G2D|E2D G2D|BcA G2D|E2A A2c|!
+BcA G2D|E2D G2D|E2D G2D|D2G G2z||!
+B2B BcA|B2c d2f|g2f e2d|c2B A2G|!
+B2B BcA|B2c d2f|g2e a2g|f2e d2c|]
+
+X:324
+T:Capt. Macintosh’s Fancy. JaW.324
+T:Captain Mackintosh’s Fancy,aka. JaW.324
+M:C|
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:Quite a bit of writing after the title that I can’t make out on my
+N:photocopy..
+Z:vmp.Chris Partington, Aug 2004
+K:D
+“_Key G in MS”A|d>ed>f dAAA|d>ed>f a2f2|bg-ge af-fd|e>fge (dc)(BA)|!
+d>ed>f dAAA|d>ed>f a2f2|bg-ge af-fd|ge-ec d2d2:|!
+|:(fg)|a>ba>b ge-ef|g>ag>a f2d2|(Ad/e/) fd (Be/f/) ge|bgec (dc)(BA)|!
+d>ed>f dAAA|d>ed>f a2f2|bg-ge af-fd|ge-ec d2d2:|
+
+X:329
+T:Rokeby. JaW.329
+M:C
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Strathspey
+O:England
+A:Wyresdale,Lancashire
+N:Strathspey?
+Z:vmp.Chris Partington, Aug 2004
+K:F
+(F<A)(F<A) c2(A<F)|(B<G)(G<F) E<GG2|\
+(F<A)(F<A) c2(A<F)|(G<B)(AG) F2F2:|!
+|:f<af<a gec2|d<fd<f ecA2|B<dB<d G<cG<c|BAGF ECDE|!
+F<AF<A c2A<F|B<GG<F E<GG2|\
+F<AF<A c2A<F|d<fe<g f2F2|]
+
+X:330
+T:Out. JaW.330
+T:?aka. JaW.330
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Jig
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+D|FGF FED|FAA A2d|Bdd Add|Bdd Add|!
+FGF FED|FAA A2d|BdB AGF|FEE E2:|!
+|:d|fgf fed|faa a2g|fgf fed|gbb b2a|!
+faa eff|def fed|BdB AGF|FEE E2:|
+
+X:331
+T:Calabria. JaW.331
+M:C|
+L:1/8
+Q:1/2=90
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+cffg f/g/a gf|f/g/a gf egg2|cffg f/g/a gf|gfge f2F2:|!
+|:f2ed cAA2|BGAF EGG2|f2ed cAA2|BGFE F2F2:|
+
+X:332
+T:Prime of Life. JaW.332
+M:2/4
+L:1/8
+Q:1/2=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:F
+c2cB|A2cf|fccA|F3A|GFGA|BABc|dccE|{E}F4:|!
+.c2.f2|.e2.f2|.e2.f2|agg2|b2a2|g2f2|ecde|gff2|!
+.c2.f2|.e2.f2|.e2.f2|(ag)g2|(ba).g.a|(gf).e.f|ecde|gff2|]
+
+X:333
+T:Spanish Dance,The. JaW.333
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+N:Bar 10 is my addition, being absent from MS..CGP..
+Z:vmp.Chris Partington, Aug 2004
+K:C
+c/e/|gg g/a/b/c’/|(ge).g a/g/|(fd).f g/f/|ecc (c/e/)|!
+gg g/a/b/c’/|(ge).g a/g/|(fd).f g/f/|ecc :|!
+|:G/B/|.d.d.d (c/d/)|”_Bar added”.e.e.e (d/e/)|fdec|dgG G/B/|!
+ddd (c/d/)|.e.e.e (d/e/)|fdec|g3|]
+
+X:334
+T:St. Sebastian. JaW.334
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+E|G2G GEG|c2c cGc|d2d {e}d^cd|e2e c2E|!
+G2G GEG|c2c cGc|d2d {e}d^cd|ccc c2:|!
+|:g|g2g ecg|g2g fdg|g2g c’2a|{g}^fef g2g|!
+g2g ecg|g2g ” NB1″fdg|g2g (ba)b|” NB2″c’3-c’2:|!
+|:g|e2g e2g|(fd).g ec.g|e2g e2g|gfe d2g|!
+e2g e2g|(fd).g (ec).g|e2ge2g|fed c2:|
+
+X:335
+T:Fanncy. JaW.335
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+ggg gc’c’|ggg gc’c’|gc’c’ c’ba|gfe f2d|!
+ggg gc’c’|ggg gd’d’|ge’d’ c’ba|gfd ec2:|!
+|:dBG ecG|fdB ge2|dBG ecG|fdB c2z|!
+dBG ecG|fdB ge2|dBG ecG|fdB c2z:|
+
+X:336
+T:Belinda. JaW.336
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Winder Ms, Lancashire, 1835-41
+R:.Quadrille
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+G2Bd2d|efgd2B|(dc)A dBG|BdBA2z|!
+G2Bd2d|efg d2B|dcA dBG|{B}AGAG2z:|!
+|:{d}cBc Afa|{e}d^cd Bgb|efg d2B|dcBA2z|!
+{d}cBc Afa|{e}d^cd Bgb|efgd2B|{B}AGAG2:|
+
+X:337
+T:Ould Original Scotch Air,An. JaW.337
+M:6/8
+L:1/8
+Q:3/8=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.Air
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+D/E/|F>ED {DE}F>ED|FAA A2d/e/|{de}f>ed {de}f>ed|{de}f>ed B2A/G/|!
+F>ED {DE}F>ED|FAA A2d/e/|fdA B>FA/F/|E>DE D2:|!
+|:A/G/|FAB FAB|~d>ef/e/ dBA|{G}F(AB) FA(d/e/)|f>ed/c/ B2A|!
+dfa fdA|B/A/B/c/d/c/ B/A/G/F/E/D/|FdA B>FA/F/|E>DE D2:|
+
+X:338
+T:Mozart’s Rome Waltz. JaW.338
+M:3/8
+L:1/8
+Q:3/8=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D|B>AG|{A}GFG|^GAA|A2D|c>BA|ABc|{^c}d2B|G2:|!
+|:A/4G/4F/4E/4|D2c/4B/4A/4G/4|F2A/4G/4F/4E/4|D2c/4B/4A/4G/4|!
+FFD|{A}G/F/G/A/B/c/|d2B|A e/d/ F/A/|G2:|!
+|:”TRIO”
+K:C
+G|c/B/c/d/e/f/|”Music runs out here”g2e|d|]
+
+X:339
+T:Coltin’s Waltz,aka. JaW.339
+T:Waltz,By Coltins. JaW.339
+M:3/4
+L:1/8
+Q:3/4=50
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+ccc2e2|ggg2e2|ccc2e2|d2z2e2|!
+fad3e|fad3c|BdG2{^f}g2|c4:|!
+|:”pia”c2|Bd(GABG)|ce(g^fge)|ag(fedc)|Bd(cBAG)|!
+Bd(GABG)|ce(g^fge)|ag(fefd)|c4:|!
+|:e>e|^g2e2e>e|a2e2e>e|e2e2e2|c2A2d>d|!
+^f2d2d>d|g2d2d>d>|d2d2d2|B2G2G2|!
+cB(cdef)|gec3c|BdG3B|cd(efg^g)|!
+agf3d|gfe3c|BdG2{^f}g2|c4:|
+
+X:340
+T:Staffordshire Militia March. JaW.340
+M:C|
+L:1/8
+Q:1/2=90
+C:”Wyresdale”
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+N:”Wyresdale ” in margin..
+Z:vmp.Chris Partington, Aug 2004
+K:D
+d3d cdec|d2d>dd4|f3f efge|f2f>ff4|!
+d3f gfed|cAcea4|efedc2~B2|A2A>AA4:|!
+|:a3g f^dfa|g2bge3f|g3f eceg|f2afd3A|!
+d>de>ef3e|f>fg>ga3g|(3fga (3bag f2e2|d2d>dd4:|
+
+X:341
+T:Coltin’s Slow March,aka. JaW.341
+T:Slow March. JaW.341
+M:C
+L:1/8
+Q:1/2=60
+C:”W..S..?Coltins”
+S:James Winder Ms, Lancashire, 1835-41
+R:.March
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D>D|G4D2D>D|B4G2B>B|.B.A.B.c .e.d.e.f|g2G2zGGG|\
+F3G/B/ dcBA|!
+G2B/{c}d/ {ef}(g/f/e/d/) (c/B/A/G/)|\
+A3B c/B/e/d/ c/B/A/G/|G/E/G/B/ A/G/F/E/D2d>d|!
+^c3BA2B>B|A3GF2d>d|^c/d/c/d/ g/f/g/e/ d2c2|d2d>dd2:|!
+|:d>e|d3e f>ef>d|g(f/e/) d/c/B/A/ GBdg|\
+(e/d/g/f/) (e/d/c/B/) c/B/e/d/ c/B/A/G/|!
+F/G/A/B/ A/F/G/E/ “Squ’s”DDEF|\
+G3A BAGF|E2E>E EEFG|A3B cB d/B/c/A/|!
+G4z2d>d|g2d>A G>Bd>g|e2e>dc2c>A|\
+(B/A/c/A/) (d/B/)(c/A/)G2~F2|G2G>GG2:|
+
+X:342
+T:Peggy. JaW.342
+T:Four & Twenty Blackbirds,aka. JaW.342
+M:2/4
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:D
+(dc).B.A|(Bd)F2|ABAF|A4|!
+(dc).B.A|(Bd)F2|FBBA|B4:|!
+|:A<d .d.d|A<d .d.d|B<e .e.e|e3f|!
+(gf).e.d|dcBA|(B<d)(c<e)|d4:|
+
+X:343
+T:Recovery,The. JaW.343
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Winder Ms, Lancashire, 1835-41
+R:.Country Dance
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:C
+GcGc|(d/c/d/e/) dd|gfdB |(c/B/c/d/) cc|!
+GcGc|(d/c/d/e/) dd|gfdB|cec2:|!
+|:gf”sic”eB|cecG|FF (F/E/F/G/)|(F2E)z|!
+gfdB|cecG|FE/F/ G/F/E/D/|C2z2:|!
+|:ee/e/ ee|e3f|edcB c/B/c/d/ e2|!
+dd/d/ dd|d3e|dcBA|G2z2:|
+
+X:344
+T:Lady Caroline (..?) Waltz. JaW.344
+T:Cushy Butterfield,aka. Jaw.344
+T:Pretty Polly Perkins,aka. Jaw.344
+M:3/8
+L:1/8
+Q:3/8=60
+S:James Winder Ms, Lancashire, 1835-41
+R:.Waltz
+O:England
+A:Wyresdale,Lancashire
+N:Song to this tune “Pretty Polly Perkins of Paddington Green”
+N:added by Harry Clifton 1865.
+N:Valdeuse? or something equally enigmatic is illegibly written several
+N:times at the end of the tune..
+Z:vmp.Chris Partington, Aug 2004
+K:D
+A/G/|(F/G/)AA|(B/c/)dd|(E/F/)GG|F2d/e/|!
+f/e/d/c/B/A/|dfa|ABc|d2:|!
+|:b|(a/g/)ee|(e/c/)AA|(a/f/)dd|dfa|!
+a/g/ee|(e/c/)AA|d/c/d/f/e/c/|d2:|!
+|:A|AFA|dcd|BAB|G2E|!
+F>GA|AGF|EDE|F2A|!
+AFA|dcd|BAB|G2E|!
+FGB|A>GF|FDE|D2:|D4|]
+
+X:345
+T:Orange & Blue. JaW.345
+M:C
+L:1/8
+Q:1/2=75
+C:”James Winder”
+S:James Winder Ms, Lancashire, 1835-41
+R:.Rant
+O:England
+A:Wyresdale,Lancashire
+N:”James Winder Written on stave at end of tune..
+Z:vmp.Chris Partington, Aug 2004
+K:C
+gf|ecc2 Gcc2|efge c2c2|fdd2 Bdd2|BGAB G2G2|!
+ecc2 Gcc2|efge c2 ((3efg)|afge fdec|BGAB c2c2:|!
+|:egg2 egg2|efge c2c2|fga2 fga2|fgaf d2d2|!
+efg2 efg2|efge c2 ((3efg)|afge fdec|BGAB c2c2:|
+
+X:346
+T:James’ Reel,aka. JaW.346
+T:Reel. JaW.346
+M:C
+L:1/8
+Q:1/2=100
+C:Titled only “Reel” in MS
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D2DD D2dc|BdAB GEEE|D2DD D2dc|BdAB G2G2:|!
+|:BddB ceeg|dBAG FAA2|BddB ceef|gfed e2e2|!
+BddB ceeg|dBAG GFED|D2DD D2dc|BdAB G2G2:|

@@ -1,0 +1,1746 @@
+%abc
+%%abc-alias Wm Tyldesley
+%c1860, UK Lancs. Swinton, Swinton Pub.Lib
+%%abc-creator ABCexplorer 1.3.7 [13/12/2009]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP.Taz Tarry, 1999
+%Revised 21/05/2003
+%Revised again 11/2008
+%Revised again 12/2009
+
+X:1
+T:Rule Britannia. TLY.001
+M:4/4
+L:1/8
+Q:1/4=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+N:Bar line placed before the A in MS.I’ve corrected this as it does not
+N:affect the tune in any way.CGP.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+A2|d2d2 d/e/f//g/ ad|e2 ef/g/f2 z A|d/c/d/e/ f/e/f/g/ aefe|\
+de/f/ e d c2z”*”A|!
+cAdc ag/2f/2 ed|c2~B2A2 z2|d2dA BG z d|\
+gfed A2 z e|a2 g2 f/d/g/e/ a/f/e/d/|!
+A2 ~e2d2 z2 ||:”^Chorus”f3f gg c f|gfed A2 z2|\
+a2g2 f/d/g/e/ a/f/e/d/|A2e2d2:|
+
+X:2
+T:Lovely Nancy. TLY.002
+M:3/4
+L:1/8
+Q:1/4=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+B>A|G2G2G>B|A2A2A>c|B2gedB|A4B>A|!
+G2G2G>B|A2A2A>c|B>g d>Bc>A|G4:|!
+|:B>c|d2d2ge|e2d2B>c|d2d2(3geB|B2A2B>A|!
+G2G2G>B|A2A2A>c|B>gd>Bc>A|G4:|!
+|:B>A|GDGDGB|ADADAc|BGdBgB|A4B>A|!
+GDGDGB|ADADAc|B>gd>Bc>A|G4:|!
+|:B>c|dBdBge|ed d2B>c|dBdBgB|B>AA2B>A|!
+GDGDGB|ADADAc|B>gd>Bc>A|G4:|
+
+X:3
+T:Duke of York’s March. TLY.003
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+D2 D>D F2 F>F| (AF)(AF) D2 A>A|(dB)(dA) dAFD|A2A>A A2 z2|!
+a3f d2f2|e2 e>g f2za|a3f (fd)(gf)|e2 e>e e2 z2:|!
+|:A2 A>A A(efg)|A2A>A A(dfa)|(ge)ee (fd)dd|bagf ~f2e2|!
+“^cr”d3f/2e/2 dAB=c|=cB B4 ^c/2d/2e/2f/2|ggff eedd|e2 e>e e2 z2|!
+D2D>D F2 F>F| (AF)(AF) D2g2|(fa)(af) (ge)(ec)|d2d>dd2:|
+
+X:4
+T:Beggar Girl,The. TLY.004
+M:6/8
+L:1/8
+Q:3/8=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Misc.
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+d>cB d>cB|A>GA B3|d>cB d>cB|A>GA G2d|!
+d>cB d>cB| A>GA B>cd|d>cB d>cB|A>GA G2z:||!
+DGB DAc|DcB {B}A>GA|DG=F E2 “^Rallantando”c/c/|BAG d2 c|!
+d>cB d>cB|A>GA B>cd|d>cB e>fg|B>cA G2 z|]
+
+X:5
+T:Bob and Joan. TLY.005
+T:Bobbing Joan. TLY.005
+M:3/4
+L:1/8
+Q:3/4=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Misc.
+O:England.
+A:Lancashire.
+N:First bar missing quaver in ms. Could be same as second bar, or d note
+N:could be a crotche
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+GB dc”qu”B2|GB dc Bd|ed cB A2|BG GD EG:|!
+|:BG EF G2|BG EF GA|BG EF G2|AB cB FD:|
+
+X:6
+T:March No1. TLY.006
+M:4/4
+L:1/8
+Q:1/2=80
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry
+K:D
+d2 d>d dcde|f2 f>f fefg|e2 e>e e2d2|c>af>d c2B2|!
+A2 A>A A2::A>A|B2 zB c2 zc|d2 d>d d2 a>a|ag/2a/2 b>a g>fe>d|!
+e2 e>e e2 A>A|d2 z2 e2z2|f2 z2 g2 z2| a2 b>a f>ed>c|!
+d2 d>d d2::z2|F2 F>F FEFG|d2 d>d dcde|f2 f>f gfed|!
+c2 c>c c2 B2|A2 c>c c2::A>A| G2 z G E2 zE|F2 F>F F2 f>f|!
+fe/2f/2 g>f e>dc>B|c2 c>c c2 A>A|F2 z2 A2 z2|!
+d2 z2 e2 z2|f2 g>f d>GF>E|F2 F>F F2:|
+
+X:7
+T:Mad Moll. TLY.007
+T:Peacock Followed The Hen,aka. TLY007
+M:9/4
+L:1/4
+Q:3/4=120
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Slip Jig
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+F|c>d (ec) A A c A A|c>d (ec) AA B2 G|c>d e c A A c A A|!
+B>c d d>e d B2G||c>d e (ge) e (ge) e|!
+c>d e (ge) e f2 d|c>d e (ge) e (ge) e|\
+B>c d d>e d B2 G|]
+
+X:8
+T:Mother Goose. TLY.008
+M:9/8
+L:1/8
+Q:3/8=120
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Slip Jig
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+G2 g gfg dBG|A2B c2d ecA|G2g gfg dBG|( A/2B/2cA) BGE E3:|!
+|:e2f g2a bge|(f/2g/2af) (e/2f/2ge) dBG| (A/2B/2cA) BGE E3:|
+
+X:9
+T:Jenny Dang the Weaver. TLY.009
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Reel
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+g|fA A/2/A/A ABAB|dA A/2A/2A f2 ed|gB Bc/2B/2 BABd|ABde f2e:|!
+|:f|defd efge|defd e2 ~dB|defd eBgB|aA A/2A/2A f2e:|
+
+X:10
+T:Duke of York’s March. TLY.010
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+D2 D>D F2F>F|AFAF D2 AB/2c/2|dAdA dAFD|A2 A>A A2 z2|!
+a3 f d3 f|edef gfed|a3f gdgf|e2 e>e e2z2:|!
+|:A2A>A Adfg|A2 A>A Adfa|geeg fdda|bagf fedc|!
+d2 de dABc|B2 B>B B2 z/4 G/4A/4B/4c/4d/4e/4f/4|g>g f>f e>e d>d|\
+c2 A>B AGFE|!
+D2 D>D F2 F>F|AFAF D2ge|eaae bgec|d2 d>d d2 z2:|
+
+X:11
+T:Hussar Waltz. TLY.011
+M:3/8
+L:1/8
+Q:3/8=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+d|dba|gBd|cAf|gBd|dba|gBd|cAf|g2:|!
+|:d|cAf|gBd|cAf|gBd|dba|gBd|cAf|g2:|
+
+X:12
+T:Persiand Ricado,The. TLY.012
+T:Gallopede,aka. TLY012
+M:2/4
+L:1/16
+Q:1/4=120
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Gallop?
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+dc|B2Bc A2AB|G2G2G2 AB|c2cd B2Bc|A2A2A2 dc|!
+B2Bc A2AB|G2G2G2 AB|cBAG FGAB|G2G2G2:|!
+|:dc|B2gf e2ed|(dcBd) A2 dc|B2gf edcB|A2A2A2 dc|!
+B2gf e2ed|(dcBd) A2 dc|BdcB AcBA|G2G2G2:|!
+|:Bc|d2d2d2g2|d2d2d2g2|d2d2 edcB|c2A2A2 Bc|!
+d2d2d2g2|d2d2d2g2|d2Bc dcBA|G2G2G2:|
+
+X:13
+T:Irish Emigrant. TLY.013
+M:2/4
+L:1/8
+Q:1/4=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+N:Time signmature in original given as 3/4. Title given as “Irish
+N:Emegrant” in Ms.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+A|d>c B>A|BA F>F|F>E F>E|D2 z (E/F/)|!
+GF GA|Bc d>d|cE c>B|A2 z A|!
+fedc|BA GF/2E/2|EFGA|B2 z (B/c/)|!
+d>cBA|BA FF/2F/2|F>EFE|D2 z2||!
+F|FdcB|ABd>F|Fedc|B2 z (B/2c/2)|!
+d>cde|f>c d(c/2c/2)|BB Ac|B2 z A/2A/2|!
+A>F Ad|d>d ec/2/c/2|Afed|BB z (B/2c/2)|!
+d>cBA|B>A FF/2F/2|F>EFE|D2|]
+
+X:14
+T:Fishers Hornpipe. TLY.014
+T:Egg Hornpipe,aka. TLY.014
+M:2/2
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Hornpipe
+O:England.
+A:Lancashire.
+N:Arnold Fishar was a ballet master at Covent Garden in about the 1760s
+N:and is known to have composed hornpipes for the stage.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+AB/2c/2|dAFA GBAG|FAFA GBAG|FDFD GEGE|FAFD E2E2|!
+dAFA GBAG|FAFA GBAG|FdBg fdec|d2d2d2:|!
+|:cd|ecAc ecge|fdBd fdaf|ecAc ecge|edcB AABd|!
+BGEG BGdB|AFDF AFdB|BGdB AGFE|D2D2D2:|
+
+X:15
+T:London March.TLY.015
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+N:I have removed the D>E from the end of the A strain to the
+N:beginning.CGP.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+“*”D>E|F2 F>F F2E2| DFAd B2A2|BdAd GdFd|E2 E>E E2 D>E|!
+F2 F>F F2 E2|D/2E/2F/2G/2 A/2B/2c/2d/2 B2 A2|\
+BdAd Gc ((3efg)|f2~e2d2:|!
+|:f>g|a>gf>g g>agf|e>fg>g f2 e2|\
+dd/2/d/2 de ff/2f/2 fg|ab>a b/2a/2g/2f/2f2 e2:|!
+|:f2 f>f f2 e2|dfAd B2 A2|BdAd GdAd|E2 E>E E2 D>E|!
+F2 F>F F2 E2|DFAd B2A2|\
+BdAd ((3Bcd) ((3efg)|f2~e2d4:|
+
+X:16
+T:Handel’s Clarinet.2Parts. TLY.016
+M:4/4
+L:1/8
+Q:1/4=120
+C:by Handel?just guessing!
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+N:Sorry – can’t decipher title – possibly should be Handel’s .
+N:something.T.T.. Ed.Handes Clavriet in MS I Have taken to mean Handel’s
+N:Clarinet. CGP.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+[V:1]|:a2f/2g/2a/2b/2 {f}”tr”e2dA|((3ded) (3efe “tr”f3 g/2a/2|\
+bbba/2g/2 aaag/2f/2|!
+[V:2]|:f2d/2e/2f/2g/2 {d}e2dD|((3FGF) ((3ABA) d3 e/2f/2|gggf/2e/2 fffe/2d/2|!
+%
+[V:1]gggf/2e/2 fffe|d/2e/2f/2g/2 ag/2f/2 b z g z|a z A z d4:|!
+[V:2]eeed/2c/2 dddA|d/2c/2d/2e/2 fe/2d/2 g z e z|fz AzF4:|!
+%
+[V:1]|:a2|fAdf e/2d/2e/2f/2 ea|fAdf e3 a|”tr”a8|a6 a2|!
+[V:2]|:a2|”tr”a8|a6a2|dAdf e/2d/2e/2f/2 ea|fAdf “tr”e4|(gf)(fe) (ed)(de)|!
+%
+[V:1](ba)(ag) (gf)fg|(ag)(gf) (fe) “tr”e2|\
+d/2e/2f/2g/2 ag/2f/2 b z g z| a z Az d2:|
+[V:2]feed (dA) “tr”A2|d/2e/2f/2e/2 fe/2d/2 g ze z|az Az G2:|
+
+X:17
+T:There is no luck. TLY.017
+T:Nae Good Luck Aboot etc. TLY.017
+M:6/8
+L:1/8
+Q:3/8=140
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Schottische
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+G|c2AG2E|F2FF2G|c2AG2E|D3-D2 G|!
+c2AG2E|F2F F2A|G2F E2D|C3C2:|!
+|:c|e2ee2c|f2ff2c|e2ee2c|d3-d2 c|!
+e2ee2c|f2ff2a|g2fe2d|c3-c2:|
+
+X:18
+T:March of the 15th. Regiment. TLY.018
+T:15th Regt. March. TLY.018
+M:4/4
+L:1/8
+Q:1/2=70
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+G2|d2d>dd2 (3edc|B2B>BB2 (3GAB|A2c>e d>cB>A|G2G>GG2 g>d|!
+e2e>ee2g>e|d2d>dd2Bd|c>Ac>c B>GB>B|A2A>AA2:|!
+|:d>B|A2A>AA2d>A|B2B>BB2(3Bcd|e2g>gg2e2|d2g>gg2 (3edc|!
+(3Bcd (3efg dcBA|G>ABB B>cdd|d2 (3edc B2A2|G2G>GG2:|
+
+X:19
+T:March No2. TLY.019
+M:4/4
+L:1/8
+Q:1/2=60
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+A>A|d2a>d (dc) eg|g2 (f/2e/2f/2g/2) a3a|\
+b>ba>g f>ed>c|d2D>D D2 f>f|!
+~f2e2z2 ^g<a>f|~f2e2z2 ^g<a>f|e>ef>e c>BA>^G|A2A>AA2:|!
+|:a>a|a8|g/2f/2e/2f/2 g4 eg|f>aa>a b>ag>f|~f2e2 z2A>A|!
+e2a>d (dc) (eg)|g2 (f/2e/2f/2g/2) a3a|b>ba>g f>ed>c|d4 z g<g>g|!
+~g2f2 z2 e<e>e|~e2 d2 z A<B>c|d>ef>g a2 A2|d2 d>dd2:|
+
+X:20
+T:Queen of Roses Polka,The. TLY.020
+M:2/4
+L:1/16
+Q:1/4=110
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Polka
+O:England.
+A:Lancashire.
+N:There is a ‘signo’ at the first bar. A pause symbol above the quaver
+N:rest in the last bar of the a part. Fine at the frst double bar. Strong
+N:accent marks on last beat of bars 2,3 and 4 of B music. “Signo” at end
+N:of B music. DC at end of B music. C music is marked as Trio and again
+N:ends with a “signo” and DC. TT.
+N:Key Sig of Trio may be wrong.CGP.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+“$”B2d2 d2cB|c2e2 e4|ABcd efga|b2fg fedc|!
+B2d2 d2cB|c2e2 e4|ABcd efga|g2b2g2″^Fine” z2:|!
+|:A2g2 gfe2|fga2 d4|^cde2 A4|B^cde f4|!
+A2g2 gfe2|fga2 B^cd2|efg2 AB^c2|d2d2d2″^DC” z2:|!
+|:”^Trio”e2f2 g4|b2a2a4|Bcde f2f2|cdef g2g2|!
+e2f2 g4|b2a2 a4|Bcde f2B2|c2ed c2 z2:|
+
+X:21
+T:March No3. TLY.021
+M:2/2
+L:1/8
+Q:1/2=60
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:Bb
+F2|B2B>B B>B A>A|B>B F>F D2 z B|\
+c2 c>c c2 c/2d/2e|f>f d>d B2 d>e|!
+f2 f>f f2 e>d|e2 e>e e2 d>c|d2 (cB) g>fe>d|d2 c4:|!
+|:d>e|f2 f>f f2 e>d|g>g e>e c2 d>e|\
+f>f d>d B2 A>B|c>c AA F2 f2|!
+g2 b2 f2 d2|B2B>B B2 d/2e/2f|(g>e) (f>d) (e>c) B>A|B6:|
+
+X:22
+T:Miss Gayton’s Hornpipe. TLY.022
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Hornpipe
+O:England.
+A:Lancashire.
+N:1st bar in B strain is my reconstruction..CGP
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+d>c|B>dg>f g2 d>c|B>dg>f g2 f>e|\
+d>fa>g f>ed>c|”_Bar not in ms”d>fa>g f>ed>c|!
+B>dg>f g2 d>c|B>dg>f g2 f>e|\
+e>fg>e f>ga>f|g2b2g2:|!
+|:g>a|b>ab>g a>g d2|g>fg>e d>BG>B|c>de>c B>cd>B|c2 A2A2g>a|!
+b>gb>g g>fd>f|g>fg>e d>BG>d|e>fg>e f>ga>f|g2b2g2:|
+
+X:23
+T:Money Musk. TLY.023
+M:2/2
+L:1/8
+Q:1/2=80
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Reel
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+b|a>df>d a>dg>b|a>df>d ef/2e/2 g>b|\
+a>df>d f>g a>d’|b>ge>g f>d d:|!
+|:b/d’/|d’>af>d’ a>d’f>d’|d’>af>d’ f>d’e>d’|\
+d’>ab>d’ a>d’f>a|b>ge>a f>dd:|
+
+X:24
+T:Paddy Cary. TLY.024
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Jig
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+G2 c cBc|e2c cBc|B2c d2e|f2d B2G|!
+G2 c cBc|e2c cBc|BAG GAB|cde d2c:|!
+|:c2e a3|g2a gec|c2e fga|gec d3|!
+c2e f2a|g2a gec|BAG GAB|cde d2c:|!
+|:f2d dcd|e2c c2c|B2c d2e|f2d B2G|!
+f2d d2d|e2c c2c|BAG GAB|cde d2c:|
+
+X:25
+T:German Minuet. TLY.025
+M:3/4
+L:1/8
+Q:3/4=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Minuet
+O:England.
+A:Lancashire.
+W: top d’ marked as top c’ in MS
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+d2f2a2|d’2 agfe|d2 dddd|d4 a2|b4a2|g4f2|!
+e2 eeee|e4 fe|de f2 ed|ef g2 fe|de f2 ed| ef g2 fe|!
+d2 f2 a2|d’2 agfe|d2 dddd|d6::A2c2e2|a2 edcB|!
+A2 AAAA|A6|d2f2a2|d’2 agfe|d2 dddd|d4 a2|!
+b2 bgbg|a2fafa|b2 gbgb|a2fafa|b4a2|g4f2|!
+e2 eeee|e4 fe|de f2 ed|ef g2 fe|de f2 ed|!
+ef g2 fe| d2 f2 a2|d’2 agfe|d2 dddd|d6:|
+
+X:26
+T:Triumph. TLY.026
+M:2/4
+L:1/16
+Q:1/4=90
+C:”Well Dun, Mon!”
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Reel
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+g2|dBBG cAAF|Ggfg e2d2|dBBG cAAF|G2B2G2z2:|!
+|:A3cB2d2 A3cB2d2|AAAc BBBd|dcBA G4:|!
+|:B3d dcBA|A3c cBAG|B2cd efge|dcBA G2G2:|
+
+X:27
+T:Mozarts Waltz,1. TLY.027
+M:3/8
+L:1/16
+Q:3/8=50
+C:Can’t think..
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+N:Has the same title as the next tune, and it may be the Primo part or
+N:not. Somebody could try them out and see if they fit together?. CGP.
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+cd|e2e2e2|edefge|f2f2f2|e4e2|d2d2d2|c2c2c2|d2dcde|[E4G4c4]:|!
+|:g2|c’gegc’g|bgdgbg|c’gegc’g|bgdgbg|!
+c’bagfe|dcBAGF|EGcedB|[E4G4c4]:|!
+|:g2|[e4g4] [c2e2]|[c4e4] [e2g2]|\
+[e2g2][d2f2][B2d2]|[B3d3][ce][d2f2]|\
+[c3e3][df][e2g2]|[e2g2][d2f2][c2e2]|[c2e2][B2d2][B2d2]|\
+[B4d4][e2g2]|[e4g4] e2|!
+c’bagfe|[d4f4][d2B2]|d’c’bagf|e3fe2|d2c2d2|\
+[E2G2c2][E2G2c2][E2G2c2]|[E4G4c4]:|
+
+X:28
+T:Mozart Waltz,2. TLY.028
+M:3/4
+L:1/8
+Q:3/4=50
+C:”Sa nout gally”
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+N:See notes to previous tune, although since the tme sig is different it
+N:rather suggests otherwise
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+c>de>fg>a|a>gg>^f g2|b>ge>ce>g|gf d4|c>de>fg>a|a>gg>^f g2|!
+c’>ge>cd>B|[E2G2c2] z2 z2::g3 gec|gf d4|c/2d/2c/2B/2 cegc’|bc’d’b g2|!
+g3 gec|gf d4|cdefgB|[E4G4c4] z2::gGeGcG|gGeGcG|!
+dGBGBG|cGeGcG|g2e2c2|g2e2c2|d2B2B2|[E4G4c4] z2:|
+
+X:29
+T:Air Allegro. TLY.029
+M:3/8
+L:1/16
+Q:3/8=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+N:There is a bar 9 in the B part which I have assumed is an error
+N:rewritten in the next bar. TT
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+D2F2A2|dcdede|fagfed|cdcBAG|FDGDAD|!
+BDADGD|FDGDAD|BDADGD|FAd2c2|d6:|!
+|:fagfed|egfedc|dfedcB|cAdAeA|fAeAdA|!
+cAdAeA|fAeAdA|cea2^g2|a6|afdafd|bgebge|!
+afdafd|bgebge|bagfed|cdcBAG|FDGDAD|!
+BDADGD|FDGDAD|BDADGD|FAd2c2|d6:|
+
+X:30
+T:Saxon Waltz. TLY.030
+M:3/4
+L:1/8
+Q:3/4=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+e2|(fec)(agf)|(eG) c3 e|(dG) B3G|(eG) c3e|!
+(fec)(agf)|(eG) c3 e|(dG) B3d|c4::(ce)|(dG) B3G|(eG) c3G|!
+(dG) B3G|(eG) c3e|(fec)(agf)|(eG) c3 e|(dG) B3d|c4:|
+
+X:31
+T:Lord Hardwickes March. TLY.031
+M:4/4
+L:1/8
+Q:1/2=80
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+N:Sign at start of first bar ofA. Pause at end of A part. Sign at end of
+N:B part and at end of D par
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+a>g|:f2 f>f f2f2|(~f3a) d’agf|e2 e>e e2e2|(~e3f) (gb).a.g|!
+f2 f>f f2f2|(~f3a) d’agf|(eb).a.g (fe).d.c|d2 d>d d2:|!
+|:A>A|A2 A>A A2A>A|F2 D2 A2 a>a|a2 a>a a2 a>a|f2 d2 a2 a>a|!
+a2 A>A A2 a>a|a2A>A A2 a>a|.a.a.a.a .a.a(.a^g)| a2 a>a (ab).a.g||!
+d4 A3 d|f4 d3 f|a2 d’>a f2 a>f| d2 f>d A2 g2|!
+f2 (d/2e/2f/2g/2) aagg|f2 (d/2e/2f/2g/2) aagg|\
+f2 a>a f2 d2|a2 A>AA2 z2:|!
+|:AA/2A/2 AA AAAA|(g4e2) z2|AA/2A/2 AA AAAA|(a4f2) z2|!
+AA/2A/2 AA AAAA|g3f g3f|.g2.f2.e2.d2|.c2.b2.a2.g2:|
+
+X:32
+T:Slow March,1. TLY.032
+M:4/4
+L:1/8
+Q:1/2=70
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+A2|d2d2 (d<f) (e<g)|f2f2 (f<a) (g<b)|a2d’2 (ag)(fe)|f2d2d2A2|!
+d2d2 (d<f)(e<g)|f2f2 (f<a) (g<b)|a2 (gf) (ba)(gf)|{f2}e6:|!
+|:A2|e2e2(ef)(ed)|(cB)(A^G) A2 z A|a2a2 (ab)(ag)|(fe)(dc) d2 z2|!
+f2 ff e2b2|d2ddc2f2|e2 (dc) (dB)(A^G)|A2A2 AGFE|!
+{D}d2d2 (d<f) (e<g)|f2f2 (f<a) (g<b)|a2d’2 (ag)(fe)|f2d2d2A2|!
+d2d2 (d<f) (e<g)|f2f2 (f<a) (g<b)|a2d2 (fe)(dc)|\
+(d<f) (e<g) (f<a) (g<b)|!
+a2d2 (fe)(dc)|(d<f) (e<g) (f<a) (g<b)|a2d2(fe)(dc)|d2 z fd2 z f|!
+d2 d’2 a2 f2|d2 dd d2d2|d2 z2 d2 z2|d6:|
+
+X:33
+T:Prince of Wales March. TLY.033
+M:4/4
+L:1/8
+Q:1/2=70
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+N:Last quaver bar 2 marked p, last crotchet bar 4 marked
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+G2|c3G c>Gc>e|g3e g2 z”^P” e|d2d2e2g2|(gfef) e2″^F”G2|\
+c3G c>Gc>e|g3e g2 (gc’)|a2 a>a (ac’bc’) (d’c’ba)|\
+{a}g2 (eg) {g}f2 df|\
+{f}e2 (ce) {e}d2 (B/2c/2d/2e/2)|d2g2g2 z2|\
+“^P”d2(B/c/d/e/) (d/c/B/d/) (e/^f/g/a/)|\
+.b.b.b.b (b/a/g/^f/) (g/f/e/d/)|\
+(c/B/c/d/)c2(c/A/B/c/) (d/e/^f/g/)|\
+.a.a.a.a (a/g/^f/e/) (d/c/B/c/)|\
+(Bg)g3(gbg)|\
+(^de)e3(^fge)|dg (^f/e/d/c/)B2~A2|G2g>gg2:|\
+|:”^P”(B>c)|d3cB2″^F”.g.^f|.e.d.c.B .A.B.c.d|\
+“^P”c3BA2″^F”.a.g.|.^f.e.d.e .d.c.B.c|\
+.B.c.d.e .^f.g.a.b|e(c’/b/) (d’/c’/b/a/)g2^f2|\
+g2g2g2(g>f)|e2(g>f)e2g2|\
+g2e2f2(f>e)|d2(f>e)d2f2|(gf).e.d e2″^F”(c’b)|\
+.a(c’/b/) (d’/c’/b/a/) g(e/g/) (g/f/e/d/)|\
+c>ce>e g>gc’>c’|a>a (~a^g/a/)|f>f (fe/f/)|dd (c/B/A/G/) cegc’|\
+g(e/f/) ge cc/c/ cc|ee/e/ ee gg/g/ gg|c’2c’>c’c’2:|\
+|BB/2B/2 BB BBBB|BB/2B/2 BB BBBB|\
+BB/2B/2 BB/2B/2 (B/2G/2).A/2.B/2 .c/2.d/2.e/2.f/2|\
+“^FF”[g4B4D4]g3 g|gg/2g/2 gg gggg|gg/2g/2 gg gggg|gg/2g/2 gg/2g/2 g2||\
+“^P Flutes 8va”Bc|e>d (d2d).e.f.g|(g>d) B2 z2 B>d|\
+c2dc B>AB>c|(B>A) A2 z2 (AB)|\
+c4 {dc}(BAGF)|d4 {ed^c} (defg)|g4 fedc|”^8va”(Bc^cd) (AB=c^c)|\
+(ed) (.d2d).e.f.g |g>d B2 z2 (Bd)|c2 d>c (BABc)|BA A2 z2 AB|\
+c4 (BAGF)|d4 (^cdef)|(ge)cA (FA)dc|(c4B2) (AB)|c4 (BAGF)|\
+(d4d)efg|g3d d^c=cA|”^FF”G4 z2 B2|\
+d2 g2 b2 g2|”^FF”(d4d)(e/d/) (c/B/A/G/)|\
+.F.G.A.B .c.d.e.f|”^FF”[D4c4g4] z2 B2|d2 g2 b2 g2|\
+(d4d)(e/d/) c/2B/2A/2G/2|F2 A2 c2 F2|\
+.G.g.f.e .d.c.B.A|GABc defg|g2 B>B c>c^c>c|d>de>e d2f2|\
+“^F”gg/2g/2 gg .g.d.g.b|\
+“^Cres.”gg/2g/2 gg .g.d.g.b|”^F”gdgb “^FF”gdgb|\
+“^FF”[D4B4g4] [D3B3g3] [DBg]|[D4B4g4]z4|]
+
+X:34
+T:King Pipping Polka. TLY.034
+M:2/4
+L:1/16
+Q:1/4=120
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Polka
+O:England.
+A:Lancashire.
+N:Wrong key sig presumably. Compare other versions. CGP.
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+“_try in other keys”A2Ad “^P”f4|g2gB f4|f2e2 efe2|\
+e2d2 ded2|A2Ad f4|g2gB f4|!
+f2e2 efe2|d2d2d2::aaa2 AAA2|B2A2 GBA2|”^P”f2e2 efe2|e2d2 ded2|!
+aaa2 AAA2|B2A2 ABA2|f2e2 edec|d2d2d2::”^F”d2dg B2de|d2c2 c4|!
+.D.E.F.G .A.B.c.d|.e.f.g.a b4|d2dg B2de|d2c2 c4|\
+.F.G.A.B .c.d.e.f|g2g2g2z2:|!
+|:”^F”d2f2 A2(3fed|c2b2b2 A2|e2g2 A2(3gfe|d2d2d2 z2|d2f2 A2(3fed|\
+c2b2b2A2|!
+e2g2 A2(3gfe|d2d2d2 z2::d2(dg) B2(de)|d2c2 c4|.D.E.F.G .A.B.c.d|!
+.e.f.g.a b4|d2dg B2de|d2c2 c4|.F.G.A.B .c.d.e.f|g2g2g2 z2:|
+
+X:35
+T:Very Favorite Duett. TLY.035
+M:3/4
+L:1/8
+Q:3/4=40
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+f4 gf/2g/2|a2 f2 d2|b3 c’d’b|a2 f2 d2|!
+e3 fge| fdfad’b|(ba)(ag)(gf)|f4e2:|!
+|:e3 fge| fdfad’b| baaggf|f4 e2|f4 gf/2g2|a2f2d2|!
+b3 c’d’b| a2 f2 d2|e3 fge|fdfad’b | agfedc|d4 d2:|!
+|:fdfdge| afgefd|bfbfd’b|afgefd|!
+Acegec|dfac’d’b|afgefd|1fedcBA:|2f4 e2||!
+|:Acegec|dfac’d’b|afgefd| f4 e2|fdfdge| afgefd|!
+bgbgd’b|afgefd|Acegec|dfac’d’b|agfedc|d4 d2|]
+
+X:36
+T:My Ain Kind Dearie. TLY.036
+M:4/4
+L:1/8
+Q:1/4=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:A
+c>B|”_As written”{AB} cEEF A>BAc| B>c d/2c/2B/2A/2 cFF c>B|cEEF A>BA a/2e/2|!
+f>e f/2g/2a/2e/2 cAA c>B| cEEF A>B A/2c/2e/2c/2|\
+B/2d/2c/2e/2 d/2c/2B/2A/2 cFF c>B|!
+cEEF A>B A/2e/2a/2e/2| f>e d/2c/2B/2e/2 cAAe|\
+~f3/4e/4f/2g/2 ac d>cde fA|!
+B/2A/2B/2c/2 d/2c/2B/2A/2 cFF c3/4B/4|\
+cEEF A>B A/2c/2a/2g/2| ~f>e f/2g/2a/2e/2 cAA|]
+
+X:37
+T:Scotch Air. TLY.037
+M:4/4
+L:1/8
+Q:1/2=60
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+(f>g)|a3 b (a>f)(ed)|(e>d)(ef)B3 d|\
+(A>B)(AF) A2 (dA)|F2 (A>B)A2 (d/e/f/g/)|!
+a3 b (a>f)(ed)|(gf)(ed) {c}B2 (f>e)|\
+(d<B)(A<F) A2 (d>e)|{de}f2 (~e>d)d2||!
+|AG|F3 A (~B>A)(B>d)|~e>def B3 b|\
+a>b(af) (gf)(ed)|g>b (b/a/g/f/) e2 (a>g)|!
+(ga)(bc’) d’2 (c’>b)|(af)(ed) B2 (f>e)|\
+(d<B)(A<F) A2 (d>e)|(d/e/f) (~e>d) d2|]
+
+X:38
+T:Quadrille. TLY.038
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:There is a ‘signo’ at start of first bar and at the end of the tune,
+N:with a DC sign at the end also. Second note of 7th. bar is assumed to
+N:be b as in third bar (ledger line missing
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+d/2e/2|f2f fef|a3f3| gbg edc|!
+dfd A2 d/2e/2|f2f fef|a3f3| gbg edc|d2e d2:||!
+c/2d/2|ecA ecA| g3 e3| fga agf| ecA A2 f/2g/2|!
+afd afd| d’3 b3|c’d’e’ d’c’b|aba”^DC” gfe|]
+
+X:39
+T:Campbells Are Coming,The. TLY.039
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Jig
+O:England.
+A:Lancashire.
+N:No keysignature given in original, but probably D. At end it is marked
+N:DC – I’ve used chord notation to cheat
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+G|”_As Written”cea gec|[Ge][Ge][Ge] [G2e2] d|cea gec|\
+[Ge][Ge][Ge] [G2e2] e|cea gec|!
+e2 g (c’2d’)|(e’d’)c’- c'(ba)| gaf efd:||G|c2c cde| G2G GED|!
+c2c cde|A2A A2B|cdc cBA| GAB c2d|edc cBA|gaf “D.C.”efd|]
+
+X:40
+T:Waltz,1. TLY.040
+M:3/8
+L:1/16
+Q:3/8=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+N:No key signature given in MS.
+H:1860.
+Z:vmp.Taz Tarry.
+K:F
+“No key sig in MS”cB|(Ac)f2 cB|(Ac)f2 (fa)|\
+(eg) c2e2|f2a2 (cB)|(Ac)f2 cB|!
+(Ac)f2 (af)|(eg)c2e2|f4::(ef)|(ga)b2 ge|(fa) c2ef|!
+(gf)(ed)(cB)|B2A2 (ef)|(ga) b2(ge)|\
+(fa) c2(fe)|dcBA (Ge)|f4:|
+
+X:41
+T:Aria. TLY.041
+M:3/8
+L:1/8
+Q:3/8=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+N:25 bar marked cresc. 32nd. bar first crotchet marked pause, last quaver
+N:A marked p. 45th. bar marked fort
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+A|ddd|d2e| (fg).e|d2e| fff| f2g| (ab).g| f2 (d’/c’/)|!
+bbb| b2 (b/a/)| ggg|g2 (a/g/)| (fe).d| (ag).f| eee|e2:|!
+A|aaf| g2e| ffd| e2A| d2d| e2e|f>af| e2a|!
+“Cres.” b>c’b| (d’c’).b| a>ba| (ba).g|f>ga| (ag).f| eee| e2A|!
+A>BA|AB=c| (=c3|B2) B|B>cB|Bcd|(d3|c2) A|!
+BdB| cec| dfd| ege| f>ga| (gf).e|d’3| b3|!
+a>gf| (gf).e| d’3| bc’d’| a>gf| (gf).e| ddd|!
+d/c/d/e/f/g/| afd| (AB).c|dd’d’|d’3:|
+
+X:42
+T:Song of Liberty. TLY.042
+M:3/4
+L:1/8
+Q:3/8=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+N:The incorrect bar lengths in the third and fourth parts have been left
+N:as in the manuscript
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+“_As written”D2|G>GB>Bd>d| db g2 (3Bdg| a2e’2 (3Adf| g2 b2 D2|!
+G>GB>Bd>d| db g2 (3Bdg| a2e’2 (3Adf| g2:|!
+|:(3Bdg| (3Adf a2 (3Adf | (3Bdg b2 (3Bdg| (3Adf a2 (3Adf|\
+(3Bdg b2D2|!
+G>GB>Bd>d|d<b g2 (3Bdg| a2e’2 (3Bdf| g2:|!
+|:B>c|d2 Bce| d2 Bce| d2 Bge| d2d2 B2|!
+c2 Afd| af (3c’/b/a/ (3g/f/e/| d2 (3Bdg (3Adf| g2:|!
+|:d>c|B2 GdB| gd b/a/g/ g/f/e/| d2 Afd| ag (3cba (3gfe|!
+d2 Bgd|bg d’/c’/b/ a/g/f/| e2 ceg| dfa|g2:|
+
+X:43
+T:Slow March,2. TLY.043
+M:4/4
+L:1/8
+Q:1/2=60
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+N:bar 1 is marked with a sign. Bars 9,10, 1313 and 14 are marked f, and
+N:have dotted quaver-semiquaver crothcet rhythm marked under the crotchet
+N:rests. End of bar 16 is marked with a sign. Minim A in bar 24 is marked
+N:accented
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+(d/e/d/c/)|:”S”B2 B>B B2 ~c2|d3 ^d (ef)(ge)|\
+(ed).B.d (dc)(cB)|{B}A2A.A A2 (d/e/d/c/)|!
+B2 B>B B2 ~c2|d3 ^d (ef)(ge)|(ed).B.d (dc).B.A|G2 G>G G2:|!
+|:g2|f2 z2 z2 g2|f2 z2 z2 b2|(ab)(c’b) (ag)(fg)| a2 a>a (ab)ag|!
+f2 z2 z2 g2|f2 z2 z2 b2|(ab)(c’b) (ba)(ag)|\
+(gf)(fe) (ed)”S”(cB)||!
+z2|(d3e/d/) (cB).c.A| G2 G>G (F/G/A/B/ c/d/e/f/)|\
+(gfed) (edcB)| (B3c/B/) AB(c^c)|!
+(d3e/d/) (cB).c.A| G2 G>G (F/G/A/B/ c/d/e/f/)|\
+(gf).e.d d2 (ef)|(a4g2):|
+
+X:44
+T:Marquis(of Harlington),The. TLY.044
+T:Dearest Dickie,aka. TLY.044
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Jig
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:GMin
+F|BAB cBc|dcd Bcd|efe dcB|ABc F2F|!
+BAB cBc| d2d =e2 b|agf =efg|f3-f2:|!
+|:d/2e/2|fdB Bcd| efg cde| dfe dcB| AcA FGA|!
+BFB dBd|fga bfd|cde FGA| G3-G:|
+
+X:45
+T:Waltz,2. TLY.045
+M:3/4
+L:1/8
+Q:3/4=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+D4 G2|B4 d2|^cdedcd| A6|!
+(DE).F.G.A.B| cBcAdc|BdGBAF|G2z2:|!
+|:d2|g2g2g2|g2g2g2|g2gfgf|g4 z2|f2a2e2|f2a2e2|f2 agfe|d2z2:|!
+|:z2|b4 a2|g4 ab|c’2 c’2 b2|b2 =g2a2|a4 g2|f4 ga|b2b2a2| g2 z2:|!
+|:z2|e6|f6|g2b2b2 | f6|g2b2b2 |f6|g2 gf g2| a2ab a2|!
+b2 babd’|{d’} c’4a2| b2 babd’| {d’}c’4 a2|\
+b2 g2g2|g2 bagf| g2g2g2| g2 z2:|
+
+X:46
+T:Irish Washerwoman. TLY.046
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Jig
+O:England.
+A:Lancashire.
+N:Untitled in MS.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+d/2c/2|BGG DGG|BGB dcB| cAA EAA| cAc edc|!
+BGG DGG|BGB dcB|cBc Adc|BGGG2:|!
+|:g/2a/2|bgg dgg|bgb bag|aff dff|afa agf|!
+egg dgg|cgg Bgg|cBc Adc|BGG G2:|
+
+X:47
+T:Waltz Mozart,4. TLY.047
+T:Mozart Waltz,4. TLY.047
+M:3/4
+L:1/4
+Q:3/4=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+N:Start of B music is marked f. Start of C music is marked p. Last beat
+N:of 8th. bar of D music is marked p
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+G|GGG| GGG| (G3|c) z G|GGG | GGG| (G3|d) z G|!
+eee| fdB|ccc |{Bd}cBA| Gce| gfd|d3 c z||!
+|:g|(c’/b/c’/b/c’/b/)| (c’/b/c’/b/c’/d’/)| e’2 c’| g2 g|!
+f2 d|c/B/A/G/A/B/| cce| c z:|!
+|:(c/e/)|g/^f/g/a/b/c’/| c2 (d/c/)|B/c/d/e/f/g/| (fe) (c/e/)|!
+g/^f/g/a/b/c’/|c2 (d/c/)|G/A/B/c/d/e/|c2:|!
+|:E|e e3/4e/4e| e2 d| cBA| GBE| e e3/4e/4e| e2 d| cBA|e2 c/e/|!
+|g/^f/g/a/b/c’/| c2 (d/c/)|B/c/d/e/f/g/|!
+(fe) c/e/|g/^f/g/a/b/c’/|c2 (d/c/)|.G/.A/.B/.c/.d/.e/|c2:|!
+|:~G|(ec) .G|(cG) .E| (Fd) .B| (ce) ~.G|(ec) .G|\
+(cG) .E|FdB| c z:|!
+d|dcB| BAG| c/B/ cd| e2 c| dcB|BAG| c/d/ed| c2:|
+
+X:48
+T:Michael Wiggins in Ireland. TLY.048
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Jig
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+A|dfe dcB|ABA AFA| DFA dfa| baf e2A|!
+dfe dcB|ABA AFA| DFA dfa|gfe d2||!
+f|afd dfa| b2 a g2 f| gab afd| cee efg|!
+afd dfa| b2 a g2 f| gba gfe| fdd d2||!
+g| fdf ece| dBd {B}AFD| EFE EFA| agf e2g|!
+fdf ece| dBd {B}AFD| DFA Bgf|edc d2|]
+
+X:49
+T:Waltz,3. TLY.049
+M:3/4
+L:1/8
+Q:3/4=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+B2B2B2| (dc)(cA) A2|(FA)(Ac) B2|(Bd)(dg) g2|!
+B2B2B2| (dc)(cA) A2|(FA)(Ac) BA| G6:|!
+d4 (Ad)| fdAdfd| ge^cege| fdaf d2|!
+d4 (Ad)| fdAdfd| ge^cege| d6||!
+(dc)(dc)(dc)|dcBA G2| AGFE D2| GABc d2|!
+(e^d)(ed)(ed)| (ed)(cB)(AB)| cBAG FA| G6|]
+
+X:50
+T:Lancers Sett of Quadrils No.1. TLY.050
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:Pause mark over double bar line at end of A music. DC at end of tune.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D min
+cdc| a2a g2g|f2 c cdc| b2b a2a| g2 z cdc|!
+a2a g2g| f2 c cdc| d2 g cde| f2 z||!
+cdc| e2e f2f| ^f2 g cdc| BcB ABA| G2 z cdc|!
+a2a g2g|f2f fed| c2A B2G| F2z||!
+ABA| d2d f2f| e2 A ABA| d2d f2f| e2 z ABA|!
+f2f e2e| d2d _e2e| d2d ^c2c|d2 z||!
+ABA| ^c2c d2d| ^d2e ABA| GAG FGF| “^cr”E3 ABA|!
+f2f e2e| d2d _e2e| d2d ^c2c| “^DC”d2z|]
+
+X:51
+T:Lancers Sett of Quadrils No.2. TLY.051
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:A
+A2AA2 B|c2A e3|A2A A2A| B2c dcB|!
+A2A A2B| c2A e3| e2f =gfe|B2c dcB||!
+e2e e2e| c2A e3|e2e e2e| B2c dcB|!
+e2e e2e|c2 A e3| e2f =gfe| B2c dcB||!
+
+X:52
+T:Lancers Sett of Quadrils No.3. TLY.052
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:Bb
+“as writ”F2| B2B>B B2B2| B3F GABc|d2d>d d2d2|!
+d3A Bcde|f2f>f f2b2| f2de fedc| B6||!
+F2|B2B2 AGAF|B2B2 AGAF| B2Bc edcB|!
+ABcd cFGA| B2B2 AGAF| B2Bc ceAc| B6||!
+B2|A2f2f2f2|fedc B2B2| A2F2 F2GA|(BA)(Bc) (dc)(dB)|!
+A2f2f2f2|fedc B2b2|B2b2 fedc|B4 b2|]
+
+X:53
+T:Lancers Sett of Quadrils No.4. TLY.053
+T:If The Life Of A Man,aka. TLY.054
+M:6/8
+L:1/8
+Q:3/8=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrlle
+O:England.
+A:Lancashire.
+N:DC at en
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+(F/G/)|A>BA A>BA|d2A A2 F/2G/2|A>BA A>BA e2 A AFA| A>BA A>BA|!
+d2A e2A| f>ed A>dc| d2 D D3||f>ed f>ed| e2A A3|!
+f>ed f>ed| g2e e3| f>ed f>ed| gfe a2 g| f>ed A>dc| d2 D”^DC” D3|]
+
+X:54
+T:Lancers Sett of Quadrils No.5. TLY.054
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:Pause mark at end of A strain.The tune runs out at . The end of the
+N:page and the next page is missing from the photocopy.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+d^cd| g2g BAB| d2 d gd^d| eAB cDA| G2F d^cd|!
+g2g BAB| d2d fd^d| ecA G2F| G3||!
+A2A | AGF ddd| d^cB g2g| gfe edc| ^cBA G2G|]
+
+X:55
+T:Jig,Untitled. TLY.055
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Jig
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+D| G2G B2B| AGA G3| B2B d2d| cBc B2 D|!
+G2G B2B| AGA G3| B2B d2d| cBc B2c|!
+d2Bd2B| d2B d2d| e2cc2e| dec B2A|!
+GAG B2A|G>AG B2A| G>AG d2c|BcA G3|!
+G>AG B2A| G>AG B2A| GBc ded| cBA G2|]
+
+X:56
+T:Yellow (Haired Laddy). TLY.056
+M:3/4
+L:1/8
+Q:3/4=30
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+N:Title is indecipherable, apart from Yellow, but tune is “Yellow Haired
+N:Laddy”. Pause mark over last beat of 6th. bar of B
+N:music.
+H:1860.
+Z:vmp.Taz Tarry.
+K:Eb
+E>F|G2B2 c>d| e3f g2|B2 (cB)(AG)|(G2F2) E>F| G2 B2 c>d|!
+(e>d)(e>f)s g2|B2 ag fg| e4::ef|g2 (ag) (fe)| d2 (fd) (cB)|!
+(c>d e2)G2| (G2F2) E>F| G2 B2 c>d|\
+e3 f g2| B>e BG F>E|E4:|
+
+X:57
+T:Getting Up Stairs. TLY.057
+T:Such A Getting Upstairs,aka. TLY.057
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Misc.
+O:England.
+A:Lancashire.
+N:A noted Morris dance tune.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+G2| B2c2d2G2| B2c2 d4| e2d2 c2B2|A2B2 c4|\
+B2c2d2G2|!
+B2c2 d4| e2d2 c2B2|A2B2 c4||
+dc|B2G2 D2G2| FGAB c2dc|!
+B2G2D2G2| FGAB c2dc|B2G2D2G2| FGAB G4 dc|!
+BABG D2G2| FGAB cAdc| BABG D2G2| FGAB G4|]
+
+X:58
+T:Jim Crow Quadrilles (1). TLY.058
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:Sign at start of tune and add end of B music. D.S at ebd if C musi
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+B2d2c2e2|B2d2 A4|BBBB c3c|B2A2 G4|\
+B2d2c2e2|B2d2 A4|BBBB c3c|d2f2 [g4c4]||!
+B4c4|B2B2 A4|BBBB c3c| B2A2 G4|\
+B4 c4| BBBB A4|BBBB c2c2|B2A2 G4||!
+[E4c4] [D4B4]| e2e2 d4| dddd e2dc| B2A2 G4|\
+[E4c4] [D4B4]| e2e2 d4| dddd e3e| d2F2G4|]
+
+X:59
+T:Jim Crow Quadrilles (2). TLY.059
+M:2/4
+L:1/8
+Q:1/2=80
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+A|d3 f|a3 b|ageb| afdA| d3 f| a3a| dfac| d2z2||!
+d| edcB| cA A2| Bcde| fd d2| edcB| cA A2| BF^GE| BAA a|!
+(b/a/g/f/) e(e/g/)| ff/c/ dd/^g/| BA za| (b/a/g/f/) e(e/g/)|!
+b/a/g/f/ ee/g/| (fg/a/) (gg/b/)| a3a|]
+
+X:60
+T:Jim Crow Quadrilles(3). TLY.060
+T:Dingles Regatta,aka. TLY.061
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:Sign at start and end of B. DC at end of C musi
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+B/2c/| “_As written”d2d e2d| B2B d2c| A2A AGA| B3 G2 B/2c/2|!
+d2d e2d| B2B d2c| A2A AGA| G3-G2||!
+g| fef def| g3 d2B| c2d B2c| B3 A2g|!
+fef def| g3e3|c2 ABc| dfe dBc||!
+B| e2e g2g| fef B2B| c3A F2 B| G3 E2 B|!
+e2e g2g| fef B2B| c2A F2 B|EFG ABc|]
+
+X:61
+T:Jim Crow Quadrilles (4). TLY.061
+M:2/4
+L:1/8
+Q:1/2=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:Pause mark at end of A. DC at end of
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+cGEG| cee2| Adfd| c2 BG| cG EG| ccc z||!
+e(3c/d/c/ Ge|d(3B/c/B/ GG| cBAG| ^F>GAA|\
+B3B| dcBA| G2 B>A| G2 zE|!
+.F.A.D.B|ce EG| FADB| c2 zg|\
+.e.c.A.f| dBGe| cAdB| c3 z|]
+
+X:62
+T:Jim Crow Quadrilles (5). TLY.062
+M:2/4
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:DC art en
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+d|cAAA|ceec|dcBc|d3 E|F>GA>F|G>AB>G|A2c2|d3||!
+d|cAAA|ceec|dcBc|d3 d|c>dB>c| A>Bc>A|EFEC|D3E|!
+EDEF| (GF)(GE)|F2D2| G3 z|F>GA>F|G>AB>G|A2c2|d3||!
+d|c>eA>B| c>de>c|d>fB>c|d3z|F>GA z|G>AB z|A2 c2| d3|]
+
+X:63
+T:Green Hills. TLY.063
+T:Green Hills Of Tyrol. TLY.063
+M:3/4
+L:1/8
+Q:3/4=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:Bb
+FBc|d3 Bde|f3 deg| fdcA eg| fdBF Bc| d3 Bde|f3 deg|!
+fecF Ac| B2 z||f2| b4 (ag)| gf f2 g2| fe e2f2| (ed) d2 z g|!
+b4 ag| (gf) f2 g2| f=e e2 c2| f3 cac| a3 cec| fgegfg|!
+efdfcf| B3||FBc|d3 A^fA| d3 edc| BABd cA| B3 FBc|!
+d3 A^fA| d3 edc| BABdcA| B2 z2 f2|b4 ag| gf f2 z g|!
+fe e2f2| ed d2 f2| b4 (ag)| gf f2 z g| fe e2 a2| b4|]
+
+X:64
+T:Bob And Joan. TLY.064
+T:Bobbing Joan. TLY.064
+M:3/2
+L:1/8
+Q:1/2=80
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Double H/Pipe
+O:England.
+A:Lancashire.
+N:Time sig. is given in MS as 2/2 – is in fact 3/4 3rd. note 2nd. bar –
+N:assumed a although ledger line missing. No title is given in the MS,
+N:although a slightly different version appears earlier on as Bob And
+N:Joan. TLY.005.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+dfag f2| dfag fa|b>agf g2|e>feA ce:|!
+|:fdBc d2|fdBd ce|fdBc d>f|e>feA ce:|
+
+X:65
+T:Waltz,4. TLY.065
+M:3/8
+L:1/16
+Q:3/8=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+A2F2d2|d4 c2|B2G2e2|e4 d2| c2A2a2|a4 g2|!
+fgag fe| d4 AB| A2F2d2|d4 c2|B2G2e2|e4 d2|!
+d2c2B2|A2B2c2| dcdf ec|d4||f2| g2e2c2|A2G2E2|!
+F2A2d2|f2d2a2| ^gabagf| edcB AG| F2A2d2| f2d2a2|!
+F2A2d2|d4c2|B2G2e2|e4d2|cdedcB|AcBdce|dcdfec|d4:|
+
+X:66
+T:Waltz,5. TLY.066
+T:Pretty Poll,aka. TLY.066
+M:3/8
+L:1/16
+Q:3/8=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:Eb
+A2|(GA)B2B2|(cd)e2e2|(F2G2A2)|(A2G2) e2|gfe(dcB)|e2g2b2|!
+B2c2d2|e4::g2|(ba)f2f2|(fd)B2B2|(bg)e2e2|e2g2b2|!
+(ba)f2f2|(fd)B2B2|(ed)(eg)(fd)|e4:||:c2|B3AG2|(e2d2)e2|!
+(c2=B2)c2|A4F2|G3AB2|B3AG2|F3EF2|G4B2|!
+B3AG2|(e2d2)e2|(c2=B2)c2|A4F2|G3AB2|B3AG2|F3EF2|E4:|
+
+X:67
+T:Polka, by Jubin. TLY.067
+M:2/4
+L:1/16
+Q:1/4=120
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Polka
+O:England.
+A:Lancashire.
+N:End of B is marked D
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+c2(3cdc A2e2|d2d2 b3g|f2f2 a3f|g>fga b2g2|c2(3cdc A2e2|d2d2 b3g|!
+f2f2 e3f|[g2B2][g2B2][g2B2]:|\
+f2((3fgf) a2d2|d2^c2 c4|g2 ((3gag) b2c2|e2d2 d4|!
+b2(3bc’b e’2b2|b2 a4 f2|a2 g4 e2|fefg a2A2|\
+f2((3fgf) a2e2|d2=c2 c4|!
+g2 ((3gag) b2^c2|e2d2 d4|b2(3bc’b d’2b2|b2 a4 f2|\
+a2 g4 e2|d2d2d2||!
+G2|.c2.e2.g2 ((3cdc)|B2d2=f2 G2|B2d2f2 (3aba|\
+g2 e4 G2|c2e2g2 ((3e^fe)|d2 =f4 ((3ded)|!
+c2e4 ((3cdc)|B2 d4 G2|\
+c2e2g2 ((3cdc)|B2d2f2 G2|B2d2f2 ((3aba)| g2c2e2 G2|!
+c2e2g2 ((3cdc)|B2d2f2 (3aba|g2B2d2 ((3ded)| d2f2d2|]
+
+X:68
+T:No. 2 Polka. TLY.068
+M:2/4
+L:1/16
+Q:1/4=120
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Polka
+O:England.
+A:Lancashire.
+N:DC at end of B part and at end of C part – DC at end of B part looks in
+N:different handwriting to Tillasly’
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+EFG2 e2c2|A2A2 f4|Bcd2 b2a2| a2g2 e2c2|!
+EFG2 e2c2|A2A2 a4|Bcd2 a2B2| c2c2c2:|!
+f2 z2 a2ba|g2e2 e4| g2(3gag f2d2| c2e2e2 z2|!
+f2 z2 c’2ba|g2e2 e4| g2(3gag f2d2|c2cd e2c2|!
+f2 z2 d’2c’a|g2e2 e4| g2(3gag f2d2| c2e2e4|!
+f2 z2 a2ba|g2e2 e4| g2(3gagf2d2| c2e2c2||!
+K:F
+c| .f2.f2.a2 z f|.e2.e2.g2 zg| .b2.b2.d’2 z d’| c’2a2a2 z c|!
+f2f2a2 z f|d2d2b2 zb| d’2d’2c’2 zc|g2f2f2 z2|!
+b2b2 d’2c’b| a2a2 c’2ba| g2g2 b2ag| a2bb c’4|!
+b2b2 d’2c’b|a2a2 c’2ba|g2g2 b2ag| .f2.a2.f2|]
+
+X:69
+T:Quadrils (1). TLY.069
+M:6/8
+L:1/8
+Q:3/8=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:DC at end of B part, also at end of C part. DC at end of B part looks
+N:to be a different hand to Tillasley’
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+G|c3 e3| c3-c2 (G/F/)|E2 E EDE| G2F E2G|!
+d3 f3| d3 dcB| BAG GAB| (d3c2)||!
+G| f2 d dcd| e2c cBc| d2 B GAB| c2 e c2 G|!
+f2 d dcd| e2c cBc| d2B GAB| c3-c2||!
+e/2c/2| A2 A Ae[cA] |B2B Bdf| e2e dcd| e2e ecA|!
+A2A Aec| B2B Bdf| e2 e ^g2g| a3a2|]
+
+X:70
+T:Quadrils(2). TLY.070
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:C
+ce| gece g2a2| gece g2a2| g2g2f2e2| d^cde d2ce|!
+gece g2a2| gece g2a2| gege fdfd | c2c2c2:|!
+|:Bc| dBGB d2d2| ecGc e2e2| f2gf e2fe| dcde d2Bc|!
+dBGB d2d2| ecGc e2e2| f2gf e2fe| d2d2d2:|
+
+X:71
+T:Quadrils (3). TLY.071
+M:6/8
+L:1/8
+Q:3/8=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:DC at end of B and C parts – not in Tildesley’s hand
+H:1860.
+Z:vmp.Taz Tarry.
+K:F
+c| caa egf| c3- c2 d|c2 A c2 A| c2B G2c|!
+caa egf| d3 dcB| Acc BGE| (G3F2)|]
+A|BGE c2 B| Acf a2 f| bge c2B|Adc c2 A|!
+BGE c2 B| Acf a2 f| egb d’be| (g3f2)||!
+A|d3f3| e3 ge^c| dfa bge| d3 c2 A|!
+d3 f3 |B3 e2g| f2 d e2 ^c| d3 d2|]
+
+X:72
+T:Quadrils (4). TLY.072
+M:6/8
+L:1/8
+Q:3/8=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:DC at end of B music (not in Tillasley’s hand?
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+A| d2e f2 e| d3- d2 A| BGB AFA| BGB A2 A|!
+d2e f2e| d3- d2 a|agf ede| d3- d2 :|!
+|:A/2G/2|F2 A d2 A| f2 d e2 c| d2 B A2 ^G| A3-A2 A|!
+e3 efe | d3 def| g3 gag | f3- f2 A|!
+e3 efe| d3 d2 f| efe dcB| A2 A A2:|
+
+X:73
+T:Quadrils (5). TLY.073
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Quadrille
+O:England.
+A:Lancashire.
+N:DC marked at end of B abd C music (not in Tildesley’s hand?
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+d2dd d2dd| d2dd d2g2| G2B2 e2d2| d2d2 A4| !
+c2cc e2ee| c2cc A2AA| F2e2d2F2| A4 G2z2:|!
+B4 c2^c2| d2g2B2d2| A2e2 d2F2| G2A2B2c2|!
+B4 c2^c2| d2e2f2g2| F2e2d2F2| A4 G2 z2||!
+B2BB B2BB| B2BB B2e2| ^d2e2a2g2| g2b2 B4|!
+B2BB B2BB| B2BB B2g2| f2e2 ^def=d|f4e2 z2|]
+
+X:74
+T:Waltz,5. TLY.074
+M:3/4
+L:1/8
+Q:3/4=50
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Waltz
+O:England.
+A:Lancashire.
+N:triplets are not marked after first bar in C part but simil
+H:1860.
+Z:vmp.Taz Tarry.
+K:Bb
+F2| B3 cdc| Bb B2 cB| AcFAcA| Bd F2F2|!
+B3 cdc| Bb B2 cB| AcFAcA|B4:|!
+|:B2|ABcdec|dfedcB|ABcdeB|df F2B2|!
+ABcdec|dfedcB|ABcdeB B4:|!
+|:F2| (3BcB (3ded (3 fgf| bfd Bdf bfd|ecA FAc ecA| Bdf ecA FAc|!
+BcB ded fgf| bfd Bdf bfd|ecA FAc ecA| Bdf ecA FAc|B4:|!
+|:f2|=efgf_ec| (c2f2) B2|ABcdec| (d2B2) f2|!
+=efgf_ec| (c2f2) B2|ABcdec| B2 B,2 😐
+
+X:75
+T:Fall of Paris. TLY.075
+T:Downfall Of Paris,aka. TLY.075
+M:2/4
+L:1/16
+Q:1/4=80
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+N:A part has only 15 bars in MS. Pause mark at end of
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+d2d>e d2d>e|d2d>e gfed|e2e>f e2e>f| e2e>f agfe| f2f>g f2f>g |\
+f2f>g| bagf| e2e>d e2e>d| efge cABc|d2d>e d2d>e|\
+“^Possibly a bar missing”d2d>e gfed|\
+e2e>f e2e>f| e2e>f agfe| f2f>d a3g| fede f2e2| d2d2 d4:| \
+|:a8| a2f2b2a2| g2g>f g2g>f| g2g>f g4| g8 g2e2a2g2| f2f>e f2f>e|\
+f2fe f4:||:(ABcd) (cBAG)| (FGAB) (AGFD)| d2d2e2e2| f2f2 e4|\
+(ABcd) (cBAG)| (FGAB) (AGFE)|d2e2f2e2| d2d2 d4:||:\
+.c2.d2.e2.f2| .g2.f2.e2.d2|\
+.c2.d2.e2.f2| .g2.f2 e4| (ABcd) (cBAG)|\
+(FGAB) AGFE|d2e2f2e2| d2d2 d4:|
+
+X:76
+T:Duke of Yorks New March. TLY.076
+T:Toreador?..TLY.076
+M:4/4
+L:1/8
+Q:1/2=80
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+N:Forte marked in 2nd beat, 8th. bar, piano marked in second 10th. barbea
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+a>a|f2 a>a f2 a>a| {g}gf/g/ e2 z2 g>g| e2 g>g e2 g>g|\
+{g} fe/f/ d2 z2 D>F|!
+A2 F>A d2 A>d| f2 d4 a>d’| a2 f>a g2 e>a| f2 F/G/A/F/ A2 D>F|!
+A2 F>A d2 A>d| f2 d4 a>d’| a2 f>a g2 e>a|d2 d>d d2e2|!
+f2 z2 (f/g/) a>a {b}gg/f/| e2 e>e e2 f2| g2 z e/f/ gg {a}gf/e/|\
+f2 a>a a2 ag/f/|!
+b2 d’>d’ d’2 {e’}d’c’/b/| a2 a>a a2 {b}ag/f/| ee/e/ ff/f/ gg/g/ ee/e/|\
+f2 z2z2 f>f|!
+ee/e/ ff/f/ gg/g/ ee/e/| f2 z2z2 f>f|\
+ee/e/ ff/f/ gg/g/ ee/e/| d2 d’2 d’2|]
+
+X:77
+T:Miss Bakers Hornpipe. TLY.077
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Hornpipe
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:F
+cB|A2F2 FAGF| EG B2 BdcB| Acde fcdB| A2 F2 F2 cB|!
+A2F2 FAGF| EG B2 BdcB| Acde fcdB| A2 F2 F2:|!
+|:c2| fcAc fagf| gece gbag| afge fdgf| e2 c2 c2 fe|!
+dcBA B2 ba| gfed c2 BA| Bcde fcdB A2 F2 F2|]
+
+X:78
+T:Through The Wood Lady. TLY.078
+T:Through The Wood Laddie,aka. TLY.078
+M:3/4
+L:1/8
+Q:3/4=30
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Air
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:F
+FC| D2 DE FG| A2A2 fc| d2 fdcA| G4 FG|!
+A3 B AB| A2 F2 FG| AG AB AG| A2 F2 DC|!
+D2 DE FG| A2 A2 (3ABc| d2 fdcA| G4 (3ABc|!
+d2 fd cA| cd cB AG| A2 D2 ~E2 | F4:|!
+|:fc | d2 de fg| a4 fg| a2 ba gf| g4 fg|!
+a2 (bagf)| a2 f2 fg| ag ab ag| a2 f2 dc|!
+d2 de fg| a4 fg| (a/g/f/e/) (f/e/d/c/) (d/c/B/A/)| G4 (3ABc|!
+d>e fdcA| cd cB AG| A2 D2 ~E2 | F4:|
+
+X:79
+T:Smith’s Hornpipe. TLY.079
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Hornpipe
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:A
+(3efg| aece Acec| fdBG A2 Bc| defe dcBA| GABG E2 (3efg|!
+aece Acec| fdBGA2 Bc| defe dcAB| A2A2A2:|!
+|:ed| ceAe ceAe| dfBf dfBf | ceAe ceAe| GBEB GBEB|!
+ceAe ceAe| dfBf dfBf| eagf edcB| A2A2A2:|
+
+X:80
+T:A Favourite Hornpipe. TLY.080
+T:Navvie On The Line,aka. TLY.080
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Hornpipe
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:A
+cd| eagf edcB| AcEA c2 BA| GBEB d2cB| AcEA c2cd|!
+eagf edcB| AcEA c3 B| Afed cBAG| B2A2A2:|!
+|:cB|AcEA c2BA| GBEB d2cB| AcEA c2BA| GBEB d2cB|!
+eagf edcB| AcEA c3B| Afed cBAG| B2A2A2:|
+
+X:81
+T:Jubillee Hornpipe. TLY.081
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Hornpipe
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:A
+ed| cBAG Aaga| fedc dfed| cBAG ABcd| BAGF D2 ed|!
+cBAG Aaga| fedc dfed| cBAG AGFE| DAGB A2:|!
+|:ed| caea caea| dafa dafa| caea caea| BAGF E2 ed|!
+caea caea| dafa dafa| cBAG AGFE| DAGB A2:|
+
+X:82
+T:Bang Up Hornpipe. TLY.082
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.Hornpipe
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:F
+cB| AFAc fcAc| Bdgf edcB| Acfe dcBA| G2G2G2 cB|!
+AFAc fcAc| Bdgf edcB| Acfc AcGB| A2 F2F2:|!
+|:ef| gfed cBAG| AFGA Bcde| fgaf bagf| e2 c2c2 cB|!
+AFAc fcAc| Bdgf edcB| Acfc AcGB| A2 F2F2:|
+
+X:83
+T:Granes March,2parts. TLY.083
+M:2/2
+L:1/8
+Q:1/2=60
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+N:triplets not marked in 6th. and 7th. bars, 9th, 10th, 13th., 14th. and
+N:17th. bars in original
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+[V:1]|:f4 e4| d>dd>d d2 A2| a4 g4| f>ff>f f2 d2| f>ff>a e>ee>a|!
+[V:2]|:d4 A4| F>FF>F F2 D2|f4 e4| d>dd>d d2 F2|\
+d>dd>f A>AA>f|!
+%
+[V:1]d>dd>f e2 A2| (3ded (3efe (3fgf (3efe|\
+(3aba (3gag (3fgf (3efe| d>dd>dd4:|!
+[V:2]F>FF>d A2D2|(3FAF (3AdA (3ded (3AdA|\
+(3fgf (3efe (3ded (3AdA| F>FF>F F4:|!
+%
+[V:1]|:(3fgf (3fgf (3efe (3efe| (3gag (3gag f4|\
+f>ff>a e>ee>a| d>dd>f e2 A2|!
+[V:2]|:(3ded (3ded (3AdA (3AdA| (3efe (3efe d4| d>dd>f A>AA>f|\
+F>FF>d A2 D2|!
+%
+[V:1](3fgf (3fgf (3efe (3efe| (3gag (3gag f4| a8|\
+a8| (3aba (3gag (3fgf (3efe| d>dd>d d4:|
+[V:2](3ded (3ded (3AdA (3AdA| (3efe (3efe d4|!
+(~f8|~f8)|(3fgf (3efe (3ded (3AdA| F>FF>F F4:|
+
+X:84
+T:Life Guards March,The,2parts. TLY.084
+M:4/4
+L:1/8
+Q:1/2=80
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:.March
+O:England.
+A:Lancashire.
+D:1860.
+Z:vmp.Taz Tarry.
+K:G
+[V:1]|:D2| G2 GG GBAc| B2BB Bdce| dgfe dcBA| G2 GG G2 D2|!
+[V:2]|:z2| z4 z2 D2|G2 GG GBAc|Bedc BAGF|G2GGG2 z2|!
+%
+[V:1]G2 GG GBAc| B2BB Bdce|dgfe dcBA| G2GGG2:|!
+[V:2]z4 z2 D2|G2 GG GBAc|Bedc BAGF|G2GGG2:|!
+%
+[V:1]|:Bc|d2dd dgfe| d2dd d2 Bc| d2 dd dgfe| d2 dd d2 Bc|!
+[V:2]|:z2|B2BB B2 AG| F2FF F2GA|\
+B2BB B2 AG| F2 FFF2 GA|!
+%
+[V:1]dBGB dBGB| cAFA cAFA| BGDG BGDG| A2AA A2 D2|!
+[V:2]BGGB BGGB| AFFA AFFA|GDDG GDDG |\
+F2 FFF2 z2|!
+%
+[V:1]G2GG GBAc| B2BB Bdce| dgfe dcBA|G2 GG G2:|
+[V:2]z4 z2 D2|G2 GG GBAc|Bedc BAGF|G2GGG2:|

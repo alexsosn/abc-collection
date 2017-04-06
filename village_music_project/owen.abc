@@ -1,0 +1,1214 @@
+%abc
+%%abc-alias My music
+%Indiana 1826
+%%abc-creator ABCexplorer 1.3.9 [24/10/2011]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP.Chris Partington
+%Revised 15/10/2005
+%Revised again 11/2008
+%Revised again 12/2009
+
+X:1
+T:Londini Hornpipe(?) RDO.01
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+dc|BGBd BGBd|gfge dBAG|ecdB cABG|F2A2A2dc|!
+BGBd BGBd|gfge dBAG|ecdB cA” unclear”BG|D2G2G2:|!
+|:dc|gggg gggg|dgba gfed|aaaa aaaa|cfag fedc|!
+BgdB AecA|GdBG fefd|gfge dcBA|B2G2G2:|
+
+X:2
+T:Miss Gaston’s Hornpipe. RDO.02
+T:Miss Gayton’s Hornpipe,aka. RDO.02
+M:4/4
+L:1/8
+Q:1/2=80
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+d>c|B>dg>fg2d>c|B>dg>fg2d>c|Bbag fed^c|dfag fedc|!
+Bdgfg2|d>c|Bdgfg2g>f|efge fgab|g2g2g2:|!
+g>a|babga2f2|gfged2B2|cdec BcdB|AGABA2g>a|!
+babga2f2|gfged2g>f|efge fgab|g2b2g2:|
+
+X:3
+T:Co-operative H’pipe,The,aka. RDO.03
+T:Miss Green’s Hp,aka. RDO.03
+M:4/4
+L:1/8
+Q:1/2=80
+C:untitled in ms, my title.
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:C
+G2|c<eg2g^fge|c<eG2c<eG2|d^cde fgag|fedc BGAB|!
+c<eg2g^fge|c<eG2ceG2|d^cde fagf|e2c2c2:|!
+|:gf|egeg c’geg|fgag “unclear”f2f2|fgag fgef|decd cBAG|!
+c2ed cBAG|F2ag fedc|Bcde fdgf|e2c2c2:|
+
+X:4
+T:Hornpipe. RDO.04
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:C
+GF|EGc2BdGg|fedc Bcde|fd”tr”d2ec”tr”c2|BcdB GAGF|!
+EFc2BdGg|fedc Bcde|fdec AdBG|c2c2c2:|!
+|:gg|fgdg egcg|fgdg efgf|edcB Afag|fedc BdGF|!
+EGc2BdGg|fedc Bcde|fdec GdBG|c2c2c2:|
+
+X:5
+T:Hornpipe. RDO.05
+M:4/4
+L:1/8
+Q:1/2=80
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+F2|B>AB>d B>AB>d|Bbag gfed|c>ded c>dc>B|A>Bc>B A>FG>A|!
+B>AB>d BABd|Bbag g>fe>d|cdec AFGA|B2d2B2:|!
+|:A>G|F>Ac>e F>Ad>f|e>dc>B B>AG>F|GB”tr”B2FB”tr”B2|cdec BAGF|!
+E>gg2D>ff2|edec BAGF|Egfe edcB|B2d2B2:|
+
+X:6
+T:Saxon’s Hornpipe,aka. RDO.06
+M:4/4
+L:1/8
+Q:1/2=80
+C:untitled in ms
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+FE|D<FB2B2AB|cAFAB2Bc|d<B”tr”B2e<c”tr”c2|fdBd cAFE|!
+E<FB2B2A>B|cAFAB2AB|cfdB AFG=E|F2F2F2:|!
+|:de|fedc B=AGF|G2E2E2|ef|gfed cfdB|A2F2F2de|!
+fdfd gege|fdfd gege|fbag fedc|B2B2B2:|
+
+X:7
+T:College Hornpipe. RDO.07
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+z2|B2B2B2FE|DFB4(3dcB|c2c2c2cB|Acf2f2ga|!
+(ba)gf (gf)ed|ecde BAGF|GBAc Bdce|d2B2B2:|!
+|:” sic”[Ff][Ee]|dfbf dfbf|g2e2e2gf|=egc’g egc’g|a2f2f2ga|!
+b2g2f2df|edcB BAGF|GBAc Bdce|d2B2B2:|
+
+X:8
+T:Hornpipe. RDO.08
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:F
+cB|{B}[A2a2][Gg][Ff] cfaf|cfaf cfaf|{b}a2ge cfaf|a2g2g2c’b|!
+afca bgeg c’afa d’bgb|fdcB agc’b|a2f2f2:|!
+|:((3c/d/e/)|(fe)fc ABcA|fefc ABcA|((3Bcd) cB AG gf|e2c2c2((3cde)|!
+fefd dcBA|BGgf fedc|BAGF DEGB|A2F2F2:|
+
+X:9
+T:Hornpipe. RDO.09
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:F
+(cd/e/)|f2F2F2a/g/f|g2G2G2ga|(ba)gf (ef)ga|gec2c2(cd/e/)|!
+f2F2F2ag/f/|g2G2G2ga|bagf efga|”qu’s in ms”f2f2f2:|!
+|:cB|Afcf afcA|Bfdf bfdB|Afcf afcA|A2G2G2cB|!
+Afcf afcA|Bfdf bfdB|bagf efga|f2f2f2:|
+
+X:10
+T:Nelson’s Hornpipe. RDO.10
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+N:One of several different Nelson Hornpipes……
+Z:vmp.Chris Partington
+K:Eb
+B,2|E2E>EE2E2|GEGB eBGE|B2B>BB2B2|d>Bd>f|a>fd>f|!
+e2e>ee2e2|gegb eBGB|Egfe dcB^A|B2B2B2:|!
+|:B2|B2B>BB2B2|cded cBAG|ABcB AGFE|defe dcBA|!
+G>ee2ceBe|G>e”tr”e2ceBe|Ac’ba gfed|e2e2e2:|
+
+X:11
+T:Hornpipe. RDO.11
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+f>e|d2B2B2d>B|cBAB cdec|babf edcB|A2F2F2fe|!
+d2B2B2gf|=e2c2cdec|f=efb afeg|f2f2f2:|!
+|:d>e|f3e dbfd|e3d cgec|dfdB gbge|dcBA Bcde|!
+f3e dbfd|e3d cgec|f2ge dcBA|B2B2B2:|!
+|:d>e|fbd2fece|dfB2cBAB|dBAB GBcd|edcB Acde|!
+fbd2fece|dfB2cBAB|dBAB GecA|B2B2B2:|
+
+X:12
+T:Hornpipe . RDO.12
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:D
+FG|ABAG FEDE|F2A2A2Bc|dcde dfed|e2a2a2FG|!
+ABAG FEDE|F2A2A2Bc|dcdf edef|d2d2d2:|!
+|:cd efed cdef|g2e2e2de|fgfe defg|a2f2f2dA|!
+BGeB cAec|dAfd ecag|fefg afge|d2d2d2:|
+
+X:13
+T:Hornpipe. RDO.13
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:D
+A2|dAdf egfe|d2d2(dc)BA|BAGF GFED|E2e2e2A2|!
+dAdf egfe|d2d2(de)fg|fbag fedc|d2f2d2:|!
+|:c’b|(ag)fe (de)fg|ad’c’d’ e’d’c’d’|eAfA gfed|cdef e2dB|!
+AGFE DEFG|Adcd edcd|eAfA gedc|d2f2d2:|
+
+X:14
+T:Hornpipe. RDO.14
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:D
+A2|d>cded2de|f>efgf2fe|dAfd gfed|cdef dcBA|!
+d>cded2de|f>efgf2fe|dAfd gedc|d2f2d2:|!
+|:fg|afafd2df|(ed)cBA2AG|FAGB Adce|dcde (de)fg|!
+afafd2df|edcBA2AG|FAGB Adce|d2f2d2:|
+
+X:15
+T:Utopian H’pipe,aka. RDO.15
+M:2/4
+L:1/16
+Q:1/4=70
+C:untitled in ms,my title
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+N:Yes, lots of semi-quavers!..In an ideal world I’d be able to play out
+N:of first position…….CGP..
+Z:vmp.Chris Partington
+K:F
+A2|d>^cd>c d>fe>d|^c>de>c d>ab>a|g>fe>f g>fe>d|c2a2a2A2|!
+d>^cdc dfed|=cdcB A2af|dBbg ecc’e|f2a2f2:|!
+|:(fg)|a>fa>f g>eg>e|fd^cd e2ag|g>fe>d {e}d>^cd>f|e2a2A2 (=Bc)|!
+d>Af>d e>Aa>g|f>ad’>c’ b>ag>f|g>ba>g faA^c|d2f2d2:|
+
+X:16
+T:Byrne’s Hornpipe,aka. RDO.16
+M:2/4
+L:1/16
+Q:1/4=90
+C:untitled in ms
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+FE|DFB2 DFB2|(Ac)e2 ecAF|(DF)B2 Gcde|B4A2 FE|!
+DFB2 DFB2|Ace2 ecAF|DBGe dcBA|B2B2B2:|!
+|:d2|cfdB AcBG|F=EFG F2d2|cfdB AcBG|Ff=e_e cAFE|!
+DFB2 DFB2|Ace2 ecAF|DBGe|dcBA|B2d2B2:|
+
+X:17
+T:Hornpipe. RDO.17
+M:2/4
+L:1/16
+Q:1/4=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:F
+z2|F3GA2B2|defd dAGF|GFGA BABc|d2g2g2z2|!
+F3GA2B2|defd cAGA|F2f2 cdcB|A2F2F2:|!
+|:z2|f2f2g2c2|f2f2g2c2|g2g2f2f2|g2g2g2z2|!
+f2f2e2e2|fdfd cAGA|F2f2 (cd)cB|A2F2F2:|
+
+X:18
+T:Hornpipe. RDO.18
+M:2/4
+L:1/16
+Q:1/4=80
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:F
+c2|f>c”tr”c2 A>c”tr”c2|dBGF EDCB,|Afcf Bfdf|gbgf e>d”tr”c2|!
+f>c”tr”c2 (A>c)”tr”c2|dBGF EDCB,|Afcf Bfdf|GBGE F2:|!
+cB|A>c”tr”c2 fcaf|ecbg fedc|dbbd caac|bgdg fedc|!
+f>c”tr”c2 A>c”tr”c2|dBGF EDCB,|Afcf Bfdf|GBGE F2:|
+W:*tr represents Owen’s Trilly symbol
+
+X:19
+T:Fisher’s Hornpipe,aka. RDO.19
+T:Egg Hp,aka. RDO.19
+T:China Orange Hp,aka.RDO.19
+M:2/4
+L:1/16
+Q:1/4=80
+C:untitled in ms
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+N:Untitled in MS.
+Z:vmp.Chris Partington
+K:F
+c2|fcAc BdcB|AcAc BdcB|AFAF BGBG|cAGF EGEC|!
+fcAc BdcB|AcAc BdcB|Acfa agfe|f2f2f2:|!
+|:ef|gece gebg|afcf afc’a|gece geba|gfed c2^c2|!
+dBFB dBfd|cAFA cAfc|dfed cNBAG|F2F2F2:|
+
+X:20
+T:Hornpipe. RDO.20
+M:2/4
+L:1/16
+Q:1/4=80
+S:Robert D. Owen MS,Indiana,1826.
+R:.March
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Eb
+E6z2|G6z2|B2B2 Bcde|B2BB B2g2|!
+a2aa a4|g2gg g4|defg fedc|B=ABc B_AGF|!
+E6z2|G6z2|B2B2 Bcde|B2BB B2g2|!
+a2aa a4|g2gg g4|defg fedf|e2ee e2||!
+|:z2|a2aa a4|g2gg g4|defg a2g2|g4f2g2|!
+a2aa a4|g2gg g4|defg fedf|e2ee e2:|!
+|:G2|c2cc c2d2|fede c2G2|c2d2e2f2|g2G2G2G2|!
+c2cc c2d2|fede c2a2|g2f2e2d2|c4c2:|!
+|:(3Bcd|e2ee e2e2|e4z4|g2gg g2g2|g4z4|!
+b2bb b2b2|b4bgeg|f2e2f2g2|e4e2:|
+
+X:21
+T:Country Dance. RDO.21
+M:2/4
+L:1/8
+Q:1/2=100
+S:Robert D. Owen MS,Indiana,1826.
+R:.Misc.
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+F|BABc|Bdfd|cBcd|fedc|BABc|Bdfe|decd|B2B2:|!
+|:cecB|Acfz|edec|f2c2|cdcB|Acf2|gfga|f4:|!
+|:b2ff|f2dd|d2BB|F4|BABd|cBcd|edcB|A2F2|!
+b2ff|f2dd|d2BB|F4|BABd|cABc|ABcA|B4:|
+
+X:22
+T:Country Dance. RDO.22
+M:2/4
+L:1/16
+Q:1/4=100
+S:Robert D. Owen MS,Indiana,1826.
+R:.misc.
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+B2dB F2d2|B2dB F2d2|f2gf edcB|ABcA F2f2|!
+B2dB F2d2|B2dB F2d2|f2gf edcB|ABcA B4:|!
+|:FAcA ecAc|BABc dBAB|FAcA ecAc|B2d2F4|!
+FAcA ecAc|BABc dBAB|FAcA ecAc|B2d2B4:|!
+|:b2ag f2d2|e2fg f2d2|g2e2 c2f2|edcdB4|!
+b2ag f2d2|e2fg f2d2|g2e2c2f2|d2B2B4:|
+
+X:23
+T:Waterloo Dance,The,aka. RDO.23
+M:2/4
+L:1/16
+Q:1/4=100
+C:untitled
+S:Robert D. Owen MS,Indiana,1826.
+R:.Galop
+O:Indiana,USA
+A:New Harmony
+N:No title in MS.
+Z:vmp.Chris Partington
+K:D
+AG|F2dB A2fe|d2d2d2 cd|e2e2 dcBc|defd A2AG|!
+F2dB A2fe|d2d2d2 cd|e2e2 dcBc|d2fe d2||!
+cd|e2ec a2af|e2ec A2A2|^GABc dBed|d4 c2 cd|!
+e2ec a2af|e2ec A2A2|^GABc dBAG|” cr”A6||!
+fg|a6f2|ba3g2f2|e2e2 edef|d2e2f2g2|!
+a6f2|ba3g2f2|e2e2 edef|d2f2d2|]
+
+X:24
+T:Galopede,aka. RDO.24
+M:2/4
+L:1/16
+Q:1/4=100
+C:untitled
+S:Robert D. Owen MS,Indiana,1826.
+R:.Galop
+O:Indiana,USA
+A:New Harmony
+N:Title “Country Dance ” in MS.
+Z:vmp.Chris Partington
+K:Bb
+fe|d2de c2cd|B2B2 B2cd|e2ef d2de|cBcd c2f2|!
+d2de c2cd|B2B2 B2cd|edcB ABcd|B2B2B2:|!
+|:fd|d2ba g2gf |fede c2fe|d2ba gfed|cBAG F2fe|!
+d2ba g2gf|fede c2fe|dfed cedc|B2B2B2:|!
+|:de|f2f2f2b2|f2f2f2 de|f2f2 gfed|cBAG F2de|!
+f2f2f2b2|f2f2f2b2|f2d2 cBcd|B2B2B2:|
+
+X:25
+T:Country Dance. RDO.25
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Reel
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+D|G2 BG EAFD|G2 Bd gdBG|cedB EAFD|ecfd g2″cr”g:|!
+|:d|g2 dg Bgdg|g2 fg aA ce|g2 dg Bgdg|eafd g2gd|!
+g2 dg Bgdg|g2fg aA ce|gbaf gdBG|eafd g2g:|
+
+X:26
+T:Country Dance. RDO.26
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Reel
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:D
+d2 fa dafa|A2ce Aece|d2 fa dafa|bd’c’e’ d’/d’/d’ d’2:|!
+|:d2fd gefd|(gf)ed (cd)ef|d2fd gfgb|afge d/d/dd2|!
+d2fd gefd|(gf)ed (cd)ef|dcBA BAFA|Bdce d/d/dd2:|
+
+X:27
+T:New Harmony Country Dance,aka. RDO.27
+T:Country Dance. RDO.27
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Reel
+N:My title. Titled only “Country Dance” in MS.
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+f|edcB B2df|gfdf gabf|(ed)cBB3d|cAFA cdef|!
+edcBB2df|gfdf gfga|b2bf edcB|Afcf dfcf|!
+B2 df bfdf|bfdf bfdB|F2 Ac fg=eg|fg=eg fcAF|!
+B2df bfdf|bfdf bfdB|e2d2c2B2|FGAB cd”DC”ef|]
+
+X:28
+T:New Lanark Country Dance,aka. RDO.28
+T:Country Dance. RDO.28
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Reel
+N:My title. Titled only “Country Dance” in MS.
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+D|G2Bc dBgB|agab gede|G2Bc dBgB|agab g2g:|!
+d|g2bg egdg|Bgbg afed|g2bg egdg|Bgaf g2gd|!
+g2bg egdg|Bgbg afed|g2bg egdg|BgAg dc”DC”BA|]
+
+X:29
+T:The Apprentice.aka. RDO.29
+T:Country Dance. RDO.29
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Misc.
+O:Indiana,USA
+A:New Harmony
+N:My title. Titled only “Country Dance” in MS.
+Z:vmp.Chris Partington
+K:D
+A|:d2dc BABc|d2de fafc|d2dc BABc|dfeg fdec:|!
+d2df afdf|egbg ecAc|d2df afdf|edef dcBA|!
+d2df afdf|egbg ecAc|d2df afge|fdec dcBA|]
+
+X:30
+T:Untitled. RDO.30
+M:2/4
+L:1/16
+Q:1/4=100
+S:Robert D. Owen MS,Indiana,1826.
+R:.Misc.
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Eb
+G3AB2B2|cedfe4|agfg fede|defdB4|!
+G3AB2B2|cedf e2B2|c=efa gbdf|e2e2e4:|!
+|:B2B2 cedf|egfag4|gfef edcB|cded B3A|!
+G3AB2B2|cedf e2B2|c=efa|gbdf|e2e2e4:|!
+e3fg2g2|g3ab2b2|a2a2 g2g2|f2f2f4|!
+e3fg2g2|g3ab2b2|a2a2 {a}g2fe|dfdBe4:|
+
+X:31
+T:Untitled Hornpipe. RDO.31
+M:4/4
+L:1/8
+Q:1/2=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+fdfd BdcB|cdBcA2F2|GBAc Bdce|dfed{d}c4|!
+fdfd BdcB|cdAcA2F2|GBAc Bdce|d2c2B4:|!
+|:Bdfb bagf|g2g2g2f2|(gf)ed (ed)cB|A2B2c2c2|!
+Bdfb bagf|g2g2g2f2|gfed edcB|F2A2B4:|
+
+X:32
+T:Untitled. RDO.32
+M:4/4
+L:1/8
+Q:1/2=100
+S:Robert D. Owen MS,Indiana,1826.
+R:.Reel
+O:Indiana,USA
+A:New Harmony
+N:Some spare lead-in notes.
+Z:vmp.Chris Partington
+K:Eb
+b|b2ge dfBa|gbe’g afba|gede cAaf|gefde2e:|!
+|:B|eBgB fBaf|g2bg afdB|eBgB gBaf|gfede2Bc/d/|!
+eBgB fBaf|g2bg afed|egce dfBd|cdec BAGF:|!
+|:geeg affg|geeg Bcde|geeg affa|!
+|1gefde2eb:|2(3gfe (3fed e2e|]
+
+X:33
+T:Untitled. RDO.33
+M:2/4
+L:1/8
+Q:1/2=100
+S:Robert D. Owen MS,Indiana,1826.
+R:.Country Dance
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:D
+f/g/|a2ag|f2d2|a2ag|f2d2|fga2|fga2|a>bag|f2d2|!
+a2ag|f2d2|a2ag|f2d2|fga2|fga2|edef|d2z:|!
+|:z|a2ab|a2ab|agfg|a2d’2|a2d’2|a2d’2|edcd|e2a2|
+a2ab|a2ab|(ag)fg|a2d’2|a2d’2|a2d’2|edef|d2z:|!
+|:z|b2b^a|b2b^a|b^aba|b4|fgfg|fgfg|fgfe|d2B2|!
+b2b^a|b2b^a|”s’qu’s”b^aba|b4|fgfg|fgfg|fedcB2z:|
+
+X:34
+T:Garland Dance. RDO.34
+M:3/4
+L:1/8
+Q:3/4=50
+S:Robert D. Owen MS,Indiana,1826.
+R:.misc
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+b4a2|g2c’2b2|abc’abg|bagfed|!b4a2|g2c’2b2|ab/c’/ be’d’f|a4g2:|!
+|:gfgabg|bagfe^d|e^defge|gfedcB|!
+A^GABcd|edcBAG|abc’abg|bagf”DC”ed:|
+
+X:35
+T:Allegro. RDO.35
+M:2/4
+L:1/16
+Q:1/4=90
+S:Robert D. Owen MS,Indiana,1826.
+R:.Country Dance
+N:Very Hornpipey.
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+dc|B2Bc dgfg| f2ee edcB|BGAA ABcd|c4B2dc|!
+B2Bc defg|b3a gfed|cBed d2F2|A4G2:|!
+|:Bc|d^cde dfa2|d^cde dfa2|c’2c’a b2bg|a^gab a2Bc|!
+d^cde dfa2|{e}d^cde dfa2|a^gab a=gfe|e4d2:|
+
+X:36
+T:Country Dance. RDO.36
+M:C|
+L:1/8
+Q:1/2=80
+S:Robert D. Owen MS,Indiana,1826.
+R:.Country Dance
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+W:a
+K:G
+Bc|dBcA Ggfe|eddd d2Bd|cded cBAG|FGAF D2Bc|!
+dBcA Ggfe|eddd d2Bc|dBcA BGAF|G2B2G2:|!
+|:cB|BAAA A2Bc|eddd dgdB|BAAA A2Bc|eddd d2fa|!
+gbfa egdf|ceBd AcGB|A2A2d2d2|G2B2g2:|
+
+X:37
+T:March. RDO.37
+M:C|
+L:1/8
+Q:1/2=60
+S:Robert D. Owen MS,Indiana,1826.
+R:.march
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+W:a
+K:Bb
+FG/A/|B2B>B B>df>d|e2c>cc2d>e|(e>d)c>B (dc)BA|(B>A)Bc bfdf|!
+B2B>B B>df>d|e2c>cc2d>e|(e>d)c>B (dc)BA|B2B>BB2:|!
+|:(B/c/d/e/)|f2f>f f>ba>g|f2f>f f2 (3Bcd |e2e>e (eg)fe|d2d>dd2 (3FGA|
+B2B>B B>df>d|e2c>cc2de|(ed)cB (dc)BA|B2B>BB2:|
+
+X:38
+T:Because he Was A Bonny Lad. RDO.38
+M:C|
+L:1/8
+Q:1/2=75
+S:Robert D. Owen MS,Indiana,1826.
+R:.Country dance
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+W:a
+K:A
+e|c>BAa f/g/a ec|d>fe>c B>B Be|c>BAa f/g/a ec|d>fe>c A<AA2:|!
+|:z|cBAc defd|cAeA B<B Bd|c>BAc defg|a/(g/f/)g/ aA A<A Ae|!
+cAeA fAeA|cAec B<B Bg|afge fdec|d>fec A<AA2:|
+
+X:39
+T:Blanchland Races,aka. RDO.39
+T:Timour The Tartar,aka. RDO.39
+M:2/4
+L:1/16
+Q:1/4=100
+C:untitled
+S:Robert D. Owen MS,Indiana,1826.
+R:.Hornpipe
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:A
+A2(3cBA eA (3cBA |eAaA gAfA|eA (3cBA eAfA|B2c2d2B2|!
+A2 ((3cBA) eA ((3cBA)|e2a2g2f2|eaec egec|BABcA4:|!
+e2b2e2g2|b2d’2c’2b2|A2 ((3cBA) eA ((3cBA)|e2a2g2f2|!
+e2e2a2a2|e2e2a2a2|ecag fedc|BAGF “D.CAPO”EFGE|]
+
+X:40
+T:Untitled. RDO.40
+M:C|
+L:1/8
+Q:1/2=75
+S:Robert D. Owen MS,Indiana,1826.
+R:.misc
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+W:a
+K:G
+DE|G3A B3e|dBde dBAG|B2A2A2(GA)|B2A2A2GE|!
+DEGAB3e|dBAB GABd|e2E2E2DE|G2E2E2:|!
+|:de|g3a gaba|gdeg dBAG|B2A2A2GA|B2A2A2ga|!
+b/a/g ab gdeg|dABF ABcd|e2E2E2DE|G2E2E2:|
+
+X:41
+T:Torryburn Lasses,aka. RDO.41
+T:Seymour’s Reel,aka. RDO.41
+M:C|
+L:1/8
+Q:1/2=80
+S:Robert D. Owen MS,Indiana,1826.
+R:.Country Dance
+O:Indiana,USA
+A:New Harmony
+N:”Country Dance” in MS…CGP…
+Z:vmp.Chris Partington
+K:G
+D|G2BG Bdd2|c2ec egg2|G2BG Bcdg|edcB A2G:|!
+d|g2bg afed|e>def gdBG|g2bg afgd|(ed)efg3a|!
+(ba)gf (gf)ed|{f}edef gdBG|cBcd efge|dBGBA2G|]
+
+X:42
+T:Loch Earn,aka. RDO.42
+M:C|
+L:1/8
+Q:1/2=100
+C:Nath Gow
+S:Robert D. Owen MS,Indiana,1826.
+R:.Reel
+O:Indiana,USA
+A:New Harmony
+N:untitled in ms
+Z:vmp.Chris Partington
+K:G
+d|g2dBG2BG|E2AE FDDd|g2dBG2BG|EA FD G2G:|!
+d|(ef)ge (fg)ab|gfge fddf|(ef)ge (fg)ag|fefdg2Bd|!
+efge dBgB|ceBd AGFE|GABG EB ce|dGcA G2G|]
+
+X:43
+T:Country Dance. RDO.43
+M:C|
+L:1/8
+Q:1/2=100
+S:Robert D. Owen MS,Indiana,1826.
+R:.Reel
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:C
+f|ec ccc2ec|fedc Bagf|ec ccc2ac|BGABc2:|!
+“qu”F2|EFGE FcAc|BcdB cgeg|efge aedc|BGABc2F2|!
+EFGE FcAc|BcdB cgeg|agag fedc|BGABc2|]
+
+X:44
+T:Country Dance. RDO.44
+M:C|
+L:1/8
+Q:1/2=80
+S:Robert D. Owen MS,Indiana,1826.
+R:.Reel
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:C
+f|edcd cGGf|edcef2f>g|e>dc>d cGGc|(A/B/c) GED2D:|!
+d|c2ga g>ed>e|c/c/c ga {a}g2fe|cega gece|f>g a/g/f/e/d2de|!
+c2ga g>ed>e|c/c/c ga {a}g2fe|cega gece|faeg defg|]
+
+X:45
+T:Lady Montgomery,aka. RDO.45
+M:C|
+L:1/8
+Q:1/2=80
+C:by Lord Eglintoun,untitled in ms
+S:Robert D. Owen MS,Indiana,1826.
+R:.Reel
+O:Indiana,USA
+A:New Harmony
+N:untitled in ms
+Z:vmp.Chris Partington
+K:Bb
+b2b>f (de)fd|b2b>g (ab)c’d’|b2b>f (de)fd|cc’c’b abc’d’:|!
+B<B fB dB f2|B<B fB (de)fg|B<B fB dBf2|(ed)cB ABcd|!
+B<B fB dB f2|B<B fB (de)fg|fd ec dB cA|[Bb][Gg]fd cc’c’d’|]
+
+X:46
+T:Country Dance. RDO.46
+T:?aka
+M:C|
+L:1/8
+Q:1/2=60
+S:Robert D. Owen MS,Indiana,1826.
+R:.Air
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+G>A|B2D2E2G2|(cB)AGE2DE|G2g2degd|e4d2(ef)|!
+(gf)ed efgB|cBAGE2DE|G2g2de cd|B3AG2:|!
+|:ef|(gf)ed (ef)ge|(ag)fe (fg)af|(gf)ga agab|”tr”e4d2ga|!
+bage d>egB|cBAGE2DE|G2g2decd|B3AG2:|
+
+X:47
+T:Light and Airy Jig. RDO.47
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:F
+c3AcA|FAc fcA|c3AcA|G2AB2d|!
+c3AcA|FAc fcA|BgB AfA|G2AB2d:|!
+|:f>gf f>cA|f>gf f>af|f>gf fcA|G2AB2d|!
+faf gbg|faf ege|f>edc2A|G2AB2d:|!
+|:cAFF2A|cAF Acf|cAFF2A|G2AB2d|!
+cAF FAc|fed cBA|BgB AfA|G2AB2d:|
+
+X:48
+T:Jig. RDO.48
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:A
+abae2a|f2ae2c’|a2a (ab)a|c’3e’3|!
+abae2a|f2ae2c’|d’e’f’ e’c’a|b3a3:|!
+|:c2e efe|efe edc|d2f fgf|fgf fed|\
+c2e efe|!
+efe edc|1def ecA|B3A3:|2efe efg|agf edc|]
+
+X:49
+T:Petticoats Loose,aka. RDO.49
+T:Tie the Petticoat,aka. RDO.49
+T:Jig. RDO.49
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+N:Titled only “Jig” in MS.
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+a|b2g afd|b2g afd|f2ff2a|f2ff2a|!
+b2g afd|b2g afd|g2gg2b|g2gg2:|!
+A|Bcd cBA|BAG AFD|fgf fcA|fgf fcA|!
+Bcd cBA|BAG AFD|gag gdB|gagg2A|!
+Bcd cBA|BAG AFD|fgf fcA|fgf fcA|!
+Bcd cde|dcB AG^F|G2GG2B|G2GG2|]
+
+X:50
+T:Rollicking Irishman,aka. RDO.50
+T:Father O’Flynn,aka. RDO.50
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+C:Untitled in MS
+Z:vmp.Chris Partington
+K:D
+dAG FGA|Bcd cBA|Bcd efg|fed cBA|!
+dAG FGA|cde cBA|Bcd efg|fdd ” cr”d3:|!
+|:fdf faf|ece eae|dcd Bcd|cAAA3|!
+BGB BdB|cAc cec|Bcd efg|fdd” cr”d3:|
+
+X:51
+T:Paddy Wack,aka. RDO.51
+M:6/8
+L:1/8
+Q:3/8=120
+C:untitled
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+N:Untitled in MS
+Z:vmp.Chris Partington
+K:G
+D|GBd gfg|edc BAG|GBd gfg|fddd2e/f/|!
+gfg fdB|cec dBG|GBd cAc|BGGG3:|!
+|:BBB ccc|dBGA2G|Bcd efg|fddd2(e/f/)|!
+gfg fdB|cec dBG|GBd cAd|BGGG2:|
+
+X:52
+T:Slip Jig. RDO.52
+L:?
+M:9/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Slip Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:F
+F2c fgf e2c|d2fe2g fz2|F2f fgf e2c|d2f ege f3:|!
+|:c2AF2Ac2A|d2BG2Bd2B|c2AF2Ac2A|d2f ege f3:|!
+|:a2fd2fa2f|g2ec2eg2e|f2ed2ef2a|g2f ege f3:|
+
+X:53
+T:Hullichan(ish) Jig,aka. RDO.53
+M:6/8
+L:1/8
+Q:3/8=120
+C:untitled
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+N:like Hullichan jig
+Z:vmp.Chris Partington
+K:G
+D|GAG BGB|dfg dBG|cde dBG|FAA A2D|!
+GAG BGB|dfg dBG|cde Adc|BGGG2:|!
+|:f|gfg dBG|efg dBG|cde dBG|FAAA2f|!
+gfg dBG|cde dBG|DEG Adc|BGGG2f||!
+gfg dBG|efg dBG|cde dBG|FAAA2f|!
+gfg efg|fag fed|efg Adc|BGGG2:|
+
+X:54
+T:Slip Jig RDO.54
+M:9/8
+L:1/8
+Q:3/8=100
+S:Robert D. Owen MS,Indiana,1826.
+R:.Slip jig
+O:Indiana,USA
+A:New Harmony
+N:Like Barney Brallaghan et al…
+Z:vmp.Chris Partington
+K:G
+GBd gdc B>AB|GBd gdB c2(B/A/)|GBd g3/2a/g/f/ gdB|c>dc A<=FAc2A:|!
+ded BGG BGG|ded BGGc2A|ded BGG BGB|c>dc A<=FAc2A|!
+ded BGG BGG|ded BGB c2B/A/|GBd g3/2a/g/f/ gdB|cdc A<=FAc2A|]
+
+X:55
+T:Jig. RDO.55
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:A
+f|e2fa2b|c’2c’ c’ba|c’2c’ c’ba|bab c’af|!
+e>fg abc’|d’2d’ d’e’f’|e’c’a b2a|f3 f2:|!
+|:d|(c/d/)ee ecA|(d/e/)ff fga|(c/d/)ee ecA|BGE F2d|!
+(c/d/)ee ecA|(d/e/)ff fga|ecA B2A|F3A2:|
+
+X:56
+T:Sir John Henderson(?) RDO.56
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+N:There are repeat marks before and after the double bar lines but not at
+N:the end of the tune, so presumably you are not meant to repeat the
+N:second part.
+Z:vmp.Chris Partington
+K:G
+c|B2G GBG|dBG Bcd|efg dBd|ecA A2d|!
+B2G GBG|dBG Bcd|efg deg|dBGG2:|!
+d|gdg gbg|gbg afd|efg dBd|ecA A2f|!
+gdg gbg|gbg afd|efg dBg|dBG G2d|!
+gdg gbg|gbg afd|efg dBd|ecA A2f|!
+gdg bag|fed afd|efg dBg|dBG G2|]
+
+X:57
+T:Miss Logan’s Jig. RDO.57
+M:6/8
+L:1/8
+Q:3/8=110
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+GDG BGB|cdc cde|dfe dcB|ABG FED|!
+GDG BGB|cdc cde|dcB AGF|GAG G3:|!
+|:g3 dgb|gdg bag|f3cfa|ABG F=ED|!
+g3 dgb|gdg bag|bag ^fga|gag g2a|!
+bag fed|gfe dcB|=ef_e dcB|ABG F=ED|!
+GDG BGB|cdc cde|dcB AGF|GAG G3:|
+
+X:58
+T:Jig. RDO.58
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:D
+A|DFA d2A|B2Ad2A|Bcd egf|efd cBA|!
+DFA d2A|B2A Bcd|egf edc|d3d2:|!
+|:g|fed g2e|a2fb2g|fef def|efd cBA|!
+fed g2e|a2fb2g|fga Adc|d3d2g|!
+fdf geg|afa bgb|afd Bcd|efd cBA|!
+AFAd2A|B2A Bcd|egf edc|d3d2:|
+
+X:59
+T:Miss Stewart’s Jig. RDO.59
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+d|g2g gbg|e2e efg|a2a abc’|bgb afd|!
+g2g gbg|e2e efg|afd def|g3g2:|!
+|:c|B/c/dd d2g|ece dBG|{d}cBc EFG|ABG AFD|!
+B/c/dd d2g|ece d’bg|ec’a fef|g3G2c|!
+B/c/dd d2g|ece dBG|c’bc’ efg|abg afd|!
+Bdd dgd|dee egb|afd def|g3G2|]
+
+X:60
+T:Around the World for Sport,aka. RDO.60
+M:6/8
+L:1/8
+Q:3/8=120
+C:untitled
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+D/E/|GAG AGA|B2g edB|G2G AGA|BGE E2D|!
+GAG AGA|B2g edB|c2A BGE|GAG G2:|!
+|:d|gfg efg|fdBB2d|gfg efg|afd def|!
+g2e agf|gfe dBG|c2A BGE|GAGG2:|
+
+X:61
+T:Jig, RDO.61
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:Bb
+[Gg]|[D2d2][Gg][G2g2][Aa]|b2g afd|fgf gfd|f2a fdc|!
+d2gg2b|agf abc’|d’e’d’ c’af|g3g2:|!
+|:d2gg2a|b2g afd|f2df2g|a2g fdc|!
+d2g gab|agfg2d|fed cAF|G3G2:|
+
+X:62
+T:Jig. RDO.62
+T:?
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+G2e dBG|BAB dBG|G2e dBG|A2A BGE|!
+G2e dBG|BAB def|gfe dcB|ABA BGE:|!
+|:gbg faf|ege dcB|gbg faf|g2a bae|!
+gbg faf|ege def|gfe dcB|ABA BGE:|
+
+X:63
+T:Jig,(slip). RDO.63
+M:9/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Slip Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+G3d2c Bcd|G3d2cB2g|G3d2c Bcd|E2g fe^de3:|!
+|:d2B (cd)e (dB)G|d2B cded2c|d2B cde dBG|E2g fe^de3:|!
+|:g3b2g afd|e3g2e fdB|c3e2c dBG|E2g fe^de3|!
+(gf)g b^ab =afd|e^de gfg f=dB|(cB)c e^de =dBG|E2g fe^de3:|
+
+X:64
+T:Jig. RDO.64
+T:?
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:D
+f|d’2a afa|b2a afa|d’2a {b}agf|ecAA2b/c’/|!
+d’2a afa|{ga}b2a abc’|dgf eac|d3d2:|!
+|:f/g/|afd (df)a|ged ceg|fed {e}dcd|ecAA2f/g/|!
+afd dfa|ged ceg|(fa)d (eg)c|{c}d3d2(f/a/)|!
+afd dfa|ged ceg|fed {e}dcd|ecAA2G|!
+(FA)d (FA)d|GBd GBd|Agf eac|{c}d3D2:|
+
+X:65
+T:Jig. RDO.65
+M:6/8
+L:1/8
+Q:3/8=120
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:D
+f|d2A AFA|AFD Dfe|{c}d2A AGF|EFEc2e|!
+“8va……..”{c}d2A AFA|AFA AFD|GBG FAF|EFEc2e:|!
+|:ded fef|dedf2e|ded fef|efeg2f|!
+def fef|fef fef|gbg faf|efe gfe:|
+
+X:66
+T:Jig. RDO.66
+M:6/8
+L:1/8
+Q:3/8=110
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:D
+e/d/|B<ee e2f|g2a bag|f>d’a b<ag|f<dd d2e|!
+B<ee e2f|g2a bag|fd’a bag|gee e2:|!
+B/d/|e2f g>fe|d<BG G2G|B>cd {e}d>cB|AFD D2B|!
+e2e gfe|d<BGG2G|B>cd AFA|BGE E2||!
+B/d/|e2f g>fe|d<BG G2G|B>cd {e}d>cB|AFD D2B|!
+Bee e2e|g2a bag|fd’a baf|gee e2|]
+
+X:67
+T:Jig. RDO.67
+M:6/8
+L:1/8
+Q:3/8=110
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+c|B>AG GDG|A>BA ABd|(e/f/)gG GAG|GAG B2G|!
+c>dc B>cB|A>GA ABd|(e/f/)gG GDE|GAG G2:|!
+|:d|g>ag gdB|Aaa a2g|def gdB|gaf gdB|!
+cde gdB|aAA ABd|(e/f/)g G GDE|G>AGG2:|
+
+X:68
+T:Jig. RDO.68
+T:?aka
+M:6/8
+L:1.8
+Q:3/8=110
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+d|g2b a/b/c’a|b2g afd|g2b (a/b/)c’a|(b/c’/)d’b g2:|!
+|:c|B2dg2d|(e/f/)ge dBG|B2dg2d|(e/f/)ged2:|!
+|:B|c2e dBG|(A/B/)cA B2G|c2e dBG|(A/B/)cAG2:|
+
+X:69
+T:Lads of Dunse,The,aka. RDO.69
+M:6/8
+L:1/8
+Q:3/8=120
+C:untitled in ms
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:D
+b|a2d ded|ded b2a|bc’d’ afa|bge e2d’|!
+{b}a2d|ded ded b2a|bc’d’ afd’|afdd2:|!
+|:g|fefd2e|fgaB2A|Bcd AFA|BGEE2g|!
+fefd2e|fgaB2A|Bcd AFd|AFDD2g|!
+fefd2e|fgaB2A|Bcd AFA|BGEE2f/g/|!
+afa geg|fdf ece|dcB AFd|AFDD2|]
+
+X:70
+T:Jig. RDO.70
+M:6/8
+L:1/8
+Q:3/8=110
+S:Robert D. Owen MS,Indiana,1826.
+R:.Jig
+O:Indiana,USA
+A:New Harmony
+Z:vmp.Chris Partington
+K:G
+GAG BAB|g2g gab|GAGB2c|dBGA2G|!
+GAG BAB|g2g gab|bag efg|dcB ABc:|!
+|:e>fe edB|d>ed dBd|e>fe edB|edB ABd|!
+e>fe ede|gab bab|gfe efg|dcB ABd:|
+% Output from ABC2Win Version 2.1 k on 15/10/2005

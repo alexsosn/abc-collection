@@ -1,0 +1,1375 @@
+%abc
+%%abc-alias Bennet MS
+%%abc-creator ABCexplorer 1.3.8 [07/09/2010]
+%Thomas Bennet MS,1718,VWML
+%Transcribed to ABC for www.village-music-project.org.uk
+%VMP, 25/04/2004, Cherri Graebe.
+%Revised 11/2008
+%Revised 12/2009
+
+X:1
+T:Prelude by Dean(01). TBe.001
+M:4/4
+L:1/16
+Q:1/4=120
+C:Mr. Thomas Dean.
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:G minor
+“Gamut flat=Gminor.No time sig.” A4B4d4A4 |\
+B4G4g4d4 | e4c4a4=e4 | ^f4d4 gfec ABcA |!
+dcBA GABG cdec ABcA | abag ^f=efd gabg cdec |!
+fgaf BcdB efge ABcA | d2A2 B2G2 g2d2 e2c2 |!
+a=e^fg fefd gdec dABG |\
+Dg^fg aga=e g6 f2 |g2G2B2d2 g8 |]
+
+X:2
+T:Prelude by Dean(02). TBe.002
+M:4/4
+L:1/8
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+N:1 – two more or less horizontal dashes over the note – like a
+N:slightly slanted equal sign, meaning a “Backfall”..see Playford…
+H:1718
+Z:vmp.C. Graebe..
+K:G Major
+“^Gamut sharp=G major.No time sig.”\
+G2B2d2B2 | g2d2e2B2 |\
+c2A2d2A2 | B2G2gfed |!
+cBcA dedc | BABG ceae |\
+^cafd gdeB | ^ceac gb dg |!
+Bd GB DG B,D | G,gfg “^=NB”g3 f | gGBd g4 |]
+
+X:3
+T:Prelude by Dean(03). TBe.003
+M:4/4
+L:1/16
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+H:1718
+Z:vmp.C. Graebe.
+K:A minor
+“^Are natural=A minor.No time sig.”\
+A4B4c4A4 | ^G4B4e4B4 | c4A4a4e4 | ^d4B4b4^f4 |!
+^g4e4 E2F2G2E2 | e2E2G2E2 A2B2c2A2 | a2A2c2A2 B2A2^G2E2 |!
+a2g2f2d2 g2f2e2c2 | f2e2d2B2 e2d2c2A2 | d2c2B2G2 c2B2A2F2 |!
+B2A2^G2E2 agfd gfec | fedB edcA dcBG cBAF |!
+agfe defd gfed cdec | fedc BcdB edcB ABcA |!
+BcBA ^G^FGE ABcA BcdB |\
+cdec defd efge fgaf |!
+^g6 ^fg a2A2c2e2 | a8 |]
+
+X:4
+T:Prelude by Dean(04). TBe.004
+M:4/4
+L:1/16
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+N:Key signature shows F and G sharp in higher and lower octaves.
+H:1718
+Z:vmp.C. Graebe..
+K:A major
+“^Are sharp=A mojor.No time sig.”\
+A4c4e4B4 | g4e4a4e4 | f4e4c4A4 |\
+e2(EF)G2E2 A2B2c2A2 |!
+a2(AB) c2A2 e2f2g2e2 | b2(Bc) ^d2B2 “^s/q’s in ms”e2f2g2e2 |\
+BcBA GAGE ceag aeag |!
+fedc Bdgf gdgf edcB |Acfe fcfe dcBA GBed |!
+eBed cBAG ceae ceae |^dgbf dfbf egbg egbg |!
+ceae ceae aAcA eEGE | \
+z2B2 (=c2B2) z2B2 (=c2B2) | A,2A2C2E2 A8 |]
+
+X:5
+T:Prelude by Dean(05). TBe.005
+M:4/4
+L:1/8
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+N:Heading ‘Bmi Flat’ The other prelude on the page is ‘Bmi Sharp’
+N:(TBe.006). This appears to be Bb major, and TBe.006, ‘Bmi
+N:sharp’ appears to be B major. There also appears to be very little
+N:difference between commas , and full stops . in this typeface.
+H:1718
+Z:vmp.C. Graebe..
+K:Bb major
+“^Bmi flat.see notes.No time sig.”\
+B2F2D2B,2 | DFBD EGEC | EGcG AcAF |\
+Bd GB ce Ac | df Be eg AF |!
+fb df zc (_dc) |\
+AFzc (_dc) AF | “^d flat in ms”dc fb df Bd | BB,DF B2 |]
+
+X:6
+T:Prelude by Dean(06). TBe.006
+M:4/4
+L:1/8
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+N:Heading is ‘Bmi Sharp’. With all the accidentals it appears to be in
+N:B major, but I have left the key signature and accidentals as shown, as
+N:otherwise I have to put a lot of naturals in and it is better to leave
+N:it as it is.
+H:1718
+Z:vmp.C. Graebe..
+K:D major
+“^Bmi sharp.see notes.No time sig.”\
+B2c2d2B2 | f2^g2a2b2 | ba^gf edcB |\
+^Acfc dfgd |!
+eG cB ^Acfe | ^db dB d/f/b/f/ d/f/b/f/ |\
+gdec ^AF^DF | BB,DF B4 |]
+
+X:7
+T:Prelude by Dean(07). TBe.007
+M:4/4
+L:1/16
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:C Major
+“^C faut natural= Cmaj.No time sig”\
+c4e4g4e4 | B4d4g4B4 | A4c4f4A4 |!
+c2e2g2e2 a2g2f2e2 |\
+g2f2e2c2 f2e2d2B2 |e2d2c2A2 d2c2B2G2 |!
+agfe defd gfed cdec | fedc BcdB edcB ABcA |!
+dcBA GABG cege cege | c2C2E2G2 c8 |]
+
+X:8
+T:Prelude by Dean(08). TBe.008
+M:4/4
+L:1/8
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:C minor
+c2d2e2c2 | g2d2e2c2 | ^F2A2d2A2 | B2G2g2d2 |!
+e2c2 cGAF | agfd gfec | fedB cege |!
+BdgB AcfA |^FAdA gdec | CDEC GG,B,G, |!
+ccec gGBG | gdec dABA | cCEG c4 |]
+
+X:9
+T:Prelude by Dean(09). TBe.009
+M:4/4
+L:1/16
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+H:1718
+Z:vmp.C. Graebe.
+K:D minor
+“^D solre natural=Dmin.No time sig”\
+d4f4a4f4 | b4g4f4d4 | dfaf dfaf ^ceae ^ceae |!
+dfbf dfbf DFAF DFAF | agfe defd gfed cdec |!
+fedc BcdB edcB ABcA | dcBA GABG cBAG FGAF |!
+dfaf ^ceae dfaf ^ceae | d2D2F2A2 d8 |]
+
+X:10
+T:Prelude by Dean(10). TBe.010
+M:4/4
+L:1/16
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+N:Key signature has F# in both octaves…
+H:1718
+Z:vmp.C. Graebe..
+K:D major
+“^Dsolre sharp=Dmaj,No time sig.”\
+d4f4a4f4 | c4e4a4e4 | d2f2a2f2 c2e2a2e2|\
+a2g2f2d2 d2f2a2f2 |!
+F2A2F2D2 ceag aeag | fedc Bdgf gdgf edcB |!
+dfaf ceae dfaf ceae | d2D2F2A2 d8 |]
+
+X:11
+T:Prelude by Dean(11). TBe.011
+M:4/4
+L:1/16
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:E minor
+E4F4G4E4 | e4B4G4E4 | b2f2g2e2 f2e2^d2B2 |\
+e2B2c2A2 B2F2G2E2 |!
+fgfe ^d^cdc efed cBcA |!
+BcBA GFGE ^d6 cd | e2E2G2B2 e8 |]
+
+X:12
+T:Prelude by Dean(12). TBe.012
+M:4/4
+L:1/16
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+N:Key signature is shown as 3 sharps – F,C and G, and every D has an
+N:accidental sharp, so I have shown the key signature in the conventional
+N:way…
+H:1718
+Z:vmp.C. Graebe..
+K:E major
+“^NB re key”e4B4G4E4 | f2g2f2e2 d2c2d2B2 |\
+e2f2e2d2 c2B2c2A2 | e2g2b2e2 d2f2b2f2 | !
+b2f2g2e2 G2F2G2E2 | egbg dfbf egbg dfbf | egbg egbg E8 |]
+
+X:13
+T:Prelude by Dean(13). TBe.013
+M:4/4
+L:1/16
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:F major
+F4A4c4A4 | f4c4a4f4 | A2B2c2A2 F2G2A2F2 |\
+B2c2d2B2 G2A2B2G2 |!
+g2a2g2f2 e2d2e2c2 |fefc dcdB BABG AcAF |!
+agfe defd gfed cdec | f2F2A2c2 f8 |]
+
+X:14
+T:Prelude by Dean(14). TBe.014
+M:4/4
+L:1/8
+Q:1/4=120
+C:Mr. Thomas Dean
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+N:F minor has 4 flats, B,E,A, and D. Key signature is shown as two
+N:flats and multiple accidentals, so transcribed as shown, except that
+N:(relative) sharps in the MS are shown as (absolute) naturals. See
+N:notes. The word ‘Finis’ is written at the end.
+H:1718
+Z:vmp.C. Graebe..
+K:Bb major
+f2c2_A2F2 | c2f2=e2_a2 | g2d2e2=B2 |!
+c2d2=e2c2 | fc_dB cG_AF |bfgd =ecfc |!
+cfec cG_AF | (_d2c2)(f2c2) | (_d2=E2) F8 |]
+
+X:15
+T:Tom Tinker’s My True Love,aka. TBe.015
+M:3/4
+L:1/8
+Q:1/4=140
+C:titled only “Minuett” in MS
+S:Thomas Bennet MS,1718, VWML
+R:.Minuet
+O:England
+N:Title supplied in margin in F.Kidson’s hand..
+H:1718
+Z:vmp.C. Graebe..
+K:G major
+d3 efd | g2d2d2 | B2G2G2 | G4 D2 |\
+GFGABc | d4 A2 | F2D2D2 | D6 ||!
+B3 cBA | G2E2E2 | BABcBA | G2E2E2 |\
+c3 d c2 | B2e2A2 | A4G2 | G6 |]
+
+X:16
+T:Minuet,A. TBe.016
+M:3/4
+L:1/8
+Q:1/4=100
+S:Thomas Bennet MS,1718, VWML
+R:.Minuet
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:G major
+d2d2d2 | d2 edcB | c2B2A2 | B2G2d2 |!
+g2 fe d2 |d2e2^c2 | d2 cBAG | F2 G4 ||!
+d2d2d2 | B2B2B2 | cBAG D2 |GABc d2 |!
+e2f2g2 | gfedcB | AG F3 G | G6 |]
+
+X:17
+T:Bass Minuet. TBe.017
+M:3/4
+L:1/4
+Q:1/4=100
+S:Thomas Bennet MS,1718, VWML
+R:.Minuett
+O:England
+N:This is titled “Bass Minuet” but is written in the treble clef and it
+N:is not clear to which, if any of the minuets, this is the bass.C.Gr.
+N:Perhaps it’s for Bass Viol? It certainly doesn’t fit under any of the other minuets.
+H:1718
+Z:vmp.C. Graebe..
+K:F major
+C | F/E/F/G/ F | C F2 | GAB | A d/c/ d |\
+c F2 | B B,A, | G,GE | F3 ||!
+c | f/e/f/g/f/g/ | ea2 | d b/a/ b | g c’2 |\
+dbd | ca2 | d g/f/g/e/ f3 |]
+
+X:18
+T:Bass Rigadoon. TBe.018
+M:6/8
+L:1/8
+Q:3/8=80
+S:Thomas Bennet MS,1718, VWML
+R:.Rigadoon
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:F Major
+c | A>GA B2 B, | c2C d2D | e>de fAB | c2CF2 ||\
+g/f/ | e>de f2F |!
+g2G a2A | a>ga b2a | g>ag/f/ e>dc |\
+def f2e | f3-f2 |]
+
+X:19
+T:Minuet. TBe.019
+M:3/4
+L:1/8
+Q:1/4=160
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:A major
+cec | A2E2C2 | A,4 a2 | g2e2g2 | a4 e2 | \
+cecece | F4 d2 |!
+BdBdBd | E3 faf | \
+g2e2g2 | f2b2e2 | f2^d4 | e3 :||:!
+gbg | e2B2G2 | E4 b2 | gbgbgb | c4 a2 |\
+faf afa | B3 faf |!
+gegege | f2b2e2 | f2 ^d4 |\
+e3 cec | ececec | F3 BdB |!
+dBdBdB | \
+E3 cec | d2f2d2 | e2a2c2 | B2 G4 |\
+A3 ag2 |!
+f2e2d2 | c3Bc2 | d2 B4 | A6 |]
+
+X:20
+T:Minuet. TBe.020
+M:3/4
+L:1/8
+Q:1/4=120
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:F major
+c2d4 | c6 | B2 (cB)AG | ABAG F2 | \
+c2f2c2 | AB c2c2 | dcBAGF | E6 ||!
+g2a4 | g6 | f2 (gf)ed | efed c2 | \
+f2 _e4 | d3 c B2 | AB G3 F | F6 |]
+
+X:21
+T:Gavot. TBe.021
+M:2/2
+L:1/8
+Q:1/4=120
+S:Thomas Bennet MS,1718, VWML
+R:.Gavot
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:D minor
+F2c2A2d2 | c2f2e2c2 | fefc dgfg | efge f4 |!
+a2z2g2z2 | f2z2e2z2 | fedc =B2 c2 | “^=”c3″^#”=B c4 ||!
+c2g2e2a2 | g2 fe f4 | fgef dfef | “^+”f2 (ed) d4 |!
+d2 (d/e/f) B2d2 | e2 (e/f/g) c2 e2 |\
+“^+”f2 (f/g/a) d2 g2 | “^+”e4 f4 |]
+
+X:22
+T:Jigg. TBe.022
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Bennet MS,1718, VWML
+R:.jigg
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:F major
+FAc c>dc | def edc | d2z c2z | B2 A GEC |!
+FAc c>dc | def e2 d | _efe ded | cdc =B2 g |!
+=Bcd GAB | cdc cdc |cdc Gc=B | c3-c3 ||!
+cdg gag | gec cde | fgf def | f>ed d3 |!
+def cdc | BcA GcB | A d c Bed | cfe dgf |!
+e>dc f2 g |agf edc | f3g3 | agf ede | f3-f3 |]
+
+X:23
+T:Jigg. TBe.023
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Bennet MS,1718, VWML
+R:.jigg
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:F major
+c3d3 | c2B A/B/cF | FfF FfF | E2FG2C |!
+c3d3 | c2B A/B/cF | FfF FfF | e>de f3 ||!
+G3A3 | G2 F E/F/GC | CcC CcC | CcB A3 |!
+A3B3 | A2 G F/G/AD | DdD DdD | Dd^c d3 |!
+d3f3 | A2B cCC | D3 B3 | E2F GEC |!
+c3d3 | c2 B A/B/cF | FfF FfF | Ffe f3 |]
+
+X:24
+T:Fill Every Glass. TBe.024
+M:3/4
+L:1/4
+Q:3/4=70
+S:Thomas Bennet MS,1718, VWML
+R:.Air
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:F major
+(A/B/) A (G/A/) | F2 c | d/e/ f c | d A B | \
+cFG | “^=”A2 B | c C2 | HF3 ||!
+fe f/e/ | “^=”d2 c | f “^=”d2 | c3 | A/B/ “^=”A G/A/ |\
+F2G | “^=” A2 B | c/B/c/d/ c2 |]
+
+X:25
+T:Gavatt. TBe.025
+M:C|
+L:1/4
+Q:1/2=80
+S:Thomas Bennet MS,1718, VWML
+R:.Gavot
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:G major
+geb2 | ^d>e f2 | BEc2 | B^de2 |!
+gebz | ^d>efz | g>f e/d/^c/d/ | d ^c/B/B2 ||!
+dBe2 | fdg2 | gea g/f/ | ^d>e f2 |!
+geb>c’ | bea>g | f/e/^d/e/ Bg | e>^de2 |]
+
+X:26
+T:Minuet. TBe.026
+M:3/4
+L:1/4
+Q:1/4=100
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:D major
+A2 d | A G/F/E/D/ | A2d | A G/F/E/D/ |\
+A2d | c B/A/ d | ef>g | e3 ||!
+eaa | a g/f/g | Ggg | gf/e/ f | F e/f/e/d/ | c B/A/ d |\
+e c2 | d3 |]
+
+X:27
+T:Trumpet March,A. TBe.027
+M:2/2
+L:1/8
+Q:1/2==65
+S:Thomas Bennet MS,1718, VWML
+R:.march
+O:England
+N:+ shown above the note is in the MS
+H:1718
+Z:vmp.C. Graebe..
+K:D major
+d2 dd d2d2 | d2A2 d3e | f3ga2 gf | edef egfe | !
+d2 dd d2d2 |d2A2 d3e | f3ga2 gf | e8 ||!
+e2A2 a3g | “^+”f3ed2e2 | fefg abag | fgfe d2 f2 |!
+e2 A2 a3g | fgfe defg | a2 gf e3 d | d8 |]
+
+X:28
+T:Minuet. TBe.028
+M:3/4
+L:1/8
+Q:1/4=140
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:G major
+B2 | ef e2 ^d2 | e4 f2 | gfefge | f2 B2 e^d |!
+e2E2 fe | f2F2 e^d | e2 BAGF | E4 ||!
+F2 | GA G2D2 | G4A2 | BF GE Be | ^d4 B2 |!
+e2f4 | gdBG Bd | eBGE GB | e8 |]
+
+X:29
+T:Minuett. TBe.029
+M:3/4
+L:1/4
+Q:1/4=100
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+N:”+” are shown in the MS.
+H:1718
+Z:vmp.C. Graebe..
+K:D Major
+(d d/)(f/e/)d/ | “^+”c2d | B (d/c/)B/A/ | d2 A |\
+AGF | ECC |D/B,/EE | A,3 ||!
+agf | “^+”e2 f | g (a/g/)f/e/ | f3 | DCB, |\
+F/G/F/E/F/D/ | E F2 | B,3 | eee |!
+c (B/c/) A | d (d/e/)f/g/ | a2 a | f (f/g/)a/f/ |\
+bef | g “^+”e2 | d3 |]
+
+X:30
+T:Rigadoon. TBe.030
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Bennet MS,1718, VWML
+R:.rigadoon
+O:England
+N:Illegible comment in pencil under this tune.
+H:1718
+Z:vmp.C. Graebe..
+K:G major
+d | g2dg2d | B2 A/B/ G2 d | e2d c2B | A3-A2 ||!
+d | d2G G2e | e2A A2 f | f2B B2g | g2 G G2d |!
+dcB A2 G | G3-G2 d |dBG ecA | fdB g2d |!
+dBG ecA | fdB gfe | dcB A2 G | G3-G2 |]
+
+X:31
+T:Hunting The Hare,aka. TBe.031
+M:3/4
+L:1/8
+Q:1/4=200
+C:untitled in ms
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+N:= and ‘ are as shown in MS. E represents something like a backwards
+N:’3’ skewered on the leger line.
+N:.CGP
+H:1718
+Z:vmp.C. Graebe..
+K:D major
+“_see notes”d4 A2 | B2 g2 (fg) | “^=”e4 d2 |\
+edcB A2 | d4 A2 | B2g2f2 | “^'”e2d2 “^=”c2 | d6 ||!
+“^=”f4 g2 | a2e2a2 | “^=”f4g2 | “^E”a2 e2 a2 |\
+“^=”f4 g2 | “^E”a2 (gf)(ed)| (cd) (“^=”d3 c/d/) | e6 |]
+
+X:32
+T:Hunting The Hare,aka,var. TBe.032
+T:Second Strain Divided,The. TBe.032
+M:3/4
+L:1/8
+Q:1/4=100
+N:I pasted in TBe.31 as the first line to compare.
+N:TBe.32 works as a variation, not as a harmony.
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:D major
+||f4 g2 | “^TBe.31 original”a2e2a2 | f4g2 | a2 e2 a2 |\
+f4 g2 | a2 (gf)(ed)| (cd) (d3 c/d/) | e6 |]
+||fefgfg | “^TBe.32 variation”agaeag | fefgfg | agaeag |\
+fefgab | agfefd | (cd)(d3 c/d/) | e6 |]
+
+X:33
+T:Collins Complaint. TBe.033
+M:3/4
+L:1/4
+Q:1/4=100
+S:Thomas Bennet MS,1718, VWML
+R:.Air
+O:England
+N:Illegible comment in pencil after tune, (in FK hand?)….
+H:1718
+Z:vmp.C. Graebe..
+K:F major
+A | d^cd | fed | e2 A | fea | f>ed | d3 ||!
+g | aad | ba(g/f/) | g2 a/g/ | f>ef | dgf | e2 “^sic”AA |]
+
+X:34
+T:Gavott. TBe.034
+M:2/2
+L:1/8
+Q:1/4=120
+S:Thomas Bennet MS,1718, VWML
+R:.gavotte
+O:England
+N::S: is in the MS. As it is, the tune has 8 bars in the A music (no
+N:repeat shown) and 16 in the B music. Repeating from the sign doesn’t
+N:make musical sense – does it mean something else? The naturals are
+N:shown as # – see note to tune ???
+Z:vmp.C. Graebe..
+K:C minor
+G2 | c2e2d2g2 | e2g2d2g2 | c2e2d2e2 |\
+fedc =B=ABG | c2e2d2g2 |e2a2f2ba |!
+gedc B2d2 | e6 || ga | b2g2 egbg | \
+a2f2 dfaf | g2d2e2 dc | =B2B3 Bcd |!
+e2G2c2F2 | BGFE DC B,2 | E3FG2F>E |\
+E2-E3 FG=A | B2 =B6 | c6 d2 |!
+e2 de fedc | =B2-B3 “^:S:” def |\
+g2c2e2z2 | g2G2c2z2 |g2 (fe) (dedc) | c6 |]
+
+X:35
+T:Minuet. TBe.035
+M:3/4
+L:1/4
+Q:1/4=100
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+Z:vmp.C. Graebe..
+K:C major
+c (e/d/)c/B/ | c2 G | e (g/f/)e/d/ | e2c |\
+e/f/g/a/ g | a2 g | f e2 | d3 ||!
+Gdg | Gdf | Gce | d3 | gc’2 | a2g | fe2 | a2d | ed2 | c3 |]
+
+X:36
+T:Rigadoon. TBe.036
+M:C|
+L:1/4
+Q:1/4=200
+S:Thomas Bennet MS,1718, VWML
+R:.rigadoon
+O:England
+H:1718
+Z:vmp.C. Graebe.
+K:C major
+cdef | g (f/e/)dG | g (f/e/) dc | “^+”B”^+”c d2 |!
+defg | a (g/f/) “^+”ef | g (f/e/) dc | d”^+”Bc2 ||!
+gfe (d/c/) | fga2 | gag (f/e/) | fe”^+”d2 |!
+GcAd | Becf | dge (d/c/) | d”^+”Bc2 |]
+
+X:37
+T:Minuett. TBe.037
+M:3/4
+L:1/8
+Q:1/4=130
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+H:1718
+Z:vmp.C. Graebe.
+K:C major
+gfgagf | edefef | g2 ag”^+”fe | “^+”d4G2 |!
+gfgagf | edefef | g2 (ag)”^+”fe | d6 ||!
+dcdede | fefgfg | a2 (ba) “^+”gf | “^+”e4d2 |!
+gfgagf | edefge | a2 “^+”d4 | c6 |]
+
+X:38
+T:Minuett. TBe.038
+M:3/4
+L:1/4
+Q:1/4=140
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:C major
+c/d/ ed | c/d/ ed | c/d/ ed | cag | a>ag |\
+a>ag | a a/g/f/e/ | “^+”d3 ||!
+d/e/fe | d/e/fe | dgf | “^+”e2d | cc’b |\
+agf | e (f/e/)d/e/ | c3 |]
+
+X:39
+T:Rigadoon. TBe.39
+M:C|
+L:1/4
+Q:1/2=160
+S:Thomas Bennet MS,1718, VWML
+R:.rigadoon
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:Bb major
+defe | d2B2 | def(e/d/) | c4 || efgf | e4 |!
+efgf | e4 | defe | d4 |defe | d4 |!
+dcd e/d/ | cBcc | dcd e/d/ | c4 | fgag |f4 |!
+fgag |f4 | fgfe | dcde | d2c2 |!
+Bcde | fgfe | dcde | d2c2 | B4 |]
+
+X:40
+T:Sarabrand. TBe.040
+M:3/4
+L:1/4
+Q:1/4=140
+S:Thomas Bennet MS,1718, VWML
+R:.saraband
+O:England
+N:dotted in MS…
+H:1718
+Z:vmp.C. Graebe..
+K:Bb major
+Bd>e | f>e d | gf>e | d>cB | f g>a | b>ag | g g2 | f3 ||!
+fb>a | g>fe | e/f/ f>e | e3 |\
+g f>e | d>c d/e/ | f g/f/e/d/ |c3 |!
+f f>f | g>fg/a/ | b a>a | b f>f | g e>e |\
+e>fd | (d/c/) (e/d/) c | B3 |]
+
+X:41
+T:Minuett. TBe.041
+M:3/4
+L:1/4
+Q:1/4=140
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:E minor
+B | e/f/ e^d | e2 f | g/f/e/f/g/e/ | fBe/^d/ |!
+eEf/e/ | fFe/^d/ | e B/A/G/F/ | “E3 in MS”E2 || !
+F | G/A/ GD | G2 A | B/F/ G/E/ B/e/ | ^d2 B |!
+ef2 | g/d/B/G/ B/d/ | e/B/G/E/ G/B/ | “E3 in MS”e2 |]
+
+X:42
+T:Rigadoon.2voices. TBe.042
+M:C|
+L:1/4
+Q:1/2=100
+S:Thomas Bennet MS,1718, VWML
+R:.rigadoon
+O:England
+N:E naturals are shown as E# – see notes
+N:1 – shown as a double bar
+N:2 – written on the stave as D but ‘e’ written above stave
+N:3 – shown as dotted minim g, double bar, semibreve g, double bar.
+H:1718
+Z:vmp.C.Graebe.
+K:G minor
+[V:1]|:G2d2 | B>AGd | gd g/a/ b | f f f (d/=e/) |!
+[V:2]|:B2B2 | d>c BB | B>c dd | AAA (B/c/) |!
+%
+[V:1]fff (c/d/) | eee (B/c/) | d(d/e/) c>d |1 d4 :|2 d3 |!
+[V:2]ddd (e/d/) |ccc (f/e/) | d (B/c/) A>G |1 ^F4 :|2 ^F3 |!
+%
+[V:1]|:z|fdg (g/f/) | =e>d cc | ff (c/d/) “^2″e | d>cBf |!
+[V:2]|:f | dBd (=e/f/) | g>d =e e | fA (A/B/) c | B>A G d |!
+%
+[V:1]dg=ea | ^f>gad | g (g/a/) a>g |1 g3 :|2 g4 |]
+[V:2]BBcf | A>A B (B/c/) | d (g/f/) ^f>g |1 g3 :|2 g4 |]
+
+X:43
+T:Air. TBe.044
+M:C|
+L:1/8
+Q:1/4=130
+S:Thomas Bennet MS,1718, VWML
+R:.air
+O:England
+N:1 – tune in MS is written out with 1st and 2nd time bars – shown in
+N:full so it will play right. 2 – first time through as written, this
+N:time written in a way which is slightly easier to read. 3 = quavers
+N:shown as crochets (in CG’s transcription. I’ve changed them back to original)
+H:1718
+Z:vmp.C. Graebe..
+K:C minor
+g2 | g4 “^3″g>gf>g | e2g2d2g2 | c2g2=B2g2 | edce dc=Bd | c2-c3 def |!
+g2b2e2c2 | fafa d2B2 | e2g2c2A2 | dfdf B2G2 |cdeG F2 d2 | e6 c/d/e/f/ “^1” |!
+g4 g>gf>g | e2g2d2g2 | c2g2=B2g2 | edce dc=Bd | “^2” c4-cdef |!
+g2b2e2c2 | fafa d2B2 | e2g2c2A2 | dfdf B2G2 | cdeG F2 d2 | e6 ||!
+ga | bagf efga | b2e2e2g2 | agfe defg | a2 d2d2f2 |!
+gfed cdef | g2e2e2g2 | agfe dedc | =B2-B3 def |!
+g2G2F2g2 | f2F2E2G2 | DEFD C2 =B2 | c6 |]
+
+X:44
+T:Minuett. TBe.045
+M:C|
+L:1/4
+Q:1/4=120
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+N:1 – see earlier note re naturals. 2 – shown dotted in M
+H:1718
+Z:vmp.C. Graebe.
+K:C minor
+“^1″g f/g/ e | d e/d/ c | dc=B | c2 G | c/d/e/d/ c | f>ga |!
+g (f/e/)d/c/ | =B/c/ d G | g/a/f/g/ e |\
+d/e/c/d/ =B | cG=B | c2 d |!
+e/f/gc | =Bdg | f d2 | c3 ||\
+g3/4a/4|b2 g |!
+ege | a a/g/f/e/ | dfd | g g/f/e/d/ | cde |\
+f (d3/2 c/4d/4) |!
+e2 g/a/ | b/(a/g/)f/e/d/ | c/d/ e (f/g/) |a/g/f/e/d/c/ | !
+=B3/4c/4 d e3/4f/4 | g2 c | G2 g | f d2 | c3 |]
+
+X:45
+T:Minuett Round O. TBe.046
+M:3/4
+L:1/4
+Q:1/4=140
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+N:See notes re +. 2 – last note illegible. The only place I’ve found
+N:where it works as a round is A music against B music. Does ‘Round’
+N:refer to the dance? When was ’round’ first used for a Frere Jacques
+N:type tune? – (Ed. Round O refers to the dance. CGP)
+H:Before 1718
+Z:vmp.C. Graebe..
+K:G major
+ggg | g (f/e/)d/c/ | BBB | B (G/A/)B/c/ |\
+ddd |!
+d c/B/A/G/ | “^+”FDF | G3 ||\
+A/B/ cc | “^+”c2c | B/c/ dd |!
+d2d | ggg |”^+”f>ga | (g/f/)e>d | “^2″d3 |]
+
+X:46
+T:Rigadoon.3voices. TBe.047
+M:C|
+L:1/4
+Q:1/2=80
+S:Thomas Bennet MS,1718, VWML
+R:.rigadoon
+O:England
+H:Before 1718
+Z:vmp.C. Graebe..
+K:G major
+%needs checking against MS again.
+[V:1]|G2d2|B>cdB|e (d/c/) d (c/B/)|Bgfg||!
+[V:2]|B2A2|G>A BG|c (B/A/) B (A/G/)|d (c/B/) AG||!
+[V:3]|zzzz|G,,G,F,D,|G,2G,,2|C,2G,A,||!
+%
+[V:1]d2g2|f/e/f/g/ f/g/f/g/|a (g/f/) ed|g/f/g/d/ e/d/c/B/|d c/B/ A G|]
+[V:2]B2d2|d d/e/ d/e/d/e/|f (e/d/) ^cd|e/d/e/B/ c/B/A/G/|B A/G/ FG|]
+[V:3]G,/F,/G,/A,/B,C|D2 D,2|F,,G,,A,,D,|B,,G,,C,2|G,,c,,D,G,,|]
+
+X:47
+T:Minuett. TBe.050
+M:4/4
+L:1/4
+Q:1/4=80
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+N:Are minuets usually in 4/4? 1 – I know the beats don’t add up – it’s
+N:up the the user to decide which one to lose.
+H:Before 1718
+Z:vmp.C. Graebe..
+K:E minor
+B | e2f2 | g f/e/^d B | c/B/A/G/ F/G/F/E/ ||!
+“^1″d | B2d2 | g f/e/ ^dB | ^c2e2 | a (f/e/) dB |\
+e/d/e/f/ B/e/ ^d/f/ | e3 |]
+
+X:48
+T:Gavot.2voices. TBe.051
+M:3/4
+L:3/4=100
+Q:80
+S:Thomas Bennet MS,1718, VWML
+R:.gavot
+O:England
+H:Before 1718
+Z:vmp.C. Graebe.
+K:Bb major
+[V:1]g2 f|egG|cde|d3|f2e|d=Bc|B (c3/2 B/4c/4)|d3||!
+[V:2]e2d|c/e =B3/2|G=Bc|=B3|d2c|=BG_A|G_A=B/c/|=B3||!
+%
+[V:1]g2f|gez|f2e|fdz|e2d|cdB|cA2|G3|!
+[V:2]e2d|ec=B|d2c|d=BG|c2 =B|G2G|_A^F2|G3|!
+%
+[V:1]g2f|gez|f2e|fdz|e2d|c=Bc|dd2|c3|]
+[V:2]e2c|ec=B|d2c|d=BG|c2B|edc|=BB2|c3|]
+
+X:49
+T:Jigg.2voices. TBe.053
+M:6/8
+L:1/8
+Q:3/8=85
+S:Thomas Bennet MS,1718, VWML
+R:.jigg
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:Bb major
+[V:1]g | g>fe e>dc | B3 “^qu”G2 e | d2ef2g | e3-e2 g | !
+[V:2]e | e>dc c>B_A | G3-G2 c | =B2cd2G | G3-G2 e |!
+%
+[V:1]g>fe e>dc | =B3 G2e | (def) e2 d/c/ | c3-c2 ||!
+[V:2]e>dc c>B_A | G3-G2 c | =B>cd c2 B | c3-c2 ||!
+%
+[V:1]g/_a/ | g2_a g2B | B3-B2 B |=B>AG F2E | E3-E2 g/_a/ |!
+[V:2]e/f/ | e2f d2G | E3G2F | E3DE2 | E3-E2 e/f/ |!
+%
+[V:1]g2_af2B | B2BB2B | c>de e2 d | e3-e2 d/e/ |!
+[V:2]e2fd2G | E3 G2F | E3G2B | B3B2B |!
+%
+[V:1]d2g e>dc | d2g e>dc | =BGc dcB | c3-c2 d/e/ |!
+[V:2]=B2cc2c | B2GG2G | =BGc_A2G |G3-G2B/c/ |!
+%
+[V:1]d2g e>dc | d2g e>dc | =BGc cdB | c3-c2 |]
+[V:2]=B2cc2c | =B2GG2G | =BGc _A2G | G3-G2 |]
+
+X:50
+T:Country Dance. TBe.055
+M:2/2
+L:1/4
+Q:1/4=170
+S:Thomas Bennet MS,1718, VWML
+R:.!
+O:England
+H:1718
+Z:vmp.C. Graebe.
+K:F major
+cff(e/d/) | (e/f/)gg2 | a “^+”ffc | “^+”A2F2 ||!
+fc”^+”A2 | (A/B/)cG2 | “^+”AFFG | “^+”A2c2 |]
+
+X:51
+T:Prince Eugene’s March. TBe.056
+M:2/2
+L:1/4
+Q:1/2=100
+S:Thomas Bennet MS,1718, VWML
+R:.march
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:D major
+F2 A2 | d3 (f/g/) | afdf | e/d/e/f/ e A |!
+F2 A2 | d3 (d/e/) | (f/g/) a (^g3/2f/4g/4) | a4 ||!
+e e/e/ ee | e2 z2 | f f/f/ ff | f2 z2 | !
+a a/g/ f f/e/ | ddAA | a a/g/f f/e/ | ddAA |!
+D D/D/ DF | D D/D/ D f/g/ | a d/e/ f f/g/ | !
+a d/e/ f f/g/ | a g/f/ e>d | d4 |]
+
+X:52
+T:Minuett. TBe.057
+M:3/4
+L:1/4
+Q:1/4=80
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+H:Before 1718
+Z:vmp.C. Graebe..
+K:C major
+“_as written”[ec] gd | G c/d/e/g/ | BGc | fgg | g/f/e/d/c/B/ |!
+cd”^+”d | c c2 ||\
+g a/g/f/e/ | d c/B/c/d/ | “^+”d [ec] [ec] |]
+
+X:53
+T:Mr. Wildbore’s Far(e)well. TBe.058
+M:3/4
+L:1/8
+Q:1/4=120
+C:Charles Roe
+S:Thomas Bennet MS,1718, VWML
+R:.air
+O:England
+N:1. Not shown as triplets..
+H:Before 1718
+Z:vmp.C. Graebe..
+K:Eb major
+F2 | A2A2″^1” ((3B=AB) | c4 d2 | e2 ^c2 e2 | f4 e2 | \
+_d2 “+”d3 c | c4B2 | (Ac)(BG) F2 | E3 F G2 |!
+A>B c2 (c/d/e/d/) | e2c2 d>e | f2 “^1″((3f=ef) g>a |\
+b>ag>f =e2 | f2B2e2 | c4B2 | A>B B2c2 | c6 ||!
+c2 | e2 e2 “^+” d>c | _d3cB2 | g2c2e2 |\
+f2 B2 d>e | f>efc_dB | e>deBcA | _d>cBA BG | \
+=E4 g2 |!
+c2 a2 (gf) | b3 (=abe) |\
+(_ag/a/) (bg)(af)| =e3fg2 | c2f2 (B/c/d) | \
+e3_dc2 | (g/f/g/a/) gd =e2 | f6 |]
+
+X:54
+T:Minuett. TBe.059
+M:3/4
+L:1/4
+Q:1/4=140
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+H:Before 1718
+Z:vmp.C. Graebe..
+K:Eb
+F | AAF | ccA | _ddB | ee_d | ccB | AAG |!
+A/B/ “^+”B3/2=A//B// | “^dotted in MS”c2 ||\
+c | eec | _ddB | ee_d | cAc |!
+BGA | F_dc | “^+”B2 A | A3 | \
+G (G/4A/4B/)=A | BBc |!
+_dBe | cfe | dgf | cag | g2f | f3 |]
+
+X:55
+T:Boree. TBe.060
+M:2/2
+L:1/4
+Q:1/4=180
+S:Thomas Bennet MS,1718, VWML
+R:.bourree
+N:Time signature given as 2/
+K:C minor
+“_Time sig. 2/3 in ms”f2a2 | g/a/ b =e g | f2 cB |\
+A/B/ cFc :||: f>gfc | _dBec |!
+_d>e f/e/_d/c/ | B2A2 |\
+(G/F/)(G/A/) BG | (=E/D/)(E/F/) G =e | \
+f>c (_d/B/)(c/G/) G2F2 |]
+
+X:56
+T:Bore. TBe.061
+M:C|
+L:1/4
+Q:1/4=120
+S:Thomas Bennet MS,1718, VWML
+R:.bourree
+O:England
+N:1 – shown as a natural in the MS, but it sounds wrong, and it seems to
+N:me this is ‘actually’ in Eb – all the other ‘A’s are flattened
+H:1718
+Z:vmp.C. Graebe..
+K:Bb major
+B>ed>c | B/_A/G/F/ G/F/4G/4 E/F/ |\
+G/E/ _A/F/ B/G/ c/A/ | d/B/d/e/ f2 ||!
+f>g f/e/d/c/ | Be/f/ g>f | \
+g/e/”^1” _a/f/ b/g/ c’/c/ | B/e/e/d/ e2 |]
+
+X:57
+T:Round O Jigg,A. TBe.062
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Bennet MS,1718, VWML
+R:.jigg
+O:England
+N:1 – ?last bar missing – edge of page missing? Something appears to
+N:have
+N:been written on the very edge of the page between the two staves
+H:1718
+Z:vmp.C. Graebe..
+K:Bb major
+B | B2cB2″^cr”_A | G/A/BG E2 e | c2fd2e | fdB B2B |!
+B2cB2_A | G/A/BG Eed | cfe dcd | e3-e2 ||!
+g | g2_ag2f |e2d c>de | “^dotted in MS”f2e d>ec |!
+=B2d g3-|g>fe f3-|f>ed e3-|e>fe d2c | c3-c2 g |!
+g2_a bag |_a3-a2 f | f2g _agf | g3-g2 f | g2_a ba”1″g |] !
+zzzz | zzzz | zzzz ||!
+“^Tune with possible ending.C.Gr.” B | B2cB2″cr”_A | \
+G/A/BG E2 e | c2fd2e | fdB B2B |!
+B2cB2_A | G/A/BG Eed | cfe dcd | e3-e2 ||!
+g | g2_ag2f |e2d c>de | “^dotted in MS”f2e d>ec |!
+=B2d g3-|g>fe f3-|f>ed e3-|e>fe d2c | c3-c2 g |!
+g2_a bag |_a3-a2 f | f2g _agf | g3-g2 f | g2_a bag |!
+^ f2g _agf | cfe dcd | e3-e2 |]
+
+X:58
+T:Eccho Minuet. TBe.063
+M:3/4
+L:1/4
+Q:1/4=120
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+N:The style of writing out music on this and the following tune, both on
+N:one page, appear to be different from the others. This tune has a
+N:convention 3/4 not the 3 squiggle used elsewhere. There are = used
+N:instead of + probably to indicate ornaments, a sort of Greek E in
+N:front
+N:of notes marked “E” and short dashes on the stave joining the notes
+N:marked “1”. So far this is the only one with grace notes? Grace
+N:notes are shown as quavers
+H:1718
+Z:vmp.C. Graebe..
+K:D major
+f/g/ “^1″(ag | dBG) | B A/G/F/E/ | D/C/D/E/F/D/ |!
+f/g/a/g/f/e/ | d AG | B A/G/F/E/ | D3 ||!
+“^E”{f/g/}a “^=”gf | G”^=”FE | {e/f/}g”^=”f e | F”^=”ED |!
+d/c/d/e/d/e/ | f/e/f/g/f/g/ | agf | GFE |!
+{e/f/}g f e |FED | f g/f/e/f/ | d3 |]
+
+X:59
+T:Minuet. TBe.064
+M:3/4
+L:1/4
+Q:1/4=120
+S:Thomas Bennet MS,1718, VWML
+R:.minuet
+O:England
+N:See notes to 063, Eccho Minuet .. E – Funny greek E before the note…
+H:Before 1718
+Z:vmp.C. Graebe..
+K:D major
+f/g/ ad | “^=”c2 d | (e/f/) “^=”f2 | e/d/e/f/e/g/ |\
+f/g/ ad | “^=”c2d | (e/f/) “^=”f2 | e3 ||!
+f/g/ “^E”aa | aB2 | e/f/”^E”gg | gA2 |\
+f/g/”^1″aa | a>gf/e/ | f/g/ “^=”e2 | d3 |]
+
+X:60
+T:Jigg. TBe.065
+M:9/8
+L:1/8
+Q:3/8=90
+S:Thomas Bennet MS,1718, VWML
+R:.jigg
+O:England
+H:1718
+Z:vmp.C. Graebe..
+K:C minor
+C2G FGE DEC | AGF EDC =B,2G, | CEG =B,DF CDE | FGA G2G, C3 ||!
+c2g fge dec | agf edc =B2d | ceg =Bdf ceg | (g/f/)(e/d/)c =BGB c3 ||!
+E2G GFE GBE | D2F FED FBF | C2E EDC FGA | GFE B2B,E3 ||!
+e2g gfe g>be | d2f f>ed fad | c2e e>dc fga | gfe dBd e2 g/a/ ||!
+b2g ece ecA | a2f dBd dBG | g2e cAc cAF | f2e ded/c/ =B2d ||!
+g2z e2z cfg | a2zd2c =B>AG | c>de f>ga gfe | dec =BGB c3 |]
+
+X:61
+T:An der Berollo. TBe.066
+M:C|
+L:1/4
+Q:1/2=100
+S:Thomas Bennet MS,1718, VWML
+R:.air
+O:England
+H:171
+Z:vmp.C. Graebe.
+K:G major
+B | GEEe | ^d>e fg | Be^d e/f/ | e3 d/c/ | B/A/ G/A/ B/A/B/c/ | \
+d3 c/B/ |!
+A/G/F/G/ A/G/ A/B/ | c3 B | A/G/F/G/ A/G/F/E/ | B3 e/f/ | \
+g ^cc d/e/ | f2 FB | ^AB d/^c/B/^A/ | B3 ||!
+f | f>g f/e/d/e/ | \
+^d2 e | fB (B/A/)(G/F/) | G3 A | \
+B>c Bc | d>ede |!
+Ag b/a/g/f/ | g3 B | B e (e/d/)(c/B/) |\
+c3 ^c | cf f/e/d/^c/ | ^d2 z b | beea | a^dzg | g^ccd | fBze |!
+de g/f/e/^d/ | e2zb | beea | a^dzg | \
+g^ccf | fBze | ^d e/f/ (g/f/)(e/^d/) | e3 |]
+
+X:62
+T:Divisions. TBe.067
+M:C|
+L:1/4
+Q:1/4=120
+C:untitled in MS
+S:Thomas Bennet MS,1718, VWML
+R:.misc.
+O:England
+N:
+H:171
+Z:vmp.C. Graebe..
+K:G minor
+GdGd | GdB (A/B/) | GgGg | Gg f (e/f/) |!
+BfBf | cg A (G/^F/) |G (A/B/) c (B/A/) | A2 G2 ||!
+“^2 Strain”GgGg | Ggf (e/f/) | BbBb | Bb a (g/a/) |!
+dfdf | df d (c/B/) |c (c/4d/4e/) dg | ^f2g2 ||!
+“^3 Strain”BbBb | Bba (g/a/) | dfdf | df d (c/d/) |!
+BfBf | Bf A (G/^F/)|G (A/B/) c (B/A/) | A2 G2 ||!
+“^4th Strain”(B/d/) f (B/d/) f | (B/d/) f (B/d/) f |\
+(A/c/) f (A/c/) f| (A/c/) f (A/c/) f |!
+(B/d/) f (B/d/) f | (B/d/) f (B/d/) f |\
+(A/B/)(c/A/) d (c/B/) | A2 G2 ||!
+L:1/8
+“^5th strain”(Bd)(fd) (Bd)(fd) | (Bd)(fd) (Bd)(fd) |\
+(Ac)(fc) (Ac)(fc) | (Ac)(fc) (Ac)(fc) |!
+(Bd)(fd) (Bd)(fd) | (Bd)(fd) (Bd)(fd) | \
+(AB)(cA) d2 (cB) | A4 G4 |]
+
+X:63
+T:Corante. TBe.068
+M:3/4
+L:1/8
+Q:1/4=130
+S:Thomas Bennet MS,1718, VWML
+R:.courante
+O:England
+N:1 -Shown as flat, but see note – I think this is just making sure you
+N:know it isn’t sharp as in previous bar. 2/3Page is much blotted – I
+N:think the book must have been closed before the ink dried –
+N:possibilities for 2 are [dc cb AorB B] and for 3 are [BA AorB c or d
+N:d]
+N:…CGr..
+H:171
+Z:vmp.C. Graebe..
+K:G major
+e | e3 e^d^c | B2 e”^1″dcB | cBAG FB | G3 FEF | !
+G2 BGBc | d2 DGAG | F2 AFAB |c2 CFGF |!
+E2 GEGA | B3 Bef | gfed^cB | ^A^cdefF |!
+B^c c3B | BF/E/ ^DF B,F | B4 ||!
+^d | ^d3 deB | c6- | cBcedc | B3 ddd |!
+(dc) (cB) “^2″AB | “^3″(BA) Ad dd | cB A3G | G2 BG dG |!
+F2 AF cF | Ee ge be | ^d3 def | (gf) gB Ae |!
+(fe) (fA) GB | edeGFg | (fe) e3 ^d | e3 ^def |\
+(gf)(gB) Ae |!
+fefA GB | e^deGFg | fe e3 ^d | eB/A/ GB EB | e6 |]
+
+X:64
+T:Untitled. TBe.069
+M:C|
+L:1/8
+Q:1/4=100
+S:Thomas Bennet MS,1718, VWML
+R:.air
+O:England
+N:No title – not a continuation of previous tune, as different time
+N:signature, also it has his end of tune squiggle. I think this is a
+N:complete but untitled tune.
+N:1 – Shown as D flat, but flat is probably to
+N:make it this is not sharp – see general notes re accidentals.
+N:2 – Shown as
+N:flat, but see preceding
+H:171
+Z:vmp.C. Graebe..
+K:E minor
+B | efg^d eB zc | BA G>”^qu” F GE zE |\
+A>B cA FG Ad | cB e>”qu” f ^d3 f |!
+gf b^d e3 f | gf/e/ dc B3 c | dc/B/ e2 fe/d/ g2-|g/b/a/g/ f>g g3 f |\
+(fe) (ed) (dc) (cB) |!
+ef/g/ f>e ^d3 || f | f2 g^d e3e | e”^1″d fe c3e |\
+eA Ad d^G G>”^qu”G | A/B/A/B/ B>A A3 B |!
+cA Fd/c/ B3b | bg e/g/f/g/ a3a | af ^d/f/e/f/g3f |\
+ed ^c>B B3 “^2″=c | !
+dB ^Ge c3c |cA Fd B3 b |\
+bg e/g/f/g/ a>b a/g/f/e/ | ^d/B/e/f/ f>e e3 |]
+
+X:65
+T:Untitled. TBe.070
+M:6/4
+L:1/4
+Q:3/4=100
+S:Thomas Bennet MS,1718, VWML
+R:.Jigg
+O:England
+N:See general note re accidentals Natural is bar 7 shown as sharp..c
+N:sharp in bar 8 is shown as a crotchet, this is my intervention..cgp…
+H:1718
+Z:vmp.C. Graebe.
+K:G minor
+D |”_time sig 3/2 in MS” GAB cde | dcB A2 G | dBGdBG | gfg AG^F |!
+GABcde | dcBA2G |gf=ef>gA | d”^cr in ms”^c2d3 ||!
+d2 ef>gf | f>gff2A | B>cdefd | c3B3 |!
+bfdBdf | bfdBcd | cdedcB | A3″G3 in MS”G2 |]
+
+X:66
+T:Mr. Cosgill’s Delight,aka. TBe.071
+M:C|
+L:1/8
+Q:1/4=120
+C:titled only “Gavot” in ms
+S:Thomas Bennet MS,1718, VWML
+R:.gavotte
+O:England
+N:”=” – as in MS.
+H:1718
+Z:vmp.C. Graebe..
+K:D major
+f2a2d’2d2 | g>af>g “^=”e2d2 | f2a2e2A2 | d>ec>d “^=”B2 A2 ||!
+e2a2f2b2 |g>fe>d “^=”c2B2 | a2A2B2d2 | g>af>g “^=”e2d2 |]
+
+X:67
+T:Semele,a Song. TBe.072
+M:3/8
+L:1/8
+Q:3/8=60
+S:Thomas Bennet MS,1718, VWML
+R:.air
+O:England
+N:Semele is a character from Greek mythology, the daugher of Cadmus and
+N:Harmonia and mother of Dionysus. There was an opera of that name by
+N:John Eccles, libretto by Congreve, dated either 1705 or 1710. (Also an
+N:opera or oratorio by Handel in 1743,)
+N:All E natural and B naturals are shown as sharp in MS – see general
+N:note
+N:re accidentals. = is as shown in MS 2 – quaver E appears to have a
+N:dot after it, quaver f a comma, but see bars 1, 5 7 and 14.
+N:”Endless pleasure Endless Love Semele enjoys Semele enjoys Semele
+N:enjoy—-s
+N:above on her Bosom Jove reclining useless now his Thunder lies his
+N:Thunder lyes
+N:to her Arms his Bolts resigning and his Lightening to her eyes”
+H:1718
+Z:vmp.C. Graebe..
+K:Bb major
+(f/e/f)g | (f/g/)(f/e/)d | e d2 | \
+c3 | c/d/cd | e3 | e/c/dg | “^=” =e3 |!
+c/d/c (d/=e/) | f3 | “^2″f/g/ e f | f3 | \
+c d2 | e/f/e/d/c | f/e/de | =B>AG |!
+g_a2 | g(f/e/)(d/c/) | de2 | f2e |\
+d/c/ “^=”=B2 | c3 | zff | (fB)B |!
+gfe3/4d/4 | “^=”c2c |(de)f |\
+“_sic”g3/2a/4g/4 f3/2g/4f/4 (e3/2f/4e/4) | \
+(d/4c/4B) A3/2 “_qu”B/ | B |]
+
+X:68
+T:Trumpet Solo,Violino Primo. TBe.073
+M:12/8
+L:1/8
+Q:1/4=50
+C:”By Senior Nicola” (Matteis?)
+S:Thomas Bennet MS,1718, VWML
+R:.air
+O:England
+N:1 – what looks like a number 3 written on the stave, followed by a
+N:crochet rest and two quaver rests. Bar lines as in M
+H:1718
+Z:vmp.C. Graebe..
+K:D major
+D(F/E/D) C(A,D) D(F/E/D) C(A,D) | D(F/E/D) C(A,D) D(F/E/D) C(A,D) | \
+M:2/2
+D6 z A | d/e/f/e/ f/g/f/g/ a/g/a/b/ fe |!
+%end of first line
+(a2a/)(b/4a/4)(b/4a/4)(g/4f/4).|\
+g/(a/4g/4)(a/4g/4)(f/4e/4) f/(g/4f/4)(g/4f/4)(e/4d/4e/4) | \
+e6 z2 z/ A |!
+%end of second line
+d/e/f/e/ f/g/f/g/.| a/g/a/b/ aa |\
+(a2 a/)(b/4a/4)(b/4a/4)(g/4f/4).|\
+g/(a/4g/4)(a/4g/4)(f/4e/4) f/(g/4f/4)(g/4f/4)(e/4d/4)|!
+%end of third line
+(e/d/e/f/) “^=”e>d d2 z/ (b/4a/4)(b/4a/4)(g/4f/4) |\
+g/(a/4g/4)(a/4g/4)(f/4e/4) f/(g/4f/4)(g/4f/4)(e/4d/4) (e/d/e/f/) “^=”e>d|\
+d8 |!
+zA,DD D>FDD | D>A,DD D>FDD |\
+D>A,DD D>FDD | D>FAA A>dAA |!
+“^Piano” A>FAA A>dAA | A>F F>D D>A, A,>D |\
+D>F F>A A>d d>f f>a a>f f>a (f>e/d/4) | d8 “^1″|”^etc.”z|]
+W:And so on for four interminable, copied out of a book, totally tedious pages.
+
+X:69
+T:Sebella. TBe.074
+M:2/2
+L:1/4
+Q:1/4=100
+S:Thomas Bennet MS,1718, VWML
+R:.air
+O:England
+N:Sebella is an alternative form of Sibyl. 1 – probably squiggle before
+N:note. Looks like a sharp but that wouldn’t make musical sense.
+H:pre-1718
+Z:vmp.C. Graebe..
+K:A minor
+c>c | ddd>c/2d/4 |e2 d”^1″B | cdB>c | c2 fe | ddde |!
+f3 e | ef^d>c/2d/4|e2ED | CB,CA, | FEFD | EDEE | !
+A,2 e>e/ | f3 z/ e | d3 z/g | g>a f>e | d3z/g | g>a f>e |!
+d3z/c | c2CD | EDEC | GABG | G,A,B,G, | e3 e/4f/4 g |!
+f3 e | d3 z g/ |g>a f>e | ^d3z/ e/ |e3e | e2d>c |!
+B3A | A2CD | EF^GE | A A/G/AD |E E/D/ CA, | e2 d>c |!
+B3A | A2 C/B,/C/D/ | E/D/E/F/ GE | A/B/A/G/ F/E/F/D/ |!
+E/F/E/D/ C/B,/C/A,/ | e2 d>c | B3 A | A4 |]

@@ -1,0 +1,2254 @@
+%abc
+%%abc-alias John Moore,Tyneside
+%1841, UK Tyneside, Private collection
+%%abc-creator ABCexplorer 1.3.8 [30/08/2010]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP, John Adams & Chris Partington, 1999
+%Revised 18/7/2005
+%Revised again #11/2008
+%Revised again 12/2009
+
+X:1
+T:Swiss Boy,The. JMT.001
+M:2/4
+L:1/16
+Q:1/4=100
+S:John Moore,Tyneside,1841,(01a)
+R:.Country dance
+O:England
+A:Northumbria
+H:1841
+Z:vmp.John Adams
+K:C
+EF | G2E>F G2E>F | G2e>d c2 G2 | A2f>e d2e>d | c4 E3F |!
+G2E>F G2E>F | G2e>d c2 G2 | F2f>d d2e>d | ” cr”c6 ||!
+G2 | F2d>c B2 G2 | G2e>d c2 G2 | F2d>c B2 G2 | G2e>d c2 EF |!
+G2E>F G2E>F | G2e>d c2 G2 | G2f>e d2e>d |” cr” c6|]
+
+X:2
+T:Quadrille,A. JMT.002
+T:Favourite Italian Dance,aka. JMT.002
+M:6/8
+L:1/8
+Q:3/8=100
+S:John Moore,Tyneside,1841. (01b)
+R:.Quadrille
+O:England
+A:Northumbria
+N:See Staffs MS.CGP
+H:1841
+Z:vmp.John Adams
+K:D
+A | f2 A f2 A | fgf efe | d2 c def | e3 a2 A |!
+f2 A f2 A | fgf efe |dcB dcB | f3 f2 :|!
+|: A | ABc def | a2 g e2 d | cde ABc | e2 d f2 g | !
+ABc def | f2 e c2 d | cde ABc | e3 d2 😐
+
+X:3
+T:Quadrille,A. JMT.003
+M:6/8
+L:1/8
+Q:3/8=100
+S:John Moore,Tyneside,1841. (02a)
+R:.Quadrille
+O:England
+A:Northumbria
+H:1841
+Z:vmp.John Adams
+K:D
+A | def dcB | A2 G F2G | A2 d A2 d | cee e2A |!
+dfe dcB | A2G F2A | f2dedc | ddd d2 :|!
+|: g | f2g agf | agf agf | e2f gfe | gfegfe |!
+f2a agf | e2f gfe | fed edc | ddd d2 😐
+
+X:4
+T:Waltz,A. JMT.004
+M:3/4
+L:1/8
+Q:3/4=50
+S:John Moore,Tyneside,1841 (02b)
+R:.Waltz
+O:England
+A:Northumbria
+H:1841
+Z:vmp.John Adams
+K:D
+A2 | d2 d-ef-d | A2F2A2 | G2E2A2 | F2D2F2 |!
+d2d-ef-d | A2 F2 A2 | G2 E2 A2| D4:|!
+|: d2| c2cdec | d2 defd | e2 efge | f2d2A2 |!
+B2BcdB | A2 d2 f2 | agfaec| d4 :|!
+|: A2 | B2 BcdB | A2 f2 A2| B2BcdB | A4 A2 |!
+B2 BcdB | Ad f2 a2 | agfeec | d4 😐
+
+X:5
+T:Pit Lad,The . JMT.005
+T:Bonny Pit Laddie,The,aka. JMT.005
+M:6/8
+L:1/8
+Q:3/8=120
+S:John Moore,Tyneside,1841. (03a)
+R:.jig
+O:England
+A:Northumbria
+H:184
+Z:vmp.John Adams
+K:D
+A | d<fd cAc | d<fd cAc | e3 c2 A | e<fd cAc | def gec | d3 D2 :|!
+|:A | def g2e | f2d faf | e3c2A | def gfe | faf gec | d3 D2:|!
+|:A | dcB AGF | GAB cAc |e3c2A | dcB AGF | GAB Adc | d3D2 😐
+
+X:6
+T:Scotch Reel,A. JMT.006
+T:Fairy Dance,The,aka. JMT.006
+M:C
+L:1/8
+Q:1/2=100
+S:John Moore,Tyneside,1841. (03b)
+R:.Reel
+O:England
+A:Northumbria
+H:1841
+Z:vmp.John Adams
+K:D
+A | f2fd f2fd | (gf)ed (cd)eg | f2 fd (gf)ed | (cA)Bc d2d :|!
+|:f| a2 af b2 ba | g2 ge a2 ag | f2 fd (gf)ed | (cA)Bc d2 d:|
+
+X:7
+T:John’s Favourite Hornpipe,aka. JMT.007
+M:4/4
+L:1/8
+Q:1/2=80
+C:untitled in MS
+S:John Moore,Tyneside,1841.(04a)
+R:.Hornpipe
+O:England
+A:Northumbria
+H:1841
+Z:vmp.John Adams
+K:D
+A2 | d2 df (gf)ed | e2 ef (dc)BA | B2 Bc (dc)dB | (Ad)gf f2 e2 |!
+d2 df (gf)ed | g2gf (ga)ba | (gf)ed Adce | d2d2d2 :|!
+|: de | (fd)dd (Ad)dd | (fd)dd (Ad)dd | (fd)AF (DFA)d | (fd)gf f2e2 |!
+(Ad)FA (AG)FG | (FA)df (ga)ba | (gf)ed (Ad)ce | d2d2d2 😐
+
+X:8
+T:Charles Stewards Reel. JMT.008
+M:C
+L:1/8
+Q:1/2=100
+S:John Moore,Tyneside,1841. (04b)
+R:.Reel
+O:England
+A:Northumbria
+N:Charles Mcxxxx’s Reel..JA..
+H:1841
+Z:vmp.John Adams
+K:D
+dB | (GE)FD G2 GB | (AF)FD E2 EF | (AF)FD (GA)Bd | .A.G.F.E D2 :|!
+|:Ac | d2fd (eg)fc | d2 (fd) edBc | d2 fd eafe | (fa)ef d2 😐
+
+X:9
+T:Tench’s Hornpipe,aka. JMT.009
+T:Hornpipe by Tench,A. JMT.009
+M:C
+L:1/8
+Q:1/2=90
+C:by Tench?
+S:John Moore,Tyneside,1841. (05)
+R:.Hornpipe
+O:England
+A:Northumbria
+H:1841
+Z:vmp.John Adams
+K:D
+AG | (FG)EF DFAd | (cd)(Bc) Aceg | (fg)(ef) (de)(cd) | (Bc)(AB) GBAG |!
+(FA)(EF) DFAc | (cd)(Bc) Aceg | (fa)ge fdec | d2d2d2 :|!
+|:de | (fed).f (edc).e | (dcB).d (cBA).c | (BAG).B (AGF).A | GEFD ECCG |!
+(FG)(EF) DFAc | (cd)(Bc) Aceg | fage fdec | d2d2d2 😐
+
+X:10
+T:Tant Tivey. JMT.010
+M:6/8
+L:1/8
+Q:3/8=120
+S:John Moore,Tyneside,1841. (06)
+R:.Jig
+O:England
+A:Northumbria
+H:1841
+Z:vmp.John Adams
+K:D
+A| d2d B2G | F2G A2d | B2d ceg | f3 e2A |!
+d2d f2d | B2B e2d | c2c BAB | A3 zcd |!
+e2c A2A |f2d A2A | f2d A2d | cd/2e/2 f a2 f |!
+f3 e2A |FGA Bcd | efg afd | B2e d2c | d3 d2 A/2A/2 |!
+A3 A3 |A-d2 d2 A/2A/2 | AFA AFA | (Ad)d d2(c/2d/2) |!
+e3 e3| (e-a).a .a2 c/2d/2|ece ece | (ea)a a2a|!
+fdd d2f | eAA A2a | fdd d2f | eAA A2 B/2c/2 |!
+d2f d2f | d3 z2 A/2A/2 | d2f d2f | a3 z2 (A/G/) |!
+FGA Bcd | efg afd | B2e d2c | d3 a3 |!
+f2f ede | a3 g3 | f2f ede | ddd d2|]
+
+X:11
+T:Liverpool Hornpipe,aka. JMT.011
+M:C
+L:1/8
+Q:1/2=90
+C:untitled in MS
+S:John Moore,Tyneside,1841. (07)
+R:.Hornpipe
+O:England
+A:Northumbria
+H:1841
+Z:vmp.John Adams
+K:D
+AG | (FD)FA (df)af | (gf)ed (dc)BA | GBGB FAFA | EBA.G (GF)ED|!
+(FD)FA (df)af | (gf)ed (dc)BA | (af)ed B-gec | d2d2d2 :|!
+|:A2|(de)fd cdec|Beed (dc)BA|GBGB FAFA|EBA.G .GFED|!
+(FD)FA (df)af|(gf)ed (dc)BA|afed (Bg)ec|d2d2d2:|
+
+X:12
+T:Rory O’More. JMT.012
+M:6/8
+L:1/8
+Q:3/8120
+S:J.Moore,Tyneside,1841. (08)
+R:.Jig
+O:England
+A:Northumbria
+N:Unusual setting
+Z:vmp.John Adams
+K:G
+g/e/|\
+(dG).G AG.G | (dG).G (Gg)e | (d>cB) (BA)G | FAA A2B | !
+(cd).e (de).f | .g.f.e d2c | (Bc).d (eg).^c | ddd “qu”d2 :|!
+g/e/|\
+(dG)G (AG)G | (dG)G G(ge) | (d>cB) (B>AG) | (FA)A A2 B/c/|!
+(dG)G AGG | dGGHe2 d/c/ | (B>c)d. .d.e.f| (gG)G ” cr”g3|!
+(g>fe) (eB).B | {d}c-BA G2A |(E>FA) GAB | (Be)d d2 e/f/|!
+(g>f)e (eB)B | cBA G2 F | (E>FG) (GA).B| (Bd)d “DC”d2|]
+
+X:13
+T:Waltz,A. JMT.013
+M:3/8
+L:1/8
+Q:3/8=50
+S:J.Moore,Tyneside,1841. (09)
+R:.Waltz
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:G
+G/B/|dd B/d/|ee g/e/|d d/B/c/A/|BG G/B/|!
+dd B/d/|ee g/e/|d d/B/c/A/|G2:|!
+|:g|f/a/ dd|g/b/ gg|f/a/ dd|g2G/B/|!
+dd B/d/|ee g/e/|d d/B/c/A/|G2:|!
+|:D|(G/F/G/)A/B/c/|ddB|ccA|BGD|!
+(G/F/G/)A/B/c/|ddB|ccA|G2:|
+
+X:14
+T:Waltz,A, JMT.014
+M:3/4
+L:1/8
+Q:3/4=50
+S:J.Moore,Tyneside,1841.(10a)
+R:.Waltz
+O:England
+A:Northumbria
+H:1841
+Z:vmp.Chris Partington
+K:F
+c/B/|(A/c/)f/c/a/c/|(A/c/)f/c/a/c/|(c/B/)A/B/g/B/|B/A/ A c/B/|!
+(A/c/)f/c/a/c/|(A/c/)f/c/a/c/|(c/d/)e/f/g/a/|f2:|!
+|:c|cde| fga|b2a|agc|cde|fga|g/a/b/g/e/g/|f2:|!
+|:c|c=B_B|A2f|(e/f/)g/e/c/g/|f/g/ac|c=B_B|A2f|(e/f/)g/e/c/g/|f2:|
+
+X:15
+T:Kitty O’Linch. JMT.015
+T:Kitty O’Lynn,aka. JMT.015
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841. (10b)
+R:.Jig
+O:England
+A:Northumbria
+H:1841
+Z:vmp.Chris Partington
+K:D
+f/e/|dAA AFA|BGB Afe|dAA AFA|g3f2e|!
+dAA AFA|Bdgb2a|aba agf|e3d2:|!
+|:g|fgab2a|fgab2a|fga fga|e2f gfe|!
+fgab2a|fgab2a|aba agf|e3d2:|
+
+X:16
+T:Waltz,A. JMT.016
+M:3/8
+L:1/8
+Q:3/8=50
+S:J.Moore,Tyneside,1841.(11a)
+R:.Waltz
+O:England
+A:Northumbria
+Z:vmp.John Adams
+K:G
+D | GG ((3B/A/F/) | G/B/ d B/G/ | F/A/ c A/F/ | G/B/ DD |!
+GG ((3B/A/F/) | G/B/ d B/G/ | F/A/ c A/F/ | G2:|!
+|:G | (F/A/c/)A/F/A/| (G/B/d/)B/G/B/ | (F/A/c/)A/F/A/| .G/.A/.B/.c/d |!
+(F/A/c/)A/F/A/| (G/B/d/)B/G/B/|(F/A/c/)A/F/A/| G2 😐
+
+X:17
+T:My Love Is But A Lassie Yet,aka. JMT.017
+M:2/4
+L:1/8
+Q:1/4=100
+C:untitled in MS
+S:J.Moore,Tyneside,1841.(11b)
+R:.Reel
+O:England
+A:Northumbria
+H:184
+Z:vmp.John Adam
+K:D
+B/c/| dDFD| dDD B/c/| dDFD| eEE B/c/| dDFD|!
+dgfe| (d/c/B/A/) Bc| dDD:|\
+|:f/g/| afge| fd d/e/f/g/|!
+afge| bee f/g/| afge| fdec| (d/c/B/A/) Bc| dDD:|
+
+X:18
+T:Humours Of Glen,The. JMT.018
+M:6/8
+L:1/8
+Q:3/8=50
+S:J.Moore,Tyneside,1841.(12)
+R:.Air
+O:England
+A:Northumbria
+N:What a lovely tune
+H:1841
+Z:vmp.Chris Partington
+K:D
+F|B(d/c/B/^A/) BFF|Fdc dFF|B(d/c/B/^A/) BFD|EF^A B2F|!
+B(d/c/B/^A/) BFF|Fdc dFF|.G(A/G/F/E/) .F(G/F/E/D/)|EF^AB2:|!
+|:d/B/|Addd2f/e/|dfa afd|g(a/g/f/e/) fdB|AF^AB2:|!
+|:d/B/|AFF dFF|AFd (B/A/G/F/E/D/)|AFF dFD|EF^A B2d/B/|!
+AFF dFF|AFd (B/A/G/F/E/D/)|g(a/g/f/e/) fdB|AF^AB2:|!
+|:B|Bbb afd|g(a/g/f/e/) fdB|Bbb (b/a/g/f/e/d/)|AF^AB2B|!
+B/b/b/b/b/b/ B/a/a/a/a/a/|g(a/g/f/e/) fdB|dcd (B/A/G/F/E/D/)|EF^AB2:|!
+|:d/B/|A/F/A/F/A/F/ d/F/d/F/d/F/|A/F/A/F/d/c/ (B/A/G/F/E/D/)|\
+A/F/A/F/A/F/d/F/d/F/d/F/|EF^AB2d/B/|!
+A/F/A/F/A/F/ d/F/d/F/d/F/|A/F/A/F/d/c/ (B/A/G/F/E/D/)|\
+g(a/g/f/e/) fdB|AF^AB2:|!
+|:B|dfa b2b|(b/a/g/f/e/d/)a2a|g(a/g/f/e/) fdB|AF^AB2:|
+
+X:19
+T:Durham Rainger,The. JMT.019
+M:4/4
+L:1/8
+Q:1/2=110
+S:J.Moore,Tyneside,1841.(13b)
+R:.Rant
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:D
+FG|(AB)AF A2de|(fg)efd2Ac|(de)dB (AB)AF|F2E2E2FG|!
+(AB)AFA2de|(fg)efd2Ac|(de)dB (AB)AG|F2D2D2:|!
+|:ag|(fe)fg (af)de|(fe)fg afdf|g2bgf2af|f2e2e2FG|!
+(AB)AFA2de|(fg)efd2Ac|(de)dB (AB)AF|F2D2D2:|
+
+X:20
+T:London March,The. JMT.020
+M:C
+L:1/8
+Q:1/4=140
+S:J.Moore,Tyneside,1841.(14a)
+R:.March
+O:England
+A:Northumbria
+N:Irregular (bar missed out in the B music?
+Z:vmp.John Adam
+K:D
+|:F2 FF F2 E2| DFAc B2 A2 | Bd Ad Gd Fd | E>DEF E4 |!
+F2 FF F2 E2 | DFAdB2 A2 | Bd Ad FA dg | f2 e2 d2 :||:!
+(3agf | efge f2 e2 “?”| d2 de f2 fa | a2 (3 agf f2 e2 | f2 ff f2 e2 |!
+df Ad B2 A2 | Bd Ad Gd Fd | E>DEF E4 | F2 FF F2 E2 |!
+DFAd B2 A2 | Bd Ad FA dg | f2 e2 d4 😐
+W:Try repeating the first bar.
+
+X:21
+T:I Lie With My Mammy Nae Mare. JMT.021
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(14b)
+R:.Jig
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:Bb
+F/E/|DFFF2E|DFFF2F|GAGG2F|Bcd dcB|!
+def gab|fdfB2c|dgfd2c|BGGG2:|!
+|:e|dfff2e|dfff2e|dff fdB|Bgg gfe|!
+def fab|fdfB2c|dgf edc|BGGG2:|
+
+X:22
+T:Soldier’s Joy,The. JMT.022
+M:4/4
+L:1/8
+Q:1/2=90
+S:J,Moore,Tyneside,1841.(15a)
+R:.Hornpipe
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+c/B/|AFDF AFDF|A2d2d2cB|AFDF AFDF|G2E2E2F-G|!
+AFDF AFDF|A2d2d3g|fafd egec|d2D2D2:|!
+|:g2|fefg fagf|edefg2eg|fefg fagf|edcBA3g|!
+fefg fagf|edefg2eg|fafd egec|d2D2D2:|
+
+X:23
+T:Flower Of Edinburgh,The. JMT.023
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(15b)
+R:.Reel
+O:England
+A:Northumbria
+N:or raant or oornpipe etc
+H:184
+Z:vmp.Chris Partington
+K:G
+E|D2DEG2GA|(BG)(Bd) cBAG|(GF)(GE) DEFA|(AF)(dF)E2EF|!
+D2DEG2GA|(BG)(Bd) efgf|dcBA (GF)GA|B2G2G2:|!
+|:d2|gfga (gb)ag|fefg (fa)gf|edef gfed|B2e2e2fg|!
+dBGBd2cB|(ed)(ef) agfe|dcBA (GFG)A|B2G2G2:|
+
+X:24
+T:Keel Row,The. JMT.024
+M:4/4
+L:1/8
+Q:1/4=110
+S:J.Moore,Tyneside,1841.(16&17)
+R:.Air
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+dc|B2GBc2Ac|B2GB AFDc|B2GBc2Ac|BGAFG2:|\
+|:dc|(Bd)(dg)e2dc|\
+B2GB AFDc|(Bd)(dg)e2dc|BGAFG2:|\
+|:dc|B>dG>B c>eE>G|F>AD>F G>Bd>c|\
+B>dG>B c>eE>G|F>AD>FG2:|\
+|dc|Bdgf edcB|cBAG FGAB|Bdgf edcB|\
+cedF GABc|Bdgf edcB|cBAG FAAc|\
+“DC at end of phrase”Bd^ce dfeg|fba”play as written”\
+^cd2^c2=c2:|\
+|:dc|B/G/B/d/ gB c/A/c/f/ aB|A/D/F/A/ dc B/G/B/d/ gd|\
+B/G/B/d/ g/d/B/d/ c/A/c/f/ a/f/e/d/|\
+B/g/e/c/ B/d/c/A/G2:|\
+|:dc|Bdde/f/ g/f/g/a/ bB|AA/B/ c/B/A/G/ F/G/A/B/ Ad/c/|\
+B/G/A/B/ c/d/e/f/ g/f/e/d/ c/B/A/G/|A/c/e/d/ c/B/c/A/ G2dc|\
+Bdde/f/ g/f/g/a/ bB|\
+cA/B/ c/B/A/G/ F/G/A/B/ AA|\
+“DC at end of phrase”Bd^ce dfeg|fba”play as written”^cd2^c2=c2:|\
+|:dc|Bg/f/ gb Aa/^g/ ab|Af/e/ fa Bg/f/ gb|\
+Bg/f/ gb ca/^g/ ab|Af/e/ fag2:|\
+|:dc|(3Bdg (3GBd (3cea (3ABc|(3Bdg (3GBd (3FAc (3DFA|\
+(3Bdg (3GBd (3cea (3ABd|\
+(3Bed (3cBA G2:|\
+|dc|(3BGB (3dBd (3gdc (3BAG|(3FDF (3AFA (3cAG (3FED|\
+(3BGB (3dBd (3gdc (3BAG|(3Eed (3cBA G>AB>c|\
+(3BGB (3dBd (3gdc (3BAG|(3FDF (3AFA (3cAG (3FED|\
+“DC at end of phrase”(3EFG (3FGA (3GAB (3ABc|\
+(3B^cd”play as written” (3cde d2^c2=c2:|\
+|:dc|B/G/B/d/ g/d/B/d/ c/A/c/e/ a/f/d/c/|\
+B/G/B/d/ g/d/B/d/ c/A/F/A/ D/F/A/c/|\
+B/G/B/d/ g/d/B/d/ c/A/c/f/ a/f/d/c/|B/g/e/c/ B/d/c/A/ G4|]
+
+X:25
+T:Up Shinking. JMT.025
+T:Ap Shenkin,aka. JMT.025
+T:Tempest,The,aka. JMT.025
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(18)
+R:.Jig
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:G
+(d/c/)|B2B Bgf|e2e efg|ded dcB|(BA)AA2d/c/|!
+B2B Bgf|e2e efg|ded cBA|(AG)GG2:|!
+|(g/a/)|b2ga2f|gfe dcB|cdc BgB|(BA)AA2g/a/|!
+b2ga2f|gfe agf|bag fge|dgf edc|!
+B2B Bgf|e2e efg|ded dcB|(BA)AA2d/c/|!
+B2B Bgf|e2e efg|ded cBA|(AG)GG2|]
+
+X:26
+T:Spotted Bitch,The. JMT.026
+M:4/4
+L:1/8
+Q:1/2=100
+C:”James Hill”
+S:J.Moore,Tyneside,1841.(19)
+R:.Reel
+O:England
+A:Northumbria
+N:Accredited to James Hill in the MS…CGP…
+H:184
+Z:vmp.Chris Partington
+K:A
+cB|(AE)Ac (BE)Bd|(ce)dfe2ef|(fa)ce (df)Bd|(cA)dcc2Bc|!
+(AE)Ac (BE)Bd|(ce)dfe2ef|(ea)ce (df)Bd|(cB)AGA2:|!
+|:(GA)|(BA)Bc (dc)BA|(Bd)FB (AF)ED|(CE)Ac (ec)fd|(cA)dcc2Bf|!
+(ag)bg (ag)fe|(fe)af (ed)cB|(Ad)fe (dc)BA|(cB)AGA2:|
+
+X:27
+T:Silver Street Lasses. JMT.027
+M:4/4
+L:1/8
+Q:1/2=80
+S:J.Moore,Tyneside,1841.(20)
+R:.Hornpipe
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:C
+E2|(A^G)AB (A=G)EG|(A^G)AB (cB)cd|(ef)ge dedc|B2G2G2E2|!
+(A^G)AB (A=G)EG|(A^G)AB (cB)cd|(ef)ge (de)dB|c2A2A2:|!
+|:eg|(a^g)ab (a=g)eg|(a^g)ab (a=g)eg|(gf)ga (ge)dc|B2G2G2eg|!
+(a^g)ab (a=g)eg|a^gaba2AB|(cB)cd (eg)de|c2A2A2eg|!
+(a^g)ab (a=g)eg|a^gaba2ef|(ga)ge (de)dc|B2G2G2cB|!
+(A^G)AB (cBc)e|(dc)BA (GA)BG|(A^G)AB cBcd|e2A2A2:|
+
+X:28
+T:Sicilian Dance. JMT.028
+M:6/8
+L:1/8
+Q:3/8=110
+S:J.Moore,Tyneside,1841.(21)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:F
+C|F2F (AG)F|c2cc2B|(cf)ac2B|(AB).GF2C|!
+F2F (AG)F|c2cc2f|efe dc=B|(c3c2)|!
+|e/f/|g2cb2a|gfef2e/f/|g2cb2a|(gf)ef2c|!
+(db)b (ca)a|(Bg)g (Af)f|(BA)Gc2E|F3F2|!
+|F|A3GFG|F2F (FA)c|c3BAB|(BA)AA2f|!
+f2ee2d|d2cc2B|ABc cBA|A3G2|!
+|e|f2f (fe)=B|c2cc2g|b2b (bg)e|f2ff2c|!
+f2ed2c|d2cB2A|BAGc2E|F3F2|]
+
+X:29
+T:Lord Harwick’s March. JMT.029
+M:4/4
+L:1/8
+Q:1/4=130
+S:J.Moore,Tyneside,1841.(22)
+R:.March
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+A>F|F2F>F FF3|F3A dAGF|E2E>E EE3|E3F GBAG|!
+F2f>f ff3|f3a bagf|ebag fedc|d2d>dd2:|!
+|:f>f|a2a>aa2a>a|f2d2a2A>A|A2A>AA2A>A|F2D2A2a>a|!
+a2A>AA2a>a|a2A>AA2a>a|aaaaa4|a2a2a2A>G|!
+F2F>F FF3|F3A dAGF|E2E>E EE3|E3F GBAG|!
+F2f>f ff3|f3a bagf|ebag fedc|d2d>dd2:|!
+|:z2|F4D3F|A2d>AF2A>F|D2F>DG,2g2|f2(d/e/f/g/) aaaa|!
+f2(d/e/f/g/) aaaf|f>fa>a f>f d>d|a2a>aa2:|!
+|:z2|AA/A/ AAA4|g4e2z2|AA/A/ AAA4|a4f2z2|!
+AA/A/ AAA4|g2zfg2zf|.g.g.f.f .e.e.d.d|.c.c.B.B .A.A.G.G|!
+F2F>F FF3|F2A2dAGF|E2E>E EE3|E3F GBAG|!
+F2f>f ff3|f2a2bagf|ebag fedc |d2d>dd2:|
+
+X:30
+T:Lady Mary Ramsey’Reel. JMT.030
+M:4/4
+L:1/8
+Q:1/2=80
+S:J.Moore,Tyneside,1841.(23)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+F|D3B A<FF>B|A<FB<G A>FFd|D3B AFFB|A<DAF E/E/E E:|!
+g|fddf ecce|dBBd AFF e/g/|fddf ecdA|(Bd)AF E/E/E E e/g/|!
+fddf ecce|dfBd AFFc|dfce BdAB|FdAF E/E/E E|]
+
+X:31
+T:Blow The Wind Southerly. JMT.031
+M:6/8
+L:1/8
+Q:3/8=100
+S:J.Moore,Tyneside,1841.(24a)
+R:.Air
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+d/e/|f>ed AFA| BGB AFd/e/|f>ed AFA|Bdcd2:|!
+|:a|f2ae2a|dedc2a|f2ae2a|^gfga2a|!
+b2ba2a|g>fg~f2d/e/|fed Bgb|a2cd2:|
+
+X:32
+T:Quadrille,A. JMT.032
+M:6/8
+L:1/8
+Q:3/8=110
+S:J.Moore,Tyneside,1841.(24b)
+R:.Quadrille
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+a|aef df-e|A3ABc|def gab|^g3a2a|!
+aef dfe|A3ABc|dfb aef|d3d2:|!
+|:A|Aeg bag|g3f2f|fed dcB|BA^GA2A|!
+Aeg bag|g3f2d|d>cB BA^G|A3a2:|
+
+X:33
+T:Le Pitit Tambour. JMT.033
+T:Le Petit Tambour. JMT.033
+T:Grand Old Duke Of York,aka. JMT.033
+M:2/4
+L:1/8
+Q:1/4=100
+S:J.Moore,Tyneside,1841.(25)
+R:.March
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:C
+e/d/|cGEG|c3B/c/|dddd|d>e dc/d/|!
+eeee|.e(f/e/) .d(e/d/)|cc (B/c/)d/B/|c3||!
+c/B/|AABc|d>c .B(c/B/)|AABc|d3c/B/|!
+AABc|.d.d/.d/ .c.c/.c/|.B.B/.B/ .A.A/.A/|G4|!
+cc/c/ cc|c3G|cGEC|G,GzG|cc/c/ cc|c3e|!
+(d/e/).d/.c/ B/c/B/A/|G/-A/.B/.c/”DC” d/e/f/d/|]
+
+X:34
+T:Ships Are Sailing,The. JMT.034
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(26a)
+R:.Quadrille
+O:England
+A:Northumbria
+N:Fifes and Drums
+W:B strain bar 5 not in MS,supposed mistake..
+Z:vmp.Chris Partington
+K:A
+d|c2Ac2d|f2cA2g|a2ef2d|cecB2e|!
+c2Ac2d|e2cA2g|a2ef2d|c3A2:|!
+|:c|(AcA)E2c|(AcA)E2d|c2ef2d|c3B2c|!
+(AcA)”?”E2c|(AcA)E2d|c2ef2d|c3A2:|
+
+X:35
+T:Henslem’s Waltz. JMT.035
+M:3/8
+L:1/16
+Q:3/8=50
+S:J.Moore,Tyneside,1841.(26b)
+R:.Waltz
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:C
+G2|c2ceg2|G2fdB2|c2cege|dBG2AB|!
+c2ceg2|G2fdB2|ceegfd|c4:|!
+|:ec|G2fdB2|G2gec2|G2fdec|dBG2AB|!
+c2ceg2|G2fdB2|ceegfd|c4:|
+
+X:36
+T:Pielschmann’s Waltz. JMT.036
+M:3/8
+L:1/16
+Q:3/8=50
+S:J.Moore,Tyneside,1841.(27a)
+R:.Waltz
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:C
+(G2|c2)c2(G2|e2)e2(c2|g2)g2g2|g4g2|\
+(g2e2).e2|(e2g2).e2|(c2e2).d2|c4:|!
+(G2|d2)d2(G2|e2)e2G2|f2(fe)(fe)|f4f2|\
+a2a2g2|f2f2e2|(d2g2)B2|c4:|!
+|:Be|(gfedcB)|(fedcBc)|d2d2d2|d4Be|!
+(gfedcB)|(fedcBA)|G2B2B2|c4:|
+
+X:37
+T:I’ll gang nae mair to yon town. JMT.037
+M:4/4
+L:1/8
+Q:1/2=80
+S:J,Moore,Tyneside,1841.(27b)
+R:.Reel
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:F
+G|Fffc A2.F.c|(A/B/).c FA BGGf| (a/g/f/e/) fc A2 .F.c| \
+(A/B/).c GB AFF:|!
+c| AFcF dFcB| AF (d/c/B/A/) BGGc| AFcF dFcB|(A/B/).c GB AFFc|!
+AFcF dFcB| AF (d/c/B/A/) BGGe| fafd gbge| fdcB AFF|]
+
+X:38
+T:Choeur des Montagnards. JMT.038
+M:6/8
+L:1/8
+Q:3/8=110
+S:J.Moore,Tyneside,1841.(28a)
+R:.March
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:C
+g|(g3e)zg|(g3e)ze|d2d (ded)|c3Gzg|!
+(g3e)zg|g3eze|d2d (ded)|c3c2:|!
+|:c|(dg).G (dg).G|(ce).G (ce).G|(dg).G (dg).G|c3ezc|!
+(dg).G (dg).G|(ce).G (ce).G|(dg).G (dg).G|c3c2:|
+
+X:39
+T:Monfrina. JMT.039
+T:Italian Monfrina,aka. JMT.039
+T:Ducks Dang etc,aka. JMT.039
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(28b)
+R:.Jig
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:A
+E|ABc cdB|(BA)AA2c|Bcd GAB|(BA)AA2E|!
+ABc cdB|BAA Ace|ecA GAB|(BA)AA2:|!
+|:a|agb bge|(cd).ee2a|agb bge|cdee2a|!
+aga aga|fdf agf|efe dcB|(BA)AA2:|
+
+X:40
+T:May Moon,The. JMT.040
+T:Young May Moon,aka. JMT.040
+M:6/8
+L:1/8
+Q:3/8=120
+S:J,Moore,Tyneside,1841.(29a)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.J.Adam
+K:D
+A|d2A AFA|d2A AFA|d2d ede|f2d def|!
+g2g f2f|efd cBA|BAG FGA|B2A A2:|!
+|:f|aba fdf|aba fdf|aba fdf|g2e e2f|!
+afa geg|fed cBA|BAG FGA|B2A A2:|
+
+X:41
+T:Rob Roy’s Reel. JMT.041
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(29b)
+R:.Reel
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:D
+A|(FA)BA FABA|(FA)de (fe)ef|(FA)BA (dc)BA|(Bc)de (fd)d:|!
+e|(fd)ge (af)ed|(Bc)de (cA)Ag|(fd)ge afed|(Bc)de (fd)dg|!
+(fd)ge (af)ed|Bcde (cA)Ag|(fa)gb (af)ed|(Bc)de (fd)d|]
+
+X:42
+T:Anna Bolena. JMT.042
+M:4/4
+L:1/8
+Q:1/4=135
+C:Unedited!
+S:J.Moore,Tyneside,1841.(30)
+R:.March
+O:England
+A:Northumbria
+N:Bar lines all over the place ! Very suitable for the village band to
+N:play at the garden fete for visiting pompousness’s
+H:184
+Z:vmp.Chris Partington
+K:C
+ezcz|G3(c/d/) ezcz|G3(A/B/) czd2z|ef2|^cde2B|!
+(c2G)zezcz|G3(c/d/) ezcz|(G3A/B/) czez|dg^fe d^c=cA|G2z2|!
+|”cres.”G2G2|(d3^c/)d/(e3^d/)e/|(f2G)zG2G2|\
+c>GE>G c>ea>g|(g2d)z”soft”G2G2|!
+d3^c/d/”cres”e3^d/e/|(f2G)zG2G2|c>Bc>d e>de>c|\
+“hold”g2z2ez”*”cz|G3(c/d/) “*”ez”*”ez|!
+(e2A)z ABcd e(a2g) “pia”d(a2g)|g2ez ABcd|(ea2g) da2g|c2z2|]
+W:These 3 notes are crotchets in the MS
+
+X:43
+T:Jack’s Alive. JMT.043
+M:6/8
+L:1/8
+Q:3/8=110
+S:J.Moore,Tyneside,1841.(31)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+D|G2G (GA)B|A2A (AB)c|d2Bc2A|B2G (FE)D|!
+G2G G2B|A2AA2c|BdB cAF|G3G2:|!
+d|g2g gbg|f2f (fa).f|e2e (ef).g|a2g (fe).d|!
+g2g (gb).g|f2f (fa).f|ege faf|(g3g2)d|!
+gbg gbg|faf faf|efe efg|fag fed|!
+g3dBd|e3cAc|BdB cAF|G3G2|]
+
+X:44
+T:Devil Among The Tailors,The JMT.044
+T:Devil’s Dream,aka. JMT.044
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(32)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:A
+e2|(eaga) (eaga)|(eaga) fedc|dfBf dfBf|dfba agfe|!
+(eaga) (eaga)|(eaga)fedc|defg aefd|c2A2A2:|!
+|:ed|ceAe ceAe|ceag fedc|dfBf dfBf|dfba gfec|!
+ceAe ceAe|ceag fedc|defa gefd|c2A2A2:|
+
+X:45
+T:Morpeth Rant. JMT.045
+M:4/4
+L:1/8
+Q:1/2=110
+S:J,Moore,Tyneside,1841.(33)
+R:.Rant
+O:England
+A:Northumbria
+Z:vmp.J.Adams
+K:G
+(DF)|G2 DC B,G,B,D|ECEG FDFA|BGcA dBAG|F2 A2 A(cBA)|!
+G2 .D.C B,G,B,D|ECEG FDFA| BGcA dBAG| D2 G2 G2:| !
+|:df| gdBG FAce|dBAG GFED| cecA BdBG| F2 D2 D2 (GF)|!
+ECEG cBAG| FDFA dcBA| Bgfe dcBA| B2 G2 G2 😐
+
+X:46
+T:Paddy’s Rambles. JMT.046
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(34a)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+F|A>BA AFD|d>ed cBA|afd afd|ceee2(F/G/)|!
+A>BA AFD|d>ed cBA|afd gec|dddd2:|!
+|:A|dfa dfa|cea cea|dcd Bed|cAAA2(G/F/)|!
+GBd GAd|FAd FAd|GFG EAG|FDDD2:|
+
+X:47
+T:Wearmouth Lasses. JMT.047
+T:Yarmouth Lasses,aka. JMT.047
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(34b)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+d|gfg d^cd|=cBc dBG|DGBB2A|Acee2d|!
+gfg d^cd|=cBc dBG|DGBB2d|dcAG2:|!
+|:D DGBB2A|Acee2d|DGBB2A|Acee2d|!
+gfg d^cd|=cBc dBG|DGB ced|cBAG2:|
+
+X:48
+T:Charlie Is My Darling.2voices. JMT.048
+M:4/4
+L:1/8
+Q:1/2=60
+S:J.Moore,Tyneside,1841.(35)
+R:Air
+O:England
+A:Northumbria
+N:There are grace notes={c/e/d/c/B/A/c/B/A/G/} adorning
+N:the F# in bar 8.
+Z:vmp.Chris Partington
+K:Bb
+V:1
+[V:1](G>A)(B>c) d2(g>e)|e2(g>e)(d2g)(d/B/)|(G>A)(B>c) d2(g>a)|!
+[V:2](G>^FG>A) B>GG2|(c>G)G2(B>G)G2|G>^FG>A B>GG>F|!
+[V:1]b2(a>g)g2z(g|^f)>(d=e>f) (g>a) (ba/g/)|^f>(d”NB”=e)>(fg3)a|!
+[V:2]G2(c>B)B2z2|d2d>c (B>A) (G>B)|d2(d>c) (B>A) GB|!
+[V:1](b>ab>g) (f<d) (Bc/d/)|e>c d>B d3^F|G>(AB>cd2)(g>d)|!
+[V:2]d>ed>A B>^FG2|^F2G2D2Fz|G>FG>A (B>G)G2|!
+[V:1](e2g)>(ed2)g(B/A/)|(G>A)(B>c)d2(g>a)|(b2{c’}a>g{bc’}g2)|]
+[V:2]c>GG2B>GG2|G>FG>A B>GG>F|G2{d}c>BB2|]
+W:NB.presumed Enatural from previous bar
+
+X:49
+T:Sir Sidney Smith’s March.2voices. JMT.049
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(36)
+R:.March
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:Bb
+[V:1]|:de|f2f2f2f2|g2f2e2d2|e2dec2fd|decdB2fe|!
+[V:2]|:Bc|d2d2d2d2|e2d2c2B2|c2A2F2GA|B2F2B,2F2|!
+[V:1]dfdf cfcf|BfBfA2fe|defgf2=e2|f6:|!
+[V:2]B2B2A2A2|G2G2F2F2|” crotchets in MS”AGAB c2C2|F6:|!
+[V:1]cB|AFAc fcde|d6fe|dBdf bfga|g6ba|!
+[V:2]z2|z8|B6z2|z8|
+[V:1]gbgb fbfb|ebeb dbdb|gbgb fbfb|ebeb dbdb|!
+[V:2]e6z2|e2e2d2d2|c2c2B2B2|e2e2d2d2|!
+[V:1]g2f2e2d2|g2f2e2d2|g2f2e2d2|c6de|f2f2f2f2|!
+[V:2]c2c2B2B2|e2d2c2B2|e2d2c2B2|e2d2c2B2|F6Bc|d2d2d2d2|!
+[V:1]g2f2e2d2|e2dec2fe|decdB2fe|dfdf cfcf|!
+[V:2]e2d2c2B2|B2A2F2GA|B2F2B,2F2|B2B2F2F2|!
+[V:1]BfBf AfAf|GfGf AfAf|” supposed”BfBf cfcf|dgfe d2c2|B6|]
+[V:2]G2G2F2F2|C2C2E2E2|F2F2A2A2|B2DEF2F2|B,6|]
+
+X:50
+T:Shield’s Fair. JMT.050
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(37)
+R:.Reel
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:A
+(e/f/g)|a2Ac (ec)Ac|d2c2c2eg|a2Ac (ec)Ac|c2B2B2(e/f/g)|!
+a2Ac (ec)Ac|d2c2f2fe|(dc)BA (GB)ed|c2A2A2:|!
+|:BA|(GE)Ec (BE)Ec|(BE)Ecd2dc|(cA)Ac (dB)Bd|(ec)cef2fd|!
+(ca)ac (Bg)gB|(Ac)ec f2fe|(dc)BA (GB)ed|c2A2A2:|
+
+X:51
+T:Delvinsides. JMT.051
+M:4/4
+L:1/8
+Q:1/2=70
+S:J.Moore,Tyneside,1841.(38)
+R:.Reel
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:D
+Be (d/c/B/A/) dGBG|Be (d/c/B/A/) dDAD|Be (d/c/B/A/) dBBg|fdec dDAF:|!
+|:dEBE dEEe|dEBE dDDf|dEBE dEEg|(f/g/a/f/) (e/f/g/e/) dDAF:|!
+|:Bece Bece|Bece dAFD|Bece dBBg|(f/g/a/g/) (e/f/g/e/) dDAF:|!
+|:e2Bc/d/e2Bc/d/|e2Bc/d/ dAFD|e2Bc/d/ eeeg|fdec dDAF:|
+
+X:52
+T:Irish Washerwoman. JMT.052
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(39a)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+d/c/|BGG DGG|BGB dcB|cAA DAA|cAc edc|!
+BGG DGG|BGB dcB|cBc Adc|BGG G2:|!
+|:g/a/|bgg dgg|bgb bag|afd Adg|fdf agf|!
+(eg)g (dg)g|(cg)g (Bg)g|d/c/Bc Adc|BGGG2:|
+
+X:53
+T:College Hornpipe. JMT.053
+M:C
+L:1/8
+Q:1/2=90
+S:J.Moore,Tyneside,1841.(39b)
+R:.Hornpipe
+O:England
+A:Northumbria
+N:MS has crotchets here,and semi quavers at the bar end,but they don’t ad
+N:d up.
+Z:vmp.Chris Partington
+K:D
+dc|d2D2D2AG|FAd2d2(3fed|e2E2E2ed|”NB”cea4ga|!
+bagf agfe|(gf)ge dcBA|Bdce dfeg|f2d2d2:|!
+|:AG|FAdA FAdA|B2G2G2BA|GBec GBed|c2A2A2dc|!
+d2(b2b)agf|g-fge dcBA|Bdce dfeg|f2d2d2:|
+
+X:54
+T:Hawk,The. JMT.054
+M:4/4
+L:1/8
+Q:1/2=90
+C:”A Hornpipe by James Hill”
+S:J.Moore,Tyneside,1841.(40)
+R:.Hornpipe
+N:It says in brackets alongside the title “A Hornpipe By James Hill”
+Z:vmp.Chris Partington
+K:E
+(B/c/d)|e2ge (ce)gf|(eg)fa (gb)ag|f2af (df)ag|(fe)dc (Bc)dB|!
+e2ge (ce)gf|(eg)fa (gb)ag|(fe)fg|(bB)cd|(eB)gfe2:|!
+|:GA|(Ba)ge (Ba)gd|(Ba)gf (ed)cB|(cB)dc (ed)ge|(ge)agg2fg|!
+(gb).g.a (fg)ef|(db)ca (Bg)Af|(de)fg (bB)cd|(ec)gfe2:|
+
+X:55
+T:Green Hills Of Tyrol. JMT.055
+M:3/4
+L:1/8
+Q:3/4=50
+S:J.Moore,Tyneside,1841.(41)
+R:.Waltz
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+(3DGB|B2BGBc|d2deBe|dcAFAe|dBGDGA|!
+B2BGBc|d2dede|dcADFA|G3:|!
+z2|G2g2fe|edd2ed|dcc2dc|cBB2G2|!
+g2g2fe|edd2ed|^c2c2BA|”NB”d2dAfA|e2eAfA|!
+d2dAfA|e2ec^cA|d/e/^c/e/d/e/ =c/d/B/d/A/d/|\
+G2GDGA||!
+B2B^FdF|B2BcBA|G2GDBD|G2G^FGA|!
+B2B^FdF|B2BcBA|G2GEBD|G4G2|!
+g2g2fe|edd2e2|dcc2d2|cBB2G2|!
+g2g2fe|edd2e2|dcc2f2|g4|]
+W:NB=possible bar missing here.
+
+X:56
+T:Gloomy Winter. JMT.056
+M:C
+L:1/8
+Q:1/4=60
+S:J.Moore,Tyneside,1841.(42a)
+R:.Air
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:C
+A>A A>B AGE2|c>c c>e d>cB2|A>A eA A>G EC|D>DE>^G AA,A,2:|!
+|:C>C CE DC C2 |C>A, A,>C B,E E2|c>c c>e d>c Bd|cA (c/B/A/G/) E>AA2|!
+c>c g>c B>cd2|(A/c/)(B/e/) (c/B/)(A/G/) A>ee2|\
+E>G (G/F/E/D/) EG Bd|cA (c/B/A/G/) E>AA2:|
+
+X:57
+T:Rachel Reay’s Rant. JMT. 057
+M:C
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(42b)
+R:.Rant
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+A,|D2FAd2Ac|d2fde2cA|d2AF (BA)GF|(EF)GA (FD) D:|!
+|:A|d2fd (fa)fd|g2bge2cA|d2fd (fa)fd|(eg)fe (fd)dA|!
+d2fdf2af|g2bge2cA|d2Ad (BA)GF|(EF)GA (FD) D:|
+
+X:58
+T:Harvest Cany A Coming?. JMT.058
+M:4/4
+L:1/8
+Q:1/2=80
+S:J.Moore,Tyneside,1841.(43a)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+A,|D2FA DAFD|A,A,CE A,ECA,|D>DFA DAFA|(3Bcd (3efg fd d:|!
+|:A| d2fd adfd|B>B ed cGAc|d2fd adfd|(3Bcd (3efg fd dA|!
+d2fd adfd|B>B ed cAAg|(3fag (3fed (3dcB (3AGF|\
+(3GAB (3ABc (3dAG (3FGD:|
+
+X:59
+T:Triumph,The. JMT.059
+M:C
+L:1/8
+Q:1/2=90
+S:J.Moore,Tyneside,1841.(43b)
+R:.Rant
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+ge|d-BBG (cA)AF|(Gg)fg (ef)ge|(dB)BG (cA)AF|G2B2G2:|!
+|:B2|A2d2B2d2|A2d2B2d2|A2d2B2d2|(dc)BAG2:|!
+|:B2|B2d2(dc)c2|A3c (cB)B2|(GA)Bc (ef)ge|(dc)BAG2:|
+
+X:60
+T:Irish Jigg,An. JMT.060
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(44a)
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:C
+A2Bc2d|egec3|B2dg2e|dBGG2B|!
+A2Bc2d|egec3|B2dg2e|dBGA3:|!
+|:a3efg|a2ec3|B2dg2e|dBGG2B|!
+a3efg|a2ec3|B2dg2e|dBGA2e|!
+a3efg|a2ec2e|c2eg2e|dBGG2B|!
+A2Bc2d|egec3|Bd2g2e|dBGA3:|
+
+X:61
+T:Off She Goes. JMT.061
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(44b)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+z|F2AG2B|ABAd3|F2AG2B|AFDE2D|!
+F2AG2B|ABAd3|f2dg2f|edcd2:|!
+|:e|fafd2f|egec2e|fafd2f|edcd3|!
+fafd2f|egec2e|f2dg2f|edcd2:|
+
+X:62
+T:Roy’s Wife Of Aldivallock. JMT.062
+M:C
+L:1/8
+Q:1/4=120
+S:J.Moore,Tyneside,1841.(45a)
+R:.Strathspey
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+A<F F>E FE FB|A>F F>D E>DEF|\
+A>F E>D d>ef>e|d>B A>F E>D EF:|!
+|:A>B d>f e/d/e/f/ dB|AB/c/ d>A E>DEF|\
+AB/c/ d>f e/d/g/f/ {f}ed/e/|f>e d>F FE Fd/B/:|
+
+X:63
+T:Bonny Gordie. JMT.063
+T:Bonny Geordie. JMT.063
+M:C
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(45b)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:A
+(eg)ae (fd)ec|(Aa)ac e2f2|eaae fdec|B=ggBd2f2:|!
+|:(eA)cA (eA)ce|(Aa)ace2f2|(eA)ce (ae)cA|B=ggB d2f2:|
+
+X:64
+T:White Cockade. JMT.064
+M:2/4
+L:1/8
+Q:1/4=90
+S:J.Moore,Tyneside,1841.(45c)
+R:.S.Measure
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+g|dB BA/G/|BB Bg|dB BA/G/|FA AG/A/|!
+BB (c/B/)(A/G/)|Bd ga|b/a/g/f/ a/g/f/e/|dB B:|!
+|:B/c/|dB gB|dd dB/c/|dB gf/g/|aA AG/A/|!
+BB (c/B/)(A/G/)|Bd ga|b/a/g/f/ a/g/f/e/|dB B:|
+
+X:65
+T:Orange And Blue. JMT.065
+M:2/4
+L:1/8
+Q:1/4=100
+S:J.Moore,Tyneside,1841.(46a)
+R:.Rant
+O:England
+A:Northumbria
+N:Rant in the 18thC Scottish sense.
+Z:vmp.Chris Partington
+K:C
+“*”gf|e2cc Gcc2|ec (e/f/g/f/) ecce|fdd2 Addc|BG (B/c/d/c/) BGGg|!
+ecc2 Gcc2|ec (e/f/g/f/) eccg|a>fg>e f>de>c|(B/c/d/c/) GBc2:|!
+|:gf|egg2 eggf|ec (e/f/g/f/) ecce|faa2 faag|fd (f/g/a/g/) fddf|!
+egg2 eggf|ec (e/f/g/f/) eccg|a>fg>e f>de>c|(B/c/d/c/) GBc2:|
+
+X:66
+T:Torryburn Lasses,aka. JMT.066
+T:Seymour’s Reel,aka. JMT.066
+M:C
+L:1/8
+Q:1/2=110
+C:untitled in MS
+S:J.Moore,Tyneside,1841.(46b)
+R:.Reel
+O:England
+A:Northumbria
+N:Titled “A Reel” in MS..CGP…
+Z:vmp.Chris Partington
+K:G
+D|G2BG (Gd)dB|c2ec egg2|G2BG (Bd)dg|(ed)cBA2G:|!
+|:d|(ga)bg (ag)fd|(ef)ge (dc)BG|(ga)bg (ag)fd|(eg)fag2ga|!
+(ba)gf (gf)ed|(ef)ge (dB)GB|(cB)cd (ef)ge|(dB)gBA2G:|
+
+X:67
+T:Kitty Of Colerain. JMT.067
+M:6/8
+L:1/8
+Q:3/8=80
+S:J.Moore,Tyneside,1841.(47a)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+A/G/|FAd dfa|efd ceA|dfa dgb|(b/a/g/f/e/d/) (f/e/d/c/B/A/)|!
+FAd dfa|efd ceA|dfa dgb|ABcd2:|!
+|:f/g/|afd ecA|(b/a/g/f/e/d/) (f/e/d/c/B/A/)|afd ecA|Ba^g a2A/G/|!
+FAd dfa|e(g/f/e/d/) cec|dfa dgb|ABcd2:|
+
+X:68
+T:Blanchland Races. JMT.068
+T:Timour The Tartar,aka. JMT.068
+M:C
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(47b)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:A
+E|A2(c/B/)A eAcA|eAaA gAfA|eA (c/B/)A eA (c/B/)A|BEcE dEBE|!
+A2(c/B/)A eAcA|eAaA gAfA|efec eaec|BABcA3:|!
+|:A|E2(G/F/)E BEGE|BEdE cEBE|A2(c/B/)A eAcA|eAaA gAfA|!
+eA (c/B/)A aAfA|eA (c/B/)A aAfA|ecfe dcBA|GABA GEFG:|
+
+X:69
+T:Speed The Plough. JMT.069
+M:C
+L:1/8
+Q:1/2=90
+S:J.Moore,Tyneside,1841.(48)
+R:.Reel
+O:England
+A:Northumbria
+W:C.G.P
+K:A
+E|(AB)(Ac) efec|eaec efec|dedB cdcA|FBBA GBBc|!
+(AB)(Ac) efec|eaec efec|decd BcAE|FAGBc2A”NB”:|!
+|:e|aaaA aAeA|aAgA fAeA|dedB cdcA|FBBA GBBd|!
+(cBA)e aece|fdBf ecAc|decd BcAE|FAGBc2A:|
+W:MS has an extra A quaver at the end of each strain.
+
+X:70
+T:Earl Moira’s WelcomeTo Scotland. JMT.070
+M:4/4
+L:1/8
+Q:1/4=130
+S:J.Moore,Tyneside,1841.(49)
+R:.Strathspey
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:F
+C|:F<FF<F Ac~c2|B>GA>F E/F/G/F/ EC|F>FF>F Ac~c2|d>feg f/g/a/g/ fa:|!
+|:f>gaf gfec|d>e {de}fd c/d/c/B/ AF|f>gaf gfec|d>f e/f/g/e/ f2-(3fga|!
+bgaf gfdf|d/c/B/A/ fA B/A/G/F/ GA|F<FF>A Bd~d2-|c>fe>g f/g/a/g/ fa:|!
+|:AFcF d/c/B/A/ Bf|AFcF GABd|AFcF d/c/B/A/ cf|d>fe>g f/g/a/g/ fa:|!
+|:fafa eg c2|d>efd c/d/c/B/ AF|f/g/a f/g/a e/f/g c2|d>fe>gf3f|!
+dbca BgAf|”qu’s”A/B/c/B/ AF E/F/G/F/ ED|(3FGA (3GAB (3ABc (3Bcd|\
+c>fe>g f/g/a/g/ fa:|
+
+X:71
+T:Miss Hope’s Reel. JMT.071
+M:4/4
+L:1/8
+Q:1/4=140
+S:J.Moore,Tyneside,1841.(50a)
+R:.Strathspey
+O:England
+A:Northumberland
+N:A little difficult to read the lower note
+Z:vmp.Chris Partington
+K:D
+A,|D<C C>F E>D B,<D|G<GG>A B>AFd|A<F FD GBAG|EB,B,C (ED2):|!
+|:A|d<d Ad FdAc|d>f (g/f/e/d/)B2-Bc|dfdA BdAF|GBAc (3dAG (3FED|!
+d<d Ad FdAc|d>f (g/f/e/d/)B2-Bc|dfdA BdAF|EB,B,C (ED2):|
+
+X:72
+T:Cammel’s Rondeau. JMT.072
+M:4/4
+L:1/8
+Q:1/2=90
+S:J Moore,Tyneside,1841.(50b)
+R:.Rondeau
+O:England
+A:Northumberland
+Z:vmp.Chris Partington
+K:D
+“Key F in MS”G>AG2g2f2|G>AG2e2d2|Gdcd BdAd|BGEA GFED|!
+G>AG2g2f2|G>AG2e2d2|BG=cA dBe=c|B2A2G4:|!
+|:dafd Bgec|dafd Bgec|” e in ms”dAeA fAgA|afed dcBA|!
+d2df ecBA|d2dfe4|fdge afbg|” Da Capo”f2e2e2d2:|
+
+X:73
+T:Cylph Dance,The. JMT.073
+T:Sylph,The,aka. JMT.073
+T:Plymouth Lasses,aka. JMT.073
+M:6/8
+L:1/8
+Q:3/8=110
+S:J.Moore,Tyneside,1841.(51a)
+R:.Jig
+O:England
+A:Tyneside
+N:a.k.a. The Selph,Self,et
+Z:vmp.Chris Partington
+K:D
+A|AFA d(fa)|(ag)fe2g|(fe)d (fe)d|(ce)e”NB”e2A|!
+AFA dfa|agf efa|(f/g/)ad gec|dddd2:|!
+|:A/G/|(FA).d (dc).B|(BA).G (GF)D|(F/G/A)G F/G/AD|CEEE2A/G/|!
+FAd dcB|BAGF2D|(F/G/A)D GEC|EDDD2:|
+W:NB=Crotchet E missing from MS
+
+X:74
+T:Maid of Anachar,The. JMT.074
+M:6/8
+L:1/8
+Q:3/8=80
+S:J.Moore,Tyneside,1841.(51b)
+R:.Air
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+D/E/|F>ED F>ED|FAAA2d/e/|f>ed f>ed|f>edB2A/G/|!
+F>ED F>ED|FAAA2d/e/|fdB AFD|E>DED2:|!
+|:A/G/|FAB FAB/c/|dd/e/g/f/ dBA/G/|FAB FAd/e/|f>(e/d/c/) BA/B/c/A/|!
+dfa fdA|(B/A/B/c/d/c/) (B/A/G/F/E/D/)|{D}d2B/4c/4d/4B/4 AFD|GDG D2:|
+
+X:75
+T:Lord McDonald’s Reel. JMT.075
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(52)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+B/c/|d3e dBgB|dB gf/g/ aAAB/c/|d3e dBgB|A/B/c BA BGG:|!
+G|DGBG AGBG|DGBG AGEG|DGBG AGBG|DEDC B,G,G,G|!
+DGBG AGBG|DGBG AGEc|BAGF GFED|EFGA BGG|]
+
+X:76
+T:Tullock Gorum, JMT.076
+M:4/4
+L:1/8
+Q:1/4=100
+S:J.Moore,Tyneside,1841.(52b)
+R:.Strathspey
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+c|B<Gd<G c<FAc|B<GdG Bcdg|\
+B<Gd<G c=FAB|Ggd>c {c}B2A:|!
+|:B|G>gd>e =fFA2|G<gd>g B>gd>g|\
+G>gd>e =fF (d/c/B/A/)|G>gd>g {d}c2B>A|!
+G>gd>e =fF (d/c/B/A/)|G>gd>e =f>g {fg}a>g|\
+=f>ef>d c>FA>f|g>d (g/-a/.b)g2d|]
+
+X:77
+T:4th Dragoons March. JMT.077
+M:4/4
+L:1/8
+Q:1/2=70
+S:J.Moore,Tyneside,1841.(53)
+R:.March
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+DF|G2G>GG2Bc|d>BGGG2cd|ecg2dBg2|(gf)ag fedc|!
+(B/c/).d AG (A/B/).c AF|GBcd efga|bgfa fed^c|d2d>dd2:| !
+|:fg|a2a>a ac’ba|g2g>g gbag|fedg fedc|B2A2 (dc)BA|!
+G2G>G G>Bd2|eca2fdg2|Bdce AcFA|G2G>GG2:|!
+|:DG|B4A4|G4FGAB|(dc)cc (cB)BB|(BA)AA ABce|!
+d4c4|B4ABcd|(ec)(cA) (AG)(GF)|A4G2:|!
+|:g2|f>fa>af2d2|g>gb>bg2G2|GABc defa|g4fedc|!
+B4A4|d4c4|B2c>AG2F2|A4G2:|
+
+X:78
+T:Lord Nelson’s Hornpipe. JMT.078
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(54a)
+R:.Hornpipe
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+AF|D2d2d2c>d|ecAce2de|fdfd g>eg.e|a>fd>fe2AF|!
+D2d2d2cd|ecAce2cd|e>ce>c dBGB|A2A2A2:|!
+|:f>g|a>gf>e d>cB>A|B2G2G2gg|b>ag>f e>dc>B|c2A2A2fg|!
+afaf gbgb|afaf gbgb|afaf fedc|d2d2d2:|
+
+X:79
+T:Gateshead Hornpipe,aka. JMT.079
+T:Wind Hornpipe,The,aka. JMT.079
+M:4/4
+L:1/8
+Q:1/2=100
+C:untitled in MS,but by J.Hill
+S:J.Moore,Tyneside,1841.(54b)
+R:.Hornpipe
+O:England
+A:Northumbria
+N:I titled this tune The Wind Hp, as it was untitled. I have since
+N:discovered that Dixon has The Gateshead Hp, composed by
+N:J.Hill….CGP..
+Z:vmp.Chris Partington
+K:C
+GB|:c2ecG2AB|c2egc’2ge|fdgf ecge|dcde dfed|!
+c2ecG2AB|cdef gabc’|c’bd’c’ bag^f|1g^fga g=fed:|2 g2g2g2||!
+|:gf|eg^fg agfg|c’g^fg agfg|=fgef decd|BcAB GAFG|!
+EGce gc’bc’|afdc BAGF|EGcf edcB|d2c2c2:|
+
+X:80
+T:Queen Of Prussia’s Waltz. JMT.080
+M:3/4
+L:1/8
+Q:3/4=50
+S:J.Moore,Tyneside,1841.(55)
+R:.Waltz
+O:England
+A:Northumbria
+D:C.G.P
+K:G
+G2|G2G2G2|G2G2ed|d4B2|G2z2GA|Bcdefg|d4e2|d4c2|!
+A2z2d^c|\
+d^cdefg|a2z2D2|GFGBdB|cBceag|f2f2f2|g4:|!
+|:d2|g2GBdg|eccccc|A2DFAc|BdGGGd|g2GBdg|!
+eaaaaa|gfedef|g4::d2|edcBcA|GFBFGE|DEFGAB|!
+GABc^cd|edcBcA|GFBFGE|DEFGAB|G4:|\
+|:B>B|B4B>B|!
+B4B>B|B2B2B2|B2B2B2|d4-B2|d4B|[D4d4][B,2B2]|[D4d4][B,2B2]|\
+edcBcA|GFBFGG|!
+DEFGAB|GABc^cd|edcBcA|GFBFGE|DEFGAB|G4:|
+
+X:81
+T:Jenny Nettle. JMT.081
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(56a)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:C
+B|c2(Bc)A2a2|efge dBGB|c2BcA2a2|gef^de2A:|!
+|:B|cdef gage|gage dBGB|cdef gagf|eaa^ga2A:|
+
+X:82
+T:Huntsman’s Chorus. JMT.082
+M:2/4
+L:1/8
+Q:1/2=60
+S:J.Moore,Tyneside,1841.(56b)
+R:.Cotillion
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+A|d2d/e/f/g/|a2ff|eaea|f/g/f/e/ dA|d2d/e/f/g/|!
+a2ff|1 f/e/d/e/ e|d2:|2eac’b|a3||!
+e|f2ff|d2dd|g2gg|e2ee|f2ff|d2dd|!
+g2gg|e2zA|f2ff|g2gg|e2f/e/d/e/|f2dd|!
+f2ff|g2ff|f/e/d/e/ fe|d3A|AA/A/ AA/A/|AA/A/ AA/A/||!
+d2Af|d2Af|{a}ge {a}ge|{a}ge {a}ge||!
+fd/f/ a2|fd/f/ a2|fd/d/ dd/d/|d4|]
+
+X:83
+T:Pollacca. JMT.083
+M:3/4
+L:1/16
+Q:3/4=50
+S:J.Moore,Tyneside,1841.(59)
+R:.Pollacca
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+G2|:D2G2G2G2F2A2|G2B2B2B2c2e2|d2B2B2G2A2B2|c2E2A2G2F2D2|!
+D2G2G2G2F2A2|G2B2B2B2c2e2|d2B2B2G2 AcBd|c2E2E2F2G4:|!
+|:d2g2f2g2d2B2|A2B2c2e2d2^c2|d2g2f2g2f2g2|e2b2a2^c2d4|!
+e2(e=f) e2d2c2B2|c2E2A2G2F2D2|d3cB2G2 AcBd|c2E2E2F2G4:|!
+D2G2G2G2 FGAF|G2B2B2B2 ABcA|B2G2d2B2g2d2|e2c2A2G2F2D2|!
+D2G2G2G2 FGAF|G2B2B2B2 ABcA|BGAB cdef gfge| ecBA BdFAG4:|!
+dcde defg edcB |cBcd cfag fedc|BGAB cdef gfgd|e2c2A2G2F2D2|!
+D2G2G2G2 FGAF|G2B2B2B2 ABcA|BGAB cdef gfgd|e^dec BdFAG4:|
+
+X:84
+T:All’s Well.2voices. JMT.084
+M:2/4
+L:1/8
+Q:1/2=60
+C:”Braham”
+S:J.Moore,Tyneside,1841.(60)
+R:.March
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+V:1
+[V:1]” Andante”D|G2G2|G3A|B2{B}A>G|G2zG|B2B2|B3c|dgec|B2Az/B/|A>B A>B|!
+[V:2]z|B,2B,2|B,3D|G2D2|B,2zD|G2G2|G3A|B2cA|G2Fz|”9″F>G F>G|!
+%
+[V:1]”9″A>B c>A|B>A B>A|B>c dz/G/|g2{f}e>d|d2z2|z4|z2zG|g2{f}e>d|!
+[V:2]F>G A>F|G>F G>F|G>A Bz|z4|z2zD|D2C>B,|B,2z2|z4|!
+%
+[V:1]d2zB|dc BA|G2zG|”21″cccc|BBBB|eeee|dddd|ccBB|!
+[V:2]z2zG|BA GF|B,2zD|”21″GGGG|GGGG|cccc|BBBB|AAGG|!
+%
+[V:1]AABc|gdcB|HB2Az|”29″z4|z4|z2zG|czz2|z2zD|!
+[V:2]FFGB|dBAG|HG2FD|”29″G2z2|cB zA/2G/2|E2z2|z2A2|F2c2|!
+%
+[V:1]d2z2|z4|z4|B2{d}c>B|B2z2|(G/4A/4B/4c/4d/4e/4f/4g/4)d2|!
+[V:2]z4|G2A>G|G2z2|G2A>G|G2z2|z2z2|!
+%
+[V:1]z2z2|B2A>G|G2zA|B>B c>c|d>d e>c|B2A.G|G2z:|
+[V:2](d/4c/4B/4A/4G/4F/4E/4D/4)C2|\
+G2D2|B,2z2|G>G G>G|G>G G>A|G2D>B,|B,2z:|
+
+X:85
+T:O Then Dearest Helen… JMT.085
+M:6/8
+L:1/8
+Q:50
+S:J.Moore,Tyneside,1841.(62)
+R:.Air
+O:England
+A:Northumbria
+N:”…I’l love thee no more
+Z:vmp.Chris Partington
+K:D
+a/-g/|fdA B<ed|c>BA d<fa/f/|g>ag f>ga|bBe/d/ {d}cza/f/|!
+fdA B<ed|c>BA dfA|((5B/c/d/e/g/) aBg/e/|d>ec d2:|!
+“sic too uncertain to alter”a-d|c>dB Azd/c/|\
+B/A/B/G/e/d/ c/B/c/A/f/e/|d/c/d/B/g/f/ e/<A/ A/G/|!
+F/<A/ d/e/ f<age|d>ec d2zf|gab azd|c>BA c<eA/G/|!
+F/A/d/f/a/f/ b<Bg/e/|d>ec d>a/b/a/ (A/B/c/d/e/f/) d>a/b/a/ |!
+(A/B/c/d/e/f/) d2za d’/c’/b/a/g/f/e/ \
+a/a/b/f/ g/e/d/c/|d2g/f/d/e/c/d2|]
+
+X:86
+T:Staten Island Hornpipe. JMT.086
+M:4/4
+L:1/8
+Q:1/2=980
+S:J.Moore,Tyneside,1841.(63a)
+R:.Hornpipe
+O:England
+A:Northumbria
+N:presumably some sort of joke! or ghastly mistake. However, I have not a
+N:ttempted to correct it as it would have been too large an intervention.
+Z:vmp.Chris Partington
+K:D
+AG|FDFGA2A2|defdc2Ac|B2GBA2FA|G2E2E2AG|!
+FDFGA2A2|”? sic, see notes”defdc|A2^d2d2|”sic” {e/f/g/e/}fdd2:|!
+|:fg|a2fag2eg|f2dfe2A2|=c2c2efge|=c2c2efge|!
+a2fag2eg|f2dfe2A2|d2d2efge|f2d2d2:|
+
+X:87
+T:New Corsair,The. JMT.087
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(63b)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+d2Bd2B|G2G GAB|c2Ac2c|FAFD3|!
+d2Bg2d|e2cg2e|edc BcA|” crs”G3G3:|!
+|:FAc cAF|GBd dBG|FAc cAF|GBdd3|!
+ece ege|dBd dgd|edc BcA|G3G2:|
+
+X:88
+T:Lord Cathcart. JMT.088
+M:6/8
+L:1/8
+Q:3/8=110
+S:J.Moore,Tyneside,1841.(64a)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+D|DGB d2d|dcBA2c|BGd cAe|(G3F2)D|!
+DGBd2d|dcBA2c|cBA BAF|(F3G2):|!
+|:d|defg2a|gfed2d|dcB Ace|(G3F2)A|!
+AB^c def|B3g3|fed ed^c|de^c de=c|!
+def gdB|GBd”as written” dcBA2c|BGd cAe|(G3F2)D|!
+DGBd2d|dcB”qu”A2c|cBG BAF|F3G2:|
+
+X:89
+T:Drops Of Brandy. JMT.089
+M:9/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(64b)
+R:.Slip Jig
+O:England
+A:Northumbria
+N:MS had a time signature of 2/4. However, the tune was actually entered
+N:with all the “correct” notes in the standard fashion for a slip jig
+N:except for the bar lines being entered as if it were a 6/8 tune
+Z:vmp.Chris Partington
+K:G
+GAB BAB BAB|GAB BAB d2g|GAB BAB BAB|A2A ABG FED:|!
+|:GBd gdB gdB|GBd gdBd2g|GBd gdB gdB|A2A ABG FED:|
+
+X:90
+T:Bang Up. JMT.090
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(65a)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+A|d2df2f|a2a fed|g2ef2d|cde ABc|!
+d2df2f|a2a fed|g2ef2d|cBcd2:|!
+|:A|F2AE2A|F2A cBA|B2dA2d|B2e cBA|!
+F2AE2A|F2A cBA|Bgf edc|d3d2:|!
+|:e|f2ed2c|B2AG2F|G2AB2e|cBcA2e|!
+f2ed2c|B2AG2F|GAB ABG|FGED2:|
+
+X:91
+T:Tink,The. JMT.091
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(65b)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+G2g2E2e2|dedcB2G2|BcdB cdec|d2f2g4:|!
+|:BABcd2d2|eccAF2D2|BABcd2d2|egfag4:|
+
+X:92
+T:Mrs.Gilbert. JMT.092
+M:6/8
+L:1/8
+Q:3/8=127
+S:J.Moore,Tyneside,1842.(66a)
+R:.Quadrille
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+D|G2G (GB).d|e2e (ef).g|d2d (de).d|(c3B2)D|!
+G2G GBd|e2e efg|d2d (de).F|(A3G2):|!
+|:D|G2Bd2g|b2gd2B|d2ca2c|c3-B2D|!
+G2Bd2g|b2gd2B|d2^ca2c|” D.C.”e3d2:|!
+|:” LA POULE”B|e2fg2e|f2ga2f|g2ea2^a|b3b2B|!
+e2fg2e|f2ga2f|b2bB2^d|” D.C.”e3e2:|
+
+X:93
+T:Prince Regent. JMT.093
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1842.(66b)
+R:.Quadrille
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+A|d2d def|d2d def|gfg Bcd|ecA ABc|!
+d2d def|d2d def|gbg ecA|d3d2:|!
+|:F/G/|A2dB2e|cAc cfa|B2d Bgd|”NB”cAcd F/G/|!
+A2dB2e|cAc dfa|A2d Bge|”sic”edcB c2a2a2:|
+W:NB=too uncertain for me to sort out.But presumably cAc dFG.|
+
+X:94
+T:Highland Watch. JMT.094
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(67a)
+R:.Reel
+O:England
+A:Northumbria
+N:Key Sig shows G,D,B sharps,but I have assumed three sharps,which is
+Z:vmp.Chris Partington
+K:A
+“_see note re key”A,G,A,B, A,A,A,A,|GEDB, G,/G,/G,G,2|\
+A,B,CD AGAc|GEDB, A,/A,/A,A,2:|!
+|:a2ab a/a/aa2|Egge dBG2|cBcd edea|gedB A/A/AA2:|
+
+X:95
+T:Duke Of York,s March. JMT.095
+M:4/4
+L:1/8
+Q:1/2=90
+S:J.Moore,Tyneside,1841.(67b)
+R:.March
+O:England
+A:Northumbria
+N:There are many versions for comparison, so I have not attempted to edit
+N:this. See Leadley MS, etc
+Z:vmp.Chris Partington
+K:D
+“_Beware, this is not edited. See notes.”D2 D>D D2|\
+[F2A2] [F>A>][FA] [F2A2]|AFAF D2A2|dAdA dAFD|!
+A2 A>A A2|e2 e>g f2za|a3f fdgf|[c2e2] [c>e>][ce] [c2e2]z2:|!
+|A2 A>A Aefg|A2 A>A Adea|(ge).e.e (fd).d.d|bagf f2e2|!
+d3(f/e/) dAB=c|=cB B2B2 ^cdef|.g.g.f.f .e.e.d.d|e2 e>e e2z2|!
+D2D>DD2|F2F>FF2|AFAFD2g2|(fa)(af) gedc|d2d>dd2|]
+
+X:96
+T:Small Coals. JMT.096
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(68a)
+R:.Reel
+O:England
+A:Northumbria
+N:”….and little money” NB..extra g,b,f,d here in MS, presumed error…
+Z:vmp.Chris Partington
+K:G
+E2BE GABd|D2AD FGAc|E2BE GABd|gfed eEE2:|!
+edefg2fe|”sic”cdef fafd|edefg2(fe)|efed eEE2|!
+edefg2fe|defg fafd|”NB”gbfe fafd|efed eEE2|]
+
+X:97
+T:Golden Egg. JMT.097
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(68b)
+R:.Reel
+O:England
+A:Northumbria
+N:Perhaps from the Panto “Harlequin and the Golden Egg
+Z:vmp.Chris Partington
+K:D
+d2fdB2B2|ceag fedc|d2fdB2ed|cABcd2A2:|!
+|:f2ffg2gg|abag fede|f2ffg2gg|a2c2d4:|
+
+X:98
+T:Paddy O’Carrel. JMT.098
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1842.(69a)
+R:.Jig
+O:England
+A:Northumbria
+Z:VMP.C.Partington
+K:D
+“_G in MS”A/G/|FDD FDD|FGF FED|AFF dFF|EFED2A/G/|!
+FDD FDD|FGF FED|AFF dFF|EFED2:|!
+|:a/g/|fdd ecc|BdB AGF|fda eca|dBf a2a/g/|!
+fdd ecc|BdB AGF|AFF dFF|EFED2:|
+
+X:99
+T:Miller Of Drone. JMT.099
+M:4/4
+L:1/8
+Q:1/2=80
+S:J.Moore,Tyneside,1842.(69b)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+BA|G<EEG DEDB,|D<DGA BABd|GEEG DEDB,|D<DEFG2:|!
+|:Bc|dBBg dBee|dBBde2eg|dBBg dBAG|BABGE2cd|!
+dBBg dBee|dBBde2ea|gfed edBG|BABGE2:|
+
+X:100
+T:Hen’s Concert,The. JMT.100
+T:Hens March To The Midden,aka. JMT.100
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(70)
+R:.Air
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+|:A2|d4A3G|FEFGA3d|BdBdg2f2|edefe2A2|!
+d4A3G|FEFGA3d|Bcde fgab|f2e2d2:|!
+|:z2|.A2.A.A.A2.A2|A2A-fe2f2|.A2.A.A.A2.A2|A2Afe2f2|!
+d2ddd2d2|d2dgf2a2|d2ddd2d2|d2dgf2a2|!
+agfa gfeg|f2ge dcBA|defga2ba/f/|f2e2d2:|
+
+X:101
+T:Jockey To The Fair. JMT.101
+M:6/8
+L:1/8
+Q:3/8=110
+S:J.Moore,Tyneside,1841.(71a)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+D|G2AB2c|d2gd2c|BdG GFG|(A/B/).c.BA2d|!
+d^cd def|fafe2g|fed Ad^c|d3d2:|!
+|:d|afd afd|c2cB2c|dgd dgd|c2cB2B|!
+e2fg2f|e2fB2e|e^deB2A|G2FE2F|G2GG2B|!
+d3g3|dBGA2B|E2FG2A|B2g BcA|G3G2:|
+
+X:102
+T:Paddy Whack. JMT.102
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(71b)
+R:.Jig
+O:England
+A:Northumbria
+N:An unusual and very nice setting
+Z:vmp.Chris Partington
+K:G
+D|GBd gfa|edc B2A|GBd gfa|fddd2=f|!
+ece efg|dBGA2G|GAB cAd|BGGG2:|!
+|:B/c/|dBd ede|dBGA2G|Bcd gea|fddd2=f|!
+ece (e/f/g)e|dBGA2G|GAB cAd|BGGG2:|
+
+X:103
+T:O’er The Hills And Far Away. JMT.103
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(72)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+DE|G3A GABA|G2E2E2DE|G3A GABG|B2A2A2DE|!
+G3A GABG|G2E2c4|E2D2DEGA|B2A2A2:|!
+|:Bc|d3e dcBA|G2E2E2Bc|d3e dBAG|B2A2A2Bc|!
+d3e dcBA|G2E2c4|E2D2 DEGA|B2A2A2:|!
+|:DE|GABA GABA|G2E2E2DE|GABA GABA|B2A2A2DE|!
+GABA GABA|AGFEc4|D2D2DEGA|B2A2A2:|!
+|:Bc|dgfe dBAB|G2E2E2Bc|dgfe dBAG|B2A2A2Bc|!
+dgfe dcBA|G2E2c4|E2D2DEGA|B2A2A2:|
+
+X:104
+T:Caller Herring,(Scotch). JMT.104
+M:4/4
+L:1/8
+Q:1/2=80
+S:J.Moore,Tyneside,1841.(73)
+R:.Reel
+C:by Nat.Gow
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+D|G2GG F2GA|BEAG FDEF|G2GGF2GA|BcAFG3||!
+.g|.f.e.d.c .B.A.G.g|.f.e.d.c .B.A.G.g|.f.e.d.c BBcd|eEAG FDEF|!
+G2GGF2GA|BEAG FDEF|G2GGF2GA|BcAFG3||!
+z|g2gg gfgf|edcB ABce|d2dd dcde|fgecd3z|!
+c2cc cBcd|eEAG FDEF|G2GG GFGe/c/|BcAFG3|]
+
+X:105
+T:Mill Mill O,Duet.2voices. JMT.105
+M:4/4
+L:1/8
+Q:1/2=60
+S:J.Moore,Tyneside,1841.(74)
+R:.Air
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:D
+[V:1]|:d>e|f2A>BA3d|B>ABd{f}e2d>e|{de}f2A2gfed|B3cd2:|!
+[V:2]|:z2|dAFGF2F2|G>FGB cAFA|dAFA BAGF|G3AF2:|!
+[V:1]|:c>A|(defg)a3a|bagfe3A|(defg) a>bag|{g}f2fgHa2zA|!
+[V:2]|:z2|zA de (fefd)|gfedc3A|zA de (fgfe)|{e}d2deHf2z2|!
+[V:1]defga3g/a/|bagf{f}e2d>e|f2A2A2{g}f/e/d|B3cHd2:|
+[V:2]zA def3e/f/|gfed cAFA|dAFAA2{B}A/G/F|G3E/A/HF2:|
+
+X:106
+T:Philips’s Hornpipe,aka. JMT.106
+M:4/4
+L:1/8
+Q:1/2=90
+C:untitled
+S:J.Moore,Tyneside,1841.(75a)
+R:.Hornpipe
+O:England
+A:Northumbria
+N:Untittled in this collection, but “Philips’s HP” in J.Moore of
+N:Shropshire
+Z:vmp.Chris Partington
+K:D
+Ac|d2fd (cd)Bc|(AB)AG (FD)FA|(BG)Bd (cA)ce|(df)af (gf)ge|!
+d2fd (cd)Bc|(AB)AG (FD)FA|(BG)Bd (cA)ce|d2d2d2:|!
+|:ag|(fa)fd (fa)fd|(gb)ge (gb)ge|(fa)fd (fa)fd|edcBA2ag|!
+(fa)fd (fa)fd|(gb)ge (gb)ge|(fe)dc (Bg)ec|d2d2d2:|
+
+X:107
+T:Highland Reel. JMT.107
+T:Johnny McGill. JMT.107
+T:Come Under My Plaidie. JMT.107
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(75b)
+R:.Jig
+O:England
+A:Northumbria
+N:A.K.A. “The Black Rogue
+Z:vmp.Chris Partington
+K:G
+|:g|dBB BAG|dBBB2g|dBB BAB|GEEE2:|!
+B|gfg aga|bge dcB|gfg aga|bge ega|!
+bag agf|gfe dgf|dcc cdc|BGE”DC”E2|]
+
+X:108
+T:Irish Fox Hunt. JMT.108
+M:4/4
+L:1/8
+Q:1/2=80
+S:J.Moore,Tyneside,1841.(76)
+R:.Air
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+DE|G2GBd2d2|dedBd3z|G2GB (ed)(BG)|A4G2 (3def|g2(fe)f2ed|!
+(ed)(BG)A2GE|G>ABG (AG)(AB)|G4~G2||DE|G2(GA)B2B2|c2c2B2B2|!
+c2c2B2BG|A4G2 (3def|g3a (gf)(ed)|(ed)(BG)A2GE|G>ABG (AG)(AB)|!
+G4G2||z2|G2GBd2g2|e2g2d2g2|G2GB dedB|A4A2 (3def|!
+(gf)(ga) (gf)(ed)|e2dBA2GE|G>ABGA2G2|G4G2||!
+“V.S.-Violin Solo?”z2|(DE)(GA) B.G.G.G|A.G.G.G B.G.G.G|\
+.A.G .B.G .c.G.B.G|A4G2(3def|!
+g2(ba) (gf)(ed)|e2dBG2″sic”A2GE|G>ABG (AG)(AB)|G4G2||!
+z2|A4″(Horns)”GAA4GA|A4GAA4GA|d4cdd4cd|d4cdd4cd|!
+FEF4FEF4|FEF4FEF4|\
+L:1/16
+Q:100
+FDED FDED FDED FDED|FDED FDED FDGD FDED|!
+fded fded fded fded|fdgd fded fdgd fded|fdgd fded gdfd fded|!
+.g2.g2.g2z2 .f2.f2.f2z2|.e2.e2.e2z2 .f2.f2.f2z2||\
+A4GAA4GA|A4GAA4GA|d4cdd4cd||!
+M:3/4
+L:1/4
+Q:3/4=50
+||:”Fox’s Lamentation”(3A/4B/4c/4)|dFA|d2 f/e/|dFA|\
+{e}c2 B/A/|BFA|B (d/c/)(B/A/)|BFA|(B2B/) A/|!
+Fdd|F (d/c/)(B/A/)|(B/d/) (c/B/) (A/F/)|EFA|A2:|!
+|:d/e/|ff (a/g/)|fed|(c/B/) (c/d/) (f/c/)|(B2B/) A/|Add|!
+F (d/c/)(B/A/)|(B/d/) (c/B/) (A/F/)|EFA|A2:|
+
+X:109
+T:Highland Reel,Two. JMT.109
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(78a)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:C
+G|cGE cGE|GAG GAB|cGE cGE|Eddd2e|!
+cGE cGE|GAG Ggf|ede cAG|Accc2:|!
+|:G|ceg gec|Bcd dBG|ceg gec|eggg2G|!
+ceg gec|Bcd def|ede cAG|Accc2:|
+
+X:110
+T:Hexham Races. JMT.110
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(78b)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+D|GAB gdB|d2dd2B|GAB gdB|A2AA2B|!
+GAB gdB|def gfe|dcB cBA|G2GG2:|!
+|:a/g/|g2e edB|d2d def|g2e edB|A2A ABd|!
+g2e edB|def gfe|dcB cBA|G2GG2:|
+
+X:111
+T:Miss Johnson’s Reel. JMT.111
+M:C
+L:1/8
+Q:1/2=90
+S:J,Moore ,Tyneside,1841.(79a)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.J.A
+K:E
+E| EBGB EBGB | (ag)fe (fc)ce | EBGB EBGB | fffg e/2e/2e :|!
+|:B | egbe gebe | dBfB dBfB | egbe gebe | Bagf f2 ec |!
+egbe gebe | dBfB gBfB | egfa gbag | fefg e/2e/2e e2 😐
+
+X:112
+T:Preston Hornpipe. JMT.112
+M:C
+L:1/8
+Q:1/2=90
+C:Dixon
+S:J,Moore,Tyneside,1841.(79b)
+R:.Hornpipe
+O:England
+A:Northumbria
+N:Appears in “the Fiddler Of Helperby” as untitled hornpipe number five
+Z:vmp.J.A
+K:C
+zG | (cB)cd (cd)ef | (ge)ga (ge)dc | (AG)AB (cB)dA | GEcA (GE)CE | !
+(FE)FG (AG)AB | (cB)cd (ef)ag | (fe)dc (Ac)Bd | c2c2c2 :|!
+|: gf | egcg egcg | dgBg dgBg | ceAe ceAe | GcEc GcEA |!
+(FE)FG (AG)AB |(cB)cd (ef)ag | (ae)dc AcBd | c2c2c2 😐
+
+X:113
+T:Ranger’s Frolic. JMT.113
+T:Whip Her And Gird Her,aka. JMT.113
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Moore,Tyneside,1841.(80a)
+R:.Jig
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+G2GG2d|BGB c2A|G2GG2d|AFA cBA|!
+G2GG2d|BGBg2d|ece dBd|AFA cBA:|!
+|:gfg dcB|gfg dcB|gfg def|AFAc2A|!
+gfg dcB|gfg d2B|c2aB2g|AFA cBA:|!
+|:BGG FDD|BGB cBA|BGG FDD|AFAc2A|!
+BGG FDD|gfe dcB|cac BgB|AFAc2A:|
+
+X:114
+T:Reel. JMT.114
+M:4/4
+L:1/8
+Q:1/2=100
+S:J.Moore,Tyneside,1841.(80b)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:C
+GB|c2ecA2dc|(Bd)gf (ed)cB|c2ecA2dc|BGABc2:|!
+|:cd|e2egf2fa|(ga)gf fedc|e2egf2fa|gagec2:|
+
+X:115
+T:Jennie’s Bawbee. JMT.115
+M:C
+L:1/8
+Q:1/2=100
+S:J,Moore,Tyneside,1841.(81a)
+R:.Reel
+O:England
+A:Northumbria
+Z:vmp.J.A
+K:D
+fg | (ab)ag (fd)df | (gf)ed (cA)Af | (ab)ag (fe)df | Bece d2 :|!
+de | (fd)ge fddf | (gf)ed (cA)Ag | (fd)ge (fe)df | (Be)ce (de)fg |!
+(fd)ge (fd)df | (gf)ed (cB)Ag | (fa)gf (gb)ag | fgef d2|]
+
+X:116
+T:Waltz. JMT.116
+M:3/8
+L:1/8
+Q:3/8=50
+S:J.Moore,Tyneside,1841.(81b)
+R:.Waltz
+O:England
+A:Northumbria
+Z:vmp.J.Adams..
+K:D
+d| Af/e/d | Ag/f/e | Ae/d/c/e/ | dfa|!
+Af/e/d | Ag/f/e | Ae/d/c/e/ | d2 :|!
+|:g | (f/a/)(a/g/)f | (g/b/)(b/a/)(g/f/) |\
+(e/g/)(g/f/)e | (f/a/)(a/g/)(f/e/) |!
+Af/e/d | Ag/f/e | Ae/d/c/e/ | d2:|!
+|: d | (c/e/)(a/g/)(e/c/) | (d/f/)(b/a/)(f/d/) |\
+(c/e/)(a/g/)(e/c/) | (d/e/)(f/d/)(A/d/) | !
+(c/e/)(a/g/)(e/c/) | (d/f/) ((3f/b/a/) (f/d/) | (c/e/)(a/g/)e/c/ | d2:|
+
+X:117
+T:Vienna Waltz. JMT.117
+M:3/8
+L:1/16
+Q:3/8=50
+S:J.Moore,Tyneside,1841.(82)
+R:.Waltz
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+|:G3(ABc)|B-dbdbd|(Ac)acac|(Bd)gdgd|!
+G3(ABc)|(Bd)bdbd|(Ac)acac|g4z2:|!
+|:.g2(GBdg)|(ba^gaga)|.f2(FAcf)|(agfgfg)|!
+G3(ABc)|(Bd)bdbd|(Ac)acac|g6:|!
+K:C
+|:(EG)cGeG|(EG)cGeG|{e}f2{e}f2{e}f2|d4BG|!
+(EG)cGeG|(EG)cGeG|{e}f2{e}f2dB|c4:|!
+|:ga|(ga)(gabc’)|g4eg|f2f2dB|ceG2ga|!
+(ga)(gabc’)|g4eg|{g}f2f2dB|c4:|
+
+X:118
+T:Quadrille. JMT.118
+M:6/8
+L:1/8
+Q:3/8=110
+S:J.Moore,Tyneside,1841.(83)
+R:.jog
+O:England
+A:Northumbria
+N:Wrongly annotated as Common Time in mS..
+Z:vmp.J.Adams..
+K:A
+G | A2Bc2f | (e3c2) E| A2B c2f | (e3c2)c |!
+d2d dcd | d3Bcd | f2f fef |f2e/d/c2 ||!
+c | B(dc) B(dc) | B2e/e/ e2c | B(dc) B(dc) | B2 e/e/ eee |!
+e(gf) d(fe) | .c(ed) .B(dc) | A3 A3 | A3 A2 ||!
+E | A2B c2f | (e3c2) e | A2B c2f | (e3 c2) c |!
+d2d dcd | d3 Bde | fec edB | A3A2 ||!
+A | dd/2d/2d fdf | a3 a2 A |\
+AdA FDF | A3 A2 A |!
+dd/2d/2d fdf | (a3 a2)a | afa afa| d2dd2|]
+
+X:119
+T:Gustavus Galloppe. JMT.119
+M:2/4
+L:1/8
+Q:1/4=100
+S:J.Moore,Tyneside,1841.(84a)
+R:.Gallop
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+D|”Pia”GE/G/ BG/B/|dB/d/ gd|dccA|eddD|!
+GD/G/ BG/B/|dB/d/ gB|dccA|G3:|!
+|:”Pia”B|d-ccA|e-ddB|d-ccA|eddD|!
+” For”GD/G/ BG/B/|dB/d/gd|dccA|G3:|!
+|:”Solo”c|(dd^cd)|.b(b^ab)|.a(a^ga)|=g/f/g/a/”sic”d2B2|!
+.d(d^cd)|.b(b^ab)|aa^ga|g3:|
+
+X:120
+T:Quadrille. JMT.120
+M:6/8
+L:1/8
+Q:3/8=110
+S:J.Moore,Tyneside,1841.(84b)
+R:.Quadrille
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:G
+d | (d2g) B2d | (GB)G DGB | (dc)A (dc)A | (e2d) B2d | !
+” for”(d2g) (B2d) | (GB)G DGB | dcA e2d | G3 G2 :|!
+|:” pia”B | (cB)A (ed)c | d2B g2g | fed cBA | (Bcd) A2B | !
+” for”cBA edc | d2B g2g | (fe)d (cB)A | G3 ” DC”G2 😐
+
+X:121
+T:Nonsense Hornpipe,aka. JMT.121
+M:4/4
+L:1/8
+Q:1/2=90
+C:Untitled in MS, my title
+S:J.Moore,Tyneside,1841.(85)
+R:.Hornpipe
+O:England
+A:Northumbria
+N:This tune appears to be written in a very strange version of the same
+N:hand, and is of course grammatical nonsense,but you may recognise it
+N:anyway…
+Z:vmp.Chris Partington
+K:D
+” As Written”A2|A (fe)d2B AF|DD2AAd2d|def (ge) ee2|!
+A2A fed2B|AF DD2g2(fa)|d2(eg)c2e|d2dd2:|!
+|:g2f|a2aa2fdg2|c’2c’c’2gf2|a2aa2fd c|ecA2gf2a|!
+aa2fdg2c’|c’c’2g2(fa)d2|(eg)c2ed2|dd2:|
+
+X:122
+T:Cuckoo Solo. JMT.122
+M:4/4
+L:1/16
+Q:1/4=100
+S:J.Moore,Tyneside,1841.(86)
+R:.Air
+O:England
+A:Northumbria
+Z:vmp.Chris Partington
+K:A
+c2-B2|A4E2G2 A2A,2 z2A2|B2c2d2e2 c2B2A2e2|\
+E2e2E2e2 E2e2 z2e2|E2e2E2e2 E2z2 z2E2|!
+EFGA B2c2 d2c2 z2e2|ABcd e2a2 a2g2 z2b2|\
+b2ec d2b2 d2cB c2b2|c2BA BedB e2d2 z2B2|!
+ceee Beee ceee Beee|dfff Bfff dfff Bfff|!
+Aaaa Baaa caaa Baaa|Aaaa Baaa caaa Baaa|!
+AaAa BaBa caca BaBa|AaAa BaBa caca BaBa|!
+AaBa caBa AaBa caBa| Aaca daca BaBa caBa|!
+eagf edcB ABcd efge agaf|f4e4:|!
+|:g4|a2gf edcBA4z2A2|BAGF EDCA,A,4z2e2|eaga eaga eaga eaga|!
+ebab ebab ebab ebab|ebbb ebbb ebbb ebbb|!
+ec’bc’ ec’bc’ ec’bc’ ec’bc’|ec’c’c’ c’c’c’c’ c’c’c’c’ c’c’c’c’|!
+ec’c’c’ fc’c’c’ gc’c’c’ fc’c’c’|ec’c’c’ fc’c’c’ gc’c’c’ fc’c’c’|!
+ec’ec’ fc’fc’ gc’gc’ fc’fc’|ec’ec’ fc’fc’ gc’gc’ fc’fc’|!
+ec’fc’ gc’fc’ ec’fc’ gc’fc’|gc’fc’ gc’fc’ gc’fc’ gc’fc’|\
+c’2c’b bagfe4z2e2|!
+c2e2B2e2 c2e2B2e2| c2e2B2e2 c2e2B2e2 |dece BeAe dece BeAe |!
+d2c2B2c2 dcBA GFED|EFGA B2c2 d2c2 z2B2|Bcde e2a2 a2g2 E2Adc4B4A8|!
+EFGA B2c2 d2c2 z2B2|Bcde e2a2 a2g2 E2Ad|c4B4A2GF F2D2|D4B,4G,4:|

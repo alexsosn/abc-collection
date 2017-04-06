@@ -1,0 +1,2532 @@
+%abc
+%%abc-alias George Spencer
+%1831, UK Leeds, Kidson coll, Mitchell Lib. Glasgow
+%%abc-creator ABCexplorer 1.3.7 [13/12/2009]
+%%abc-edited-by www.village-music-project.org.uk
+%VMP.Cherri Graebe, 1999
+%Revised 20/05/2003
+%Revised again 11/2008
+%Revised again 12/2009
+
+X:1
+T:Peggy Perkins. GS.001
+M:2/4
+L:1/16
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+A2 | dfdA fgfd | a2a2a2f2 | gage fgfd | e2e2e2A2 |!
+dedA fgfd | a2a2a2f2 | gage faec | d2d2d2 :|!
+|:z2|ABcd efge | f2d2 d4 | gage fgfd | cdec A2 z2 |!
+ABcd efge | f2d2 d4 | efge cdec | d2d2 d4 😐
+
+X:2
+T:So Rax. GS.002
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb
+F | B>cB F>fd | ecB AGF | BcB Ffd | ecA B3 :|!
+|: cAF d2d |ecA fdB | cAF d2d | ecA B3 :|!
+|:baf fdf | edc fdB | bag fdf | ecA ” cr”B3 :|!
+|: fdg ece | Acf dcd | fdg ece | Acf B3 😐
+
+X:3
+T:WINTER a favorite song. GS.003
+M:6/8
+L:1/8
+Q:3/8=80
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G
+d| (de) c (Bc) d | (de) cB2 B | A2 A (Ad) c | (c3B2) d |!
+(de) c (Bg) f | (fe) d (d^c) B | (BA) d (ed) ^c | {c} d3 zz d |!
+(de) B (Bc) c | (cd) A (AB) g | g2 e (eB) G | (DA) F H G2 Z 😐
+
+X:4
+T:Andrew Carr. GS.004
+M:9/8
+L:1/8
+Q:3/8=144
+S:George Spencer m/s, Leeds,1831
+R:.Slip Jig
+O:England
+A:Leeds
+N:This is in a different hand – writing, filling in blank lines at the
+N:bottom of
+N:pages 4 and 5. Could this be the ‘Andrew Kerr’ published in Scotlnd in
+N:1730?
+H:1831
+Z:vmp.Cherri Graebe
+K:G
+g2e dBd dBd | g2g gab aba | g2e dBd def | g2G GAB A2 G :|!
+|: B2c dBG dBG | c2 d ecA ecA | B2 c dBG def | g2 d GAB A2 G 😐
+
+X:5
+T:French Air. GS.005
+M:6/8
+L:1/8
+Q:3/8=100
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:C major
+G | Gec BAB | cec G2 G | AGF fed | (c3 B2) G |!
+Gec BAB | cec G2G | dcB AGA | (G3 G2) G |!
+ddd dBG | eee ecG | feB cge | (e3 d2) G |!
+(d3 d)BG | (e3 e)cA | fdB cge | Hd2 G e2 B |!
+c2 c d2 e | {g} fed A2A | f2e dcd | c2G d2 B |!
+c2cd2e | fed A2A | f2e dcd | c3 z2 |]
+
+X:6
+T:Duke of Yorks Cotillion. GS.006
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Cotillion
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+A>BA d2 f | e2ee2f | def B2 e | (d3c2) A |!
+A>BA d2 f | e2ee2b | afd “tr”e2 f | (d3d3) :|!
+|:Bcd A2A | B2B A2A | BcdA2A | B3 “D.C.”A2 ||!
+f/2g/2 | a2a f2d | “tr”e>de dfg | a2a f2d | “tr”f3″D.C.”e2 |]
+
+X:7
+T:Chips and Shavings. GS.007
+M:4/4
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:’ George Spencer 1831′ written on the stave at the end of the music..
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+“_No time sig. in ms”
+dBAF G2 (FE) | DFAF GE E2 | dBAF G2 (FE) | DFAF FD D2 :|!
+|:dfaf g2 fe | dfaf (g2e)e | dfaf g2 (fe) | dBAF FD D2:|
+
+X:8
+T:Drunken Wives,The. GS.008
+M:4/4
+L:1/8
+Q:1/2=75
+S:George Spencer m/s, Leeds,1831
+R:.Strathspey
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:F major
+A | D/2D/2D D2 F>GA>F | G/2G/2G G>A “^tr”B>GA>d |\
+D/2D/2D D>E F>GA>c | d<fc>f “^tr” A>GG :|!
+|: e|f>ec>A “^tr”(f>ga>f) |g/2g/2g g>a b>ga>g |\
+f>dc>A f>g {fg}a>g|f>dc>A “^tr”B>GG>(e|!
+f)>ec>B (f>ga>f) | g/2g/2g g>a {ga}b>ga>(f |\
+f)>dc>A (f>g{fg}a>g) | f>dc>f “^tr”A>GG |]
+
+X:9
+T:Regent Park. GS.009
+M:2/4
+L:1/16
+Q:1/4=80
+S:George Spencer m/s, Leeds,1831
+R:.Country Dance
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+AG | A2dc d2de | fgef d2cd | B2ba gfed | dcec A2A^G |!
+A2dc d2de | fgef e2cd | Bbag fedc | e4d2 :|!
+cd | efec A2ag | fgef d2ef | gfga bagf | efec A2cd |!
+” NB” fgef d2ef | gfga bagf | edcB” D.C.” A4 |]
+W:NB.Possible bar missing.Try Bar 1 of B.music
+
+X:10
+T:Cucko Nest,The. GS.010,
+T:Cuckoo’s Nest,The.aka. GS.010
+T:Come Ashore Jolly Tar,aka. GS.010
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:Come ashore, Jolly Tar – from ‘A Selection of English, Irish and
+N:Foreign Airs, adapted for Fife, Violin and German Flute’, volumn 1, by
+N:James Aird, Glasgow, printed 1775. The tune is reprinted in Old
+N:English Dances by Frank Kidson, the tune as printed is very similar,
+N:but though the pitch of the notes is the same, the key signature is
+N:Dminor – one flat, rather than the two in this MS. This version is
+N:Phrygian mode, transposed down a tone. Or, of course, the key
+N:signature could be wrong.
+H:1831
+Z:vmp.Cherri Graebe
+K:D min
+DE | FEFD f2 ed | cAGF B2 AG | FEFD CDEC | c2 G2 G2 DE |!
+FEFD f2 ed | cAGF B2 AG |FEFD CDEC | F2 D2D2 :|!
+|: ” qu”A2 | d2d2 defd | c2 A2 A2 AB |c2c2 cdec |B2 G2 G2 A2 |!
+dcde f2 ed | cAGF B2 AG |FEFD CDEC | F2D2D2 :|!
+|: FG|AFDF AFDF | AFAF D2 EF |GECE GECE | GEGEC2DE |!
+FEFD f2 ed |”_this bar added by Ed.” cAGF B2 AG |\
+FEFD CDEC | F2 D2 D2 😐
+
+X:11
+T:Brides Bells,The. GS.011
+M:2/4
+L:1/8
+Q:1/2=50
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:E major
+e | dcBA | GFEe | dcBA | (G2E)e |!
+dcBA | GFEe | dfF^A | ” cr”B3 :|!
+|:e | cAFd | BGEe | cAFB | (G2E)e |!
+cAFd | BGEG | AcFd | e2 ” cr”E 😐
+
+X:12
+T:Brest Nots. GS.012
+T:Breast Knots?. GS.012
+M:2/4
+L:1/8
+Q:1/2=80
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+N:This is not the tune known as Bonny Breast Knot or Ladies Breast
+N:Knot./cont
+N:The title is written twice in different handwritings, possibly because
+N:the first attempt looks like Brest Wots
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+G>A (B<d) | (c>d) (e>g) | d>BG>B | A2d2 |\
+G>A B>d | c>d e>g | d>BA>d | B2 G2:|!
+|:G>FG>E | (DB) G2 | G>FG>E | (DB) G2 |\
+B>BB>B | d>ge>d | ^c>AB>^c | d2″ D.C”D2 |]
+
+X:13
+T:Astlys Hornpipe. GS.013
+T:Ashley’s Hornpipe,aka. GS.013
+T:Astley’s Hornpipe,aka. GS.013
+M:4/4
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:F major
+FGAB cAGF | fefd (d2 c)B | AcAF BdBG | AcAF FEDC |!
+FGAB cAGF | fefd (d2c)B | AcAF BdBG | F2E2F4 :|!
+|: cdef egec | fafd egec | cdef gedc | BAGF EGEC |!
+AcAF BdBG | egec fafd | cfed cBAG | F2 E2 F4 😐
+
+X:14
+T:Crazy Jane. GS.014
+M:3/4
+L:1/8
+Q:3/4=30
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+DG | (A2F).G.A.B | (AB/2)c/2 B2 d>G | {G}F3 GFE | D4 DG |!
+.G2. F.GA.B. | (GB/2)c/2 B2 dG | Ec B2 A2 | G4 ||!
+“Slow” (FG) | A3 BGE | (AF) D2 (FG) | (AB) F2 “tr”E2 | D4 DG |!
+(G2F)GAB | (AB/2)c/2 B2 dG | EcB2A2 | G4 |]
+
+X:15
+T:Second Highdance. GS.015
+M:9/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Slip Jig
+O:England
+A:Leeds
+N:High Dance – a French English or Scots step or solo dance. ‘end
+N:Book’ is written on the stave after the second double bar, but
+N:several tunes have the word ‘end’ written at the end. See also note to
+N:’The Priest in his Boots’
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb major
+f2b fdB BAB | GAB cdB AGF | f2b fdB BAB | Gec Afd B3 :|!
+|: cAF cAF F=EF| BcB dfd fcA | cAF cAF FGA | Bcd ecA B3 😐
+
+X:16
+T:Marcy Ferous? GS.016
+T:Lady first Highdance,the,aka. GS.016
+M:6/8
+L:1/8
+Q:3/8=120
+C:”the Lady first Highdance,”
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:Titles – I’m relatively sure about ‘Marcy’ rather than ‘Nancy’, and
+N:that’s what the second word looks like-the second title is written in
+N:the same/a similar writing. The writing of the music appears fairly
+N:uniform throughout, but the titles seem to be in more than one
+N:handwriting. High Dance – a French English or Scots step or solo
+N:dance.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+A | ABG FGE | DDD DDD | FED AGF | FEE E3 |!
+ABG FGE | DDD DDD | FAD EAG|FDD D2 |!
+|:A | FAA Add | dff fed | Aag fed | e2ee2e |!
+FAA Aed | dff fed | ABG FGE | FDD D2 😐
+
+X:17
+T:Cottage Dance. GS.017
+T:Kitty O’Lynn,aka. GS.017
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:This tune also occurs as tune No. 45, page 34. The two are identical
+N:except for the marked note )E in Mo. 45), and number 45 has repeats
+H:1831
+H:1831
+H:183
+Z:vmp.Cherri Graebe
+K:C major
+e/2d/2 | BGG GEG | AFA G2 e/2d/2 | BGG GEG | f3 fed |!
+BGG GEG| Acf a3 | gag gfe | d3 c3 ||!
+efg a2g | efg a2 g | g2eg2e | ded fed |!
+efg a2 g | efg a2 g | g2eg2e |dcd c2 |]
+
+X:18
+T:John of Paris.2voices. GS.018
+M:6/8
+L:1/8
+Q:3/8=90
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:NB–The last three bars (assuming 8 bar B music) are missing – page
+N:15 is missing – so I have used the last three bars of the A music.
+N:Not the same tune as either of the two Johns of Paris in Dave
+N:Townsend’s English Dance Music, or the one in Kerr’s Merrie Melodies.
+N:The ‘dim’s’ are written as the standard signs under the notes, each
+N:relates to a group of three crochets
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+V:1
+[V:1]d | ded fed | efe gfe |\
+“^dim.”dfa “^dim.”dfa | gfg e2f |!
+[V:2]z | D,F,A, D,F,A, | \
+C,E,A, C,E,A, | D,F,A, D,F,A, | A,,F,A, A,,E,A, |!
+%
+[V:1]ded fed | efe gfe | dfa gea | fea d2 ||!
+[V:2]D,F,A, D,F,A, | C,E,A, D,F,A, | F,2D,B,2B,, | D,2F,D,2 ||!
+%
+[V:1]a | (age) afd | bgg aff | (age) afd | cec ABc |!
+[V:2]z | D,E,A, D,F,A, | C,E,A, D,F,A, | C,E,A, D,F,A, | A,,E,A, A,,2 z |!
+%
+[V:1]dAf eAg |”_last 3 bars missing” efe gfe | dfa gea | fea d2 |]
+[V:2][D,2D2]z [C,2C2] z | C,E,A, C,D,A, |\
+F,2D,B,2B,, | D,2F,D,2 |]
+
+X:19
+T:Second Hornpipe. GS.019
+M:4/4
+L:1/8
+Q:1/2=80
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:Looks more like a strathspy to me. CGP.
+H:1831
+Z:vmp.Cherri Graebe
+K:A major
+“_No time sig. in ms.”a | e>dc>B A2 A>c | B2 B>c d>ef>a |\
+e>dc>B A2 A>c| E>FG>B A2A :|!
+a | e2 c>e A>ec>A | B2 B>c d>ef>a |\
+e2 c>e A>ec>A | B>EE>G A2 Aa |!
+e2 c>e A>ec>A | B2 B>cd>ef>g | \
+a>ee>d c>AA>c | B>EE>c A2 A |]
+
+X:20
+T:Mother Goose or Grimaldi – fragment. GS.020
+T:Grimaldi. GS.020
+M:9/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Slip Jig
+O:England
+A:Leeds
+N:Page 15, which presumably has the start of this tune, is missing.
+N:There is a Mother Goose slip jig in the Tildsley MS but it’s not the
+N:same.
+H:1831
+Z:vmp.Cherri Graebe
+K:A major
+AGA Bed cBA | BGE BGE EFG | ABc dBG A3 😐
+
+X:21
+T:La Bell Catherine. GS.021
+T:Lady Belle Catherine,aka. GS.021
+T:Shrewsbury Quarry,aka. GS.021
+T:Come Let Us Sing And Dance,aka. GS.021
+M:2/4
+L:1/8
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+N:Occurs in the Thomas Hardy tunebook under ‘Selected tunes from ‘The
+N:Entire and Compleat Tutor for the Violin’ by Geminiani (Hardy Family)
+N:Collection’, alt. title ‘Come let us sing and Dance – and in Ironbridge
+N:Hornpipe, recognisably the same tho’ different in detail, alt. title.
+N:’Shrewsbury Quarry– Pa – pause, conventional sign used.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+z|d2 (f/2e/2).d/2.e/2 | fddB | B2 (e/2f/2).e/2.d/2 | cA A2 |!
+d2 (f/2e/2).d/2.e/2 |fd dB | Bedc | d2d :||!
+A/2G/2 | FA AG | FA AG | FA (d/2f/2).e/2.d/2 | cA A (A/2G/2) |!
+FA A (B/2c/2) | .d(f/2d/2) .c(e/2c/2) |\
+.d(f/2e/2) .f(e/2d/2) | Ha2 “D. Capo”A |]
+
+X:22
+T:Dashing White Sargent. GS.022
+M:2/4
+L:1/16
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Scots Measure
+O:England
+A:Leeds
+N:There is a very similar version in the Ironbridge Hornpipe (John Moore
+N:of Shropshire MS), which lacks the F# and C#, has alternative title
+N:’Highland Reel’
+H:1831
+Z:vmp.Cherri Graebe
+K:F major
+AG | FEFG FGAB | c=Bcd c2ag | f2d2c2A2 | d2G2 G2AG |!
+FEFG FGAB | c=Bcd c2a2 | g2f2e2d2 | c4c4 ||!
+c=Bcd edeg | g^fge “^crs”c2c2 | d^cde fefg | agaf d2d2 |!
+e4 f4 | g4 a4 | b2a2 agfe | gfed cBAB ||!
+c2f2 fefg | f2c2 c4 | d2g2 g^fga | b2d2d4 |!
+c2f2 fefg | a2f2 fefg | a4g4 | f4f2 |]
+
+X:23
+T:Keel Row. GS.023
+M:4/4
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Schottische?
+O:England
+A:Leeds
+N:Title is what appears to be the letter ‘K’ only: ‘Keel Row’ written in
+N:pencil in a more modern writing.
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+B2 GB c2 Ac | B2 GB AF D2 | B2 GB c2 ec | BGAF G2G2 :|!
+|:Bddg e2 dc | B2 GB AFED | Bddg e2 dc |1 BGAF G2 G2 :|2 dgfa g2g2 😐
+
+X:24
+T:Barbery Bell. GS.024
+T:St. Patrick’s Day in the Morning,aka. GS.024
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:The last two bars are written out once and marked ‘bis’ with repeat
+N:marks at
+N:the beginning and end of the phrase and a line bracketing the bars
+N:together.
+N:Looks odd but works fine
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+D | GAG G2B | ded dBG | ABc B2G | EFE E2D |!
+GAG G2B | ded dBG | ABc B2G | E2 F G2 :|!
+|:e | def g2e | f2d e^cA | def g2e | f2d e2 c |!
+def gag | fed dfg | def gag | fed dfg 😐
+
+X:25
+T:White Cockade,The. GS.025
+M:C|
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Scots Measure
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+GA | B2B2 cBAG | B2d2d2g2 | d2B2 cBAG | F2 A2A2 GA |!
+B2B2 cBAG | B2d2g3a | bagf efge | d2 B2B2 :|!
+|: Bc | d2B2g2B2 | d2d2d2 Bc | d2B2g2 fg | a2A2A2GA |!
+B2B2 cBAG |B2d2g3a | bagf efge | d2 B2B2 😐
+
+X:26
+T:Lieber Augustine,aka. GS.026
+M:3/8
+L:1/16
+Q:3/8=50
+S:George Spencer m/s, Leeds,1831
+R:.Waltz
+O:England
+A:Leeds
+N:No Title in ms..I learnt this at school, as a song – ‘Ah my dearest
+N:Augustine, all is
+N:gone by’. It’s probably by someone famous.
+H:1831
+Z:vmp.Cherri Graebe
+K:G Major
+d2dedc | B2G2G2 | A2D2D2 | B2G2G2 | d2dedc | !
+B2G2G2 | A2D2D2 | G6 :: A2D2D2 | B2G2G2 |!
+c2A2A2 | d2d2 Bc | d2dedc |B2G2G2 | A2D2D2 | G6 😐
+
+X:27
+T:Fairy Dance,The. GS.027
+T:Largo’s Fairy Dance,aka. GS.027
+M:2/4
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:D Major
+f2(fd) | f2(fd) | f2 (fd) | (cA)(ec) | f2 (fd) | (gf)(ed) | (cA)(Bc) |\
+d2d2 :|!
+|:a2(af) | b2b2 | gfge | a2a2 | f2 fd | gfed | cABc | d2 d2 😐
+
+X:28
+T:Lady of the Lake,The. GS.028
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:The pause is written over the double bar lin
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+BcA G2D | E2DG2D | BcA G2 E | Dddd2c |!
+BcA G2D | E2DG2D | E2Dc2B | AGFHG2 :|!
+|:c | B2 B BcA | B2c def | g2fe2d | dcB A2 c |!
+B2B BcA | B2c def | gfe a2g | fge d2 c 😐
+
+X:29
+T:House That Jack Bilt,The. GS.029
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:’George Spencer Book Leeds 1831′ written on stave at end..This tune
+N:rings a bell somewhere.
+H:1831
+Z:vmp.Cherri Graebe
+K:C Major
+G | Ged c2B | ABc G2G | Gcc cBc | ^cdd d2G | Ged c2B | ABc G2G |!
+Adc BAB | (d3c2) || d | dcB BAG | c2de2g | gfe fAd | (c3B2) d |!
+dcB BAG | c2de2g| gfe fdB |(d3c2)|| G | e2c cBc | f2d d3 |!
+ded B2G | e3 c2 G | e2c cBc | f2d d3 | ded B2G | (d3c2) |]
+
+X:30
+T:Rule Britannia. GS.030
+M:4/4
+L:1/8
+Q:1/4=90
+C:Tune: Dr. Arne. Words: Thomson
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+N:Differs slightly from a printed source (only one I have, 1916 Oxford
+N:Song Book) – 5 phrases are slightly different, notes values in the OSB
+N:are double these.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+A2 | d2d2 (d/2e/2f/2g/2) ad | e2 {e/2g/2} g2f2 z A |\
+(d/2e/2d/2e/2) (f/2g/2f/2g/2) aefe | de/2f/2 ed c3 A |!
+cAeA a^g/2f/2 e/2d/2c/2B/2 | A2″tr”B2A2z2 |\
+dd>A BGz d | a>ged c2 z d | a2g2 f/2d/2g/2e/2 ad |!
+A2″tr”e2d4 | \
+f2 z f gg z f | g>fe>d c4 | a2g2 f/2d/2g/2e/2 ag | f2 “tr”e2 d2 |]
+
+X:31
+T:Julia, a Quadrile. GS.031
+M:2/4
+L:1/16
+Q:1/4=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:conventional pause marks are written
+N:above and below the final double ba
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb
+F2 | f=efg f_ecA | “crs”B2B2B2 (Bc) | d2(dc) B2d2 | BABe cdd=e |!
+f=efg f_edc| B2B2B2 (Bc) | “crs”d2d2 cBcd | B2b2 B2 :|!
+|: F2 | B2(Bc) d2(dc) | BAcA F2(FA)|B2(Bc) d2(dB) |BAcA F4 |!
+fede fgab | fede fgab | fdBd cBcd | B2B2 HB2 😐
+
+X:32
+T:Collage Hornpipe. GS.032
+T:Sailors Hornpipe,aka. GS.032
+T:College Hornpipe,aka. GS.032
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:Mr. Spencer was obviously having serious problems with his pen, as
+N:many of the noteheads are large blots. 1 – This bar has five beats,
+N:there are two low crochets D’s 2 – this note is given as low D in the
+N:MS – and the bar is then
+N:repeated identically, (giving 9 bars in the A music). – so one bar
+N:has been omitted. There are several other changes that could be made –
+N:eg. first two notes would usually be DC rather than GF – but where do
+N:you stop?’GS’ written on the stave st the end.
+H:1831
+Z:vmp.Cherri Graebe
+K:D Major
+(gf) | d2 D2 “1 see NB” DEFG | A2 d2d2 (cd) | e2 “2” E2 EFGA |!
+B2 e2e2 (dc) | defg a2 gf |gfed c2 (BA) |\
+(Bd)(ce) (df)(eg) | f2 d2d2 :|!
+|: (AG) | FA dA FA dA | B2G2G2 (BG) | GBdG GBdG |!
+B2G2G2 (Bc) | defg a2 (gf) | fefd c2 (BA) | Bdce dfeg | BdFA G2G2G2 😐
+
+X:33
+T:Legacy,The. GS.033
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:This is very difficult to read, owing to Mr. Spencer’s
+N:pen giving real problems and blotting everywhere.
+N:A version, apparently identical, occurs as No. 76, which
+N:has been used to reconstruct this
+H:1831
+Z:vmp.Cherri Graebe
+K:A major
+“^p”A2A AEC | e2e ecA | A2 B cBc | F2 G A3 :|!
+|: “^f” Ace a2a | (gf).e (fe).c | Ace a2a | (gf)e f2g |!
+a2a gec | f2f ecA | A2B cBc | F2GA3:|
+
+X:34
+T:La Belle. GS.034
+T:Davy Davy Knick Knack,aka. GS.034
+M:2/4
+L:1/16
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+z|GFGA B2B2 | GFGA B2B2 | dcBc A2A2 | dcBc A2A2 |!
+GFGA B2B2 | GFGA B2B2 | dcBc A2B2 | G6 :|!
+|:Bc | dcBc B2B2 | {f}g4 d4 | dcBc A2A2 | dcBc A2A2 |!
+dcBc B2d2 | {f}g4 d4 | dcBc A2B2 | G4 c2 😐
+
+X:35
+T:Balls Hornpipe(?). GS.035
+M:4/4
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:Title looks like ‘Balbs’ Hornpipe.
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+D2 | G2 BG A2 cA | B2 dB G2B2 | c2 ec B2 dB | ABAG GFED |!
+G2 BG A2 cA | B2 dB c2 ec | cBAG D2f2 | g2 G2G2 :|!
+|:z2| gfge edcB | dfge edcB | ca2 c Bg2 B | A2 BG GFED |!
+G2 BG A2 cA | BcdB c2 ed | cBAG D2 f2 | g2G2G2 😐
+
+X:36
+T:Mony Musk. GS.036
+T:Sir Archibald Grant of Monemusk’s Reel,aka. GS.036
+M:4/4
+L:1/8
+Q:1/2=100
+C:Daniel (?Donald Dow) 1732 – 1783
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:Published first 1776. Republished and a little rewritten by the Gow’s
+N:in the 1790’s as a strathspey. (‘Scottish Fiddlers and their Music’,
+N:M.A. Alburger, Victor Gollancz Ltd, 1983
+H:1831
+Z:vmp.Cherri Graebe
+K:A major
+f2 | eAcA eAdf | eAcA Bcdf | eAcA cdea | fdBe cA A2 :|!
+|: g | aeca eac | aedc dbcg | aefa eaca | fdBe cA Ag |!
+aeca eaca | aedc dbBg | aefa daca| feBe cA A2|]
+
+X:37
+T:La Fantase. GS.037
+T:Sally Sloane’s.etc.aka. GS.037
+T:Trip to Cottingham,aka. GS.037
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:F major
+(c/2A/2) | FcA FcA | GcB GcB | Acg fef | agg g2 (c/2A/2) |!
+FcA FcA | GcB GcB | Acg feg | fff f2 ||!
+f/2g/2 | a3 f3 | aaa a3 | g3 e3 | fff f2 f/2g/2 |!
+a3f3 | aaa a3 | g3 e3 | fff f2||!
+A/2B/2 | c3 BAB | c3 BAB | c2cf2a | agf edc |!
+B3 AGA | B3 AGA | Bdc BAG | GFF F2 |]
+
+X:38
+T:Stiam Boat,The. GS.038
+T:Steam Boat,The. GS.038
+M:4/4
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:See number 58 – which is identical.
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+d2 | g2 bg d2 gd | B2 dB G2G2 | F2 AF D2 d2 | c2 B2 B2 d2 |!
+g2 bg d2 gd| B2 dB G2 BG | FGAB cAGF | G2G2G2 :|!
+|: Bc | d2 de dBGB | c2 cd cAFA | GABc defg | edcB A2 Bc |!
+d2 de dBGB | c2 cd cAFA | Ggec BdFA | G2G2G2 😐
+
+X:39
+T:Come Haste to the Wedding. GS.039
+T:Haste to the Wedding. GS.039
+M:6/8
+L:1/8
+Q:3/8=110
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+C:”get this off”
+O:England
+A:Leeds
+N:The words “get this off” are written at the top of the music. An
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+A | AFA Aaf | ede fdB | AFA AdF | EEE E2 A |!
+AFG Aaf | ede fdB | AFG Aaf | dddd2 :|!
+|:a | afa afa | bgb bgb | afb agf | eee e3 |!
+a3 f3 | ede fdB | AFA faf | ddd d2 😐
+
+X:40
+T:German Air. GS.040
+T:Lieber Augustine,aka. GS.040
+M:3/8
+L:1/8
+Q:3/8=50
+S:George Spencer m/s, Leeds,1831
+R:.Waltz
+O:England
+A:Leeds
+N:Key signature is given as 3/4 The top note of the chord at the end of
+N:the A music is obscured by a blot, but see No. 76, to which this is
+N:identical. Chords are shown as crochets in MS…I learnt this tune
+N:when
+N:I was seven, as a song, words something about’Ah, my dearest
+N:Augustine,
+N:all is gone by’. Probably composed..Cherri.
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb major
+.f(f/2g/2)(f/2e/2) | (dB).B | .c.A.F | .d.B.F |\
+.f(f/2g/2)(f/2e/2) |.d.B.B |.c.A.F | [D3B3] :|!
+|:.c.A.F | .d.B.G | .e.c.A | fdB | .f(f/2g/2)(f/2e/2)|\
+dBB | cAF | [D3B3] 😐
+
+X:41
+T:Scots Over The Borders. GS.041
+T:Carraroe,aka. GS.041
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:Carraroe,modern title from the playing of The Rakes.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+D3 F2A | dfe d2 A | BcB B2 b | afd e2 f |!
+D3 F2 A | dfe d2 A | BcB AFA| BdF E2D :|!
+|:fga afd | bag f2 d | fga afd | fgf e2 d |!
+fga afd | bag fed | dcB AFA | B{c}dF E2 D 😐
+
+X:42
+T:Wind That Blows The Barley,The. GS.042
+M:C|
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:’George Spencer Book L’ written at end.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+A3 B AFDF | B2BA B2d2 | A3 B AFDF | gfed B2 d2 :|!
+|: f2 fd g2 ge | f2 fd cecA | f2 fd g2 ge | afed B2 d2 😐
+
+X:43
+T:Triumpt,The. GS.043
+T:Triumph,The. GS.043
+M:2/2
+L:1/8
+Q:1/2=80
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+g | dBAG cAGF | Ggfe “cr”d3 g | dBAG cAGF | G2B2G2z2 :|!
+|: A2c2B2d2 | A2c2 B2d2 | A2 A>c B2 B>d | dcBA G2 z2 :|!
+|: B3 d dcBA | B3 d dcBA | B2cd efge | dcBA G2z2 😐
+
+X:44
+T:Rob Roy. GS.044
+M:2/2
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+FD A2 FD A2 | FD GB AF E2 | FD A2 FD A2 |1 Bdce dcBA :|2 Bdce d2d2 |!
+| cA aa fa ef | cA af fa df | bg b2 af a2 | ge fd ec BA |!
+FA “tr”d2 BG “tr”G2 | Ee e2 cA A2 |\
+FA d2 GB eg | fd ec “qu’s”d2d2 😐
+
+X:45
+T:Cottage Dance. GS.045
+T:Kitty O’Lynn,aka. GS.045
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:This tune also occurs as number 17, the marked note is different and
+N:No.17 has no repeats.
+H:1831
+Z:vmp.Cherri Graebe
+K:C major
+e/2d/2 | BGG GEG | AFA G2 e/2d/2 | BGG GEG | f3 fed |!
+BGG GEG | Ac”*”ea3 | gag gfe | d3 c2 :|!
+|:efg a2g | efg a2 g | g2eg2e | ded fed |!
+efg a2 g | efg a2g | g2eg2e | dcd c 😐
+
+X:46
+T:Ecko Dance. GS.046
+M:6/8
+L:1/8
+Q:3/8=110
+S:George Spencer m/s, Leeds,1831
+R:.Quadrille
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:F major
+c | c=Bc AFc | cBc= BGc | c=Bc ^c2d | G2A AFc |!
+c=Bc AFB | c=Bc BFc | c=Bc dBG | EFG F2 ||!
+c | “qu”f2 f fef | a2ge2c | “qu”d2e ede | gfe f2c |!
+f2f fef|a2ge2c | e2e ede | gfe f2 |]
+
+X:47
+T:Reel, A. GS.047
+M:2/4
+L:1/16
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+dfaf dfaf | edef e2e2 | dfaf dfaf | BABc d2d2 :|!
+|: A2AF G2GE | D2DF E2E2 | A2AF d2df | edef d2d2 😐
+
+X:48
+T:Swiss Boy. GS.048
+M:2/4
+L:1/16
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+N:A tune from an 18th century musical. Unfortunately I can’t
+N:remember which one
+N:Much blotted by a recalcitrant pen..Cherri.
+H:1831
+Z:vmp.Cherri Graebe
+K:C major
+EF | G2EF G2EF | G2ed c2cB | A2fe d2e2 | c4 c2EF | !
+G2EF G2EF | G2ed c2G2 | G2fe d2e2 | “1”c4 c2 ||!
+G2 | G2dc B2G2 | A2ed c2G2 | F2dc B2G2 | B2cd c2G2 |!
+G2dc B2G2 | G2ed c2G2 | G2fe d2ed | c6 |]
+W: 1 – this note is shown as a dotted crochet.
+
+X:49
+T:Cottagers,The. GS.049
+T:Trip to the Cottage,aka. GS.049
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:Title could be ‘The Cottagers’ – possibly it’s a version of ‘The Trip
+N:to the Cottage’
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+d | dBB BGG | cAA AFF | DGG FAA | GBB ABc | !
+dBB BGG | cAA AFD | DGG FAA | BGG G2 :|!
+d | gfe d2 B | edc Bcd | ecA dBG | FAG FED |!
+gfe d2 B | edc Bcd | efg fag | ge^c “DC”d2 |]
+
+X:50
+T:Trip to LONDON, A. GS.050
+T:Margaret’s Tune,aka. GS.050
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:Mr. Spencer was having trouble with his pen again but it is clear
+N:from the context what is intended.. Cherri
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb major
+F | BcB bfd | c2c c2 d | ege dfd | c2 B AGF |!
+BcB bfd | c2c c2 d | dcB FGA | B3 B,2:|!
+|:z|fBB gBB | fBB eBB | dcB GAB | cdc AGF |!
+fBB gBB | aff b2g | fed cBA | B3 B,2:|
+
+X:51
+T:Mrs. McLeoad. GS.051
+T:Miss or Mrs McLeod,aka. GS.051
+M:2/2
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:This sounds as if it should be in A major with a G#, but it is in the
+N:’pipe scale’
+N:with G natural…’1831′ is written on the stave after the final double
+N:bar..Cherri.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+A2 a2 f>efa | c>cc>B c2 cB | A2a2 f>efa | B>BB>A B2 Bc |!
+A2a2 f>efa |c>cc>B c2 ce | f>gfe f2 (ef/2g/2) | a2 ec B2 Bc :|!
+|: A>Ac>A ecca | c>cc>Bc2 cB | A>Ac>A ecca | B>BB>A B2 Bc |!
+A>Ac>A ecca | c>cc>B c2 ce | f>gfe f2 (ef/2g/2) | a2 ec B2 Bc 😐
+
+X:52
+T:Speed the Plough. GS.052
+M:2/2
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:The date 1831 is written at the end of the tune.
+H:1831
+Z:vmp.Cherri Graebe
+K:A major
+z|A2 Ac efec | efec eaec | dfdB cecA | GBBA GB B2 |!
+A2 Ac efec | efec eaec | d2 dB c2cA | GBAG A2 A :|!
+|: e | aaaA aAeA | aAgA fAeA | d2dB c2 cA | GBBA GBBd |!
+cAce aece | fgaf ecAc | dfdB cecA | GBAG A2 A 😐
+
+X:53
+T:Harlequin Hornpipe. GS.053
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:’George Spencer Book Leeds 1831′ written at end
+N:1 – this note is written as ‘D’, but by comparison with bar 5 and
+N:because it makes more sense, here shown as ‘E’..Cherri.
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb major
+FA | B2B2 (Bd)(c”1″e) | d2d2 (df)(eg) | fbag fedc | (BA)(cA) ecAF |!
+B2B2 (Bd)(ce) | d2d2 dfeg | fbag fddc | B2B2B2 :|!
+|: FE | DBFB DBFB | EBGB EBGB |ecAc ecAc | dBEB dBEB |!
+DBFB DBFB | EBGB EBGB | ecAc ecAF | B2B2 HB2 😐
+
+X:54
+T:All on the Tongo Island. GS.054
+T:King of the Cannnibal Islands,aka. GS.054
+T:Nottingham Swing,aka. GS.054
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig,See Notes
+O:England
+A:Leeds
+N:CGP.I have difficulty quite often in assigning a “Rhythm” to a tune,
+N:and they end up as “miscellaneous” as in this case. The problem here is
+N:that the tune is not used for a jig or a quadrille dance nowadays (if
+N:ever) but is very strongly associated with the dance “Nottingham
+N:Swing”,a hop-step dance usually done to Schottisches or Spotty
+N:Hornpipes eg Keel Row, Nae guid Luck(!a 6/8 tune).
+H:1831
+Z:vmp.Cherri Graebe
+K:C major
+G | e2d c2 B | “qu”c2 A G2 E | (FE) F D2 F | E2FG2c |!
+A2Fc2A | A2Fc2c |(Bc)d G2B | c3 H c2||!
+d | e2ee2d | e2ee2d | e2ef2e | d2dd2B |!
+c2cc2B | c2cc2B | c2 A d2 c | B2A G2 B ||!
+ccc (BA)G | A2Bc2B | ccc BAG | A2Bc2^c |!
+d2^cd2c | d2d (de) ^f | g2G GAB | c3 c2 |]
+
+X:55
+T:Recovery,The. GS.055
+M:2/4
+L:1/8
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+N:The figure 4 over an E is in the MS and is an instruction to use 4th
+N:finger not an open string. Those in bars 2 and 10 are written in ink.
+N:Those in bars 6 and 14 are possibly in pencil, certainly in a
+N:different hand. . – written under note – ? diminuenda.
+H:1831
+Z:vmp.Cherri Graebe
+K:C major
+“_See note”.G.c.G.c | (d/2c/2d/2)”4″e/2 d2 | gfdB | ce G2 |!
+.G.c.G.c | (d/2c/2d/2″4″e/2) d2 | (gf).d.B | c4 :||!
+gfdB | c”4″e G2 | FF F/2E/2F/2G/2 | (F2E2) |!
+(gf).d.B | c”4″e G2 | ff f/2e/2f/2d/2 | c4 |!
+ee/2e/2 ee |”>” e3 f | edcB | (A/2B/2c/2d/2 e2) |!
+dd/2d/2 dd | d3 e | dcBA | G>A G/2F/2E/2F/2 |!
+GcGc | (d/c/d/e/) d2 | (gf).d.B | ceG2 |!
+GcGc | (d/c/d/e/)d2 | (gf).d.B| [E4c4] |]
+
+X:56
+T:Young May Moon,The. GS.056
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:See notes to GS.05….. 1 – not totally clear what slurring is meant.
+N:dynamics and pause are shown below stave not on top. 2/1 shown in MS –
+N:fingering for the double stop – 2 for C and 1 for E..Cherri.
+H:1831
+Z:vmp.Cherri Graebe
+K:C major
+G | “^p”c2c c2G | A2G G2G | c2c dcd | e2c cde |!
+f2f e2e | dec B2G | “^1” (AG).F (EF).G | A2G G2 ||!
+“^f”G | c2G c2G | A2G G2G | c2c dcd | e2c cde |!
+f2f e2e | dec H B2G | AGF EFG | A2c “^2/1″[E2c2] |]
+
+X:57
+T:Sir Malcolm Gereams(?). GS.057
+M:2/4
+L:1/16
+Q:1/4=110
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+N:The change of time signature for the C music is not shown in ms.The
+N:words ‘George Spencer, Leeds’ are written on the stave after the final
+N:double bar..
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+“_See note”D2DA, F2FD | A2AF d4 | A2A2 BAGF | AGFG E4 |!
+D2DA, F2FD | A2AF d4 | cecA BdB^G | A2c2A2 z2 ||!
+gfed “^cr”c2 ec | d2fd A4 | A2A2 A2Bc | dcde f4 |!
+gfed c2ec | d2fd A2G2 | ^GABc edBG | A2c2A2 z2 ||!
+M:3/8
+L:1/8
+Q:3/8=110
+f>ed | dcB | AFG | A2d | fed | dcd | eaa | a3 |!
+f>ed | dcB | AFG | ABc |d2d | ede | fdc | d3 |]
+
+X:58
+T:Stiam Boat,The. GS.058
+T:Steam Boat,The. GS.058
+M:4/4
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:See number 38 -this is identical
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+d2 | g2 bg d2 gd | B2 dB G2G2 | F2 AF D2 d2 | c2 B2 B2 d2 |!
+g2 bg d2 gd| B2 dB G2 BG | FGAB cAGF | G2G2G2 :|!
+|: Bc | d2 de dBGB | c2 cd cAFA | GABc defg | edcB A2 Bc |!
+d2 de dBGB | c2 cd cAFA | Ggec BdFA | G2G2G2 😐
+
+X:59
+T:Smash the Windows. GS.059
+T:Roaring Jelly,aka. GS.059
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:No repeat marks shown at end of B musi
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+“_see note”D2FA2c | d2f ecA | G2GF2F | E2F GFE |!
+D2FA2c | d2f ecA | (Bgf) edc | d3d2 :|!
+|:f/g/ | a2fd2a | B2a (agf) | g2ec2e | A2g gfe |!
+f2dg2e | a2fb2g | fed edc |d3d2 😐
+
+X:60
+T:Nancy Dawson. GS.60
+M:6/8
+L:1/8
+Q:3/8=130
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G Major
+G2GG2B | d2BG2B | A2BA2B | A2G (FED) |!
+G2GG2B |d2BG2B | A2GF2E | D3″^cr”D3 :|!
+|: A2BA2B | A2G FED | B2cd2e | d2e (dBG) |!
+c2Bc2d | e2f (gfe) | dcB AGF | G3″^cr”G3:|
+
+X:61
+T:Roger’s Reel. GS.061
+M:2/2
+L:1/8
+Q:1/2=80
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:’Should auld acquaintance be forgot?” – or very nearly, also bits of
+N:”Coming thro’ The Rye”.
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+“_No time sig. in ms”D | G2 G>B A>GAB |\
+G>GG>B d2 d>f | G2 G>B A>GA>B |\
+G>EE>D G2 G :|!
+e | dBBG AGAe | dBBG B2 Be | dBBG AGAB | GEED G2 Ge |!
+dBBG AGAe | dBBG B2 Bc | dgBg AGAB | GEED G2G |]
+
+X:62
+T:Stable Call,The. GS.062
+M:3/4
+L:1/8
+Q:3/4=50
+S:George Spencer m/s, Leeds,1831
+R:.Fanfare
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+G2GGGG | B2G2B2 | d2 dddd | d2B2d2 |!
+g2gggg | g2d2B2 | G2 GGGG | G4 “1”d2 :|!
+|:g2 gggg | g4 bg | a2 dddd | e6 |!
+a2 aaaa | a4 c’a | b2 gggg | g4 z2 |!
+G2 GGGG | B2G2B2 | d2 dddd | d2B2d2 |!
+g2 gggg | g2d2B2 | G2 GGGG | G4 😐
+
+X:63
+T:Over the Water to Charly. GS.063
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G Major
+GBd dBd | ege dBG | GBd dBd | e3 “^cr”g3 |!
+GBd dBd | ege dBG | gbg faf |e3 “^cr”g3 :|!
+|:gbg faf | ege dBG | gbg faf | e3g3 |!
+gbg faf | ege dBG | GBd dBd | e3 “^cr”g3 😐
+
+X:64
+T:Kenlock of Kenlock. GS.064
+T:Kinloch of Kinloch,aka. GS.064
+T:Blow the Wind Southerly,aka. GS.064
+M:6/8
+L:1/8
+Q:3/8=45
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+N:1 This note is dotted and shouldn’t b
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+f>ed AFA | BGB AFA | f>ed AFA | Bdc ” cr” d3 :|!
+|: f2f e2e | ded cBA | f2f e2e | ca^g a3 |!
+” 1″ b2b ” 1″a2a | gfg f3 | fed Bgb | a2c ” cr”d3 😐
+
+X:65
+T:Dr. Syntax or The Race horse. GS.065
+T:Race Horse,The. GS.065
+T:Rose,The. GS.065
+M:6/8
+L:1/8
+Q:3/8=110
+C:would suit flute?Rose,The.
+S:George Spencer m/s, Leeds,1831
+R:.March
+O:England
+A:Leeds
+N:Of Syntax? Dr. Syntax?, and by the side in different writing, ‘the
+N:Rose’
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb major
+F | B3 (dcB) | fdB BAB | cAF FGB | BDE FGA |!
+B3 dcB | fec BAB | cAF FGA | Bdf b2 “_or d in ms” c :|!
+|:BDF BDF | dDF BDF | dDF BDF | cEF AGF |!
+BDF BDF | dDF BDF | cFA AEF | BDF B2 ||!
+f | fed fed | bag fed | bag fed | dcc edc |!
+fed fed | bag fed | fgf edc | Bgf ed”^D Capo”c |]
+
+X:66
+T:Allexander. GS.066
+M:6/8
+L:1/8
+Q:3/8=110
+S:George Spencer m/s, Leeds,1831
+R:.March
+O:England
+A:Leeds
+N:Another for the flute. – The letters G.S.L. are written on the stave
+N:after the final double bar.
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+c | BcB d2d | cBA B2 A | GFG BAG | BAG F2 D |!
+BcB d2 d | cBA B2 A | GFG BAG | ” 1″ AEF G2 :|!
+|:z|ABA AFd | Afd eaf | gec dAF | AGE E2 A |!
+ABA AFd | Afd Aaf | ge” 2″c dAF | GE^C D2 :|!
+|:B | cdc aca | BcB bBb | cdc aca | dgf g2 B |!
+cdc aca | BcB bBb | cdc aca | dgf g2 😐
+
+X:67
+T:Sicilian Dance,The. GS.067
+M:6/8
+L:1/8
+Q:3/8=110
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:The date 1831 is written on the stave after the final double bar line.
+C:”1831″
+Z:vmp.Cherri Graebe
+K:F Major
+F>GF AGF | c2cc2B | ABa c2B | A2GF2C |!
+FGF AGF | c2cc2f | e>fe dc=B | c3c3 :|!
+|g2 c b2a | gfe fef | g2c b2a | gfe f2c |!
+dbb caa | Bgg f2A | BAG c2 E |F3 F3 |!
+|A3 GFG | F2F FAc | c3 BAB | A2A A2f |!
+(f2e) (e2d) | (d2c) (c2B) | ABc cBA| (A3G2) z ||!
+(f3f)d=B | c2cc3 | (b3b)ge | f2ff2c |!
+dbb caa | Bgg f2A | BAG c2E | F3F2 |]
+
+X:68
+T:Salors (Salours) hornpipe. GS.068
+T:Fisher’s Hp,aka. GS.068
+T:Egg Hp,aka. GS.068
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:The title is given twice, in what may be different but similar
+N:handwritings, 1st time ‘Salors’ 2nd time ‘Salours’ no repeats shown at
+N:end of 1st section.. 1 – this bar badly blotted and unclear but see bar
+N:3 of this part.See GS.103 Morning Fair Hp…G.S.L. and what appears
+N:to be 1881 not1831 written after double bar
+N:on the stave – but it could be a badly written 1831..Cherri.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+“_No time sig. in ms”
+A | dAFA GBAG | FDFD GBAG | FDFD GEGE | FDFD E2 (3ABc |!
+dAFA GBAG | FDFD GBAG |FAcd fdec | d2d2d2 ||!
+(Bd) | “^1” ecAc efgf |fdAd fgaf | ecAc efgf | edcB A2A2 |!
+BGDG BcdB | AFDF ABcA | BdcB AGFE | D2D2D2 |]
+
+X:69
+T:Waterloo Bridge. GS.069
+M:6/8
+L:1/8
+Q:3/8=100
+S:George Spencer m/s, Leeds,1831
+R:.Quadrille
+O:England
+A:Leeds
+N:The first note should be omitted when repeating the tune. No repeat
+N:marks are given. Da Capo is written in the margin at the end of the
+N:line.1831 is written on the stave after the final double bar.
+H:1831
+Z:vmp.Cherri Graebe
+K:C major
+“_see note”C | E2 E FDF | Ged cBA | G2 E G2 E | GFE DEF |!
+E2 E FEF | Ged cBA | G2EG2E | FDB, C2 ||!
+G | c2c cBc | d2 G GFG | d2 d dcd | e2 c c2G |!
+EGc cBc | FAd dcd | egf edc | BAG FE”^Da Capo”D |]
+
+X:70
+T:Molly put the Kettle on. GS.070
+T:Polly put the Kettle on,aka. GS.070
+M:2/4
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:The date 1831 is written on the stave after the last double bar line.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+abag | fd d2 | Beed | cAA2 | abag |!
+fd d2 | Bedc | d2d2 :: fd ge | fd ge | !
+Beed | cA A2 | fd ge | fd ge | Be dc | d2d2 😐
+
+X:71
+T:Kirgate Hornpipe. GS.071
+T:Kirkgate Hornpipe. GS.071
+T:New Castle Hornpipe,aka. GS.071
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:Kirkgate is the main street in Leeds,as elsewhere
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+gd | B2B2 BcAF | G2G2 B2 Bc | dBdB edcB | cBAG FAFD |!
+B2B2 Bd^ce | d2d2d2 AG | FAFD EGE^C | D2D2D2 :|!
+|: AB | c2c2c2 AB | cBAG F2D2 | d2d2d2 ef | gfed cBAG |!
+e2e2 egfg | d2d2 dgfg | dBec BAGF | G2G2G2:|
+
+X:72
+T:Calder Fair. GS.072
+T:Cawdor Fair,aka. GS.072
+T:Sing a Song of Sixpence,aka. GS.072
+M:2/2
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:Some sort of relative of “Sing a song of sixpence”?
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+dcBA (Bd) F2 | G2 AF A2A2 | dcBA Bd F2 | EDFA B2B2 :|!
+|:Addd d2d2 | Beee e2 de | fedc dcBA | Bdce d2d2 😐
+
+X:73
+T:Diviels Dream,The. GS.073
+T:Devil’s Dream,The. GS.073
+T:Devil Among the Tailors. GS.073
+M:4/4
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:Can any conclusions be drawn from the phonetic spelling of
+N:’Devil’?Northumbrian accent?
+H:1831
+Z:vmp.Cherri Graebe
+K:A major
+e2 | eaga eaga | eaga fedc | dfBf dfBf | dfBf fedc |!
+eaga eaga | eaga fedc | agfe dcBA | E2G2A2 :|!
+|: e2 | ceAe ceAe | ceAa fedc | dfBf dfBf | dfBf gfed |!
+ceAe ceAe | ceAe fedc | agfe dcBA | E2G2A2 😐
+
+X:74
+T:Legacy,The. GS.074
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:The date ‘1831’ is written on the stave after the last double bar
+H:1831
+Z:vmp.Cherri Graebe
+K:A major
+“^p”A2A AEC | e2e ecA | A2 B cBc | F2 G A3 :|!
+|: “^f” Ace a2a | (gf).e (fe).c | Ace a2a | (gf)e f2g |!
+a2a gec | f2f ecA | A2B cBc | F2GA3:|
+
+X:75
+T:Tank,The. GS.075
+M:2/4
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+N:”1″ The chord at the end of the A music has a vertical curved line,
+N:like a vertical slur n front of it…’1831′ is written on the stave
+N:after the last double bar.
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb major
+B2b2 | G2g2 | (fd).c.B | (ec).B.A | .d.e f2 |!
+.e.f.g2 | fga2 | “1”[B4b4]::d2dd | f3 d |!
+(ge) (ec) (cA) (AF) | d2 de | f3 b | gecA | [D4B4]:|
+
+X:76
+T:German Air. GS.076
+T:Lieber Augustine. GS.076
+M:3/8
+L:1/8
+Q:3/8=50
+S:George Spencer m/s, Leeds,1831
+R:.Waltz
+O:England
+A:Leeds
+N:See also number 40 – almost identica 1/0 – fingering given in MS – B
+N:is first finger , D is open string.. 1 – this note is G in No. 40
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb major
+.f(f/2g/2)(f/2e/2) | (fB).B | .c.A.F | .d.B.F | .f(f/2g/2)(f/2e/2) |!
+.d.B.B | .c.A.F | “1/0″[D3B3] ::cAF | dB”1″F |!
+ecA | fdB | .f(f/g/)(f/e/) | dBB | cAF | [D3B3] 😐
+
+X:77
+T:Quizes,The. GS.077
+M:2/4
+L:1/16
+Q:1/4=80
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+d2 | BcBA G2G2 | FGFE D2D2 | G2G2A2A2 | B2d4d2 |!
+BcBA G2G2 | FGFE D2D2| G2G2B2B2 | G6 :|!
+|:d2 | dcBA GABc | d2g2 d4 | dcBA GABc | defg d2ef |!
+gfed edcB | cBAG F2D2 | G2G2 ABcA | G2F2 G4 😐
+
+X:78
+T:Muses,The. GS.078
+T:Three Meet,aka. GS.078
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:Where ‘$’ is shown above the stave this represents the ‘$’ as in D.S.
+N:- dal segno. They are actually above and below the first bar line and
+N:the double bar at the start of the minor section, which also has a D.C
+H:1831
+Z:vmp.Cherri Graebe
+K:F major
+“_No time sig.in ms”.
+c/2B/2 | “^$” Acf Acf | {e}dcd g2f | ede cde | (fef) a2 (c/2B/2) |!
+Acf Acf |{e}dcd g2f | ede cde | fag f2 :|!
+c | A2cG2c | {G}FEF E2c | A2cG2c | {c}=BAB cde |!
+(f3a2)c | {e}(dcd) (f2^f) | {a}(g^fg) bag | =fed cdB”^DC” ||!
+“^$ Minore” A | {e}d^cd dcd | fab a2f | egf ed^c | d2fA2A |!
+{e}d^cd {e}dcd | g^fg bag | fed ed^c | dAf “^D. Capo”d2 |]
+
+X:79
+T:La Lodoiska. GS.079
+M:2/4
+L:1/16
+Q:1/4=70
+C:Rodolphe Kreutzer
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:tEngland
+A:Leeds
+N:Part of ‘The Lancers Quadrille’/ cont.. ‘1831’ written on the stave
+N:after the last double bar.. Grace note ‘E’s’ in the C music are
+N:naturals.
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb major
+“^p”F2 | “_See note” B>BB>B B2B2 | B3F G>AB>c |\
+“cres”d>dd>d d2d2 | d3A B>cd>e |!
+“^f”f>ff>f f2b2 | f>ed>e f2b2 | f2de gfed | d4c2 ||!
+“^p”F2 | B2B2 {B}AGAF | B2B2 {B} AGAF | B2BA edcB |\
+A>Bc>d c>FG>A |!
+B2B2 {B} A>GA>F |B2B2 {B} A>GA>F | B2Bd ceAc | B6 ||!
+B2 | A2{=e}f2{e}f2{e}f2 | f>ed>c B>cd>B | A>BG>A F>GA>F |\
+B>AB>c d>cd>B | !
+A>FA>c {=e} f2f2 | fedc B2{a}b2 | B2{a}b2 f>ed>c | B4b4 |]
+
+X:80
+T:Flying Boy,The. GS.080
+T:Cats in the Village,aka. GS.080
+M:6/8
+L:1/8
+Q:120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:Hmm..
+H:1831
+Z:vmp.Cherri Graebe
+K:G major/2c/2 | “p”d2d (e2d) | B2B (d2c) | A2A AGA | (B3 G2) B/2c/2 |!
+d2d e2d | B2B d2c | A2A AGF | (G3G2) ||!
+“^f”g | f2d def | (g3d2)B | (ce).c (Bd).B | AFD D2g |!
+f2d def | (g3e2) g| fga gfe | (d3d2) “^p” B/2c/2 | !
+d2d (e2d) | B2B (d2c) | A2A AGA | (B3G2) B/2c/2 |!
+d2d (e2d) | B2B d2c | A2A AGF | (G3G2) ||!
+“^Minor” B | e2e g2g | fef B2B | c2AF2B | (G3E2) B |!
+e2eg2g | fef B2B |c2AF2B | “(Da Capo” (E3E2) |]
+
+X:81
+T:Life Let Us Cherish. GS.081
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+B3 cBc | (d2g) g2z | G3 AGA | BdB A3 |!
+B3{d} cBc | (d2g) {ga} g2 z |\
+B3 {B} AGA | H(G3″Fine”G2) :||!
+d | d2B ABc | d2B G2d | d2B ABc | {Bc} d2BG2d |!
+e2c g2e | d2B g2d | d>ed dcB | “D.C.”(B3 A2) |]
+
+X:82
+T:Austrian Charge,The. GS.082
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:The words ‘the end’ are written twice in the margin at the end of the
+N:tune
+H:1831
+Z:vmp.Cherri Graebe
+K:A major
+Ace Adf | Ade cea | fed cBA | GBA GFE |!
+Ace Bde | cea dfa | edc BAG | A3 A3 :|!
+|: GBd Eed | ced cBA | GBe Eed | cd^d e3 |!
+aec afd | aed cBA | Bdc BAG | A3 A,3 |]
+
+X:83
+T:Do so In a Meraca (America). GS.083
+T:East Neuk o’ Fife,aka. GS.083
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Scots Measure
+O:England
+A:Leeds
+N:”America” is in a different handwriting. “G.S.L. 1831” is written on
+N:the stave after the last double bar
+H:1831
+Z:vmp.Cherri Graebe
+K:E minor
+D | G2G2G2 Ac | dBdG dBdG | A2A2A2 gf | efge dBGB |!
+dcBA GABc | dBGB d2 B2 | ABcA BcAB | G2 E2E2 :|!
+|:dc | B2G2G2 dc | BcAB G2 ed | c2A2A2 ed | cdBc A2 dc |!
+BGFG DGEG | DGFG d2B2 | ABcA BcAB | G2E2E2 :|!
+|: ef | gfgd BcdB | gfgd BcdB | agae ^cdec | agae ^cdec |!
+gfgd BcdB | efge dBGB | ABcA dcBA | G2E2E2 :|!
+|:gf | egdg B[cg]d[Bg] |egdg Bgdg | eaca Aaca |eaca Aaca |!
+egdg Bgdg | efge dBGB | ABcA dcBA | G2E2E2 😐
+
+X:84
+T:French Air. GS.084
+M:2/4
+L:1/8
+Q:1/2=60
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:C major
+G | (c>B c)>d | .e>(e g)e | {e}(d^cde) | .c(a/2g/2) (^f/g/)(=f/d/) |!
+(c>B c)d | e>(e gf/2e/2) | {e}d^cd{f}e | =c3 g |!
+(g>B) .B(c/2d/2) | (d>c) .c(A | G).c (c{(dcBc)}d/2).e/2 | (^c2 d) G |!
+(=c>B c) .d | eg Hg {g^fag}{( gf)} e | (d>cd).e | c2 z .G |!
+(c>Bc)>(d | e)>(eg)(e | d)>(dg>).g | (gc)c |]
+
+X:85
+T:Le Petit Tambour. GS.085
+T:Grand Old Duke of York,aka. GS.085
+M:2/2
+L:1/8
+Q:1/2=75
+S:George Spencer m/s, Leeds,1831
+R:.March
+O:England
+A:Leeds
+N:Bears a resemblance to a Cornish song called ‘Trelawney’. 4 – written
+N:in MS – this refers to use of the 4th finger for E. The triplets are
+N:shown with the number inside the slur, which may mean, slur the notes
+N:or merely that these three notes are a triplet.
+H:1831
+Z:vmp.Cherri Graebe
+K:C major
+(e>d) | .c2.G2.E2G2 | c2 c>c c3 (B>c) | d2d2d2d2 | (d3ed2) G2 |!
+e2e2e2e2 | e2 (fe) d2 (ed) | c2c2 BcdB | c4 z2 || !
+(cB) | .A2(A2B2c2) | (d3cB2) cB | .A2(A2B2c2) | d3cB2 cB |!
+.A2 (A2B2c2) | ((3d^cd) (3(^fed) (3(=cBc) “4”((3edc) |\
+(3(BAB) (3(dcB) (3(A^GA) (3(cBA) | G6 G2 |!
+c2 c>c c2c2 | c4 z2 G2 | .c2.g2.e2.c2 | .G2.G2z2.G2 |!
+c2 c>c c2c2 | c6 (d>”4″e) | “4”(ed).c.B (dc).B.A | G6 (ed) | !
+c2G2E2G2 | c2 c>c c2 B>c | d2 d>d d2d2 | (d3ed2) (G2 |!
+e2)e2e2e2 | (3(e^de) (3(gfe) (3(=dcd) (3(fed) |\
+(3(cBc) “4”(3(edc) (3(BAB) (3(dcB) | c2c>c c2 |]
+
+X:86
+T:Di Tanti Palpite. GS.086
+M:2/4
+L:1/16
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+N:<> – drawn as a joined diamond shape under the note, but means
+N:crescendo and diminuendo?
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+.B4 .B2B2 | {c} B>AB>c d4 | (3(cdc) (3(BcB) .A2.d2 | \
+(3(BcB) (3(ABA) G2D2 |!
+B4 B2B2 | {c} B>AA>c d4 | (3(cdc) (3(BcB) A2{e2}d2 | G4 z4 |!
+A4(^GAc).A | (F4D4) | .G4 (B2d2) | G2(cB) .A4 |!
+A4 (^GAc)A | F4D4 | G4 (B2d2) | “<>”A8 | (B4B2B2) |!
+(A/2B/2A/2^G/2 A/2B/2c/2d/2 e/2f/2=g/2^d/2 e/2B/2c/2A/2) |\
+G4 B2A2 |G4 z4 | [D4B4g4]z4 | g8 |]
+
+X:87
+T:Carnival de Venices. GS.087
+T:When Daylight Shines,aka. GS.087
+T:Uncle Jim’s Jig(Bob Cann’s),aka. GS.087
+M:6/8
+L:1/8
+Q:3/8=80
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+.a | (b2a)(g2f) | (a2ge2).e | (f2g) (b2a) | f3 d2 a |!
+b2 a (ag).f | (a2ge2).e | (f2g)(b2a) | d3 d2 :|!
+|: .a | (ag).f (fe).d |(c2e) (b2a) | (^g2a)(=g2a) | (f3 d2) .a |!
+(ag).f (fe).d | (c2e) (b2a) |(^g2a) (=g2e) | d3d2:|
+
+X:88
+T:Huntsman’s Chorus in Dr. Freyschutz. GS.088
+T:Der Freischütz,aka. GS.088
+M:2/4
+L:1/16
+Q:1/4=100
+C:C.M. von Weber
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+N:There is a squiggle under the minim chord which could be meant as a
+N:crescendo and diminuendo.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+“_1st time piano, 2nd time forte”A2 | d4 (defg) | (a4 f2) .f2 |\
+[A2e2][A2a2][A2e2][A2a2] | (fgfe) .d2.A2 |!
+d4 (defg) | (a4f2).f2 | e2a2c’2b2 | a2a2a2 :|!
+|: e2 | f4 f2f2 |d4 d2d2 | g4 g2g2 | e4 e2e2 |!
+f4 f2f2 | d4 d2d2 | g4 g2g2 | H d6 e2 |!
+f4 f2f2 | (a2g2) f4 | e2e2 (fede) | (f4 d2) A2 |!
+f4 f2f2 | (a2g2) f4 | (gede) f2e2 | d4 z2 A2 |!
+A2AA A2AA | A2AA A2AA | d4A2f2 | d4 A2f2 |!
+(ag).e2 (ag).e2 | (ag).e2 (ag).e2 | d4 A2f2 | d4 A2f2 | !
+(ag).e2 (ag).e2 | (ag).e2 (ag).e2 | .f2(df a4) | .f2(df a4) | !
+f2dd d2d2| H[c8e8] | d4 A2f2 | d4 A2f2 |!
+(ag).e2 (ag).e2 | (ag).e2 (ag).e2| d4 A2f2 | d4 A2f2 |!
+(ag).e2 (ag).e2 | (ag).e2 (ag).e2 | f2df a4 | f2dfa4 |\
+f2dd d2d2 | d12|]
+
+X:89
+T:Hornpipe,A. GS.089
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:”$” = the usual S with a line through it for repeat from here. The
+N:second $ is written over the double bar. The first full bar has a line
+N:over it and the word ‘biss’ – the first ‘s’ written as an old-style
+N:long ‘s’ This (I assume!) is ‘bis’ – twice, so I have written the bar
+N:out twice. The bar also has repeat marks at the end. As written the
+N:music has 8 bars A music and (with repeats) 16 bars B music.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+:”$” (3(ABc) | dcdc dfaf | dcdc dfaf | dfba gfed |1 cdBc ABcA :|\
+|2 “$” cdec d2 |!
+|:fg | afaf bagf | gfgb agfe | fdef gfed | cdBc A3A |!
+defd BcdB | efge cd”?”ec | agba gfed | d2d2d2 😐
+
+X:90
+T:Chalmers’ Hornpipe. GS.090
+M:2/2
+L:1/8
+Q:1/2=80
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:” “1” This note has a natural written over it, above the stave The
+N:slur joins only the ‘F’ and the grace notes, but ABC2win doesn’t like
+N:that. “2” – grace note (semiquaver) is slurred with the following
+N:note “3” impossible to show as written! Main note has a “~” over it –
+N:the sign for a turn which is also correctly written out in terms of
+N:pitch – the ‘B’ is shown as a normal sized note, the others as
+N:grace-note size. “4” -” ~” and sign for natural shown vertically
+N:underneath it, so it’s a turn with an E natural and won’t play quite
+N:right here. The final pause is written above the double bar. Fine is
+N:written below it.
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb major
+F | BAcA Bdfd | c=BdB cege |.dbfd .cgec | AecA “1”(F{GF=EF}) GA |!
+“2”{c}BAcA Bdgd | “2”{d}c=BdB cege | .dbfd .cgec | .AecA B2 :|!
+|: “3 ~”(c/4B/4A/4B/4) | cfef cfef | df=ef bfdB | cfef cfef |\
+dfga bfdB |!
+gfed e=Bcg | fedc dA_Bf | efde cdBd | ABGA ” nat 4″ ~F2 GA |!
+BAcA Bdfd | c=BdB cege | .dbfd .cgec |.AecA ” nat 4″ ~F2 GA |!
+“2”{c}BAcA Bdfd | “2”{d}c=BdB cege |.dbfd .cgec |\
+.AecA H”Fine”B2:|
+
+X:91
+T:Lassells Hornpipe. GS.091
+T:Trumpet Hornpipe,aka. GS.091
+M:2/2
+L:1/8
+Q:1/2=80
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+GG G2 GG G2 | BGBd gdBG | DD D2 DD D2 | FDFA cAFD|!
+GG G2 GG G2 | BGBd gdBG | gbag fed^c | d2d2d2z2 :|!
+|: dd d2 dd d2 | gaba gfed | edef gdcB | ABcG FEDC |!
+B,GDG EGDG | B,GDG EGDG | cedc BAGF | G2G2G2z2 😐
+
+X:92
+T:Shuters Hornpipe. GS.092
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:A major
+(EF/2G/2) | A2A2A2 cd | ecdB ABcA |[E2B2][E2B2][E2B2] fe |\
+dcBA GBGE |!
+A2A2A2 cd |ecdB A2 a2 | gbge fafd | e2 ee e2 ||!
+GA | B2B2B2 cd | ecBA GBGE |\
+e2e2e2 fg | afed ce”^BG in ms”cA |!
+f2d2 dfaf | e2c2 ceae | fdec dBAG | A2 AA A2|]
+
+X:93
+T:Butchers Hornpipe. GS.093
+M:4/4
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+DB, | G,B,DB, G,B,DB, | G,2 G2G2 AF | DFAF DFAF |\
+D2 d2 d2 (cB) |!
+cdec cdec | ABcd efga | fdec dBAG | D2 G2 G2 :|!
+|:Bc | dBGB dBGB | ecAc ecAc | gfed egag |\
+f2 d2 d2 (cB) |!
+cdec cdec | ABcd efga | fdec dBAG | D2 G2G2 😐
+
+X:94
+T:Blickling Races. GS.094
+T:Timour The Tartar,aka. GS.094
+T:Blanchard Races,aka. GS.094
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:Blickling in Norfolk? Though someone has written ‘Brickling Races’,
+N:probably in pencil. George Spencer Leeds is written on the stave at
+N:the end of the tune. Pause is the conventional sign, written over the
+N:first double bar. DC is written after the second double bar on the
+N:stave..
+K:A major
+A2 (c/2B/2A) eAcA | eAaA gAfA | eA (c/2B/2A) eAcA | BEcE dEcE |!
+A2 (c/2B/2A) eAcA |eAaA gAfA | efed caec | BABc A2HA2 || !
+G2 (G/2F/2E) BEGE | BEdE cEBE |\
+A2 (c/2B/2A) eAcA | eAfA eAcA |!
+eA (c/2B/2A) aAfA | eA (c/2B/2A) aAfA|\
+ecfe dcBA | GABA GEF”^DC”G |]
+
+X:95
+T:Earl Cathcart. GS.095
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:I think what is meant with the repeats is that the 1st bar is played
+N:first time through, but after that the last bar replaced the first bar
+N:$ = conventional
+N:dal segno sign… + is , yes, a cross. The first bar line, shown here
+N:as double with repeat marks, is single in the MS, but ABC2win wants it
+N:double. It can’t cope with ungrammatical music. DC is written below
+N:the stave and the pause
+N:is written over the double bar.
+H:1831
+Z:vmp.Cherri Graebe
+K:G Major
+“+” DGB d2d |: “$” dcB A2 c | BGd cAe | G3F2D |!
+DGB d2d | dcB A2 c | cBA BAF | A3HG2 :|!
+|: d | def g2g | gfe d2d |ecB Ace | G3F2A | GB^c def |!
+B3 g2g | fed ^cde | dec def “^DC”|| “+” gdB GB”$”d |]
+
+X:96
+T:Non my Ricordo. GS.096
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+GAG B2d | GAG d2 e | dBG GFG | ABG FED |!
+GAG B2 d | GAG B2 e | dgf fed| ed^c “^cr”d3 :|!
+|:ded dbd | cdc cac | BcB BgB | A2G FED |!
+G2 A B2 c | def g2 e | edB dcA| A3 “^cr”G3 😐
+
+X:97
+T:York Winter Assemblies. GS.097
+M:2/4
+L:1/8
+Q:1/2=80
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:D Major
+D | DFAd | A2 BA | A/2G/2F/2E/2 DA, | EDDA, |!
+DFAd | A2 BA | A/2G/2F/2E/2 DC | E2 D ||!
+A |d2 AA | f2dd | c/2d/2e/2f/2 gf | f2 eA |!
+d2 AA | f2 dd |c/2d/2/e/2f/2 gc | e2d ||!
+A | A2 GF | d2cB | AGFE | D/2C/2D/2E/2 DF |!
+A2 GF | d2 cB | AGFE | DFD |]
+
+X:98
+T:Warterloo Dance,The. GS.098
+T:Waterloo Dance,The. GS.098
+M:2/4
+L:1/8
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+“qu”A/G/ | FdAd | f>e dd | e2 d/c/B/A/ | dfA A/G/ |!
+FdAd | f>e dd | e2 d/c/B/A/ | dfd |!
+| c/d/ |ecaf | e/^d/e/c/ AA | ^G/A/B/c/ de | d2 c c/d/ |!
+ecaf | e/^d/e/c/ AA | ^G/A/B/c/ dA | AcA |!
+|f/g/ | a3 f | bagf | edef | defa |!
+a3f | bagf | edef | dfd |]
+
+X:99
+T:Vauxalls Hornpipe. GS.099
+T:Sadler’s Wells Hornpipe,aka. GS.099
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+BA | G2G,2 GcBA | BdBG F2 ED | CDEC B,CDB, | A,2A2A2 BA |!
+G2G2GcBA |BdBG F2 ED | c2 BA BGAF | G2G2G2 :|!
+|: d2 | g2d2 ecBA | BdBG F2 ED | cdec BdBG | F2A2A2d2 |!
+g2d2 ecBA | BdBG F2 ED | c2 BA BGAF | G2G2G2 😐
+
+X:100
+T:No Luck About the House. GS.100
+T:Nae Guid Luck Aboot etc,aka. GS.100
+M:4/4
+L:1/8
+Q:1/2=80
+S:George Spencer m/s, Leeds,1831
+R:.Schottische
+O:England
+A:Leeds
+N:See my comments in GS.054, Unfortunately Mr. Spencer was having
+N:serious problems with his pen, but the combination of well-known tune
+N:and very luckily spaced blots means it is legible.Cherri.. P.S.
+N:Cherri, I think he was closing the
+N:book before the ink was dry,. Chris P.
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+d | g>fdB c>def | g>edB A2 AB | g>edB c>def | d>cBA G2G :|!
+|:A | B2 BG c2 cA | B2 BG A2Ac | B2BG c>def | dcBA G2 G 😐
+
+X:101
+T:Cambells Are Coming. GS.101
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G Major
+GBe dBG | BcB B2 A | GBe dBG | ABA A2B |!
+GBe dBG | B2d g2a | bag gfe |dBB B2 :|!
+|:d| g2g gab | d2d d2B | g2g gab | e2ee2e |!
+gfe gab | d2d g2a | bag gfe | dBB B2 😐
+
+X:102
+T:Paddy O’Carrel. GS.102
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+” qus”(A/2G/2) | FDD FDD | F>GF FED | AFF dEF | E>FE EAG |!
+FDD FDD | F>GF FED| AFF dFF | D>ED D2 ||!
+a/2g/2 | fed ecd | BdB AGF | fda eca | dB^g a2a/g/ |!
+fdd ecc | B>dB AGF| AFF dFF | D>ED D2 |]
+
+X:103
+T:Morning Fair Hornpipe. GS.103
+T:Rickett’s Hp,aka. GS.103
+T:Manchester Hp,aka. GS.103
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:Differs from Rickett’s Hp. in the B strain..The name Charles ? is
+N:written on the stave at the end of the music,
+N:then crossed out. The missing surname resembles ‘Naseby’
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+A2 | dcdA FAdf | edcB A2 ef | gege Bged | dcec Aged |!
+dcdA FAdf | edcB A2 g2 | fafd Bgec | “1”{c}d2 {c}d2 {c}d2 :|!
+|: fg | affd dffa | bgge efgb |affe bged | cdBc Agfe |!
+dcdG FAdf | edcB A2g2 | fafd Bgec | {c}d2 {c}d2 {c}d2 😐
+
+X:104
+T:Seventh Bullet. GS.104
+M:2/4
+L:1/16
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+d4 (^cde)c | f4 (fgag) | b4 (agf)e | e2d2 z4 | A2B2c2^c2 |!
+d2g2 (fed)c | B2d2 (BcBA) | “cr” HG6 ||!
+D2 | G2G2 B2B2 | ^c2d2 z2 d2 | b2 ag (fgd)B |!
+(edcA) G2D2 | G2G2B2B2 | ^c2d2 z2 d2 | ^c2g2d2c2 | d6 Bc |]
+
+X:105
+T:Betsy Baker. GS.105
+T:Push About The Jorum,aka. GS.105
+M:2/4
+L:1/8
+Q:1/4=150
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+N:Very Kerry Polka – like. In margin in pencil “Air – Push About The
+N:Jorum”
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+g | dBBG | FAAc | BGBd | g3 g>e | dBBG | FAAd | BcdB | G3 G/ :|!
+|:d | efge | afdd | efge | f2 dd | efge | afga | bgfd | g3 g>e |!
+dBBG | FAAc | \
+BGBd | g3 g>e | dBBG | FAAc | BcdB | G3 G 😐
+
+X:106
+T:Cl. Stewart’s Quadrille. GS.106
+M:2/4
+L:1/16
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Quadrille
+O:England
+A:Leeds
+N:’George Spencer’ is written on the stave after the last double bar.
+N:ABC2Win doesn’t like reading Chords, and always messes them up. .
+N:$ is conventional dal segno.. pause is written as conventional sign
+N:over bar line, ff is written under the double bar $ is written on the
+N:stave after the last double bar, Da Capo is written underneath..
+H:1831
+Z:vmp.Cherri Graebe
+K:F major
+“$”AB | c2f2d2f2 | cdcB A2[A2c2] | [G2B2][G2B2][F2A2][F2A2] |\
+[C6G6] AB |!
+[A2c2]f2d2f2 | cdcB A2c2 |d2f2e2c2 | [A2f2] H”^ff” z ||!
+f2 z2e2z2 | f6 d2 | c2c2B2A2 |A2G2 z2 c2 |!
+f2 z2 e2 z2 | fcag fedc | BAGF G2c2 | BFGA Bcde |!
+fgaf efge | fcde fcdf | cfac’ bgaf | a2g2z2c2 |!
+fgaf efge | fcde fcdf | cfac’ =bc’_bg | \
+[A2f2][c2a2] “$ Da Capo”[A2f2]|]
+
+X:107
+T:Joys of Wedlock,The. GS.107
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+“_no key sig. in ms”D | DGG GBd | gfe d2 c | Bdg dBG | ABA A2 D |!
+DGG GBd | gfe d2 c | BdB cAF | GAG G2 :|!
+|:c | Bdg dBG | Bdg d2c | Bdg dBG | ABA A2 d |!
+Bdg dBG | Bdg d2 c | BdB cAF | GAG G2 😐
+
+X:108
+T:Just in Time. GS.108
+M:2/4
+L:1/8
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+D | GG/A/ GD | BB/c/ BG | AcFA | G/F/G/A/ GD |!
+GG/A/ GD | BB/c/ BG | AcFA | G3 :|!
+|: D | dd/e/ dg | BB/c/ Bd | FcDF | G/F/G/A/ GD|!
+dd/e/ dg | BB/c/ Bd | AcAF | G3 😐
+
+X:109
+T:Duncan Gray. GS.109
+M:4/4
+L:1/8
+Q:1/4=100
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+N:”George Spencer Book Leeds 1831″ written on the stave at the end of the
+N:music
+H:183
+Z:vmp.Cherri Graebe
+K:D major
+Adcd ef c2 | d2 e>g fd d2 | Adcd ef c2 | d2 eg fd d2 :|!
+|:ga ag/f/ gg g2 | fg/f/ ed cB”^or G in ms” A2 |\
+ab/a/ ga/g/ fg/f/ e2 | d2e>g fd d2:|
+
+X:110
+T:Reel,A. GS.110
+M:2/2
+L:1/8
+Q:1/2=100
+S:George Spencer m/s, Leeds,1831
+R:.Reel
+O:England
+A:Leeds
+N:’end of the Reel’ written at the end of the music
+H:1831
+Z:vmp.Cherri Graebe
+K:C major
+(ef) | (ga).g.e (ga).g.e | (ga).g.e (fd).d.e |\
+(ga).g.e (ga).g.e | (ga).g.f ec c2 :|!
+|:.G.c.E.c .G.c.e.c | .G.c.E.c .d.D .D2 |\
+.G.c.E.c .G.c.e.g | (fa).g.f ec c2 😐
+
+X:111
+T:Gallop on Gaily. GS.111
+M:6/8
+L:1/8
+Q:3/8=110
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:’George Spencer’ written after the end of the music
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+A | ABA d2 f | gfe fga | ABA d2 f | gec d2 :|!
+|: e | efe aec | fdB ecA |efe aec | edB A2 e |!
+efe aec | edB ecA | efe aec | edB A3 ||!
+(D3F2)G | AAA A2a | aba agf |gfe fga |!
+D3 F2 “^cr” G | AAA A2a | aba agf | gfe d3 |]
+
+X:112
+T:Princes Hornpipe. GS.112
+T:?
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:Title written in large ornate letters on the last line of the page.
+N:Rather better handwriting than the title at the top of the page
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+(fg) | afge dfed | cdec ABAG | FGef gfed | c2 AA A2 (fg) |!
+afge dfed |cdec ABAG | FGef gedc | d2 dd d2 :|!
+|: (cd) | eAAA eAfA | eAAA fdfa |gfed dcBA | B2 BB B2 (AG) |!
+FAdB cdec | defd efge | fgaf bgec | d2 dd d2 😐
+
+X:113
+T:Mrs.Casy. GS.113
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:’end of Mrs. Casy’ written after music A music has only seven bars, so
+N:bar added to match
+N: pattern which occurs in 3 other places
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+(gf/e/) | d2B (BcB) | A2A (ABA) | “_BAR ADDED” B2B BcB |\
+g3 (f2e) |!
+d2B (BcB) | A2A (ABA) | B2 B (BcB) | d3 f3 :|!
+|: d2ef2g | a2ba2f | d2ef2g | a3 f2a |!
+b2ga2f | g2ef2d | d2B (BcB) | g3 (f2e) |!
+d2B (BcB) | A2A (ABA) | B2B (BcB) | g3 (f2e) |!
+d2B (BcB) | A2A (ABA) | B2B (BcB) | d3g3 😐
+
+X:114
+T:Saghoni Waltz,The. GS.114
+T:Green Hills of Tyrol,aka. GS.114
+M:3/4
+L:1/8
+Q:3/4=50
+S:George Spencer m/s, Leeds,1831
+R:.Waltz
+O:England
+A:Leeds
+N:> -shown under the note – diminuendo?George Spencer Book Leeds
+N:September 5, 1831 written on stave after
+N:music. A fairly close relative of “Green Hills of Tyrol”
+H:183
+Z:vmp.Cherri Graebe
+K:G major
+“p”DGA | (B2 B)(GBc) | (d2 d)(eBe) | (dcAFAe) | (dBG) “^f”(DGA) |\
+(B2 B)(GBc) | (d2 d)(eBe) | (dcA) (DFA) | G2 z2G2 |\
+“^>”g4 (fe) | ed dz”^>”e2 | \
+dc cz “^>”d2 | cB Bz G2 | “^p”g4 (fe) | (ed) d z e2 | (d^c) c z BA |\
+d3 AfA | (e2 e)A(^cA) |\
+(d2 d)(AfA) | (e2 e)(A^cA) | (de)(^cede) | =cdBdAd |\
+G2 z “^p”(DGA) | (B2B)(GBc) | (d2d)(eBe) |\
+(dcA) (FAe) | (dBG) (DGA) | (B2 B)(GBc) | (d2 d)(eBe) | \
+dcA DFA | “^f”G2z FGA |(B2 B)F^dF | (B2 B)cBA | \
+(G2 G)DBD | G2 z “p”FGA |(B2 B)F^dF | (B2 B)cBA | \
+(G2 G)DBD | G2 G z G2 | g4 fe | (ed) dz”^>”e2 | (dc) c z “^>”d2 |\
+cB Bz2G | g4 fe | ed d z e2 |\
+dc c z (3(A/B/c/) Hf2 | (3(G/B/d/) Hg2 f2 z |]
+W:”George Spencer Book Leeds September 5 1831”
+
+X:115
+T:Wanton Widow,The. GS.115
+M:2/4
+L:1/8
+Q:1/2=80
+S:George Spencer m/s, Leeds,1831
+R:.Country-dance
+O:England
+A:Leeds
+N:1- the two groups in this bar are marked as triplets in the MS.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+a | {g} fedf | gbeg | fadf | e/d/c/B/ Aa |!
+{g} fedf | gbeg | “1”f/g/a A/B/c | d3 :|!
+|:A| FAdf | eAgA | fadf | e/d/c/B/ AA |!
+FAdf | eAgA | faAc | d3 😐
+
+X:116
+T:Mount Edgcomb. GS.116
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:Mount Edgcumb near Plymouth?
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+GDD BGG | dBB g3 | cde ABc | GAB AFD |!
+GDD BGG | dBB g3 | aff gee | d3D3 :|!
+|:ddd eBc | ccc dAB | BBB cdB | ABG AFD |!
+GDD BGG | dBB g3 | dBB cAA | G3 [G,3G3] 😐
+
+X:117
+T:Hum the Hummer. GS.117
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:’George Spencer’ written at the end of the musi
+H:183
+Z:vmp.Cherri Graebe
+K:D major
+A | dAF BGE | AFD d2e | fdB ecA | (d3 d2) E/F/ |!
+AFD BGE | cAF g2f | ecA ^GEG | (A3 A2) :|!
+|: c | ecA dfd | BdB GGf | gec fF^A | (B3 B2) c |!
+dBG GEd | eBe cBA | dAF BGA | (D3D2) 😐
+
+X:118
+T:Prussian Soldier,The. GS.118
+M:6/8
+L:1/8
+Q:3/8=60
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:NB Paul Roberts suggests that some 6/8 tunes may be treated to a waltz
+N:- like tempo,or as residual 6/4 a la Playford, like this,and very nice
+N:too.It’s certainly worth trying with some of these otherwise rather
+N:lame sounding quadrille type thingys. CGP.
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+GAB cAc | BGB AFD | GAB cAc | (B/c/d)B G3 :|!
+|:Bdf gdB | gdB gdB | Bdf gdB | gdB A3 |!
+Bdf geB | gdB gdB |(c/d/e)c (A/B/c)A | BGG G3 😐
+
+X:119
+T:Marquis of Gramby’s Rant,The. GS.119
+M:2/4
+L:1/8
+Q:1/2=80
+S:George Spencer m/s, Leeds,1831
+R:.Strathspey
+O:England
+A:Leeds
+N:’End of Marquis of Gramby’s Rant’ written at end of musi
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+G2G2 | G>Bd>B | A2 A>B | c>de>f |\
+G2G2 | G>Bd>B | A>Bc>e | c>B G2 :|!
+|:gaga | gagd | gaga | gaba |\
+gaga | gagd | (d/f/g) g>d | B>G G2 😐
+
+X:120
+T:Priest In his Boots,The. GS.120
+M:6/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Jig
+O:England
+A:Leeds
+N:Date information – ‘George Spencer Book Leeds September 8 when he
+N:finished this Book Kings Coronation Day’ – but there are four tunes
+N:after this ..Cherri..King George III died unlamented in 1830, and was
+N:succeeded by his brother William IV ,King 1831 – 1837 “His
+N:Majesty,though at times a jovial and, for a king, an honest man,was a
+N:weak,ignorant commonplace sort of person..his very popularity was
+N:aquired at the price of something like public contempt.-The Spectator..
+N:Chris P.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+eee eee | efd cBA | d2d fed | c2d e3 |!
+eee eee | efd cBA |d2e faf | gec d3 :|!
+|: a2fg2e | f2d ecA | d2e fed | c2d e3 |!
+afa geg | fdf ecA | d2d faf | gec d3 😐
+
+X:121
+T:Tumblers Hornpipe. GS.121
+T:Washington Hp,aka. GS.121
+T:Y Fasged Wyau,aka. GS.121
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:aka Basket of Eggs/Egg Basket/William Andrews Hp
+N:C(Sheepstor,Dartmoor)and a version from Quebec, title
+N:unknown.Also Daniel’s Hp,J.Clare ms…’George Spencer Leeds 1831′
+N:written on stave after music
+H:1831
+Z:vmp.Cherri Graebe
+K:Bb major
+Bcde fBAB | gBaB bBAB | GBFB EBDB | edcB BAGF |!
+Bcde fBAB | gBaB gBAB | GBFB EBDB | ecBA B4 ||!
+fBAB gBAB | fBAB gBAB | gbba gfge | edcB BAGF |!
+Bcde fBAB |gBaB bBAB | GBFB EBDB | dcBA ” cr”B4|]
+
+X:122
+T:Nelsons Hornpipe. GS.122
+M:2/2
+L:1/8
+Q:1/2=90
+S:George Spencer m/s, Leeds,1831
+R:.Hornpipe
+O:England
+A:Leeds
+N:’George Spencer 1831′ written on stave at end of music
+H:1831
+Z:vmp.Cherri Graebe
+K:A major
+cd | ecfd cBdB | AGBG A2 cd | ecag fedc | cBdB BAGF |!
+ecfd cBdB | AGBGAafd |cBdB AGBG | A2A2A2:|!
+|:cd | egaf fedc | fefg a2 ag A| fedc BAGF | E2E2E2AG |!
+FABG Acec | dfaf ecfd | cBdB AGBG A2A2A2 😐
+
+X:123
+T:Zelmira. GS.123
+M:4/4
+L:1/16
+Q:1/4=90
+S:George Spencer m/s, Leeds,1831
+R:.Air
+O:England
+A:Leeds
+H:1831
+Z:vmp.Cherri Graebe
+K:G major
+d4 d^cde d2g2 d4 | Bc^GA e2d2 “_as writ”B<cA<B G4 |\
+B4 B^ABc B2e2 g4 | gf^cd eAB^ce2f2 d4 ||!
+a2f2 dede d2g2 b4 | ba^ga dede d2B2 G4 |\
+g4a4b4 c’a | gbfa fadf | b4g4 |]
+
+X:124
+T:Three Fingered Jack. GS.124
+M:9/8
+L:1/8
+Q:3/8=120
+S:George Spencer m/s, Leeds,1831
+R:.Slip Jig
+O:England
+A:Leeds
+N:First three sets of grace notes shown as slurred to the following note.
+N:All grace
+N:notes shown as semi-quavers.
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+{fg}a3 afd ecA | {fg} a3 afd bge | {fg}a3 afd ecA | Bdc {e}dcB AFD :|!
+|:afd {e}(dcd) bge | afd {e}dcd ecA | afd bge afd | gec ABc d3 😐

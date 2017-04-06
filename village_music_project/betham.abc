@@ -1,0 +1,1974 @@
+%abc
+%%abc-alias Docker/Betham
+%%abc-creator ABCexplorer 1.6.1 [12/02/2015]
+%%abc-edited-by www.village-music-project.org.uk
+%The Docker/Betham MS, Towcett, Cumbria, 1815
+%kept in VWML, C# House
+%ABC for VMP by Hugh Taylor, March 2012
+%comment added to #67 12/2/15
+
+X:01
+T:Russian Dance. MBe.01, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/2=80
+C:”Let Thy Head Rule”
+N:The name of this dance has been copied out in a different hand
+N:along with the inscription ‘Let thy head rule’.
+K:G
+DG|B2 DG|B2 DB|dcBc|A2 DF|A2 DF|A2 DA|Bc AB|”^sic”G3:|
+|:dc|B2 BA|G2 gf|e2 ed|e2 AB|AG FA|d2 F2|GF GA|”^sic”G3:|
+
+X:02
+T:Haul Away the Hawser. MBe.02
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Torryburn Lasses,aka. MBe.02
+T:Seymore’s Reel,aka. MBe.02
+T:Ladies Wattle,aka. MBe.02
+T:Tadie’s Wattle,aka. MBe.02
+T:Comely Jane Downing,aka MBe.02
+M:C
+L:1/8
+Q:1/2=100
+R:.Reel
+N:Quite different to the tune of the same name in Vickers MS
+N:Someone in a different hand has been copying out the name of the previous tune – The Russian Dance – as if
+N:practicing writing.
+N:NB-The A in the final bar of the B music may be dotted, but I think it’s a blot.
+K:G
+D|G2 BG BddB|c2 ec eg g2|G2 BG Bddg|edcB A2 G:|
+g|g2 bg afed|edef gdBG|g2 bg afed|edef g2 a2|
+bagf gfed|edef gdBG|cBcd efge|dBgB “^NB”A2 G|]
+
+X:03
+C:Page 02
+T:Labarynth. MBe.03, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Labyrinth. aka. MBe.03, The
+T:We Won’t Go Home Till The Morning,aka. MBe.03
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+K:G
+G/A/|B2 B BAB|c3 cBc|A2 A AGA|B3 {d}cBA|
+G2 G GFG|A3 A2 G|FED DEF|(G3 G2)||
+B/c/|d2 d dcd|e2 d {c}cBc|A2 A Adc|B3 {d}cBA|
+G2 G GFG|(A3 A2 G)|FED DEF|G3- G2|]
+
+X:04
+C:Page 02
+T:Ap Shenkin. MBe.04
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Tempest,aka. MBe.04, The
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:This note could be either ‘c’ or ‘B’
+K:D
+A/G/|F2 F Fdc|B2 B Bcd|ABA AGF|FEE EAG|
+F2 F Fdc|B2 B Bcd|ABA GFE|D2 D D2!fine!:|
+d/e/|f2 d e2 c|dcB AGF|GAB AdF|FEE E2 d/e/|
+f2 d e2 c|dcB edc|fed cd”^NB”B|Adc BAG!D.C.!|]
+
+X:05
+C:Page 03
+T:Death of Parker. MBe.05
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:President Parker,aka. MBe.05
+T:Constant Billy,aka. MBe.05
+T:Cease Your Funning,aka. MBe.05
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:See the song of the same name in the Hammond & Gardiner collection
+K:G
+D|G2 G GBd|c2 A AFD|B2 G E2 D|DEF G2 D|
+G2 G GBd|c2 A AFD|B2 G E2 D|DEF G2||
+c|cBc e2 c|ABc dBG|GBd d^cd|AB^c d2 e|
+dBG GBd|c2 A AFD|B2 G E2 D|DEF G2|]
+
+X:06
+T:Braes of Arranmore. MBe.06
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Some Say the Devil’s Dead,aka. MBe.06
+T:Braes of Mar,aka. MBe.06
+T:Love Won’t You Marry Me,aka. MBe.06
+T:Sir Alexander McDonald,aka. MBe.06
+M:C
+L:1/8
+Q:1/2=80
+R:.Reel
+K:D
+A|FAAB defe|dB (c/B/A) dB (c/B/A)|FAAB defe|edf”^dotted in MS”d e2 d:|!\
+“rest added”z|faag fdad|gbbd gebe|faag fdad|gbfa e3 d|!
+faaf fdad|fbbf gebe|faef deBd|BdF”^dotted in MS”f E2 D|]
+
+X:07
+C:Page 04
+T:Millers Wife of Droan. MBe.07
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Miller of Drone, aka. MBe.07
+M:2/4
+L:1/8
+Q:1/2=60
+R:.Reel
+C:Nathaniel Gow
+N:No Key signature in MS, but usually found in a major key.
+K:D
+“No Key sig. in MS”f/e/|dBBd|ABAF|Ddgf|e2 fe|
+dBBd|ABAF|Adce|d2:|
+|:f/g/|affd’|”semi-qu’s in MS”aa (b/a/g/f/)|affd’|b2bd’|
+affd’|”semi-qu’s in MS”aa (b/a/g/f/)|gefd|B2 Bb|
+affd’|”semi-qu’s in MS”aa (b/a/g/f/)|affd'”poss bar missing”|”sic”(d’/c’/b/) (a/b/c’/)|
+d’abf|gefd|B2:|
+\
+
+X:08
+C:Page 04
+T:Nancy Dawson. MBe.08
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+K:G
+D|G2 G G>AB/c/|d2 B G2 B|A2 B A2 B|A2 G FED|
+G2 G G>AB/c/|d2 B G2 B|A2 G F2 E|”^dot added”D3 D3:|
+|:A2 B G2 B|A2 B AFD|B2 c d2 e|d2 e dBG|
+c2 B c2 d|e2 f gfe|dcB AGF|”^dot added”G3 G3:|
+
+X:09
+T:Dear Tobacco. MBe.09
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Tobacco’s Dear,aka. MBe.09
+M:C
+L:1/8
+Q:1/4=140
+R:.Reel
+N:Someone in a different hand has written “Dear Tobacco” beside the title.
+K:D
+BEEF (G/F/)(E/D/) F2|BEEc dcBA|BEEF G/F/E/D/ F2|D>EDc dcBA:|
+|:Beef g/f/e/^d/ e2|Beef gefd|Bdde (d/c/)(B/c/) d2|FAAF dcBA:|
+
+X:10
+T:Rose Tree. MBe.10
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:NB1-The 7th bar of the A has the 4 semi-quavers written as quavers
+N:NB2-The 7th bar of the B has 5 semi-quavers. I have assumed that the first one is a crotchet.
+K:D
+f/e/|dB AG|A>BAc|d2 f/e/d/e/|fe e/g/f/e/|
+dB AG|A>BAc|d2 “^qu’s in MS”f/e/d/e/|edd:|
+|:g|fefg|f/g/a gf|eaag|ae ef/e/|
+dB AG|A>BAc|”^NB2″d2 f/e/d/e/|fdd:|
+
+X:11
+C:Page 06
+T:Garland of Roses. MBe.11
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=60
+R:.Air
+N:Garland of Roses = the Catholic Rosary
+N:The B part has 10 bars
+K:G
+d|d>Bd dga|bag gfe|dBd d>ed|d>gc {B}A2 d|
+dBd dga|b>ag d’>bg|efg {fe}dfB|AGA G2:|
+|:g/a/|b>ag gBd|b>ag gBd|b>ag fab|eag fd d|
+gfg ece|dBg d{c}B{A}G|gfg ece|dBg d c/B/A/G/|
+GBd gbd’|d>ef g2:|
+
+X:12
+C:Page 06
+T:Merrily Dance the Quakers….. MBe.12
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Merrily Dance the Quakers Wife, aka. MBe.12
+T:Merrily Kissed the Quakers Wife, aka. MBe.12
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+K:G
+D|GAB D2 B|c2 B A2 G|GAB D2 D|E3 G2:|
+|:D|G2 B d2 B|e2 c d2 B|G2 B d2 c|B3 d3|
+e2 c ABc|d2 B GAB|GAB D2 D|E3 G2:|
+
+X:13
+C:Page 07
+T:Paddy O’Carroll. MBe.13
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:NB-The first E is not written dotted. I have made it dotted.
+N:A widespread tune, inc. a version in Rook from Wigton very similar to this one.
+K:D
+(A/G/)|(FD).D FDD|F>GF FED|AFF dFF|”^NB”E>FE E2 (A/G/)|
+(FD).D FDD|F>GF FED|AFF dFF|E>FE D2||
+a/g/|(fd)d (ec)c|BdB AGF|fda eca|dB^g a2 (a/g/)|
+fdd ecc|BdB AGF|AFF dFF|E>FE D2|]
+
+X:14
+C:Page 07
+T:Tekeli. MBe.14
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:Someone in a different hand has written “Tekeli” after the title.
+K:G
+d|g2 g gfg|e2 g d2 g|def gab|c’2 a f2 d|
+g2 g gfg|e2 g d2 g|def gab|c’af g2:|
+|:g2 a a3|bc’b (a2 g)|(a2 g) (a2 g)|(a2 g) a2 b|
+g2 a b3|bc’b a2 g|a2 g a2 b”^barline added”|g3 g2:|
+
+X:15
+C:Page 08
+T:Ellen of Rosenby. MBe.15
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=80
+R:.Reel
+N:NB1-These three notes are written as a triplet. I have made them into a tuplet.
+N:NB2-The D note looks like it is written as a quaver. I have made it a crotchet.
+K:G
+~BABG FEFD|”^NB1″(3(GBA) G2 FA d2|~BABG FEFD|GBAc BG G2:|
+|:d~gfe dBGB|cedB AF “^NB2″D2|d~gfe dBGB|cedB G2 G2:|
+
+X:16
+C:Page 08
+T:Jenny Nettles. MBe.16
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C|
+L:1/8
+Q:1/2=100
+R:.Reel
+N:A widespread tune. See versions in both Jackson, H.S.J (Winder) and Harrison collections.
+N:NB1-Lots of splodges makes this first bar difficult to decipher. Notes given are as commonly played, and
+N:fit in with bar 3.
+N:NB2-This bar is as written making an odd length bar. The B section has only 3 bars. I’m leaving it to the
+N:player to decide on a satisfying correction.
+K:Am
+“^NB1″c2 B2 A2 a2|efge dBGB|c2 B2 A2 a2|gedf e2 A2:|
+|:cded cded|dBGB dBGB|”^NB2″a2 fedf e2 A2:|
+
+X:17
+C:Page 08
+T:Lord Mcdonalds Reel. MBe.17
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=100
+R:.Reel
+N:See a version in Harrison.
+N:NB-G note written as a crotchet. I have changed it to a quaver.
+K:G
+B|d3 e dBgB|dBgB aAAB|d3 e dBgB|A/B/c BA BGG”^Fine”||
+z|”^rest added”DGBG AGBG|DGBG AGEF|DGBG AGBG|dedc BGG “^NB”G|
+dgbg agbg|dgbg ageg|agfe gfed|efga bggg”^D.C.”|]
+
+X:18
+C:Page 09
+T:Hero(e)s of Salamanca. MBe.18
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:The battle of Salamanca was fought in 1812 in Spain, so the book must be later than this.
+N:NB1-These first two semi-quavers were written before the repeat mark. I have deleted the repeat mark.
+N:NB2-The last bar of the A has two crotchets written. I have changed the first to a dotted crotchet.
+K:D
+“^NB1″A/G/|!segno!F2 F {A} GFG|AFD DFA|BAB dcB|ABG FGE|
+F2 F {A} GFG|AFD DFA|Bgf eac|”^NB2″(d3 d2)!fine!:|
+|:(c/d/)|e2 c Ace|f2 d Adf|g2 e f2 d|{cd}e2 c A2 c/d/|
+{f} e2 c Ace|{g} f2 d Adf|efd cdB|ABG FGE!D.C.!:|
+
+X:19
+C:Page 09
+T:Del Caros Hornpipe. MBe.19
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Madame Del Caro’s Hornpipe, aka. MBe.19
+M:2/4
+L:1/8
+Q:1/2=80
+C:John Field
+R:.Hornpipe
+K:G
+G>Bd>g|f>ed>e|d>cB>A|B>c d2|
+G>Bd>g|f>ed>c|B>AG>F|G2 G2:|
+|:G>Bd>g|”^NB”(e//f//g3/2) (e//f//g3/2)|D>FA>c|(B//c//d3/2) (B//c//d3/2)|
+G>Bd>g|(e//f//g3/2) (e//f//g3/2)|B>AG>F|G2G2:|
+
+X:20
+C:Page 10
+T:God Save the King. MBe.20
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:3/4
+L:1/8
+Q:1/2=60
+R:.Air
+N:Repeats were written after 6 bars and at the end. I have ignored them
+N:NB-These notes weren’t written dotted. I have made them dotted.
+K:D
+[V:1 name=”Primo”]d2 d2 ed|c3 d e2|f2 f2 g2|f3 e d2|
+[V:2 name=”Secundo”]d2 D2 F2|A3 B c2|d2 D2 B2|A3 G F2|
+[V:1 name=”Primo”]e2 d2 c2|{d}”^NB”d6|a2 a2 a2|a3 g f2|
+[V:2 name=”Secundo”](3(GAB)A2 A2|f6|f2 f2 f2|f3 e d2|
+[V:1 name=”Primo”]g2 g2 g2|g3 f e2|f2 gfed|f3 g a2|
+[V:2 name=”Secundo”]e2 e2 e2|e3 d A2|d2 edcB|A3 G2 F|
+[V:1 name=”Primo”](3(bag)~f2 ~e2|d6|]
+[V:2 name=”Secundo”]G2 F2 E2|”^NB”F6|]
+
+X:21
+C:Page 10
+T:Maggy Lowther. MBe.21
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Maggie Lauder,aka. MBe.21
+T:Maggie Laider,aka. MBe.21
+M:C
+L:1/8
+Q:1/4=60
+R:Air
+N:Someone has written in a different hand “Lauder” after the title.
+N:The Lowther family is the local landowner, but the title is probably a corruption of Lauder.
+N:It appears in Rev. Harrison as ‘Maggie Lawder with Variations’.
+K:D
+d>edf d>edf|”^NB”e>f g/f/e/d/ c2 e”qu’s in MS”f/g/|fddd “^NB”d>edg|”^NB”a>b “Qu’s in MS”a/b/a/g/ f2 a2|
+gagb fgfa|”^NB”e>f g/f/e/d/ c2 e2|d/c/B/A/ B/A/G/F/ G/F/E/D/ Eg|fg/a/ ef d2 D2:|
+
+X:22
+C:Page 11
+T:Johnny Cope. MBe.22
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Donald, Where’s your Troosers?aka. MBe.22
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:Well known Scottish song, though this version is quite different to the song’s normal air.
+K:Em
+G| “Em” EAA G/A/| “Em” BAAA| “G” DGG B/d/| “G” d/B/d/B/ G/A/B/G/|
+“Em” EAA G/A/| “D” BAAf| “D” edeg| “Em” BAA:|
+|:d| “Em” e>de>g| “Em” e>de>g| “G” d>Bdg| “G” d/B/G/B/ dg|
+“Em” e>de>g| “Em” gbge| “D” d>Ag>A| “Em” BAA:|
+
+X:23
+C:Page 11
+T:Haste to the Wedding. MBe.23
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Rural Felicity,aka. MBe.23
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+K:D
+AFA Ade|fde fdB|AFA AdF|GFF F3|
+AFA Ade|fde gdB|AFA faf”^barline added”|ded d2:|
+|:”^Crs in MS”f/g/|afa afa|bgb bgb|afa agg|gee “Qu in MS”e2f/g/|
+a3 f3|ede fdB|AFA faf|ded d2:|
+
+X:24
+T:Murphy Delany. MBe.24
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+C:in margin-‘Matthew Betham Towcett’
+K:G
+“G” GFG GFG| “D” GFG Bcd| “G” GFG GFG| “D” ABG FED|
+“G” GFG GFG| “D” GFG Bcd| “C” efg dcB| “D” ABA FED:|
+|: “Em” Bcd ded| “Em” ded dcB| “D” cde efe| “Em” efe edc|
+“Em” Bcd ded| “D” ded def| “C” gfe dcB| “D” ABG FED:|
+
+X:25
+T:Squeeze me Softly. MBe.25
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Haul Away the Hawser,aka. MBe.25
+T:Seymore’s Reel,aka. MBe.25
+T:Ladies Wattle,aka. MBe.25
+T:Tadie’s Wattle,aka. MBe.25
+T:Comely Jane Downing,aka. MBe.25
+M:C
+L:1/8
+Q:1/2=100
+R:.Reel
+C:in margin-‘M.Betham Towsett’
+N:NB-No time signature written. Common time assumed
+N:NB1-The E and the 2 G notes are written as a triplet. I have changed them to a crotchet and 2 quavers.
+N:NB2-The final G is written as a quaver. I have changed it to a crotchet.
+K:G
+G2 BG Bd e2|c2 ec “^NB1″egg2|G2 BG Bd d2|ecBA A2 G2:|
+|:g2 bg aedg|egfa gage|g2 bg afdf|egfa g2 g2|
+gbge fafd|egfe dBAG|cBcd efge|dgBG A2 “^NB2″G2:|
+
+X:26
+C:Page 13
+T:No 5 by Mr Ware. MBe.26
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=80
+R:.March
+N:NB-Bar line added
+K:D
+EA|d2 d>d dAFA|D2 D>D D2 cd|e2 e>e edcB|A2 A>A A2 FA|
+d2 d>d dAGF|E2 E>E E2 A2|Bdcd AGFE|D2 D>D D2:|
+|:fg”^NB”|a2 a>a agfe|d2 d>d d2 cd|e2 e>e edcB|A2 AA AGFE|
+DEFD EFGE|FGAF GABG|dcde fedc|d2 d>d d2:|
+
+X:27
+C:Page 13
+T:White Cockade. MBe.27
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:Well known in the district as a tune to play for Westmorland Style step dancing.
+N:Not the same as White Cockade MBe.43 on page 22
+K:G
+G/A/”^bar line added”|BB {c}BA/G/|BBBg|dB (c/B/A/G/)|FA AG/A/|
+(.B.B) (c/B/A/G/)|ABg>a|b/a/g/f/ e/f/g/e/|dBB:|
+|:B/c/|dB gB|ddd>e|{e}d{c}}B {f}gf/g/|aAA G/A/|
+(.B.B) (c/B/A/G/)|AB~g>a|b/a/g/f/ e/f/g/e/|dBB:|
+
+X:28
+T:O dear what can the matter be. MBe.28
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:NB-Symbol written like a volta bracket, but with no number
+K:G
+d3 d3|dBg dBG|c3 c3|cAc cBA|
+d3 d3|dBg dBG|EGc BcA|G3″^NB”:|
+|:d2|dBc dBc|dBg dBG|cAB cAB|cAB cBA|
+dBc dBc|dBg dBG|EGc BcA|G4:|
+
+X:29
+T:Mrs Mc.Leod. MBe.29
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=100
+R:.Reel
+K:G
+B|G2 g2 edeg|B>BB>A B2 c>A| G2 g2 edeg|A>AA>G A2 AB|
+G2 g2 edeg|A.AA>G B2 z “^cr in MS”d|efed e2 de/f/|g2 dB (c2 c):|
+|:B”^barline added”|GGBG dBBe|B>BB>A B2 Bg|GGBG dBBd|A>AA>G A3 B|
+GGBG dBBg|B>BB>A B2 cd|efed e2 de/f/|g2 dB (A2 A):|
+
+X:30
+T:Calder Fair. MBe.30
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Cawdor Fair, aka. MBe.30
+M:C|
+L:1/8
+Q:1/2=100
+R:.Reel
+K:D
+dcBA Bc/d/ “sic”E2|AAAF A2 AB/c/|dcBA Bc/d/ F2|EEFA B2 B:|
+|:c|d2 df dddf|eeed e2 ef|gfed dcBA|Bdce d2 d2:|
+
+X:31
+T:First of August. MBe.31
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Glorious First of August,aka. MBe.31
+T:Weaver’s March,aka. MBe.31
+T:Frisky Jenny,aka. MBe.31
+T:Come Jolly Bacchus,aka. MBe.31
+T:Charles of Sweden,aka. MBe.31
+M:C
+L:1/8
+Q:1/2=80
+R:.Reel
+C:in margin-‘M.B.’
+K:D
+d2|”^Key sig G in MS”ABAG F2 F2|GABG A2 A2|dedc B2 B2|g2 f2 e2 a2|
+ABAG F2 F2|GABG A2 A2|Bcdc cdeg|f2 e2 d2:|
+|:z2″^rest added”|fagf e2 dc|dfed c2 BA|dedc B2 B2|g2 f2 e2 a2|
+ABAG F2 F2|GABG A2 A2|Bcdc cdeg|f2 e2 d2:|
+
+X:32
+C:Page 16
+T:Lady Ann Hopes Reel. MBe.32
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+K:G
+“^cr.in MS”c|(B/c/d/B/) GB|EG DG|FA (A/B/A/G/)|”^Semi-qu’s in MS”FDDc|
+(B/c/d/B/) GB|EG DG|(e/f/g/e/) (f/g/a/f/)|gGG:|
+|:d|gbgd|gbgd|ea (a/b/a/g/)|fddd|
+gbgd|gbgd|egfa|gGGd|
+gbgd|gbgd|ea (a/b/a/g/)|fddg|
+bgaf|gedc|BgAf|gGG:|
+
+X:33
+C:Page 16
+T:Girl I Left Behind Me. MBe.33, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C|
+L:1/8
+Q:1/4=100
+R:.Reel
+K:G
+g|dcBA BGEF|GGGB d2 Bg|dcBA BGEF|EADF G2 G:|
+|:c|Bdef gdBG|Bdef g2 ge|dcBA BGEF|FADF G2 G:|
+
+X:34
+C:Page 17
+T:Lord Lowdens March. MBe.34
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:London March,aka. MBe.34
+M:C
+L:1/8
+Q:1/2=60
+R:.March
+C:in a different hand-‘William Docker Newby Head’
+K:D
+F2 F>F F2 E2|D>FA>d B2 A2|B>dA>d G>dF>d|EDEF E2 D>E|
+F2 F>F F2 E2|D>FB>d B2 A2|B>dA>d c2 d>e|gf e2 d4:|
+a>gf>g aag>f|e>fgg f3 e|ddde fffg|aag>f f2 e2|
+a>gf>g aag>f|e>fgg f3 e|ddde fffg|aag>f f2 e2|
+f2 f>f f2 e2|d>fA>d B2 A2|B>dA>d G>dF>d|EDEF E2 DE|
+F2 F>F F2 E2|D>FB>d B2 A2|B>dA>d c2 d>e|g2 f2 e2 d2|]
+
+X:35
+C:Page 17
+T:High Dance. MBe.35
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:The A part is on page 17, and the B part follows on page 18.
+K:G
+d|dgd ege|dBG G2 B|A2 B GDG|A2 B A2 d|
+dgd ege|dBG G2 B|A2 B GDG|A2 B G2:|
+|:d|{dg}} b2 g dBd|e2 g B3|cde G2 G|A2 B D2 d|
+{dg} b2 g dBd|e2 g B3|cde dBG|cAF!fermata!G2:|
+
+X:36
+C:Page 18
+T:My ain Kind Dearie. MBe.36
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Lea Rig, aka. MBe.36
+T:Lollipop Man,aka. MBe.36, The
+M:C
+L:1/8
+Q:1/4=100
+R:.Reel
+K:G
+B/A/|{G/A/} BD DE/F/ G>AGB|A>B c/B/A/G/ {G/A/} BE E”Qu’s in MS”B/A/|
+{F/A/} GD DE/F/ G>A G”Qu’s in MS”g/f/|e>d e/f/g/d/ BGG:|
+|:d|(e/d/e/f/) gB (c/B/c/d/) eG|A>B c/B/A/G/ “^NB”{G/A/} BE EB/A/|
+{G/A/} BD DE/F/ G>A G”Qu’s in MS”g/f/|e>d e/f/g/d/ BGG:|
+|:e/f/|(g/d/).B/.d/ (e/d/).B/.d/ (g/d/).B/.d/ (e/d/).B/.d/|\
+(g/f/).e/.d/ (c/B/).A/.G/ BA Ae/g/|
+(g/d/).B/.d/ (e/d/).B/.d/ (g/d/).B/.d/ (e/d/).B/.d/|e>d e/f/g/d/ BGG:|
+
+X:37
+C:Page 19
+T:London March. MBe.37, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Lord Lowden’s March,aka. MBe.37
+M:C
+L:1/8
+Q:1/2=60
+R:.March
+K:G
+B2 B>B B2 A2|G>A”^sic”d>g ~e2 d2|e>gd>g c>gB>g|A>GA>B A2 A>A|
+B2 B>B B2 ~A2|G>A”^sic”d>g ~e2 d2|e>gd>g c>fg>b| b2 a2 !fermata!g4″^Fine”:|
+|:d>cB>c d>dc>B|A>Bc>A ~B2 A2|G>GG>A B>BB>c|d>dc>B ~B2 A2|
+d>cB>c d>dc>B|A>Bc>A ~B2 A2|G>GG>A B>BB>c|d>dc>B B2 A>A”^D.C.”:|
+
+X:38
+C:Page 19
+T:Capt. Mackintosh’s Fancy. MBe.38
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Captain Macintosh, aka. MBe.38
+T:Captain McIntosh, aka. MBe.38
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+K:D
+A|d>ed>f|dAAA|d>ed>f|a3 f|
+bgge|affd|efge|dcBA|
+d>ed>f|dAAA|d>ed>f|a3 f|
+bgge|affd|geec|d2:|
+|:d|a>ba>b|geeg|g>ag>a|f3 d|
+(Ad/e/ fd)|B(e/f/ ge)|bgfe|dcBA|
+d>ed>f|dAAA|d>ed>f|a3 f|
+bgge|affd|geec|d2:|
+
+X:39
+T:Untitled. MBe.39
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:These 8 bars also appeared on page 18, and are assumed to be the B part of High Dance.
+K:G
+d|{dg}} b2 g dBd|e2 g B3|cde G2 G|A2 B D2 d|
+{dg} b2 g dBd|e2 g B3|cde dBG|cAF!fermata!G2:|
+
+X:40
+C:Page 20
+T:Willy Brew’d a Peck o’ Maut. MBe.40
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Miss Forbes’ Farewell to Banff,aka. MBe.40
+T:Bill Halls #2,aka. MBe.40
+M:C
+L:1/8
+Q:1/2=100
+R:.Reel
+K:G
+GA|B2 Bd cBAG|B2 d2 e2 g2|d2 de dBAG|B2 A2 A2 GA|
+BABd cBAG|B2 d2 e2 g2|d2 de dBAG|B2 G2 G2:|
+|:ef|gega gfed|efge edcB|c2 ce cBAG|B2 A2 A2 “crots in MS”G/A/|
+BABd cBAG|”^Qu’s in MS”B2 d2 e2 g2|”^NB3″d2 de cBAG|B2 G2 G2:|
+
+X:41
+C:Page 20
+T:Heel & Fling. MBe.41
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Highland Fling,aka? MBe.41
+M:Am
+L:1/8
+Q:1/2=100
+R:.Reel
+N:No time signature given, Common Time assumed.
+N:The A part, and the first 4 bars of the B part are on page 20, with the second 4 bars of the B part on
+N:page 21
+N:NB1-The first, second, and third bars of the B music are obviously incorrect as they only have 7 quavers
+N:instead of 8, but I’m leaving it to the player to interpret.
+N:NB2-This bar was written as 2 triplets. I have changed them to what you see here.
+K:C
+A2 AB G2 GB|A2 AB cdec|A2 AB G2 GB|cABG EA A2:|
+|:”^NB1-3 bars as written”cdeg fde|gedc BGG|cdeg fde|e2 a2 a2 g2|
+“^NB2″ge e2 fd d2|ec c2 BG G2|AcBd cedf|gedB cA A2:|
+
+X:42
+T:Weathercock Hornpipe. MBe.42
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C|
+L:1/8
+Q:1/2=90
+R:.Hornpipe
+N:At the top of the page is written in a different hand “Weather Cock Hornpipe Jane Betham Towcett Hall(?)”,
+N:though the H in Hall looks like a B.
+N:There is also some child’s scrawling at the top of the page which I can’t make out.
+N:The title is similar to a place name nearby called ‘Weathery Crook’ in Sleagill Parish.
+K:D
+AG|FGAF D2 d2|cdec dcBA|BddB ABAG|F2 E2 E2 AG|
+FGAF D2 d2|cdec dcBA|BcdB Agec|d2 d2 d2:|
+|:fg|afdA FADf|gfed e2 f2|gfed cdef|edcB A2 A/B/c|
+dBBd cAAc|BGGB AFdA|BcdB ABAG|A2 D2 D2:|
+
+X:43
+C:Page 22
+T:White Cockade. MBe.43, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:Well known in the district as a tune to play for Westmorland Style step dancing
+N:Not the same as the White Cockade MBe.27 on page 13
+K:G
+g|dB BA/G/|BBBg|dB BA/G/|BA AG/A/|
+BB BA/B/|{A}G”sic”G>ga|(b/a/g/f/) (a/g/f/e/)|dB BB:|
+|:c|{e}dBgB|ddde|{e}dc/B/ {a}~gf/g/|gA AG/A/|
+BB BA/B/|GGga|(b/a/g/f/) (a/g/f/e/)|dB BB:|
+
+X:44
+C:Page 22
+T:Leather Bottle. MBe.44, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/2=100
+R:.Reel
+W:The notes shown are as written, leaving them to the player to interpret.
+K:D
+“^As written”DFA|D2 FA|dfed|dcBA|dfdf|
+dfed|cABc|d2:|
+|:cd|ecA|ecA|gfed|cBAG|
+FGAB|Afed|cABc|d4:|
+
+X:45
+C:Page 23
+T:Hearts of Oak. MBe.45
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=100
+R:.Air
+K:D
+A2 d2 dd d2|fe d2 dB A2|A2 B2 Bc d2|e2 f2 ge f2|
+Bc d2 FG A2|Bc d2 FG A2|g2 f2 ed fa|Bd e2 ec A2||
+cd e2 cd e2|ag f2 de f2|dc BB c2 dB|AB AG FD G2|
+FD FG A2 fg|a2 A2 c2 d2|]
+
+X:46
+C:Page 23
+T:Irish Washerwoman. MBe.46, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+K:G
+e/d/|BGG DGG|BGB dcB|cAA EAA|cAc efg|
+BGG DGG|BGB dcB|cBc Adc|BGG G3:|
+|:g/a/|agg dgg|bgb c’ag|afd dfd|dfa agf
+egg dgg|cgg Bgg|cBc Adc|BGG G3:|
+
+X:47
+C:Page 24
+T:Go to the Devil and Shake Yourself. MBe.47
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:NB-The decoration in the first bar has been repeated here and then crossed out.
+K:D
+Add {d} dcB|ABA AFA|Add d2 e|fdB “Qu in MS”B2 A|
+Add “^NB” dcB|ABA AFA|dfd ege|fdd d2:|
+|:{fg}afd dcd|BGG G3|{ga}bge ede|cAA A3|
+Gdd dcB|ABA AFA|dfd ege|fdd d2:|
+
+X:48
+C:Page 24
+T:Moll in the Wood. MBe.48
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Moll in the Wad. MBe.48
+T:Moll in the Wadd, aka. MBe.48
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:in a different hand is ‘Wad’
+K:Dmix
+c|BAB G2 F|E2 F G2 A|BAB G2 B|AFD D2 c|
+BAB G2 F|E2 F G2 A|BcB dcB|AFD D2:|
+|:c|BGB d2 c|BGB d2 c|BGB dcB|AFD D2 c|
+BGB d2 c|BGB def|gfe dcB|AFD D2:|
+
+X:49
+T:Devil amangst the Taylors. MBe.49, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=100
+R:.Reel
+K:G
+d2|g2 dg g2 dg|g2 dg edcB|BeAe BeAe|ceAg fgaf|
+g2 dg g2 dg|g2 dg edcB|ecBA dBAG|D2 F2 G2:|
+|:d2|BdGd BdGd|BdGg edcB|ceAe ceAe|ceAg fgaf|
+BdGd BdGd|BdGg edcB|ecBA dBAG|D2 F2 G2:|
+
+X:50
+T:Richers Hornpipe. MBe.50
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Richie’s Hornpipe, aka. MBe.50
+M:C
+L:1/8
+Q:1/2=100
+R:.Hornpipe
+N:Similar to, but not the same as, Ricketts Hornpipe
+N:Virtually note for note the same as in the Harrison mss.
+K:D
+fg|afaf d2 ef|ecec A2 GF|GABc defg|ecAc e2 fg|
+afaf d2 ef|ecec A2 GF|G2 b2 afge|d2 d2 d2:|
+|:de|fdec B2 ga|b2 e2 e2 cd|ecdB A2 fg|a2 d2 d2A2|
+BcdB AFAF|BcdB AFAF|G2 b2 afge|d2 d2 d2:|
+
+X:51
+C:Page 26
+T:Paddy Whack. MBe.51
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:NB-The A part as written was only 7 bars. However, the tune is virtually note for note as that in
+N:OFarrell (Pocket Companion for the Irish or Union Pipes, vol. 1), c. 1805; pgs. 26-27, and I have
+N:taken the liberty of adding notes from that source to the end of bar 6 and the start of bar 7,
+N:to make 8 bars. The 6th bar was originally |ceg cAd| and the 7th bar BGG G2:| with no 8th bar.
+K:G
+D|GBd gfg|edc BAG|GBd eag|fdd def|
+gag fdB|ceg “^NB……………………………………….”dBG|\
+GBd cAd|BGG G2:|
+|:d/c/|BBB ceg|dBB c2 B|Bcd eag|fdd def|
+gag fdB|cec dBG|GBB cAd|BGG G2:|
+|:D|GBd Bdg|e/d/c/B/A/G/ AFD|dBB eca|fdd d2 g|
+b/a/g/a/b/g/ a/g/f/g/a/g/|g/f/e/f/g/e/ dBG|GBd cAF|BGG G2:|
+|:B/c/|dBB ecc|dc/B/A/G/ A2 G|dGG ea/b/a/g/|fdd def|
+ga/g/a/g/ fa/f/a/f/|eg/f/g/e/ dBG|GBd cAd|BGG G2:|
+
+X:52
+C:Page 27
+T:Bonny Westmorland. MBe.52
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=120
+R:.Reel
+C:’Matthew Botham’s Book 1815′
+N:At the foot of the page is written, in a similar hand, and someone has
+N:added in a different hand (in an attempt at clarifying the date?)
+N:NB1-These two notes are difficult to interpret. They look like a pair of semi-quavers with the
+N:first of the pair being A, and the second of the pair being higher, but there is no mark.
+N:Underneath this pair are two blobs, possibly indicating 2 F semi-quavers?
+N:NB2-Repeat marks written (and included here) but were they intended?
+N:Key sig as in MS, though C# implied in B part
+K:G
+ADFB| ADFG| BAFG| E2 E2|
+ADFB| ADFG| BEFG| D2 D2:|
+|: dA dB| dA FG| BAFG| E2 E2|
+dA dB| dA FG| BEAF| D2 D2|
+dfdB| dAFG| BFAE| FGBF|
+Afed| cdFG| AEAF| D2 D2:|
+
+X:53
+C:Page 27
+T:Bonny Cumberland. MBe.53
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=120
+R:.Reel
+N:At the foot of the page is written, in a similar hand, “Matthew Bethams Book 1815” and someone has
+N:added in a different hand (in an attempt at clarifying the date?) “? 1815”
+N:NB-As written, the A part has only 7 bars. I have added this 7th bar, to make the A part 4 bars repeated.
+N:Key sig as in MS, though C# implied in B part
+K:G
+AD “^Key sig as in MS”FD|AD Fd|AD FD|EFGB|
+AD FD|AD Fd|”^NB-bar added”AD FD|EFGB:|
+|:D2 dd|e/f/e/d/ cd|D2 dd|B/F/D EF|
+D2 dd|e/f/e/d/ cd|f/e/d/c/ dA|FDEF:|
+
+X:54
+C:Page 28
+T:Drunk at Night & Dry in the Morning. MBe.54
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Whistle and I’ll come to you, my lad,aka. MBe.54
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:Someone in a different hand has written alongside the title “Oh, whistle and I’ll come to you, my lad”
+N:The 14 bar B part is unusual, though another version from elsewhere has a 10 bar B part.
+N:NB-The middle note of the second triplet looks like a correction from an ‘e’ to an ‘f’.
+K:D
+d/e/|fdB AGF|Eee e2 d/e/|fdB AFA|Bdd d3:|
+|:A|dfa d”^NB”fa|dfa afe|dfa dfa|bee e2 f/e/|
+dfa dfa|(dfa a2) g|fdB AGF|Eee e2 d/e/|
+fdB AFA|Bdd d2 F|GA/G/A/G/ FA/F/A/F/|Eee e2 d/e/|
+fdB AFA|Bdd d3:|
+
+X:55
+C:Page 28
+T:Self. MBe.55, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Sylph,aka. MBe.55, The
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:Someone has written in a different hand alongside the title, “Sylph”
+N:Sylph is a mythological creature in the Western tradition, associated with invisible beings/Fairies etc
+N:A reference that may be of interest. “More than 40 members of [the] Lakeland Dialect Society attended the
+N:first meeting of the year, at Greenodd, near Ulverston. Miss Clara Boyle, of Ambleside, pressed for the
+N:inclusion of Cumbrian dances and eventually in 1932 the Westmorland Six Reel was accepted, however it was
+N:renamed ‘The Sylph.’ much to the disgust of a man from Bowness who wrote a letter of protest in dialect to
+N:The Westmorland Gazette” [the local weekly newspaper].
+K:D
+A|AFA dfa|agf e2 g|fag fed|cee e2 A|
+AFA dfa|agf e2 g|fad egA|edd d3:|
+|:g|fad’ d’c’b|bag f2 d|fad fad|cee e2 g|
+fad’ d’c’b|bag f2 d|fad egc|edd d3:|
+
+X:56
+C:Page 29
+T:Honey Moon. MBe.56
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=100
+R:.Reel
+N:Someone has written in a different hand alongside the title, “Honeymoon”
+N:NB-This ‘a’ could be a ‘g’
+K:G
+dggg gbbd’|c’bag fa d2|dggg gbbd’|c’ba”^NB”a g2 g2:|
+|:gd d2 efge|dBAG FA A2|gd d2 efgg|gc’ab g2 g2:|
+
+X:57
+C:Page 29
+T:Kitty of Coleraine. MBe.57
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=60
+R:.Jig
+N:Someone has written in a different hand, prior to the tune title, “Kitty of Coleraine”
+K:D
+A/G/|FAd dfa|e/f/g/f/e/d/ ceA|dfa dgb|b/a/g/f/e/d/ {f}e2 A/G/|
+FAd dfa|e/f/g/f/e/d/ ceA|dfa dgb|ABc d2:|
+|:f/g/|afd ecA|afd ecA|afd (f/e/d/c/B/A/)|Ea^g !fermata!a2 A/G/|
+FAd dfa|e/f/g/f/e/d/ ceA|dfa dgb|ABc d2:|
+
+X:58
+C:Page 30
+T:Celebrated South Downs Quickstep. MBe.58
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:There is no key signature written, and C sounds awful, so I have assumed D.
+N:NB1-These 4 pairs are written as a dotted crotchet and a quaver, not connected. Still doesn’t
+N:read well
+K:D
+A|d>Ad/ B/A/G/F/|g>fg/ f/e/d/c/|d/A/F/A/ G/B/A/G/|F/G/E/c/ d2:|
+|:A|”^NB1″A>B A/F/G/B/|”^NB1″A>B A/F/G/B/|A/B/d/e/ f/e/d/c/|d/c/d/f/ e3z|
+“^NB1″A>B A/F/G/B/|”^NB1″A>B A/F/G/B/|A/B/d/e/ f/e/d/c/|d f2 d:|
+
+X:59
+C:Page 30
+T:Newcastle Hornpipe. MBe.59
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Kirkgate Hornpipe,aka. MBe.59
+M:C
+L:1/8
+Q:1/2=100
+R:.Hornpipe
+N:Misses the modulation into D of most versions.
+K:D
+d’a|f2 f2 fgdc|d2 d2 defg|afaf bagf|fede dcBA|
+f2 f2 fagb|a2 a2 ac’d’a|gfed cdBG|A2 A2 A2:|
+|:ce|g2 g2 g2 ce|gfed dcBA|FAdf bc’d’b|aege dcBA|
+b2 b2 bc’d’b|afd’a fadf|egbg face|d2 dd d2:|
+
+X:60
+C:Page 31
+T:Wounded Hussar. MBe.60
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:3/4=30
+R:.Air
+N:NB-These 3 notes were written as a quaver and 2 semiquavers, but I’ve made them the same as the 5th bar.
+K:Am
+A/G/|”^NB”EAB c2 B/A/|B/c/d/c/B/A/ GAB|cec e/d/c/B/A/G/|EAA A2 A/G/|
+EAB c2 B/A/|B/c/d/c/B/A/ GAB|g>^fe dBA|EAA A2:|
+|:A/B/|cee e2 d/c/|Bdd d2 g/f/|e>ag !fermata!a2 b/c’/|eag a2 a/b/|
+c’ba gfe|e/d/c/B/g GGB/B/|cec e/d/c/B/A/G/|EAA A2:|
+
+X:61
+C:Page 31
+T:Soldiers Joy. MBe.61
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C|
+L:1/8
+Q:1/2=100
+R:.hornpipe
+N:Well known in the district as a tune to play for Westmorland Style step dancing
+K:D
+FG|AFDF AFDF|A2 d4 cB|AFDF AFDF|G2 E4 FG|
+AFDF AFDF|A2 d4 fg|afdf gece|d2 d4:|
+|:e2|fefg fagf|edcd efge|fefg fagf|edcB A2 e2|
+fefg fagf|edcd efge|afdf gece|d2 d4:|
+
+X:62
+C:Page 32
+T:Earl Moira’s Welcome to Scotland. MBe.62
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Loudon’s Bonnie Banks and Braes,aka. MBe.62
+M:C
+L:1/8
+Q:1/4=120
+R:.Reel
+N:Someone has written after the title, in another hand, “Loudon’s bonnie banks and Braes”
+N:NB4-The ‘g’ note is written as a quaver, not a semiquaver
+N:NB5-The ‘d’ note is written dotted, and I have removed it.
+K:G
+D2|:!segno! G<GG<G B<d-~d2|c>AB>G {F/G/} AGFD|G>GG>G B<d-~d2|e>g f/g/a/f/ g/a/b/a/ g<b:|
+fgb<g a>gfd|ee{f}g<e d>cBG|f<g~b<g agf(d|e)>”^NB4″g f/a/a/f/ g2 ga/b/|
+c'<ab>g ageg|e/d/c/B/ g>B c/B/A/G/ A>B|\
+G<GG<G (B<“^NB5″d) d2|f>g .f/.g/.a/.f/ a/g/f/e/ d/c/B/A/!D.S.!|]
+
+X:63
+C:Page 32
+T:Lady Caroline Lees Waltz. MBe.63
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:3/4=40
+R:.Waltz
+N:Someone has written at the bottom of the page, in a different hand,
+N:”cf Kitty of Coleraine”, to which it bears only a pssing resemblance in the first part.
+N:The third word in the tune title is difficult to interpret, but based on other collections
+N:(eg Thomas Sands)I have inferred it to be ‘Lees’, or even ‘Leigh’.
+N:NB-There is blob here so the ‘A’ note could be a ‘c’
+K:D
+D|F/G/AA|B/c/dd|E/F/GG|G2 F|\
+E/e/d/c/B/A/|dfa|ABc|d2:|
+|:f|a/f/ee|e/c/AA|a/f/dd|Adf|\
+a/f/ee|ecA|ABc|d2:|
+|:F/G/|AGF|dcd|BAB|G2E|\
+F>GA|”^NB”AGF|FEE|E2F/G/|
+AGF|dcd|BAB|G2E|\
+FGA|AGF|E E/D/E/F/|D2:|
+
+X:64
+C:Page 33
+T:Sweet Jessie the Flower of Dunblane. MBe.64
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=60
+R:.Air
+N:The title is not easy to interpret, and someone has written over the title in a different hand, “Jessie”
+N:Yes the B part is 13 bars long! The tune was written by R A Smith before 1816, to fit words by the Scots
+N:poet Robert Tannahill (1774-1810) written in 1808, and I suspect bars 9 – 13 in the B music were intended
+N:as a ‘fill’ between verses. As normally sung, there are no repeats.
+N:The song was widely sold on penny sheets, and can also be found in The Union Imperial Songbook, printed
+N:in Edinburgh in 1815.
+N:NB-These ‘d’ notes were written as crotchet’s. I have made them dotted.
+K:D
+d/e/|f>gf e>af|d>cd e/c>dB/|A>BG F>Ad|d>ef e2 d/e/|
+f>gf e>af|d>cd e/c>dB/|A>BG F>Ad|e>Bc d2:|
+|:f|f>de f>ba|f>de f>de|e>cd e>af|e>cB A2 A/d/|
+d>fe f>de|f>af g>ef|g>ab a>fd|e>Bc “^NB”d3|
+“^NB”d3 c>dB|”Qu’s in MS”ABG F2 A/d/|f>af g>ef|g>ab a>fd|e>Bc d3:|
+
+X:65
+C:Page 33
+T:Lady Montgomery’s Reel. MBe.65
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=100
+R:.Reel
+C:Colonel Hugh Montgomerie, 12th Earl of Eglintoun
+N:NB1-As well as the ‘d’ note being dotted, both notes are written as semiquavers.
+N:NB2-The 2 ‘d’ notes and the ‘A’ note are all written tied.
+N:NB3-The ‘f’ note is not written dotted.
+K:Em
+d2 d>A F>GAF|d2 “^NB1″d>B cdef|”^NB2″d2 d>A F>GAF|EeeB c>def:|
+|:d<dad f<d a2|d<ead f<ga>b|d<da>d f>da>d|g>fe>d c>de>f|
+dda>d “^NB3″f>d a2|d<dag f<ga>b|g>f g<e f<de>c|d>BA>F E>e e<f:|
+
+X:66
+C:Page 34
+T:Mr Gibson’s Favourite. MBe.66
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:No time signature given, 6/8 assumed
+N:No key signature given, and D assumed.
+N:NB-The G is written as a crotchet.
+K:D
+“No key sig in MS”A|d2 c e2 d|f2 e gec|d2 d dfd|B2 A B2 c|
+d2 c e2 d|f2 e gec|def gec|d3 d2:|
+|:A|FGA FGA|BGA Bcd|ege e2 d|cdB A2 “^NB”G|
+FGA FGA|BGA Bcd|efe cAc|d3 d2:|
+
+X:67
+C:Page 34
+T:Hopkinson’s Favourite Dance. MBe.67
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:Time signature was written as 2/4 but I’ve changed it to 6/8.
+N:NB1-This bar is as written
+W:No key sig in MS, Eminor assumed
+W:F major is at least as likely (ed.CGP)
+K:Em
+“No key sig in MS”A|:”_repeat mark added”dfd f2 d|\
+A2 F F2 A|dfd f2 d|”^sic NB1″g z2 e f2|
+dfd f2 d|A2 F FAd|f2 a agf|gfg e2 f:|
+|:d2 a agf|gab a2 f|d2 a agf|g2 e e2 f|
+d2 a agf|gab a2 f|bag agf|gfg e2 f:|
+
+X:68
+C:Page 34
+T:Miss Shuplands(?) Dance. MBe.68
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+C:Name partly (Shup) illegible
+N:NB-What could be the same hand has written “c” above the ‘c’ note
+N:The last 4 bars of the B part are continued on the top of page 35
+K:G
+(B/A/)|G2 D DED|DED D2 G|F2 G A2 B|cBA dBG|
+G2 D DED|DED D2 G|FGA cAF|G3 G2:|
+|:B/c/|d2 B d2 B|g2 e dBG|dcB d”^NB”cB|”sic”B2 A2 (Bc)|
+d2 B d2 B|g2 d g2 b|bag fge|”cr in MS”d3 d2:|
+
+X:69
+C:Page 35
+T:Calgarth Hornpipe,aka. MBe.69
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C|
+L:1/8
+Q:1/2=100
+R:.Hornpipe
+C:untitled in MS
+N:William Irwin has this tune as the Calgarth Hornpipe, but in the key of F
+N:Calgarth Hall is situated at Troutbeck Bridge on the shore of Windermere.
+N:NB-These ‘g’ notes are written dotted: I have undotted them.
+K:G
+dc|B2 G2 G2 AB|c2 A2 A2 dc|Bdgf edcB|A2 D2 D2 dc|
+B2 G2 G2 AB|cBcd efga|bc’ab fdef|g2 b2 “^NB”g2:|
+|:ga|bgdg Bgdg|bgdg c’bag|afdf Bfdf|afdf afef|
+egdg cgBg|ABcd efga|bd’ab fdef|g2 b2 “^NB”g2:|
+
+X:70
+C:Page 35
+T:Favourite Irish Air. MBe.70, A
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Garry Owen,aka. MBe.70
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:NB-Someone has written after the title, in another hand, “Garry Owen”
+K:Ador
+g/f/|(edc) (BAG)|(B>cA) Bge|(edc) (BAG)|A>AA A2g/f/|
+edc BAG|B>cB B2 d|cde g2 c|A>BA A2:|
+|:c|(B//c//d3/2)B (B//c//d3/2)B|(B//c//d3/2)B d2 g|\
+(c//d//e3/2)c (c//d//e3/2)c|(c//d//e3/2)c e2 f|
+g2 a b2 a|ge(e dBA)|(def) g2 B|A>BA A2:|
+
+X:71
+C:Page 36
+T:Mrs Harrisons Favourite. MBe.71
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+K:C
+g|g2 e e2 c|c3 G2 G|ABc cBA|GGG G2 g|
+g2 e e2 c|c3 G2 c|ABc dcB|ccc c2:|
+|:e|d2 G G2 e|d2 G G2 c|Bdg BcA|GGG G2 e|
+d2 G G2 e|d2 G G2 c|Bdg BcA|GGG GBd|
+g2 e e2 c|c3 B2 B|ABc cBA|GGG GBd|
+g2 e e2 c|c3 G2 G|ABc dcB|ccc c:|
+
+X:72
+C:Page 36
+T:Mrs Spiers. MBe.72
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:Key signature written as “D” but I’ve changed it to G as it sounds better.
+K:G
+d/c/|B2 B cBc|d2 Bg2 e|dBG GFG|AFD D2 d/c/|
+B2 B cBc|d2 Bg2 e|d2 B GAB|G3-G2:|
+|:F/G/|A2 A ABc|d2 B G2 G/F/|E2 E EFG|A2 F DFG|
+A2 A ABc|d2 B g2 e|dBG AGA|G3-G2:|
+
+X:73
+C:Page 37
+T:Whitehaven Volunteers. MBe.73
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:Someone in a different hand has wrote underneath the title “Whitehaven Volunteers”.
+N:See also a version in Rook from Wigton.
+N:Has similarities to Petronella, esp the A part.
+K:G
+d/c/|BB B/c/A/B/|GGGD|GBdB|e/d/c/B/ Ad/c/|
+BB B/c/A/B/|GGGD|EcAF|G2- G:|
+|:d/c/|Bdd e/f/|gd d/e/d/c/|BddB|A/G/A/B/ Ad/c/|
+Bdd e/f/|g/f/g/a/ gd|BG B/A/G/F/| G2 G:|
+
+X:74
+C:Page 37
+T:Lady Mary Ramseys Strathspey. MBe.74
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:Ador
+L:1/8
+Q:1/2=100
+R:.Reel
+C:Nathaniel Gow
+N:The exact position of many of the slurs is not clear: this is my best guess.
+K:G
+B|G3 e d<B B<~e|d<B e>c dB Bg|G3 e d<BB>e|e<F d>B A/A/A A:|
+|:g/a/|b<gg>b b<gg>b|g<ee>g (dBB) ~g>a|b<(gg>)b b<fg>d|e<g d>B A/A/A Ag/a/|
+(b<gg>b) (a<ff>a)|g>b(e>g) d<(BB>d)|g>(bf>a) e<gd>d|B<g d>B A/A/A A:|
+
+X:75
+C:Page 38
+T:Lady Harriet Hope’s Reel. MBe.75
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=80
+R:.Reel
+K:G
+GBdg edcB|”^Cr in MS”gbag aA A2|GBdg edcB|cAdB G/G/G G2:|
+|:(gdg)a (3(gab) ag|fdge adbd|gdga (3(gab) ag|dgfa g/g/g g2|
+gdga (3(gab) ag|agab c’bab|gedc Bdge|dBcA G/G/G G2:|
+
+X:76
+C:Page 38
+T:Bang-Upp Hornpipe. MBe.76
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Bang Up Hornpipe, aka. Mbe.76
+M:C
+L:1/8
+Q:1/2=100
+R:.Hornpipe
+N:No key signature written. C sounds very modal, and most versions seem to be in D, so that is assumed here.
+N:NB1-This ‘F’ was written as an ‘E’ which sounds wrong, and doesn’t match the ‘F’ in the 5th bar of the A
+N:part. I have therefore alteted it to an ‘F’.
+N:NB2-These two bars are both written with 4 quavers,and no repeat marks. I have altered them both to
+N:3 crotchets, but left the repeat marks out.
+K:D
+A/B/c/”^No key sig in MS”|dA”^NB1″FA DFAd|fdAd FAdf|gfge fefd|edcB ABcA|
+dAFA DFAd|fdAd FAdf|gfge face|”^NB2″d2 d2 d2 ||
+“^in MS”AG|FAdA FAdA|GBdB GBdB|Acec Acec|dfaf gecA|
+FAdA FAdA|GBdB GBdB|Aceg face|”^NB2″d2 d2 d2 |]
+
+X:77
+C:Page 39
+T:Hornpipe. MBe.77, A
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Hornpipe
+W:All notes shown are as written, leaving the player to interpret.
+N:Key signature clearly written as D, but G seems to makes more sense.
+K:D
+d/c/”^key sig should be G?”|BdGG B/G/|FADD d/c/|BdGG d2|e/g/f/a/ g/e/d/c/|
+BdGG B/G/|FADD d/c/|B/d/e/f/ g/d/e/c/|B2 GG:|
+|:ga|b b2 a/f/d/f/|a a2 g/f/e/d/|e/f/g/e/ a/g/f/g/|fdd ga|
+b b2 a/f/d/f/|a a2 g/f/e/d/|e/f/g/e/ d/e/c/d/|B2 GG:|
+|:B/c/|d/B/B/B/ G/B/B/B/|d/B/B/B/ G/B/B/B/|c/A/A/A/ F/A/A/A/|c/A/A/A/ F/A/A/A/|
+d/B/B/B/ e/c/c/c/|e/d/e/f/ g/f/g/a/|b/g/a/f/ g/e/d/c/|B2 GG:|
+
+X:78
+C:Page 39
+T:Fife Hunt. MBe.78, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=90
+R:.Reel
+C:William Gow
+K:C
+f|ec ~c2 GE ~E2|Dddc d2 df| ec ~c2 GE ~E2|DcBd c2 c:|
+|:”^cr in MS”f|ecgc acgc|Add^c d3 f|ecgc acgc|GcBd c2 cf|
+ecgc acgc|Add^c d2 df|egce fadB|(GcBd) c2 c:|
+
+X:79
+C:Page 40
+T:Chinese Dance. MBe.79, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:3/4
+L:1/8
+Q:3/4=50
+R:.waltz
+W:No key signature written, D assumed.
+N:No time signature written.
+K:D
+“^Qu in MS.no key sig in MS”A2|dcdfec|dfBecA|dcdfeg|fagbaf|
+dcdfec|dfBecA|dBGBAF|D2 d2″Fine”:|
+“Qu in MS”A2|AGABcA|dcdefd|gfgefd|ecAcBG|
+AGABcA|dcdefd|gfgefd|”^a3 in MS”a4″D.C.”|]
+
+X:80
+C:Page 40
+T:New Highland Man. MBe.80, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:NB-These two notes are written as semiquavers.
+K:D
+“as written”F/E/|DED FDF|ABc d2 e|fed B2 d|”sic”F/E/ E2 E F|
+DED FDF|ABc d2 e|fed B2 d|AF D D2:|
+|:d|fed faf|ede d2 F|GAB AdF|”sic”FE E2 F g|
+fed faf|ede d2 F|GAB GBA|FD D D2:|
+
+X:81
+C:Page 41
+T:Peace. MBe.81
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/4=120
+R:.Strathspey
+N:NB1-Not sure whether these notes have trills over them, or whether they are just splodges. I have assumed
+N:splodges, as the last bar of the B part has the same notes with no trills.
+K:Am
+(3(ABA) c>A e>Ac>A|(3(GAG) B>G B>GBG|(3(ABA) c>A e>Ac>A|”^NB1″[ce][Bd][Ac][GB] A2 A2:|
+|:(3(cdc) e>c g>cec|g>cec (3(GAG) BG|(3(cdc) e>c g>cec|[ce][Bd][Ac][GB] A2 A2:|
+
+X:82
+C:Page 41
+T:Scotch Quick Step. MBe.82
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:I’ve made a number changes between Crotchet, Quavers, and Semiquavers. The length of the note that was
+N:written is shown above the current note as Crot or Quav.
+K:D
+F|”^Key sig. G in MS”D>F A/B/A/F/|AddB|A/B/d/e/ fe/d/|eEEF|
+D>F A/B/A/F/|AddB|A/B/d/e/ f/g/e/f/|dDD:|
+|:d/e/|f/e/d/B/ A/B/d/”Crot”A/|BddF|GB A/G/F/”Quav”G/|Eee a/g/|
+f/e/d/f/ e/d/c/”Quav”e/|d/c/B/A/ B/A/G/”Quav”F/|”Quav”E/F/G/B/ A/G/F/E/|Ddd:|
+
+X:83
+C:Page 41
+T:Inness? Jigg. MBe.83
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:NB-All these crotchets were written dotted, and I have made them undotted.
+K:G
+D|GAG BAG|”^NB”d2 G”^NB”e2 g|edc BAG|EAA A2 B|
+GAG BAG|”^NB”d2 G”^NB”e2 G|gfe dec|BGG G2:|
+|:d|gdB GAG|DED GAG|edc BAG|EGA ~A “^NB”F2|
+gdB GAG|ecA FED|gfe dec|BGG G2:|
+
+X:84
+C:Page 42
+T:Perth Hunt – Scotch Jigg. MBe.84
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:4/4
+L:1/8
+Q:1/2=100
+R:.Reel
+N:No time signature written: I have assumed 4/4
+N:No key signature given, but C sounds wrong and other versions are in a major key, so D assumed.
+N:Many errors, but a common tune
+K:D
+B|”As written”A2 FA DAFA|DAFA BEEB|A2 FA DAFA|faeg gdd:|
+Q:1/4=100
+|:A|d2 (f/e/d/) a/d/f/d/|A/d/ (f/e/d/) b/(e/e/f/)|\
+d2 (f/e/d/) (a/d/) (f/e/d/)|(Ad) (c/d/e/) f/d/d/A/|
+d2 (f/e/d/) a/d/ (f/e/d/)|A/d/ (f/e/d/) b/e/e/f/|\
+d/f/B/d/ B/d/F/d/|ABde f/d/ d2:|
+
+X:85
+C:Page 42
+T:Lady of the Lake. MBe.85, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:The key signature is clearly written as ‘D’ though most versions are in ‘G’.
+N:NB-All these notes were written dotted, and I have undotted them.
+K:G
+d/c/|”^NB Key sig D in MS”B2 B BcA|”^NB”B2 c def|g2 f e2 d|dcB ABc|
+“^NB”B2 B BcA|”^NB”B2 c def|”^NB”g2 e “^NB”a2 g|fge d2:|
+|:B/A/|”^NB”G2 D “^NB”E2 D|”^NB”G2 D “^NB”E2 D|”^NB”G2 B AcB|dec BcA|
+“^NB”G2 D “^NB”E2 D|”^NB”G2 D “^NB”E2 D|”^NB”G2 A BcA|G2 G2:|
+
+X:86
+C:Page 43
+T:Morgiana in Scotland. MBe.86
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+K:D
+A|AFA f2 e|dcB A2 B|AFA dcd|fed e2 A|
+AFA f2 e|dcB A2 B|AFA dcd|edc d3:|
+|:c/d/|efe dcB|ABA g2 e|f2 A/A/ e2 A/A/|f2 A/A/ e2 A/A/|
+efe dcB|ABA g2 e|f2 A/A/ e2 A/A/|fed BAG|
+FDE F2 A|FDE F2 A|G2 B F2 A|FFF F2 A|
+FDE F2 A|FDE F2 A|B2 d c2 e|d3 d3:|
+
+X:87
+C:Page 43
+T:Morgiana in Ireland. MBe.87
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/16
+Q:3/8=100
+R:.Jig
+N:NB-I have added a rest here.
+K:G
+D4 D2 G4 G2|A2G2A2 B4 E2|D4 D2 G4 G2|B4 c2 B2G2E2|
+D4 D2 G4 G2|A2G2A2 B4 e2|e2d2c2 B2c2A2|G4 A2 B2G2E2:|
+|:d4 d2 d2c2B2|e4 f2 g6|d2c2d2 d2c2B2|e4 f2 g6|
+d4 d2 d2c2B2|e2f2e2 e2f2g2|d2e2c2 B2c2A2|G2F2G2 B2G2E2:|
+|:G2F2G2 Bd2 z3|A2G2A2 ce2 z3|G2F2G2 A4 B2|B4 c2 B2G2E2|
+G2F2G2 Bd2 z3|ce2 z3 Bd2 z3|dg2 z3 B2d2″^NB”z2|G4 A2 B2G2E2:|
+
+X:88
+C:Page 44
+T:Morgiana in Spain. MBe.88
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+K:D
+F2 G A2 d|F2 G A2 d|B2 B e2 d|ced cBA|
+F2 G A2 d|F2 G A2 d|B2 e cBc|d2 d d2!fine!:|
+f|e2 d c2 f|e2 d c2 f|e2 d c2 B|A2 A A2 f|
+e2 d c2 f|e2 d c2 f|efd cdB|ABG FGE!D.C.!|]
+\
+
+X:89
+C:Page 44
+T:Ulverstone Volunteers. MBe.89
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Ulverston Volunteers. MBe.89
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:Ulverston is a town some 46 miles to the west. It had 4 infantry companies of volunteers raised around
+N:1804, and were later disbanded between 1813 & 1816.
+K:G
+d|BGG dGG|e2 f g2 e|dGG eGG|FAA A2 d|
+BGG dGG|e2 f gfe|dBG AGA|BGG G2:|
+|:d|g2 d B2 G|efg dBG|ceB BdA|AGA A2 d|
+BGG dGG|e2 f gfe|dBG AGA|BGG G2:|
+
+X:90
+C:Page 44
+T:Off she goes. MBe.90
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:The last 3 bars of the B music are on the next page – ie page 45
+N:Someone has added, in another (modern) hand, something like “to Merrimashee”
+N:-which is an entirely different tune.
+K:D
+F2 A G2 B|ABc d3|F2 A G2 B|AFD E3|
+F2 A G2 B|ABc d3|def agf|edc d3:|
+|:faf d2 f|eae c2 e|faf d2 f|ecA A3|
+faf d2 f|eae c2 e|faf gec|d3 d3:|
+
+X:91
+C:Page 45
+T:Italian Monfrina. MBe.91, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:No time signature, 6/8 assumed.
+C:in margin “Matthew Betham Towcet”
+K:G
+“Cr”D|GAB BcA|AGG G2 d|dFF FGA|ABG G2 D|
+GAB BcA|AGG G2 G|FDF FGA|AGG G2:|
+|:”Cr”g|gfg afd|cBc d2 g|gfg afd|cBc d2 g|
+gfg gfg|ece efg|ded cBA|AGG G2:|
+
+X:92
+C:Page 45
+T:Mc Donalds Rant. MBe.92
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:Both the A part and the B part have only 7 bars each.
+N:No time signature given, and Have assumed 2/4.
+N:”Matthew Betham Towcet” is written at the foot of the page.
+K:C
+“^As written”d/c/|(B/c/d/) dB|(c/d/e/) ec|(B/c/d/) BG|FAAc|
+(B/c/d/) dB|(c/d/e/) e2|d/B/c/A/ G2:|
+|:d|gaba|dg b2|agbg|ea a2|
+gabg|dg e2|d/B/c/A/ G2:|
+
+X:93
+C:Page 46
+T:Miss McDonald’s Reel. MBe.93
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:No time signature given, and 2/4 assumed.
+N:As written, the B part has only 6 bars. I have shown this and then taken the liberty of showing a
+N:re-constructed B part by changing the semiquavers to quavers and moving the bar lines appropriately. This
+N:then gives an 8 bar B.
+K:Gmix
+“^As written”G|DGBG|dGBG|DGBG|cAAB|
+DGBG|dGBG|AGAB|G2 G2:|
+|:d|g/g/b/g/ d/d/ d|g/g/b/g/ e/e/ e|gbeg|dgBg|
+BABc|GG G2:|
+K:C
+“^Re-construction by H.T.”G|DGBG|dGBG|DGBG|cAAB|
+DGBG|dGBG|AGAB|G2 G2:|
+|:d|ggbg|dd d2|ggbg|ee e2|
+gbeg|dgBg|BABc|GG “Crot”G:|
+
+X:94
+C:Page 46
+T:New Dash. MBe.94, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:I have altered 2 crotchets to quavers and noted the changes in the abc.
+K:G
+D|GAG DcB|GAG FAD|GBG DcB|AcF G2:|
+|:F/G/|AFD BGE|cAA dBG|AFD BGE|cAF G2:|
+|:”^Cr”d|gfe dcB|cAA BGD|gfe dBB|cAF G2:|
+|:”^Cr”d|dBe c2 A|FDd c2 A|dBe c2 A|FDF G2:|
+
+X:95
+C:Page 46
+T:Seven Stars. MBe.95
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Moon and Seven Stars. MBe.95, The
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:NB-This note was written as a crotchet, and I’ve changed it to a dotted crotchet
+K:D
+d2 A A2 F|GAB A3|Bcd efg|fed cBA|
+d2 A A2 F|GAB A3|Bcd efg|ABc “^NB”d3:|
+|:e2 A A2 f|efa ~f3|efg fed|cde A3|
+BGB AFA|BGB AFA|Bcd cde|Adc d3:|
+
+X:96
+C:Page 47
+T:Bang Upp. MBe.96
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=120
+R:.Jig
+N:NB-These two notes d notes were written as a crotchet and a dotted crotchet. I have swapped them round.
+K:D
+A|d2 d f2 f|a2 a f2 d|g2 e f2 d|cde ABc|
+d2 d f2 f|a2 a f2 d|g2 e f2 d|cBA d2:|
+|:A|F2 A E2 A|F2 A d2 c|B2 d A2 d|G2 e cBA|
+F2 A E2 A|F2 A d2 c|Bcd ABc|”^NB”d3 d2:|
+|:A|f2 e d2 c|B2 A G2 F|G2 A B2 e|dcB A2 A|
+f2 e d2 c|B2 A G2 F|G2 B A2 F|GFE D3:|
+
+X:97
+C:Page 47
+T:Miss Jane Bruce’s Jigg. MBe.97
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+K:D
+A/G/|FAd dcd|Adf fef|afd afd|cee e2 A/G/|
+FAd dcd|Adf fef|afd gec|ddd d3:|
+|:f/g/|afd dcB|ABA A2 A|gab afd|cee e2 f/g/|
+afd cBe|dce a2 g|f/g/af gec|ddd d3:|
+
+X:98
+C:Page 48
+T:Salt Fish and Dumplins. MBe.98
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C
+L:1/8
+Q:1/2=100
+R:.Reel
+N:Someone has written in a different hand “Salt Fish” above the title, presumably to clarify.
+K:G
+B/A/|G3 A B3 c|d3 f dBAG|c3 e dcBG|FGAB A3 B|
+cBcd efge|dBAG {G} F2 ED|GBAc BdAc|B2 G2 G3:|
+|:ge|dBGB d3 e|dBGB d2 cB|cBcd efga|f2 d2 d2 cB|
+cBcd efge|dBAG {G} F2 ED|GBAc BdAc|B2 G2 G3:|
+
+X:99
+C:Page 48
+T:New Rigg’d Ship. MBe.99
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:I expected an ‘A’ note here, but a ‘G’ is written.
+K:D
+A|d2 d ~d2 f|d2 d ~d2 f|ecA A2 c|ecA ABc|
+d2 d d2 f|d2 d ecA|B>cd ecA|d3 d2:|
+|:f/g/|a2 f a2 f|d2 ~d dfa|b2 g b2 g|e2 ~e efg|
+a2 f a2 f|d2 d ec”^NB”G|B>cd ecA|d3 d2:|
+
+X:100
+C:Page 48
+T:Paddy Whack. MBe.100
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:See also a 4 part version of this tune on page 26
+N:The last 2 bars of the A part, and the B part are on page 49.
+N:Page 49 is torn, so the B part is incomplete.
+K:G
+D|GBd gfg|edc BAG|GBd gfg|fdd def|
+gfg fdB|cec dBG|GBd cAc|BGG G2:|
+|:d/c/|BBB ccc|dBA ~A2 G|Bcd efg|fdd def|
+gfg fdB|GBd:”>torn page”yyyy|
+
+X:101
+T:Horse and away at Newmarket. MBe.101
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+T:Horse and Away to Newmarket, aka. MBe.101
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:The page is torn and the music is incomplete.
+K:Ador
+g|edc BAB|GBG B2g|edc BAG|cAB c2g|edc BAG|GBG B2G|cde gdB|ABA c2:|\
+|:g”>page torn”:
+AAa f2g|GGc BBg|Ggd B2G|cde gdB|ABA c2:|\
+|:e|ggd eec|ddG B2G|ffd eec”>page torn”:
+cde gdB|ABA c2::e|dB/c/d dB/c/d|dB/c/d c2d|dB/c/d dcB|ABA c2e|dB/c/d dB/c/d|Gfe d”>page torn”:
+
+X:102
+T:Kiss my Lady. MBe.102
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+N:The page is torn and the music is incomplete. Key sig lost.
+K:None
+:”>page torn”yyyyd2 B3A|G2A d2e| g2e d2f/g/|abg fge|dcd B2A|G2Ad2e|f2d d2:|
+|:c’|d’2d f2d|d’2d f2d|c2e efe|\
+:”>page torn”yyyyd|A2d f2d|f3 d2:|
+|:g|fga b2b|f2a b2a|b2a g2f|ecA A2g|fga b2b|f2a b2a|b2a b2c’|d’2d d2:|
+
+X:103
+T:? Eye. MBe.103
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:4/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:The page is torn and the title and music are incomplete.
+K:D
+:”>page torn”yyy:ef dBBd|ABAF ABde|faef d2d:|
+|:g|fa a2 gb b2|agfe dB B2|fa a2 gb b2|d’c’ba b2b2|
+:”>page torn”yyy:ef dBBd|ABAF ABde|faef dd2:|
+
+X:104
+T:Recovery. MBe.104, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:2/4
+L:1/8
+Q:1/4=100
+R:.Reel
+N:There is no key signature, but I assume D as the A part ends on D, and D is the usual key for this tune.
+N:The page is torn and the title and music are incomplete.
+K:D
+Ad Ad|e/d/e/f/ e2|agec|d/c/d/e/ d2|\
+Ad Ad|e/d/e/f/ e2|agec|d2 d2:|\
+agec|d/c/d/e/”>page torn”:
+d/c/d/e/ dA|GG G/F/E/F/|D2D2:|\
+|:ff/f/ ff|f3g|fedc “^sic”d/c/d/e/|ee/e/ ee|\
+e3f|”^sic”edcB Aa|agec”>page torn”:
+
+X:105
+T:Bonniest Lass in all (?the world?). MBe.105, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:C|
+L:1/8
+Q:1/2=100
+R:.Reel
+N:The page is torn and the title and music are incomplete.
+N:Harrison has a tune “Bonniest Lass of aw the World”
+K:G
+GA|B2D2E2G2|”^As written”cBAG E2DE|GG gd|ecef|gfed efgB|cBAG E2DE|G2g2 decd:”>page torn”|
+df|gfed efge|agfe fgaf|gfga agab|e4 defa|bage defB|cBAG E2DE|G:”^page torn”|
+
+X:106
+T:12th of August. MBe.106, The
+S:Matthew Betham MS, Towcett Cumbria, 1815
+O:England;Cumbria;Towcett
+Z:VMP – Hugh Taylor, 2012
+M:6/8
+L:1/8
+Q:3/8=100
+R:.Jig
+C:in margin ‘Matthew Betham Towcett’
+N:The page is torn and the music is incomplete.
+N:Someone has written, possibly in the same hand, “Matthew Betham Towcett”.
+N:There is some other writing at the bottom of the page that I can’t interpret.
+K:G
+d|B2A B2A|GdB G2d|e2d e2f|gfe d2f|
+gfe dcB|edc BAG|G2F A2:”>page torn”yyyy|
+d|g2d e2d|efg d2d|g2d e2d|gfe d2d|
+g2d e2d|efg d2d|g2d a2d|b3:”>page torn”yyyy|
+
+X:2
+T: The Tip-Top
+R: polka
+M: 2/4
+L: 1/8
+K:Dmaj
+M: 4/4
+FG |A2 A2 A2 B2 | F2 F2 F2 DE | F2 F2 F2 A2 | E6 EF |
+G2 G2 G2 B2 | E2 E2 E2 EF | G2 G2 E2 A2 | D2 D2 D2 ||
+Bc |d2 B2 B2 Bc | d2 A2 A2 DE | F2 F2 E2 D2 | A2 A2 A2 Bc |
+d2 B2 BA Bc | d2 A2 A2 EF | GF GB A2 c2 | d2 d2 d2 |]
+K:GMaj
+Bc |d2 d2 ^cd e2 | B2 B2 B2 GA | B2 B2 Bc d2 | A6 AB |
+c2 c2 cd e2 | A2 A2 A2 AB | c2 c2 AB d2 | G6 ||
+ef |g2 e2 e2 ef | g2 d2 d2 GA | B2 B2 AB G2 | d6 ef |
+g2 e2 edef | g2 d2 d2 AB | cBAG F2 d2 | G6 |]

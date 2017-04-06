@@ -1,0 +1,5329 @@
+%abc
+%%abc-creator ABCexplorer 1.3.5 [16/04/2009]
+%%abc-alias Charles Fox, 1830, UK Beverley East Yorks, Kidson coll, Mitchell Lib, Glasgow
+%%abc-creator Gnome Editor (gedit)
+%%used under Ubuntu Linux [17/11/2008]
+%%abc-edited-by www.village-music-project.org.uk
+%Kidson Coll. M1805
+%VMP P J Headford, 2000
+%Revised 1/1/2005
+%Revised again 17/11/2008
+%Revised again 12/2009
+
+X:1
+T:Pinolara(?),La. CJF.001
+T:La Pinolara(?). CJF.001
+R:Hp 24
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Sounds a bit Hornpipey? .CGP.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=90
+K:G
+Bc|dBcA Ggfe|(ed).d.d d2cB|Aced cBAG|FGEF D2 Bc|!
+dBcA Ggfe|(ed).d.d dgfe|dBcA BGAF|G2B2 G2||!
+(cB)|(BA)A4Bc|(ed)(d2 d)gdB|(BA)A4Bc|(ed)d4ag|!
+(gb)(fa) (eg)(df)|(ce)(Bd) AcGB|A2A2 (AGAB)|G2B2 G2 Bc|!
+dBcA Ggfe|(ed).d.d d2cB|Aced cBAG|FGEF D2 Bc|!
+dBcA Ggfe|(ed).d.d dgfe|dBcA BGAF|G2B2 G2|]
+
+X:2
+T:Été (L’). CJF.002
+T:l’été. CJF.002
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Part of the Quadrille 1st set. CGP.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+dg|fd ee|d2ce|Bd Ac|BG dg|\
+fd ee|d2c/d/e/c/|Bd cA|G2||!
+|:Bd|e/^d/c/B/ e/f/g/a/|fB .b(b/g/)|.a(a/f/) .g(g/e/)|B2bb|\
+“tr”g2aa|”tr”f2a/g/f/g/|\eg f^d|e2:|!
+dg|fd ee|d2ce|Bd Ac|BG dg|\
+fd ee|d2c/d/e/c/|Bd cA|G2|]
+
+X:3
+T:Aline, L’. CJF.003
+T:L’ Aline. CJF.003
+T:Soldier Won’t You Marry Me, aka. CJF.003
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=60
+K:C
+(G/F/)|” $”\
+(EG).G.c|{d/}(c/B/c/d/) ee/f/|gceG|(A2GG/F/)|!
+” p”(EG)(Gc)|\{d/}(c/B/c/d/) ee/f/|.g(cd)(B|” Fine”c2)z||!
+e|” f”dcBc|{e/}d/^c/d/e/ dg|^fac’c’|b2ge|!
+” f”dcBc|d/^c/d/e/ dg|^f” f”c’af|g2z||!
+“p”(e|f)(^G=G)(e|f)(^G=G)e|dd d/c/B/A/|(A2G) (e|!
+f)(^G=G)(e|f)(^G=G)e|dd d/c/B/A/|(A2G)(B/A/|!
+G)(d/c/ B)(f/e/|e)a/g/ ff/(e/|\
+d)f/e/ d/c/B/A/|G/^F/G/F/ G/A/G/” $”=F/|]
+
+X:4
+T:I’ll gang nae mair to yon town. CJF.004
+R:Reel
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C|
+L:1/8
+Q:2/4=60
+K:G
+g|b/a/g/f/ gd(B2G)d|B(GdG) F.A.Ag|b/a/g/f/ .g.d(B2G)d|\
+(c/d/e) (Ac) (BG)G:|!
+|:d|(cG)(dG) (eG)(dG)|(BG)(dG) (e/d/)(c/B/) .A.c|\
+(BG)(dG) (cG)(dG)|(c/d/e) (Ac) (BG)G:|
+
+X:5
+T:petit tambour,La. CJF.005
+T:La petit tambour. CJF.005
+T:Grand Old Duke of York. CJF.005
+R:March
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:b10,14,20 have irregular time-values
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+” $”(f3/4e/4)|\
+.d.A .F.A|d3(c/d/)|.e.e.e.e|e3(d/e/)|!
+ffff|f2(a/g/).B/.e/|dd (c/d/e/c/)|d3:|!
+(d3/4c/4)|.B(Bcd)|(e7/4d/4)c (d3/4c/4)|.B(Bcd)|e2z/.e/.d/.c/|!
+.B(Bcd)|ee/e/ (ed3/4)d/|(dc3/4)c/4 (cB3/4)B/4|A2z/A/B/c/|!
+dd3/4d/4 dd|d2-d/.A/.c/.A/|.d.A .F.D|A3(A/B/c/4)|!
+dd3/4d/ dd|d3(e/f/)|(f/e/).d/.c/ (e/d/).c/.B/|” $”A3|]
+
+X:6
+T:Rosa. CJF.006
+R:March
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=70
+K:D
+” $”(a>f)f (b>c’d’)|\
+a>ff {g/}f>ed|a<ff b>c’d’|afd {f}e2d|!
+a<ff b>c’d’|a<ff f>ed|e2f g>ab|afd {f}e2d:|!
+{f/g/}a2d{g/a/}b2d|{f/g/}a2d (f>ed)|{f/g/}a2d{g/a/}b2d|afd {f}e2d|!
+{f/g/}a2d{g/a/}b2d|{f/g/}a2d (f>ed)|e2f g>ab|afd e2d:|!
+(d’a)a (d’b)b|(d’a)a {g/}fed|(d’aa) (d’bb)|afd {f/}e2d|!
+(d’a)a (d’b)b|(d’a)a {g/}fed|e2f g>ab|afd {f/}e2d:|
+
+X:7
+T:Mozarts Military Waltz. CJF.007
+R:Waltz
+C:Mozart
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:b 24,28,40,44 the beamed notes should perhaps be quintuplets. Repeats
+N:are as MS; playback is unpredicted.PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=50
+K:D
+“p”A2|\
+A2A2A2|A2A2A2|” f”(A6|d2)z2″ p”A2|A2A2A2|A2A2A2|\
+” f”(A6|e2)z2A2|!
+f2f2f2|g2e2c2|d2d2d2|d2c2B2|\
+A2d2f2|” f”a2g2e2|(e6|d2)z2|!
+|:A2|(dcdcdc)|(dcdcde)|f4d2|A4A2|!
+G4e2|dcBABc|d2d2f2|d2z2:|!
+” p”(df)|a2^gabaf|d4(ed)|cdefga|(g2f2)(df)|!
+g2^gabaf|\
+d4(ed)|ABcdef|d4|!
+|:” f”F2|f2(f>f)f2|f4e2|\
+d2c2B2|^A2c2F2|f2(f>f)f2|f4e2|d2c2B2|f4(df)|!
+a2^gabaf|d4(ed)|cdefga|(g2f2)(df)|!\
+a2^gabaf|d4(ed)|ABcdef|d4:|!
+|:A2|(f2d2).A2|(d2A2).F2|(G2e2).c2|(d2f2).A2|\
+(f2d2).A2|(G2e2).c2|d2z2:|!
+|:e2|e2d2c2|c2B2A2|(dc)d2e2|f4d2|\
+e2d2c2|c2B2A2|(de)f2e2|d4:|
+
+X:8
+T:Mr Grimstocks Waltz. CJF.008
+T:Poor Mary Lies A’Weeping, aka. CJF.008
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Unlikely to be by Grimstock. The title is difficult to make out. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+GB|\
+d4Bd|e4ge|dedcBA|B3G3 GB|d4Bd|e4ge|dedcBA|G4:|!
+|:g2|fa d2d2|gb d2d2|fa d2d2|g4GB|d4Bd|e4ge|dedcBA|G4:|!
+|:D2|GFGABc|d2B2B2|c2A2A2|B2G2D2|\
+GFGABc|d2B2B2|c2A2A2|G4:|
+
+X:9
+T:Beggar Girl,The. CJF.009
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:C
+” Andante”g>fe g>fe|\
+dcd e>fg|g>fe g>fe|dc{e}dc2g|!
+g>fe g>fe|dcd e(c/d/e/f/)|g>fe g>fe|dc{e}dc2z|!
+Gce Gdf|Gfe (dc)d|(Gc)_B Afe|(ed)cg2Hz|!
+g>fe g>fe|dcd efg|gfe abc’|!
+e>fdc2e/f/|g/e’/d’/c’/b/a/ (g/c’/b/a/g/f/)|e>fdc2|]
+
+X:10
+T:Waltz. CJF.010
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The lead notes to each section are as in MS. Perhaps trplets are
+N:intended. Last note of first section is quaver in MS.PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+(3A/B/c/|\
+(d2dAdf)|(d2dAdf)|{d}e2 {d}e2 {d}e2|!
+.c2(cAce)|.c2(cAce)|.c2(cAce)|d4:|!
+|:((3ABc)|.d2(dAdf)|.e2(efed)|.c2(cAce)|.d2.f2.a2|!
+.d2(dAdf)|.e2(efed)|.c2(cAce)|d4:|!
+|:A2|{(de)}f4e2|d4f2|(eg)(ce)(AF)|!
+(FAdefg)|f4e2|d4f2|c<e(g<e)c<e|d4:|!
+|:(3ABc|dcdefg|a2fafa|b2bc’d’b|a2fafa|!
+{a}g2egeg|{g}f2dfdf|{g}e2cecA|d4((3ABc)|!
+dcdefg|a2fafa|b2bc’d’b|a2faba|!
+{a}g2egag|f2d’c’ba|b2gece|d4:|
+
+X:11
+T:Trip to the Cottage. CJF.011
+R:Jig
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Penultimate note c has # faintly marked above.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+(B/c/)|\
+(dB).B (BG).G|(cA).A (AF).D|(DG).G (FA).A|(GB).BA2(B/c/)|!
+(dB).B (BG).G|(cA).A (AF).D|(DG).G (FA).A|(BG).GG2:|!
+|:d|(gf).ed2B|(ed).c (Bc).d|(ec).A (dB).G|(FA).FD2d|!
+(gf).ed2B|(ed).c (Bc).d|(ef).g (fe).d|(e” D Capo”d).cd2:|
+
+X:12
+T:Moss Roses. CJF.012
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Penultimate note c has # faintly marked above.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/8
+Q:1/4=80
+K:G
+“p”D|\
+G2G|BBB|d2g|”>”d3|d(Bd)|c3|(BGB)|A2″ f”D|!
+(G/F/G/A/B/c/)|dBB|d/B/(a/g/f/e/)|d2z|\
+(c/B/A/B)c|Bz”>”d|Az”>”d|G2z|!
+“p—–“d’/c’/b/a/g/f/|\
+d2g|gfg|a3|ac’a|bd’b|gfg|a2″mf”D|!
+(G/F/G/A/B/c/)|(d/B/G/B/)d|d/B/(a/g/f/e/)|\
+(d/” dol:”^c/e/d/=c/B/)|(c/B/A/B/c)|.Bz.d|.Azd|G2d|!
+.g.g.g|.b.b.b|d’2g’|”>”d’3|.d’.b.d’|”>”d3|.b.g.b|a2d|!
+” f”.g.g.g|g2b|bb/a/g/f/|e2z|”p”F3/4(GAB)|\
+(GBd)|(F/G/A/B/c/A/)|G2z|(A/F/”>”d/c/A/B/)|G2|]
+W:More usually played as a jig.
+
+X:13
+T:Rose Fragrante,La. CJF.013
+T:La Rose Fragrante. CJF.013
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:D
+“$”A2|\
+dFAd fAdf|a4d’4|cAce gceg|a4e’4|!
+dAdf adfa|d’4f’2d’a|\
+e’ee’e e’ed’e|d’2d’2d’2|!A2|d4e2f2|\
+fegf e2b2|b4a2g2|!
+gfag d2A2|d4e2f2|fegf e2g2|b4a2g2|!
+a^(gba a=gBc)|d4e2f2|fegf e2g2|\
+b4a2g2|gfaf d2A2|!
+d4e2f2|(fecb agfe)|(dfba ag” D.C. $”Bc)|(e4d2)|]
+
+X:14
+T:Waltz, A. CJF.014
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Reminiscent of the Copenhagen Waltz in its use of g<b etc.,
+N:but actually a quite different tune. CGP.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+d2|\
+g<be<gf<a|g<b d2 gf|ed e2f2|gagdef|!
+g<be<gf<a|gb d2 gf|ed e2f2|g4:|!
+|:b2e2g2|d3cB2|dg b2 ag|fabd’c’ba|\
+b2e2g2|d3cB|dg b2a2|g4:|!
+|:dB g2f2|ed c2B2|cA a2g2|fe d2e2|\
+gabc’d’2|gabc’d’2|g<be<gf<a|g4:|
+
+X:15
+T:Emperor of Austria’s Waltz. CJF.015
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Note at * a3/2 in MS, at NB d6 in MS..PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+” Allegro”A2|\
+d2D2 (df)|.a4(fd)|.c2.A2 (ce)|g4(ec)|.d2.D2 (df)|\
+.a4(fa)|(ag) .b.g(ec)|d4:|!
+|:A2|G2(bg).e2|F2(af)d2|.A2(ge).c2|(ed)(fd).A2|.G2(bg).e2|\
+.F2(af).d2|.E2(ge).c2|d4:|!
+|:A2|(DF)(Ad)(fa)|(d’a)(fd)(fa)|\
+(ge)(cA)(GE)|(FA)(df)”*”a2|!
+(DF)(Ad)(fa)|(d’a)(fd)(fa)|\
+(ge)(cA)(Bc)|” NB”d4:|!
+|:(fg)|(ba)(^ga)(d’a)|(ba)(^ga)(fd)|(cA)(ce)(gb)|\
+(ba)(^ga)(fg)|!
+(ba)(^ga)(d’b)|(ba)(^gb)(fd)|(cA)(ce)(ge)|d4:|!
+|:A2|(df)(Ad)(fd)|(fa)(df)(af)|(eg)(Ae)(ge)|(df)(Ad)(fd)|!
+(df)(Ad)(fd)|(fa)(df)(af)|(eg)(Ae)(ge)|d4:|
+
+X:16
+T:Bugle Waltz No.4. CJF.016
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Note * is d4 in MS.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+((3ABc)|\
+d2A2d2|d4de|f2d2f2|f4a2|d’4f2|a2f2d2|f2e2e2|\
+e4((3ABc)|!
+d2A2d2|d4de|f2d2f2|f4a2|d’4f2|a4A2|d2d2ef|d4:|!
+|:gf|f2e2e2|e4ag|g2f2f2|f4a2|b2c’2d’2|\
+a2g2f2|a4f2|e4((3ABc)|d2A2d2|!
+d4e2|f2d2f2|f4g2|a3bag|f3gfe|d2d2fe|d4:|!
+|:” Bugle Solo”A2|F2A2d2|f4e2|d2c2d2|c2B2^d2|\
+e2^d2e2|B2g2e2|d6|c4A2|!
+a4a2|a2g2f2|f2e2^d2|e2f2g2|f4f2|f2e2c2|e6|d4:|!
+|:a2|^gaba=ge|c3ABc|edcdfd|A4dc|B^defga|^abc’bge|!
+“*”d3 ced|d4a2|d’2f’2e’2|d’2c’2d’2|c’2b2^a2|\
+b2c’2d’2|a4{ga}fd|a2g2e2|e6|d4:|
+W:Note * is d4 in MS.
+
+X:17
+T:Waltz. CJF.017
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:C J Fox 1829 in margin. Marked “From J D.”
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+FG|\
+A2A2d2|B2B2e2|dcBABc|def2 FG|\
+A2A2d2|B2B2e2|dcBABc|d4:|!
+|:ef|g2g2f2|e2e2d2|cBABcd|e2e2 ef|\
+g2g2f2|e2e2d2|dcBABc|d4:|!
+|:a2|a4f2|f4d2|cdefe2|d2f2A2|\
+a4f2|f4d2|e2edef|d4:|!
+|:ed|c2c2e2|d2d2f2|e2e2g2|\
+f2f2a2|a4f2|f4d2|e2edef|d4:|
+
+X:18
+T:C’est L’Amour. CJF.018
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Charles James Fox?
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|\
+A2AA2A|A2AA2A|d2d dcd|(^d3e2)A|!
+A2AA2A|A2AA2A|e2e edc|d2z||!
+ABc|d2d ded|d2c (cd^d)|e2e efe|d2c ABc|!
+d2d ded|d2c cd^d|e2e eac|d3-d2||!
+A|g3(ef) .g|f3f2d|c2c cBc|d3d2A|!
+g3efg|f2f fed|c2c cBc|d3-d2|]
+
+X:19
+T:Beethoven’s Waltz. CJF.019
+R:Waltz
+C:Beethoven ?
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the MS last section, bar 3 is ^(c3A/ce) and
+N:bar 11 is d3B/^cc.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+B”p”|\
+d3ed2|.d2.d2.d2|(db)(ba)(ag)|(gf)(fe)(ed)|!
+c3dc2|.c2.c2.c2|(ca)(ag)(gf)|(fe)(ed)(dc)|!
+B2B4|(Bc^cd^d)e|A2A4|(Ae^d^cBA)|!
+B2B4|(Bc^cd^de)|A2A4|(AedcBA)|!
+.G2.A2.B2|.c2.A2.d2|” cresc:”G>GA>AB>B|c>cA>Ad>d|!
+((3zGg)((3zAa)((3zBb)|\
+((3zcc’)((3zAa)((3zdd’)|”8va——“GgfgdB|g4|!
+“p”A2|A3BA2|(Afgfed)|(d2^c2c2)|(^c3Acd)|!
+gfed^cB|A^GA^AB^G|(G2F2).F2|F4A2|!
+(d4^d2)|(efga)b2|d4e2|d3″ D. Capo”B^cc|]
+
+X:20
+T:Cytheria,La. CJF.020
+T:La Cytheria. CJF.020
+R:Quadrille
+C:C Nicholson
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the MS last section, bar 3 is ^(c3A/ce)
+N:and bar 11 is d3B/^cc. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:D
+c2″~”c2d2″~”d2|\
+f2″~”f2a4|(ag)e2 (gf)d2|c2(gf) edcB|!
+c2″~”c2d2″~”d2|f2″~”f2a4|(^gabc’) d’2g2|(b4a2)z2||!
+(a^g=gf) (edce)|d2f2 A2(AB)|(cd)ef (ga)bc’|(d’4a2)z2|!
+(a^g=gf) (edce)|(^AB)(^de) (fa)(ab)|\
+a2aa a2bc’|c’4” Fine”d’2z2|]
+
+X:21
+T:Saxe Coburg Waltz,The. CJF.021
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+A>G|\
+FAd2d2|Ad f2f2|e2egce|dfA2 AG|!
+FA d2d2|Ad f2f2|e2egce|d4:|!
+|:ed|cea2a2|fad2d2|BdeBge|d2c2 AG|!
+FA d2d2|Ad f2f2|e2egce|d4:|!
+|:A|f4e2|d2A2f2|e2A2g2|fefgag|!
+f4e2|d2A2f2|efgabc’|d’4|]
+
+X:22
+T:Waltz, A. CJF.022
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:I have added the final repeat sign – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+f>d|\
+A2A2 f>d|A2A2 af|e^defge|fdcedB|!
+A2A2 f>d|A2A2ef|(gfedce)|d4:|!
+|:(ef)|(gf).e.a(fd)|(ed).c(.ecA)|dcdefg|e2e2f2|!
+gececA|gdcecA|dcdfec|.d2.d2:|
+
+X:23
+T:New Tyrolese Waltz. CJF.023
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+“p”D2|\
+” Andantino”G>G B>B d>d|d>bg2 ((3Bd.g)|a2c’z ((3Acf)|\
+g2bz” f”D2|!
+G>G B>B d>d|d>bg2 ((3Bdg)|a2c’z ((3Ac.f)|g4:|!
+“p” ((3Bd.g)|((3Ac.f) a2 ((3Ac.f)| ((3Bd.g) b2 ((3B” f”d.g) |\
+((3Ac.f) a2 ((3Ac.f)| ((3Bd.g) b2D2|!
+“p”G>G B>B d>d|d>bg2 ((3Bd.g)|\
+a2c’z ((3Ac.f)|g4:|
+
+X:24
+T:Waltz. CJF.024
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+fe|\
+d2 dc d2|d’4f2|g2gab2|e4dc|!
+c2cBc2|a4((3gec)|dcdfec|d4:|!
+|:fe|dcdcdc|defgab|a^gagag|a4Bc|!
+dcdcdc|defgab|abc’d’e’c’|d’4:|!
+|:fg|a<d’ f<a d<f|A4f2|g<b e<g f<a|g<b e<g f<a|!
+a<d’ f<a d<f|A4f2|e<g c<e A<c|d4:|!
+|:f2|fgfgfg|fgfedc|B^ABcdc|B2f2f2|!
+fgfgfg|fgfedc|B^ABcdc|B4fg|!
+a<d’ f<a d<f|A4f2|g<b e<g f<a|g<b e<g f<a|!
+a<d’ f<a d<f|A4f2|e<g c<e A<c|d4:|
+
+X:25
+T:Waltz, A. CJF.025
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+GB|\
+(dgb).a.g.f|(eac’).b.a.g|(fad’).c’.b.a|(bgfagb)|!
+(dgb).a.g.f|(eac’).b.a.g|(fad’).^c’.=c’.a|g4:|!
+|:d2|(cdAdcd)|(BdgdBd)|(cdAdcd)|(Bdgd)b2|!
+(dgb).a.g.f|(egc’).b.a.g|(fad’).^c’.=c’.a|g4:|
+
+X:26
+T:Waltz. CJF.026
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+N:Marked “From J J”.
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+fe|\
+d2dAdf|d2dAdf|d2dAdf|f2e2 ed|!
+c2cAce|c2cAce|a3g ((3fge)|d4:|!
+|:ag|f2g2a2|b4gf|e2f2g2|a4fe|!
+d2e2f2|g4ed|c2cdec|d4:|!
+|:dc|B2(Bcde)|f2(fedc)|B2Bcde|f2F2F2|!
+B2(Bcde)|f2fedc|B2d2c2|B4:|!
+|:e2|e3dcB|A2ABcd|e3dcB|A4dc|!
+B2Bcde|f2fedc|B2d2c2″ D.C.”B4:|
+
+X:27
+T:Waltz. CJF.027
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=120
+K:D
+fe|\
+d2d2ag|f2f2d’c’|b2b2b2|b2z2(gf)|!
+e2e2e2|e4fg|a2fdec|d2z2:|!
+|:de|a2fdd’b|a2(fd)(eg)|gfed bg|f2e2fg|!
+a2fdd’b|a2fdeg|gfedec|d2z2:|!
+|:” Trio”a2|f2z2c’2|g2z2g2|e2z2a2|f2z2z2|\
+B2B2B2|g6|f2a2dc|d2z2:|!
+|:A2|dcdef^g|aaaa b^g|.a.a.a.a b^g|a6|!
+a^g=gfge|.d.d.d.d (ec)|.d.d.d.d (” D Capo”ec)|d2z2|]
+
+X:28
+T:Thorn,The. CJF.028
+R:Air
+C:”From J J”
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Marked “From J J”. The word ” Andante” appears before
+N:the first clef. the asterisked note was a2 in the MS.
+N:Written in the stave at the end of the tune is “C J FOX”.
+N:Sym short for symphony, meaning the instrumental “break”
+N:between verses..
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=60
+K:D
+“Sym:”FG|\
+” Andante”A2B>AA2Bc|d2A>G F<DzA|d2dc cBA^G|\
+A2a/e/a/e/ cAz”*”a|!
+b2b/g/b/g/ eczc|\
+a2a/f/a/f/ dBzB|g2e/c/e/c/ df AF|B/G/B/G/ E/C/E/C/D2||!
+“Song”F G|(A2{c})B> AA2B c|d2A> G F DzA|d2d c cB A ^G|\
+A6F G|!
+A2{c}B AA2B c|(df) A> G F DzA|(^Gd) d c cB A ^G|\
+A2a/e/a/e/ cAz2||!
+c2zAd2A A|e2A A ff2d|”Tenderly-“cB A G FG A B|F2E> DD2z2|!
+c2z{cB}Ad2A A|e2A a g fh (ad)|\
+(dc) e G FG A d|(d2f/e/) (d/c/)d2za|!
+“Sym:”b2b/g/b/g/ eczc|a2a/f/a/f/ dBzB|g2e/c/e/c/ df AF|\
+B/G/B/G/ e/c/e/c/d2|]
+
+X:29
+T:Rudolphe, Le. CJF.029
+R:Air
+C:C M Weber
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Presumably Carl Maria von Weber. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:G
+(Gd).d (^cd).d|\
+e2d (G/A/B/c/^c/e/)|d2=c (^cd).d|e2d (d/e/f/g/^g/a/)|!
+c’2b (bc’).^c’|(e’2d’) (gf).e|.d(AB) .c(ef)|(a3g) d”$”d||!
+(g2d)(e2d)|(b2a)(g2d)|g2g (ba).g|d’3(c’b).a|!
+(g2d)(e2d)|(b2a)g2^g|\
+(ba).b .c'(ef)|(a3″ Fine”g)||!
+dd|_e2df2d|a2fc’2a|\
+.e'(d’/c’/b/a/) (^g/a/)(c’/b/a/=g/)|\
+(f/g/a/g/f/e/) (d/e/d/c/B/c/)|!
+(Bd).g (Bd).g|fef gba|fba egf|dd'” D.C. $”^c’ =c’ba|]
+
+X:30
+T:Waltz. CJF.030
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the MS, each section ends d4. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+d2d’2c’2|d2b2a2|A2c2e2|dcded2|\
+d2d’2c’2|d2b2a2|A2c2e2|d6:|!
+|:a2b2b2|a2b2b2|abagfe|dcdefg|\
+a2b2b2|a2b2b2|abagfe|d6:|!
+|:Acecec|Bdfdfd|ABcdef|gfedcB|
+Acecec|Bdfdfd|Agfedc|d6:|
+
+X:31
+T:General Rutozoff’s Waltz. CJF.031
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+” Alegretto”FA|\
+.d2(dAdf)|.a2(afdf)|.e2(eg)(ce)|A4(Bc)|!
+d2(defd)|B2(efge)|(dc)(BA)(Bc)|d2z2:|!
+fe|e2″p”e2e2|ef^gae2|e2e2e2|e’4c’a|!
+” f”e2e2e2|(ef^gaec)|(BdfeB^G)A2z2 FA|!
+.d2″p”(dAdf)|.a2(afdf)|.e2(eg)(ce)|A4Bc|!
+.d2″ f”(defd)|B2(efge)|(dc)(BA)(Bc)|d4z2|]
+
+X:32
+T:Emperor of Russia’s Waltz. CJF.032
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:TS given as 3/8 in MS. The word “Andantino” precedes the tune. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+” Andantino”d2|\
+(g2″p”f2)g2|(d2b2)a2|(g” f”fa).g.f.e|d2d2d2|\
+(g2″p”f2).g2|(e2c’2).a2|f2″ f”(fe)(fd)|g4:|!
+|:b2|”mf”a2d’2(bg)|(af)d2(af)|(gfga).b.g|.a(d’^c’d’)d2|\
+(g2f2).g2|(e2c’2).a2|(fd).a.f.d.f|g4:|!
+|:d2|”p”d4B2|d2g2a2|b3(agf)|.e2e2e2|\
+d3(gfg)|e3(c’af)|d2e2f2|g4:|
+
+X:33
+T:Blink o’er the burn, my sweet laddie. CJF.033
+T:No.1. CJF.033
+R:Air
+C:J Smith
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The extra note at the start of section 3 is as in MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:G
+“p”d|”$”\
+d>ed dbg|e2cc2e|d>ed dbg|fg^ga2d|!
+d>ed dbg|ecB cde|dgb {b}aga|gdbHg2||!
+” ff”b|bag gfe|f2bb2b|bag c’af|^de^e fga|!
+bag gfe|=f2a c’af|gab ag^f|efg “>”fe” D.C.”d||!
+K:C
+g|” dol.”c’ba gfe|a2f dec|Bc^c def|ef^f gab|!
+c’ba gfe|dag fed|cBA GAB|(d3″$”c2)|]
+
+X:34
+T:I’d be a Butterfly. CJF.034
+T:No. 2. CJF.034
+R:Air
+C:T H Bayley Esq.
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On the stave at the end is “D. Capo” – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:D
+“$ ff”f4g2g2|\
+a2a2d4|d’4c’2b2|(b4a3)g|f4g2g2|a6b2|\
+(a2f2)(f2e2)|d2(fa) d’2z2h||!
+“p”e4e2e2|^g2f2e4|d’3b a^gfg|{b}a^gac’e4|!
+e4e2e2|^g2f2e4|bc’d’b ^gabg|a^gba =gfge|!
+f4agfg|a2a2d4|d’2c’d’ e’d’c’b|(b4a3)g|f4agfg|!
+a4b2c’d’|(ba) f2 (ag) e2|dA” f”^GA Bcd”$”e|]
+
+X:35
+T:Birds are singing sweet my Love,The. CJF.035
+T:No. 5. CJF.035
+R:Q’step song
+C:J Braham
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:A
+“$ p”e|\
+za2aa2a|a2AA2e|b2bb2b|b3-b2e|!
+(c’2b) (bag)|(gfe) (edc)|Bfe dcB|Acd efg|!
+” ff”a2aa2a|a2AA2e|b2bb2b|b3-b2e|!
+(c’2b) (bag)|(gfe) (edc)|Bfe dcB|AceH”H”a2||!
+c|f2ga2^e|f2aa2^a|bge Bc^d|egf egb|!
+d’3 c’d’c’|b3aba|gab agf|e3z2d|!
+c2aa2^d|e3-e2e|agb ac^d|(f3e2)e|!
+d’e’d’ c’d’c’|bc’b aba|gab agf|fe^d e”$ D C”fg|]
+
+X:36
+T:Scots come o’er the Border. CJF.036
+R:Jig
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On the stave at the end is “D Capo”. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+D3FA2|\
+d>fed2A|B=cBB2b|bag fed|!
+D3FA2|d>fed2A|B<dBA<FA|B<dFE2D:|!
+|:hf>ga afa|bag fed|f>ga bc’d’|d<gfe2d|!
+fga afa|d’c’g fed|d’c’b afa|b<d’fe2d:|
+
+X:37
+T:Oh povera me. CJF.037
+T:No.3. CJF.037
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+N:Marked “Amatuer”.
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:D
+“p”fg|\
+ad’-d’d’2d’|(d’2f) gab|(b2a)(a2b)|(gf^e) ffg|!
+a2d’d’2d’|d’2f gab|(b2a) age|d3-d2||!
+” ff”ef|(gfe) (gfe)|(edc) def|(gfe) (gfe)|efc dfg|!
+(a2d’) d’2d’|(d’2f) gab|(b2a) age|” D.C.”d3-d2||!
+d'” f”|c’bc’ d’f’d’|{f’}c’bc’d’3|\
+(d’c’b) a(d’a)|({a}gfe) fad’|!
+c’bc’ d’f’d’|{f’}c’bc’d’3|d'(c’b) a(d’a) |({a}” D.C. $”gfe)d2|]
+
+X:38
+T:Waltz. CJF.038
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+B2B2B2|BABcd2|dcA4|cBG4|\
+A2A2A2|A^GABc2|F2F2FA|G4:|!
+|:FA|d4^cd|Adfda2|(af).d.A(fd)|d^cc2Ac|\
+e3fge|bagfed|{d/}^c2A>ge>c|d4:|!
+|:d>c|BzBzBz|AzAzAz|G3ABG|A2d3c|\
+BzBzBz|AzAzAz|G3BAF|G4:|
+
+X:39
+T:Waltz. CJF.039
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The lead notes for section 2 & 3 are d in the MS, not d2,
+N:as required for scansion. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+” f”d2|\
+(gf) (ag) (ba)|(c’b)(ag)(fe)|(d>e) (e>f) (f>g)|
+g>b a>c’ gd|(gf) (ag) (ba)|c’bagfe|d2e2f2|g4:|!
+|:c2|”>”(b3a)gf|e4e2|(c’3b)ag|f4e2|\
+(d’3c’)ba|g3fed|d2e2f2|{B}g4:|!
+|:d2|”p”(d3e)dc|Bdgbd’b|c’a fd ef|gb .a.g.fe|\
+d3edc|Bdgbd’b|(c’a)(fd)(ef)|g4:|!
+|:d2|(d2c’)bc’b|d2(ba)(bg)|d2(a^g)(af)|(gb)(ag)(fe)|\
+d3edc|(Bd)(gb)(d’b)|(c’a)(fd)(ef)|g4:|
+
+X:40
+T:On this cold flinty Rock. CJF.040
+R:Air
+C:Braham
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:D
+A|\
+ddd dcd|{^d}e2ee2e|f>ff fga|e3-e2e|\
+edc cBe|ecf {e}d2c|fFd ce ^G|A3-A2A|!
+(BG)dd2B|AF dd2A|f>ef gB{f/}e|(d3c2)A|\
+(d/c/)(B/A/) (G/F/)E2A|d(c/d/e/f/)Hg2e|f>ed A>Bc|{e}d3z2|]
+
+X:41
+T:Fox . CJF.041
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Just “Quadrille” in MS – My title..CGP.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+d|\
+“$”d2Bd2g|b2ag2f|e2^de2a|c’2ba2g|\
+d2Bd2g|b2ag2f|e2de2f|g3g2||!
+d|d2Bb2a|gfed2B|dcA cBG|FG^GA2d|\
+dBgb2a|gfe bag|fed ^cBc|e3d2″$”||!
+B|e2^de2f|g2fe2f|g2eg2e|f2^dB2B|\
+e2^de2f|g2za3|b2af2g|eg” Da Capo”fe2|]
+
+X:42
+T:Waltz, A. CJF.042
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The introductory rest has been added.
+N:The asterisked note may be d4 in MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+z2|d3faf|b3ge2|ABcdeg|gfbaa2|\
+d3faf|b3ge2|cegece|d4:|!
+|:fa|agfgeg|gfefdf|agfgec|a3fdf|\
+agfgeg|gfefdf|fedfcA|d4:|!
+|:a2|ad’c’bag|f2a2 “*”d2|cegece|dfa4|\
+ad’c’bag|fad4|cegece|d4:|!
+|:d2|cegece|dfafdf|cegece|dfa4|\
+ad’c’bag|fad4|cegece|d4:|
+
+X:43
+T:Waltz of the 3rd Dragoon Guards. CJF.043
+T:3rd Dragoon Guards Waltz. CJF.043
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The MS has a repeat at the start of section 3 – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+(Bc).d2.d2|(dg)(dc).B.d|(dc) A2F2|GBd4|\
+(Bc).d2.d2|(dg)(dc).B.d|(dc) A2F2|(GB)G4:|!
+|:g2g2b2|a2a2c’2|(FA)(df) (ac’)|b2g2g2|\
+g2g2b2|a2a2c’2|(FA)(df) (af)|gbg4:|!
+(Bc)(dg)(fe)|(ed)d4|(AB)(ce).d.c|cBB4|\
+(Bc).d(gf).e|(ed)d4|(AB).c(ed).c|BAG4|!
+b2g2d2|c’4a2|(c’a)(af)(fd)|bggddB|\
+b2g2d2|c’4a2|(c’a)(af)(fd)|gbg4|]
+
+X:44
+T:Waltz. CJF.044
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+d2|(g2d2)b2|g4Bc|de(dcBA)|(B2G2).d2|\
+(g2d2).b2|g4fg|a(bagfe)|d4:|!
+|:a2|(c’a)(fa)c’2|(bg)egb2|abagfe|\
+d4d2|g2d2b2|g4Bc|dedcBA|G4:|!
+|:D2|G2B2B2|A4D2|A2c2c2|B3def|\
+g2d2B2|d2B2G2|D2DDD2|D4:|!
+|:d2|c’dc’dc’d|bdbdbd|fdfdfd|g2fed2|\
+c’dc’dc’d|bdbdbd|fdfdfd|g4:|
+
+X:45
+T:Waltz. CJF.045
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Only the first six triplets are marked as such in the MS.
+N:”C J Fox” is after the tune, on the stave – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+d>b|g2g2 d>b|g2g2 d>b|a2a2d’2|b2g2 d>b|!
+g2g2 d>b|g2g2 ((3dgb)|a2a2d’2|g4:|!
+|:a>b|c’>ba>bc’>a|b>ag>ab>g|a>gf>ga>f|g>ab>c’d’>b|!
+c’>ba>bc’>a|b>ag>ab>g|a>gf>ga>f|g4:|!
+|:d>bg2 ((3bd’b) ((3gbg)|d2 ((3bd’b) ((3gbg)|\
+a2 ((3d’e’d’) ((3c’ba)|b2g2 db|!
+g2 ((3bd’b) ((3gbg)|d2 ((3bd’b) ((3gbg)|\
+a2 ((3d’e’d’) ((3c’ba)|g4:|!
+|:a>b|((3c’af) ((3dfa) ((3c’af)|((3bgd) ((3Bdg) ((3bgd)|\
+((3afd) ((3Adf) ((3afd)|((3gdg) ((3bgb) ((3d’bg)|!
+((3c’af) ((3dfa) ((3c’af)|((3bgd) ((3Bdg) ((3bgd)|\
+((3adf) ((3ac’a) ((3c’bg)|({a2}g4:|
+
+X:46
+T:Di Tanti Palpita. CJF.046
+R:Air
+C:Rossini
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The triplets are no marked as such in the MS – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:G
+“mf”B4 B2B2|(B>A)(B>c) d2z2|((3cdc) ((3BcB) A2d2|\
+((3BcB) ((3ABA) G2z2|B4 B2B2|(B>A)(Bc) d2z2|\
+((3cdc) ((3BcB) A2d2|G6z2||!
+A4(^GA)(cA)|(F4D2)z2|G4B2d2|A4({cB}A2)z2|\
+A4(^GA)(cA)|(F4D2)z2|G4B2d2|A6^A2|]
+
+X:47
+T:Waltz, A. CJF.047
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:None of the triplets are marked as such in the MS. The
+N:asterisk marks where there is a bar line in the MS. Some
+N:triplets are beamed together, others aren’t, as indicated
+N:by deliberate use of spaces – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+dc|Bdgd b2|Bdgd b2|c’afd ef|gfga dc|\
+Bdgdb2|Bdgdb2|c’afdef|g4:|!
+|:ba|c’afdef|gfgbdB|ceBGFA|GB d2 bg|\
+c’afdef|gfgbdB|cedcBA|G4:|!
+|:dc|((3BGB) ((3dBd) ((3gdg)|((3bgb) ((3d’c’b) ((3agf)|\
+((3efg) ((3abc’) ((3ec’a)|g2f2 dc|((3BGB) ((3dBd) ((3gdg)|\
+((3bgb) ((3d’c’b)((3agf)|((3efg)((3abc’)”*” ((3def)|g4:|!
+|:bg|((3c’af) ((3dfa) ((3c’af)|\
+((3gbg) ((3gfe) ((3dec)|((3Bcd)((3efg) ((3ec’a)|g2f2 dc|\
+((3BGB) ((3dBd) ((3gdg)|((3bgb) ((3d’c’b)((3agf)|\
+((3efg)((3abc’) ((3def)|g4:|
+
+X:48
+T:Oh no we never mention her. CJF.048
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:G
+D2|G3F G2A2|B3B d2B2|A3^G A2c>B|G4z2D2|\
+G3F G2A2|B3B d2B2|A3^G “~”A2c>B|G4z2||!
+d2|d3F F2A2|A3G G3E|DG3 “~”G3A/B/|A4z2D2|\
+G3F G3A|B3B d2B2|” ad lib:”A2-A/c/f/e/ d3F|G4|]
+
+X:49
+T:Bell Quick Step,The. CJF.049
+R:March
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In bar 8 of 3rd section I think c’3 should be d’3 – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+g|fafd|fafd|cdef|ga/b/ ag|\
+fafd|fa d’>b|afef|d2d:|!
+|:d|d>e fb|af f(d’/b/)|af (g/f/).e/.d/|\
+(c/d/).e/.f/ ed|d>e fb|af d’>b|af ef|d2d:|!
+|:.d’|.c’.b.a.g|.f.e.d.d’|.c’.b.a.g|.f.e.d.f|\
+gb ec’|d’afd|gb dc’|c’3(d’/c’/)|!
+(b/a/)(f/e/) e(d’/b/)|(a/g/)(f/e/) d(d’/c’/)|\
+b/a/g/f/ ed’|a2a(d’/c’/)|!
+(b/a/)(g/f/) e(d’/b/)|a/g/f/e/ df|gbea|dd’c’b|agfe|fafd|
+cdef|g(a/b/) a>g|fafd|fa d’>b|afef|d2d:|
+
+X:50
+T:Kelvin Grove. CJF.050
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”The Shearing’s No’ For You” – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=60
+K:G
+“p”(G>A)|(B>dA>B) (GFED)|” Cres.”E2A2A2(G>A)|\
+(B>dA>B) (GFED)|E2G2G2:|!
+|:”p”(A>B)|(c>Bc>d)e2(B>c)|dBAGHA2(G>A)|\
+(B>dA>B) (GFED)|E2G2G2:|
+
+X:51
+T:King!God bless him,The. CJF.051
+R:Air
+C:Braham
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:D
+” f”A|d>cd fed|gBB B2B|A>BA dAf|e3a2A/A/|\
+f>”p”ed dcB|A^Gee2e|{A/}(aec) (fe^G)|\
+(Ace)a2″ f”A|!
+d>cd {A/}fed|gBBB2B|A>BA dAf|eaaa2A/A/|f>ed dcB|\
+A^Gee2e|{A/}(a/^g/f/e/d/c/) (fe)^G|A(c/A/)(e/c/)a2||!
+B”p”|Bc^d e>fg|A>Bcd2A/F/|EGB eg>e|\
+” ff” (dc) aa2″mf”A/A/|BAA eAA|f>ed {c}B2HB/B/|!
+c.dfa2c|eddd2a|fd ff2d|cB BB2HB/B/|A.dfa2c|eddd2|]
+
+X:52
+T:Cendrillon,La. CJF.052
+T:La Cendrillon. CJF.052
+R:march
+C:Caraffa
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+N:Cinderella in French.
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+“$”b2ag|fed2|g2ab|bc’a2|\
+c’2ba|gfe2|d2ef|a2gz:|!
+“tr”a2^ga|c’^ga2|b2=gb|a2d’2|\
+a2^ga|c’^ga2|b2=gb|a2d’2|!
+a2^ga|c’^ga2|_b2a_b|(ad’).d’.d’|\
+a2^ga|c’^ga2|_b2gb|ad’^c'”$”=c’|]
+
+X:53
+T:Duchesse,La. CJF.053
+T:La Duchesse. CJF.053
+T:Brunswick Quadrill No.1. CJF.053
+R:quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On page. CJF.029 appears a title –
+N:(No.s 1, 2, 3, & 5 From the Brunswick Quadrills);
+N:this tune appears to be one of these.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=90
+K:G
+“$”.d2(Bc) .d2.g2|.d2(Bc) .d2.g2|\
+(fg^ga =gfed)|(gdef gbd’g’)|\
+.d2(Bc) d2g2|(b2c’b agfe)|\
+d^dfe =dcBA|(GBdg) G2z2||!
+defg abc’^c’|d’=c’af d4|^cdfa cdfa|gabc’ d’bgd|\
+e2(c’b agfe)|d2(ba gfed)|e2ee a2a2|d4zcBc”$”||!
+K:C
+.c2EG c2(^fa)|.g2(EG c2)fa|.g2(eg c’gc’e’)|(d’c’ba gfed)|\
+.c2(EG c2)^fa|g2^g2a2b2|c’2e’d’ c’bag|^fedc ” D.C. $”BABc|]
+
+X:54
+T:Swiss Boy,The. CJF.054
+R:misc
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The letters “C J F” appear after the title
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=90
+K:D
+F>G|A2 F>G A2 F>G|A2 fe d2 A>A|A2 gf e2 fe|d6:|
+|:A2|G2 ed c2 A2|A2 fe d2 A2|\
+G2 ed c2 A2|A2 fe d2 F>G|!
+AG F>G AG F>G|A2 (fe) (dF) A>A|A2gf e2 f>e|d6:|
+
+X:55
+T:Innocent,L’. CJF.055
+T:L’Innocente. CJF.055
+T:Brunswick Qudrill No.2. CJF.055
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On page. CJF.029 appears a title –
+N:(No.s 1, 2, 3, & 5 From the Brunswick Quadrills);
+N:this tune appears to be one of these.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+(FAd) (FAd)|(FAd)f2c|(cegb2a)|(fad’f’2d’)|\
+(FAd) (FAd)|(FAd)f2d|e^ef gbc|e3d3||!
+” f”^deAa2g|fedd’2a|(^ga=g fed)|(ced cBA)|\
+(bd’b gdB)|(ad’b afd)|(ged cB^A)|B3-“~”B2=c|!
+” f”c^AF fec|dcB bfd|B^GE edB|cBA aec|\
+f2dg2d|a2db2_c’|agf fed|dcB ” D.C.”BAG|]
+
+X:56
+T:Poule (La). CJF.056
+T:La Poule. CJF.056
+T:Brunswick Quadrill No.2. CJF.056
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:F
+“$”c|caa egf|c3-c2d|c2Ac2A|c2BG2c|\
+caa egf|d3dcB|Acc BGE|(G3F2)” Fine”||!
+A|BGEc2B|Acfa2f|bgec2B|(cd)cc2A|\
+BGEc2B|Acfa2f|egb d’c’e|g3f2″$”||!
+A|d3f3|e3ge^c|dfa bge|d3^c2A|\
+d3f3|B3e2g|f2de2^c|d3″$”z2|]
+
+X:57
+T:Hibernie (L’). CJF.057
+T:L’Hibernie. CJF.057
+T:Brunswick Quadrill No.2. CJF.057
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On page. CJF.029 appears a title –
+N:(No.s 1, 2, 3, & 5 From the Brunswick Quadrills);
+N:this tune appears to be one of these.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+” f”D|dBd dBd|dBd (gab)|dBd dBd|dBd (FED)|!
+dBd dBd|dBd (gab)|dBd gdB|e2fg2h||!
+“p”d|Bgg {a/}gfg|bag bag|Bgg {a/}gfg|bag fed|!
+Bgg {a/}gfg|bag bag|c’ba bag|agf gfe|!
+” f”dBd {e/}dBd|{e/}dBd (gab)|\
+dBd {e/}dBd|{e/}dBd {G/}(FED)|!
+dBd {e/}dBd|{e/}dBd (gab)|dBd gdB|\
+eABc2^c|”sf”(ded) (dfd)|d(ad)c’2a|!
+“p”(bag) (bc’d’)|(adb) (afd)|”sf”(ded) (dfd)|\
+(dad)c’2a|(bag ge” p”^c)|(df” D Capo”e) ddd|]
+
+X:58
+T:Marie,La. CJF.058
+T:La Marie. CJF.058
+R:misc
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=100
+K:G
+(G/B/)|.d.d.d f/g/|d(^a/b/) g(^c’/d’/)|\
+bg (a/g/f/g/)|.a.a.a (G/B/)|\
+.d.d.d (f/g/)|d(^a/b/) g(^c’/d’/)|\
+b>g (f/g/a/f/)|gggh||!
+(d/e/)|.f.f.g.g|.a.b.a (f/g/)|\
+.a.a.b.b|c’/b/a/g/ f/e/d/c/|\
+BBcc|ddea|g>(b a/g/a/” D Capo”b/)|.g.g.g|]
+
+X:59
+T:Brunswick (La). CJF.059
+T:La Brunswick. CJF.059
+T:Brunswick Quadrill No.5. CJF.059
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The notes marked with asterisks are shown in the
+N:manuscript as chords with these notes and their upper
+N:octaves. On page CJF.029 appears a title –
+N:(No.s 1, 2, 3, & 5 From the Brunswick Quadrills);
+N:this tune appears to be one of these.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=90
+K:D
+” f”a2|d’3d’ a3a|(fgfe) f2d2|(gAag fAgf)|(e^def) (eabc’)|!
+d’3d’ a3a|(gfga bfge)|(dAdf)(agef)|(dfaf) d2h:|!
+|:”p”e2|^deae c3a|^gac’a e3c’|\
+(e’^d’=d’b ^gefg)|(ac’e’c’ aecA)|!
+^deae c3a|^gac’a e3c’|be^de =f^fg^g|{b}a^gab a2=g|!\
+f2 “*”f4 e’2|(d’e’f’e’ d’bfd)|e2 “*”e4 d’2|(c’d’e’d’ c’aec)|!
+A2 ((3ABc) d2 ((3Acd)|e2 ((3Ace) f2 ((3Adf)|\
+g4zAce|gfef gabc’|!
+” f”d’3d’ a3a|(fgfe) f2d2|(gAag fAgf)|(efg^g ab=c’^c’)|!
+” ff”d’3d’ a3a|(gfga bfge)|(dAdf agef)|(dfad’) d2F2|!
+“p”Bcd^A B2F2|Bcd^A B2G2|\
+^AB=c^c d^de^e|fc^ac F2f2|!
+gfeg fedf|edce dcBd|”sf”g3f edcB|(cdef” D.C.” gabc’)|]
+
+X:60
+T:Piocris,La. CJF.060
+T:La Piocris. CJF.060
+R:Quadrille
+C:C Nicholson
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+d2dd2d|(f2e)d2z|gfa({d’}c’2b)|(b2ag3)|!
+d2dd2d|(f2e)d3|(a3b2)^c|(e3d3)||!
+.d.e.f .g.a.b|(c’2a)(b2g)|(fe).d .g.a.b|^g3a2d|!
+(de).f (ga).b|.e.f.g .a.b.c’|(d’b).g (de).f|(a3g3)h||!
+(g3^d3)|e3.f.g.a|(gf).e (ba).g|(g3f3)|!
+(g3^d3)|(ef).g (ab).c’|(ba).g (fa).g|(f3″ D.C.”e3)|]
+
+X:61
+T:Marina,La. CJF.061
+T:La Marina. CJF.061
+R:Quadrille
+C:C Nicholson
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:1/4=120
+K:G
+d|(d>^c).d(e2f)|(g2ab3)|(ba).^g .a(ea)|(g3f2)e|\
+{e}(d>^cd)(e2f)|!
+g2ab3|1(ba).f (ag).^c|\
+e3d2:|2(df).e (de).f|a3g2||!
+d|f2ga2d|c’2ba2d|f2g eba|(g3f2)e|\
+{e}d^cde2f|g2ab3|.c'(ea) (ga).f|a3g2d|!
+b3f3-|fgag3|^d3(e^f).g|(d^c=c)B3|\
+e3^g3|a2bc’3|”~”(d^cd) “~”f3|g3-g2h|]
+
+X:62
+T:Quadrill. CJF.062
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:I have added a natural in bar 2 of the 2nd section,
+N:just before the second g in that bar. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=90
+K:G
+{e2}d^c|d2{e2}d^c d2{e2}d^c|d2g4dg|b3a gfed|d4c2c>B|!
+c2{d2}c>B c2{d2}c>B|c2f4d2|defg abc’f|a4g2||!
+d2|g4agfg|^gaba =gfed|fgag fgag|b4a2d2|!
+b3a gfed|e2c’b agfe|d2ed ^cdef|a4g2″ D.C.”||!
+B2BB G2G2|d6g2|g2g2f2e2|{e2}d6d2|\
+d4defg|a6d2|d2^d2 fecA|G4F4|!
+B2BB G2G2|d6g2|g2g2f2e2|{e2}d4z2d2|\
+d4defg|a4z2d2|dbgd dd’c’a|g2″ D.C.”b2g2|]
+
+X:63
+T:Quadrill. CJF.063
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The 1st bar is split in two with a bar line in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=90
+K:G
+bc’^c’d’2g|a2bg2g/g/|c’2c’ ac’b|a/g/f/e/d/c/ dfa|!
+bc’^c’d’2g|a2bg2g/g/|c’2g fd’f|a3g2||!
+A/A/|Aff fed|d^ccc2A/A/|Agg gfe|eddd2d/d/|!
+d’dd’ d’ed’|d’fd’ d’fd’|f’2f’ e’d’e’|d’c'” D.C.”e’ d’c’a||!
+B/B/|g2g gfe|e^ddd2b|c’2b^a2b|agfe2B|!
+g2g gfe|e^ddd2B|G2G GFE” D.C.”|B2B2|]
+
+X:64
+T:Pythia,La. CJF.064
+T:La Pythia. CJF.064
+R:Quadrille
+C:Berbiguier
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Last bar of 1st-time repeat – a2 was a4 in MS. All the
+N:bars between the asterisks have been added, according to
+N:instructions in the MS, from bars added at the end of the
+N:tune – “Play these notes at the beginning of the second
+N:part.” – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=100
+K:D
+“$”.f2.f2 (edcd)|e2e2a4|(gfed) (B2e2)|(d4{ed}c)(cde)|\
+.f2.f2 (edcd)|!
+e2e2d’4|1c’2c’2 babc’|b4a2z2:|2\
+f2f2 {f/}(edef)|e4d2″*”z2||!
+(^defe)c4|(^gaba)f4|g3ef3d|{f/}e>de>fe4″*”|!
+(^defe) c2e2|(^gaba) e2a2|c’bac’ ba^gb|a^gab a=gf” $”e|]
+
+X:65
+T:Cynthia,La. CJF.065
+T:La Cynthia. CJF.065
+R:Quadrille
+C:Berbiguier
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The asterisk note is e2 in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+“$”d/f/|a2a (ba).^g|(a3f2)d|e2e {e/f/}gfe|d3-dd’c’|\
+b2g gab|(a3f2)a|(eb).a (gf).e|d3-d2h||!
+e|(e3a2)”*”e|(e3c’2)c’|b2b {a}(^gf).g|a3-abc’|\
+d’2d’ d’c’d’|d’2c’ c’d’c’|b^ab d’b^g|a3″ $”a2||!
+K:G
+z|b3″~”g3{f/g/}|d3-d.B.c|(de).f (gd).B|(d3c)(ab)|\
+.c’ (fg) .a (AB)|c3-cc’b|(ab).c’ ” D Capo $”(de).f|(a3g2)|]
+
+X:66
+T:Quadrill. CJF.066
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:To get the tune sounding better, try putting a natural
+N:before the last d in bar 4. Also, try playing the sections
+N:ABAC etc. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+d2|{e}dcd {e}dcd|f3d2d|{e}dcd {e}dcd|^d3e2d|!\
+{e}dcd {e}dcd|f3d2d|b2a gfe|d2fd2||!
+d|ced cBA|d2fa2d|ced cBA|d2fA2d|\
+ced cBA|d2fa2a|^gbg efg|gfb” D.C.” age||!
+B|d2cB2^A|Bcde2f|gfe cfe|d2cB2c|\
+d2cB2^A|Bcde2f|ged cf^A|” D.C.”B3B2|]
+
+X:67
+T:Quadrill. CJF.067
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:ABC2Win does not cope with beaming triplets with a
+N:preceding note, but the ABC for this tune has been written
+N:as if it could. – PJ
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=100
+K:G
+((3ded)|B2((3ded) B2g2|b4g2 ((3cdc)|\
+A2((3cdc) A2f2|a4fdef|\
+gabc’ d’bgd|fegf agfe|dBcA BGAF|G2B2G2||!
+((3ded)|c2((3ABA) F2d2|B4G2 ((3ded)|\
+c2((3ABA) F2d2|B4G2 ((3ded)|!
+g2((3ded) a2((3ded)|bagf agfe|d^cAc eage|d4z2((3ded)|!
+c2((3ABA) F2d2|B4G2 ((3ded)|\
+c2((3ABA) F2d2|B4G2 ((3ded)|!
+g2((3ded) a2((3ded)|bagf agfe|d^cAc eage|d4z2|]
+
+X:68
+T:Quadrill. CJF.068
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Penultimate note should be A3. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+ef|g2c’ c’ba|g3e2c|d2de2e|g2f def|\
+g2″*”c’ c’ba|g3e2d|dfag2B|c3zh||!
+Bc|d2g ^fef|g2b d’2d’|d’c’b bag|g2^f c’af|\
+dedd2c’|b3ec’a|g2g ^fef|g3zef|!
+g2c’ c’ba|g3e2c|d2de2e|g2f def|\
+g2c’ c’ba|g3e2c|dfag2B|c3z||!
+ec|A2a^g2a|e2c ABc|d2ec2d|c2^G Eec|\
+A2a^g2a|e2cf2d|ecA dB” D.Capo”^G|A2A|]
+
+X:69
+T:Coryphee,La. CJF.069
+T:La Coryphee. CJF.069
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=100
+K:D
+A|(f2e) gBc|d3{e/}dcd|(Bef) (gfe)|(d3c2)A|\
+f2e gBc|d3dcd|B2g (bac)|d2fd2:|!
+|:A|(ece)a2g/e/|(fdf)a2f/a/|(g2e)(f2d)|(cd^d)e2A|\
+(ece)a2g/e/|(fdf)a2d’|(c’ba) (^ga” D Capo”b)|a2c’a2:|
+
+X:70
+T:Automne,L’. CJF.070
+T:L’ Automne. CJF.070
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=90
+K:D
+ag|f2a2e2a2|f2a2 d’2d’c’|b2ba g2gf|e2e2 e2ag|\
+f2a2e2a2|f2a2 d’2d’c’|bagf egec|d2d2d2h” Fine”||!
+gf|e2ef g2a2|f2a2 d2d’a|c’2c’a e’2e’c’|d’2d’2 a2gf|\
+e2ef g2ga|f2a2 d’2d’c’|bagf egec|d2d2d2||!
+F2|B2Bc {e}d2cB|f2f2 {g}f2ed|c2cc cdec|d2B2B2F2|\
+B2Bc {e}d2cB|f2ff {g}f2ef|gefd ecdB|A2c2f2b2|!
+B2a2 a2gf|g2ba gfed|c2ce a2e2|f2ag fedc|\
+B2c2d2e2|f6ge|fdec dBc^A|B4″ $”z2|]
+
+X:71
+T:Leporella,La. CJF.071
+T:La Leporella. CJF.071
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=90
+K:G
+“p”.g2.g.g .b.g.g2|d2dd g2dd|B2″ f”(Bc) (ed).d2|d2efg4|\
+g2″p”gg bgg2|d2dd gdd2|B2″ f”(Bc) (ed).d2|d2e” Fine”fg4||!
+” p”g2(ab) a2f2|(efga) f2d2|a2^g2=g2f2|(edef) d2d’2|\
+” f”a2(fb) (af)d’2|a2(fb) (gf)d’2|a2^g2=g2f2|(ed” D.C.”ef)d4|]
+
+X:72
+T:Virginie,La. CJF.072
+T:La Virginie. CJF.072
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=75
+K:D
+“$”(f>e)|(d>c)(d>c) (d>e)(f>g)|(^g>a)(b>a) A2 (=g>f)|\
+(e>d)(c>d) (B>e)(g>e)|(d4{ed} c2) f>e|!
+d>cd>c d>ef>g|^g>ab>a A2 ^g>f|e>dc>d B>eg>e|d2c2d2h||!
+AB|cdef gfed|cded cBAG|F>Ad>f E>GB>e|d4 {ed}c2 AB|!
+cdef gfed|c>de>d cBAG|F>Ad>f E>GB>e|d2c2d2||!
+F2|B4d4|f6ed|cdef gecB|ABcA F2F2|!
+B4d4|f6ed|cdef agec|” $”B6|]
+
+X:73
+T:Etrangére,L’. CJF.073
+T:L’ Etrangére. CJF.073
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:F
+c|(ca).a (ag).g|gff fga|(c’g).g (ba).f|a3g2c|\
+caa c’ee|gff fag|egf dfe|c3c2|!
+|:c|cbg {f/}edc|(c’2a) .f(fa)|.g(g_b) (af).c’|c’3g2c|\
+(cbg) {f/}edc|(c’2_a) ffg|_agf _d’c’=b|c’3c’2:|!
+c|.caa agg|(gf).g fga|(c’b).g (ba).f|(a3g2)c|\
+(dgf ec’e)|g3 {g/}fed|.c(fa b).d.e|(e3f2)h|]
+
+X:74
+T:Nightingale,The. CJF.074
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=60
+K:G
+D|”p”G>B AF|GBd2|G>B (B/A/).G/.F/|(G/A/).B/.c/d2|\
+BBc2|BBc2|BdcB|AAA:|!
+|:d|d3A|d3A|df (a/g/).f/.e/|ddd f|g3d|B3d|BGBd|ggg:|!
+|:c|.B.c.d.e|d^cdB|\
+ABcd|.c.B.c.A|.B.c.d.e|d^cdB|=ccAA|Ggg:|!
+|:(d/e/)|.d(d/e/) .d(d/e/)|.d(d/e/) .d(d/e/)|.d.d.d.d|\
+“~”d4|!
+(G/B/).d/.B/ (G/B/).d/.B/|(G/B/).d/.B/ (G/B/).d/.B/|\
+(c/A/).F/.A/ (c/A/).F/.A/|Ggg:|
+
+X:75
+T:Brighton Waltz. CJF.075
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”C J Fox” is on the stave at the end of the tune. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/8
+Q:1/8=120
+K:A
+(A/c/)|.e(ec)|.e(ec)|(ag).f|e2B/c/|\
+.d(dB)|.d(dB)|(edB)|A2:|!
+|:a|(gbd)|(ce)a|gbd|(ce) e|\
+.f(af)|.e(ae)|(e/f/).e/.d/(c/B/)|A2:|!
+|:e|(ec)a|fdB|GBe|dc B|.c(B/c/).e|.d(d/e/).f|\
+(e/a/)(e/c/)(d/B/)|A2:|
+
+X:76
+T:Waltz by W Allen. CJF.076
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On title line is “from Watson’s”. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+(3G”~”FG|g4(3G”~”FG|D4G2|(FG)(AB)(cd)|c2B2(3g”~”fg|\
+d2d2(3g”~”fg|e2e2 g2|fgabc’d’|g6:|!
+|:d2^c2=c2|c2B2G2|FGABcd|e2d2d2|\
+d2^c2=c2|c2B2G2|FGABcA|G4:|!
+|:{c2}d2{c2}d2{c2}d2|g4d2|b4g2|d4B2|\
+{c2}d2{c2}d2{c2}d2|B4G2|(DEFGAB)|G4:|
+
+X:77
+T:Waltz De Vauxhall. CJF.077
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=140
+K:D
+fg|aa^gaba|ff^efgf|f2eAdf|b2aAdf|\
+aa^gaba|ff^efgf|f2eAce|d4:|!
+|:cd|(fe).^d.e(cA)|(fe).^d.e(cA)|(ba).^g.a(ge)|\
+(ba).^g.a(ge)|(fe)^decA|fe^decA|ba^gage|d4:|
+
+X:78
+T:Quadrill. CJF.078
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On title line is “From Watson’s Book – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=110
+K:C
+G|”pia”e>dc dAB|c2A G2E|F>GA Gce|edd d2G|\
+” for”e>dc dAB|c2A G2E|F>GA Gce|ed” Fine”B c2h||!
+|:g|dBd G2g|ece G2g|f2f e2e|edd d2g|\
+dBd G2g|ece A2a|g^fe def|g3- g2:|
+
+X:79
+T:Cornwall’s Sett. CJF.079
+T:Miss Ellison’s. CJF.079
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Title line is “From Miss Ellison’s, Cornwall’s Sett.” The
+N:note marked with an asterisk is A2 in MS. On the stave at
+N:the end of the tune is “C J Fox 1829”. A second tune
+N:appears on this page, with no further title. See
+N:Cornwall’s Sett. CJF.080 – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+(G/A/)|B3-BAG|g3-gdB|Aed cBA|(^A3B) GA|\
+B3-BAG|g3-gdB|(Ae)d {d}cBA|G2BG2h||!
+(F/G/)|A3-A dc|B3-B ef|gfa ge^c|(ed)d d (FG)|\
+A3-“*”Ad^c|B3-B ef|agf ed^c|dgf ed=c”$”||!
+B|e2Bg2e|b3-bag|ac’b agf|gfge2B|\
+e2Bg2e|b3-b ag|ac’b agf|e2g edc|]
+
+X:80
+T:Cornwall’s Sett. CJF.080
+T:Miss Ellison’s. CJF.080
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:See notes on Cornwall’s Sett. CJF.079.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+D|G2AB2c|d3B2G|A2AE2A|F3DEF|\
+G2AB2c|d3B2g|e2a {g/}fef|g3-g2h||!
+d|ABAA2c|B2dg2g|{g/}fef def|g2b dBG|\
+FAFD2d|B2dg2g|fed ^cde|d3-d2^d|!
+e2e EF^G|A2Bc2e|d2d DEF|G2AB2d|\
+c2BA2G|F2GA2B|AdF AGE|DE^C DE” $”F|]
+
+X:81
+T:Tho’ Love is warm awhile. CJF.081
+R:Air
+C:Braham
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=60
+K:D
+” Andante”d2ef|A>FA2|B2(e/f/).g/.e/|(d2{e/d/}c)z|\
+d2ef|A>FA2|Be (d/c/)(B/A/)|”<“(A2d)z||!
+e2ee|e>cA2|f2g>f|f>dA2|A2df|a>fd2|\
+B>e {e/}d/c/ {c/}B/A/|(A2d)^d|!
+e2ee|^d/4e/4f/4e/4 (=d/4c/4d/4B/4)A2|f2g>f|\
+f/g/4f/4 e/4d/4c/4B/4A2|!
+a2fd|A{cB}Az2|”>”g>f (f/e/d/c/)|”>”(e2{f/e/}d2)|]
+
+X:82
+T:Quadrill from Manchester. CJF.082
+T:La Virginie. CJF.082
+T:Manchester Quadrille. CJF.082
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On title line is “From J.J’s Book”. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+c|”p”fd/f/ b/a/g/f/|ee/d/ ef|ag ee|gf d>e|!
+” for”fd/f/ b/a/g/f/|ee/d/ ef|agec|hd3:|!
+|:a|aea c’/b/|a/g/f/e/ ef/g/|a/g/b/a/ c’/b/d’/c’/|\
+c’2b>a|!
+aea c’/b/|a/g/f/e/ ea/g/|\
+f/d’/b/a/ g/a/b/g/|a3:|!
+|:f|”p”gfed|edeg|fede|f2df|!
+gfed|edeg|fage|d3:|
+
+X:83
+T:Marriage of Rosina – Finale. CJF.083
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=60
+K:D
+(A/G/)|F/G/F/E/ Dd|Be cA|B/A/B/c/ dB|AFGE|\
+F/G/F/E/ Dd|Be cA|df f/e/d/c/|d2zH||!
+(c/d/)|ec/c/ dB/B/|cA/A/ BG/G/|Ac Be|cA A c/d/|\
+ec dB|cA BG|Ac Ae|A2z||!
+d|.c.B .A.G|.F.E .D.d|c/c/ B/B/ A/A/ G/G/|\
+F/F/ E/E/ DF|GB Ec|d/c/d/e/ fA|Be d/c/B/A/|d2|]
+
+X:84
+T:Quadrill from Watson’s Book. CJF.084
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:A
+“$”e/d/|cAe dBe|cAa ecA|Bfe dcB|AGF Eed|!
+cAe dBe|cAa ecA|Bfe dcB|Ace A2||!
+g|fga bge|^def eBg|fga bge|ecf B2g|!
+fga bge|^def eBg|fga cf^d|egb e2″$”||!
+K:D
+A|fdA geA|fdA afd|Bgf fed|dcB Aag|!
+fdA geA|fdA afd|Bge cBc|” D Capo”dfe d2|]
+
+X:85
+T:Caller Herring. CJF.085
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C|
+L:1/8
+Q:2/4=60
+K:D
+“pia”A|d2d>dc2dz/e/|fB e>d cABc|d2d>dc2dz/e/|\
+fdecd3:|!
+|:d’|.c’.b.a.g .f.e.d.d’|.c’.b.a.g .f.e.d.d’|\
+.c’.b.a.g f(fga)|b>B e>d cABc|!
+d2d>d(c2d)z/e/|fB e>d cABc|d2d>dc2dz/e/|f>g e>dd2:|!
+|:a|d’2d’>d’c’2d’z/a/|(bagf) efg^g|\
+a2a>a^g2az/b/|c’>d’b>a a3f|!
+g2g>gf2gz/a/|bB e>d cABc|d2d>d(c2d)(b/g/)|f>g e>dd2:|
+
+X:86
+T:Carnival de Venise, Le. CJF.086
+T:Le Carnival de Venise. CJF.086
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=80
+K:A
+“$”e|f2ed2c|e2dB3|c2df2e|c3c2e|\
+a2ed2c|e2dB3|c2df2e|A3-” Fine”A2h:|!
+|:e|(ed)c (cB)A|G2Bd2B|f2e^d2e|(c3A2)e|\
+edc cBA|G2Bd2B|f2e^d2e|A3-A2″$”:|!
+K:D
+|:A|d2ef2g|(a3b2)a|^g2a=g2a|(f3d2)A|\
+d2ef2g|a3b2a|^g2a=g2e|d3-” $”d2|]
+
+X:87
+T:Matilda (La). CJF.087
+T:La Matilda. CJF.087
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The note asterisked is ^c2 in MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:F
+“$”c|f2a f2c|A2c B2c|A2c cBA|GGG G2c|\
+f2a f2c|c2d b2g|(f2e) (c’2e)|(g3 f2)h||!
+a|(b2g) efg|a2f fga|(g2c) (cde)|(f2c) (a2f)|\
+b2g efg|a2f fga|gc’e gfd|c2 {d/c/=B/}cdE”$”||!
+A|{G/}FED D2D|D2F A2F|d2A f2d|^c2e a2A|\
+{G/}FED d2A|f2d a2f|b2g e2″*”^c|d3″$”z2|]
+
+X:88
+T:deux amis, Les. CJF.088
+T:Les deux amis. CJF.088
+R:jig
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+” $”A|d3- dec|d3- dec|(a2^g )(a2g)|(ba).g (ag).e|\
+d3- dec|d3- dec|(ba).f (ag).e|d2″ Fine”f d2h||!
+c/d/|e2a c’2a|a2^g b2b|ba^g fed|(d3 c).A.A|\
+ABc def|ea^g baf|eac edB|B3 A||!
+K:F
+b/a/|a2f age|d3 Adf|(ag).g (gf).f|(fe).e e2a|\
+a2^c’ d’2f|(ag).g bag|fag fed|a3 A/c/=B/d/^c/” $”e/|]
+
+X:89
+T:Hurrah for the Bonnets O’ Blue. CJF.089
+R:Jig
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A/B/|d>ed fga|ABA ABc|d2b afd|e3zfe|\
+d>ed fga|ABAG2b|agf e>de|d3z2:|!
+d|cde efe|A3A2a|cde ef^g|a3a2g|\
+ffe dBc|d2ef2^a|bfe dec|B3B2c|!
+ded faf|d3d2G|deb afd|e3e2e|\
+ffe def|gabha2(d/4e/4f/4g/4a/4b/4)|\
+a>gf ede|d3d2|]
+
+X:90
+T:Lepine,La. CJF.090
+T:La Lepine. CJF.090
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=90
+K:G
+ded|\
+(^ab)g2zded|^abg2zgfg|efg^g abc’a|(g4 f) ded|!
+^abg2zded|(^ab)g2zgfg|efg^g abc’f|(a4 g)h||!
+aba|fa(d2 d)def|gbg2 gfe^d|(fe)(gf) (ag)(ba)|(g4 f)aba|!
+fa(d2 d)def|gbg2zfe^d|(fegb) d2^c2|(e4 d) “*”aba|!
+fa(d2 d)def|gb(g2 g)fe^d|fegf agba|(g4 f)aba|!
+fa(d2 d)fef|gb(g2 g)fe^d|fegb d2^c2|(e4″$”d)|]
+
+X:91
+T:Pantalon,La. CJF.091
+T:La Pantalon. CJF.091
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Title line says “From Watson’s Book” – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+g|”$”e3{g./}fed|c2B A2B|c2c d2d|eag dgf|\
+e3 {g/}fed|c2B A2B|c2c d2g|ced c2||!
+e|edc cBB|A2B (BA) e|edc cBA|GA^F G2e|\
+edc cBB|A2B (BA) e|edc cBA|GA^F G2″$”||!
+e|fed cBA|^GAB A2c|Bfe dcB|A3 ^Gze|\
+fed cBA|^GAB Ace|Bdf fe^G|(B3 ” D.C.”A2)|]
+
+X:92
+T:Quadrill from Watson’s Book. CJF.092
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|”$”d2f afd|{f/}e2cd2c|B>cd Adf|efg Bec|\
+d2f afd|{f/}e2cd2c|B>cd Adf|eBcd2||!
+f|e>f^g aee|{^g/}fee eae|e>f^g afe|dcBB2A|\
+e>f^g aee|{^g/}fee eae|e>f^g afe|dcBA2″$”||!
+f|f>gf f>gf|f^g^ab2f|{a/}g2ec2B|^ABcF2f|\
+f>gf f>gf|f^g^ab2=a|gfe dc^A|(” D.C.”c3B2)|]
+
+X:93
+T:Berri,La. CJF.093
+T:La Berri. CJF.093
+R:misc
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=90
+K:D
+((3AAA)|\
+A2Bc defg|a4 f2f2|g2e2 f2d2|(3efe (3dcB A2A2|!
+(B3A)(B3A)|(c3B)(d3c)|edfe gfed|(f4e2)h||!
+(3AAA|A2Bc defg|a4 f2f2|g2e2 f2d2|\
+(3efe (3dcB A2A2|!
+f4 fedc|Bcd^d efgb|dfba ^ga=ge|e4 d2||!
+(3AAA|A2 (3fg^g a2 (3AAA|\
+A2 (3^def g2 (3AAA|Afed bfge|(d4c2) (3AAA|!
+A2 (3fg^g a2 (3AAA|A2 (3^def g2 (3AAA|\
+(3cBA (3edc (3gfe (3bge|(e4″ $”d2)|]
+
+X:94
+T:Biondiana,La. CJF.094
+T:La Biondiana. CJF.094
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The note marked with an asterisk is ^c2 in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+dc|”p”B2B Bcd|e2dzdB|Aed cBA|A3B dc|\
+B2B Bcd|(e2d)zdB|Aed cBA|G3-G2||!
+d|d2″ cres”DD2d|(d3^c2)=c|c2DD2c|(c3B2)d|\
+d2″*”^cg2h^c|d3hd2(d/c/)|”p”B2B Bcd|\
+(e2d)zdB|Aed cBA|!
+(A3B) dc|B2B Bcd|e2dzdB|Aed cBA|G3G|]
+
+X:95
+T:Cherry Ripe. CJF.095
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C|
+L:1/8
+Q:2/4=60
+K:G
+B<dd2(ed)d2|d3g/a/g2f2|g3fe2d2|c(d/c/) B(c/B/)A2dz|!
+(B<d)d2(e<d)d2|g2bag2{ag}f2|\
+g3g (ag)(ec)|B<d cAG2z2||!
+d3dd3d|g3f{fg/f/}e2z2|A3(B/^c/)d2zd|cBfe^c4|a3fg3e|!
+d3(e/d/)A2z2|a3f{a}g3{f}e|d3(e/f/)A2z2|d3^c Bcde|!
+d3^chd2d”Sym:”e/f/ (g/a/b/c/’) (d’/c’/b/a/) (b/a/g/f/)g2e2c2A2″$”||!
+g3gf3(e/d/)|e3(ed)2z2|c3(d/c/)B2g2|A3(c/B/)A2z2|!
+f3f (fe)e2|g3g(g2f2)|g3g (ge) (cA)|Fedc{c}B2z2|\
+e3f (gf) (cB)|BAGFG2z2|!
+Bdd2ecce|e2(dc)(c2B)z|g3g agec|\
+B>d cAG2z2|g2fe edcB|HA2z2hd2z2|G6|]
+
+X:96
+T:Pleyel’s Rondo. CJF.096
+T:Rondo. CJF.096
+R:Rondo
+C:Pleyel
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”From Watson’s” is in title line – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=100
+K:G
+” Allegretto”{a}(gf/g/) (dd’).b.g|{g}(fe/f/) (dc’).a.f|\
+(gb).g.d(ea)|(Bd).g.B(Af)|(gf/g/) (db).g.d’|(fe/f/) (da).f.c’|!
+(bg).ea.(Af)|(Gg).d.BG2z2|(a^g/a/) (fdcA)|\
+(Gb)(Ac’)(Bd’)|(cc’).c’.a(ea)|g4f2|!
+{a}(gf/g/) (db).g.d’|(fe/f/)\
+(da).f.c’|(bg).e.a(Af)|g2z2(ge)|d2z2(ec)|B2z2(db)|!
+(ca)(Bg)(Af)|g2z2(ge)|d2z2(ec)|B2z2(db)|.c.a.B.g.A.f|hz6|!
+g(f/g/) dbgd’|f(e/f/) (da).f.c’|(bg).d.B(Aa)|g4f2|\
+g(f/g/) (db).g.d’|f(e/f/) (da).f.c’|!
+(bg).e.a(Af)|g6|(gd’).b.g(af)|g6|\
+(gd’).b.g(af)|(gd’).d’.d’ c'(b/c’/)|!
+.b.b.b.b a(g/a/)|(gd’).d’.d’ c'(b/c’/)|\
+.b.b.b.b a(g/a/)|.g(gb).g.d.B|(G2g2).g2|g6|]
+
+X:97
+T:From Johnson’s Book. CJF.097
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Marked “From J. Johnson’s Book”.
+N:Final note of 1st section is G not G2 in MS.
+N:There is no repeat sign in the last bar. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:G
+G|GBd d2G|Gce e2d|dcB ABc|c3 B2G|!
+GBd dcB|c/B/c/d/e/f/ gfe|dgB dcA|G3 G2:|!
+|:d|dc’b a2g|fa/g/f/e/ d/e/d/c/B/c/|dc’b a2g|\
+fa/g/f/e/ d/e/d/c/B/c/|!
+GBd d2G|\
+c/B/c/d/e/f/ gfe|dgb agf|a3 g2|]
+
+X:98
+T:German Waltz. CJF.098
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”From Watson’s” is in title line. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=120
+K:D
+A2|(A2f2).d2|A2(AB)A2|(A2g2).e2|A2(AB)A2|\
+(df)a2a2|b2b2(ge)|(dcBABc)|{e}d2z2:|!
+|:f2|(fefgfe)|.d2.B2z2|(f2^a2a2)|b4e2|\
+(e^defe=d)|.c2.A2z2|(e2^g2).g2|a4A2|!
+(A2f2)d2|A2(AB)A2|(A2g2).e2|(dcBc)A2|\
+(df)a4|(eg)b4|(abc’d’e’c’)|d’2z2:|!
+|:” dol:”a2|a3(bc’d’)|(d’c’bagf)|(a2g2)g2|e3(fg^g)|\
+a3(bc’d’)|(d’c’bagf)|(ag)e2e2|d2z2:|!
+|:” f”a2|_b2a2(^g|a2)e2(=g2|=f2)d2(^G2|A2)z2(df)|\
+“p”a3(bc’d’)|(d’c’bagf)|(ag)e2(ef)|d2z2:|
+
+X:99
+T:Waltz, A. CJF.099
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”From J.Johnson’s” is in title line.
+N:There are no triplets in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+(3abc’|d’c’d’c’d’a|fafafd|bgbgbd’|a4((3abc’)|\
+d’c’d’c’d’c’|fafafd|gfgece|d4:|!
+|:f2|e2e2 (ec)|d2d2 fd|g2g2 (ge)|a4f2|\
+e2e2 ec|f2f2 fd|g2g2 ec|d4:|!
+|:a2|d’afadf|fe^dege|dcecAc|dFAdfa|\
+d’afadf|fe^dege|dcecAc|d4:|
+
+X:100
+T:Waltz. CJF.100
+R:schot
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Title is Waltz and TS is 2/4 in MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=90
+K:G
+Bc|d2g2 fgaf|g2b2 d2^d2|e2c’b abag|fgfe dcBc|\
+d2g2 fgaf|g2b2 d2^d2|ecc’a g2f2|hg4 dcBc:|!
+dgfa gbgd|dcBc A3B|dfag fedc|B2G2 GBdg|\
+egfg agfg|dgfg agfg|ec’e’d’ c’d’c’b|agfe ” D.C.”dcBc|]
+
+X:101
+T:Waltz. CJF.101
+R:waltz
+C:”From J.Johnson.C J Fox 1829″
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”From J.Johnson.” is in title line. The 3rd note of 2nd
+N:bar was d2, not d1. No triplets are marked in the MS.
+N:Note marked * was d4. Last notes of 2nd & 3rd sections
+N:were G6 and e6 in MS. “C J Fox 1829” is written on the
+N:stave at the end. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+d>c|B>dg>fa>g|b>gdzB2|((3cde) ((3fga) b>d’|c’>ba>gf>e|\
+d>gf>ga>g|b>gdzB2|(3cec (3AcA D>F|G4:|!
+|:G2|FAGABc|B>d d3g|gfedcB|BA A3G|\
+FAGABc|B>d d3g|gfagfe|d^cc2=c2|!
+B>dg>fa>g|b>g “*”dzB2|((3cde) ((3fga) b>d’|\
+c’>ba>gf>e|d>gf>ga>g|b>gdzd2|(3cec B>AG>F|G4:|!
+|:ga|b3agf|fe e2g2|fa^dfBd|e^defga|\
+b3agf|fe e2g2|(3faf (3^dfd B>d|e4:|!
+|:Bc|{e}d6|f2g2e2|^c2d2d2|d4c|\
+.c.d.e.f.g.a|edc2B2|B6{cB}|A4Bc|!
+{e}d6|egfagfe|d2^c2=c2|B2A2c2|\
+Bdgfed|cBAedF|F4EF|G4|]
+W:This shows why waltzes are written in 3/4 nowadays.
+
+X:102
+T:There’s nae luck about the House. CJF.102
+T:Nae Guid Luck,with var., aka. CJF.102
+R:schot
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=100
+K:A
+g|a>f ec|.d.d dg|a>f ec|”~”B3g|\
+a>f ec|d>e fa|.e.d.c.B|A3h||!
+B|.c.c (cA)|.d.d (dB)|.c.c (cA)|B3A/B/|\
+.c.c (cA)|d>e fa|.e.d (cB)|A3A/B/|!
+L:1/16
+Q:1/4=100
+(cBcB c).ABc|(dcdc d).B.c.d|(ceag f).e.d.c|(c2B2).B2 AB|
+(cBcB c).A.B.c|d>cd>e f>ga>f|(e>fd>e c>d” D Capo”B>c)|A6|]
+
+X:103
+T:Kemmies awa’. CJF.103
+T:Hexham Races, aka. CJF.103
+R:Jig
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+B/A/|”$”(G>A).B .g.d.B|d2d(d2e)|G>AB .g.d.B|{A}A2AA2B|!
+G>AB .g.d.B|d>efg2f/e/|{e}d>cB {d}c>BA|G2GG2h||!
+f|(g2d) (ed).B|d>edd2f|g2d (ed)B|A2AA2f|!
+(g2d) (ed)B|defg2f/e/|d>cB c>BA|G2GG2″$”||!
+K:D
+d|c>de A>Bc|d>faa2b|(c’>ba) (g>fe)|(f>ga)e2d|!
+(c>de) (A>Bc)|(d>fa)a2d’|(c’>ba) (g>fe)|dec e” $”c|]
+
+X:104
+T:Bugle Waltz No.1. CJF.104
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:This is the first of four Bugle Waltzes. The title is “Four Bugle
+N:Waltzes from J. Johnson’s Copy”. The notes * are c3/2 in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+de|f2f2f2|f2g2e|d2{e}dc{e}dc|d4d2|e2e2e2|a3gfe|d2d2 e>c|d4:|!
+|:((3A>df)|a2d2d2|e3A/”*”cf/|a2d2d2|f3A/”*”cf/|\
+a2f2f2|g3ab2|a>ba>fg>e|d4:|!
+K:A
+|:d2|”Minore”e6|d2c2c2|a2g2f2|f4e2|c2dcdf|e2ecdB|A2AcBG|A4:|
+
+X:105
+T:Bugle Waltz No.2. CJF.105
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:See note on Bugle Waltz No. 1. CJF.056
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+((3ABc)|d2d2d2|f4d2|g4e2|c2A2 cd|\
+e2e2e2|g4b2|bagfge|d4:|!
+|:A2|g2Aceg|f2dfa2|gfgabc’|d’c’bagf|\
+g2Aceg|f2dfa2|b^abgec|d4:|!
+” Bugle Solo”A2|\
+|:A2F2d2|d2A2f2|f2e2d2|d2c2d2|\
+B2^d2e2|g2f2e2|d6{ed}|c4A2|!
+A2F2d2|d2A2 df|a3gfe|dcB AGF|G4B2|A3Bc2|c6|d4:|!
+|:a2|^gaba=ge|c3ABc|dcdefg|a4a2|\
+d’c’bagf|bagfed|cdecdB|A4((3ABc)|!
+d2{e}(dc)d2|e2{f}(ed)e2|f2fdba|a4g2|\
+f2fgf2|e2efe2|d2dfe2|d4:|
+
+X:106
+T:Bugle Waltz No.3. CJF.106
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:See note on Bugle Waltz No. 1. CJF.056.
+N:On the stave after the tune is “J Fox”.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+A2|d4f2|a2afd2|c2cea2|bagfge|\
+d4f2|a2afd2|ceagec|d4:|!
+|:cd|e3c’ba|a^g d’2b2|a^gaecA|cBB2 cd|\
+e3c’ba|^gbd’bge|aefdcB|A4:|!
+|:” Bugle Solo”A2|d4e2|d2c2c2|e4f2|e2d2d2|\
+dcdefg|a2f2d2|A3Bc2|d4:|!
+|:a2|ag e2e2|e3gce|df a2a2|ad’fadf|\
+ag e2e2|e3gce|dfafge|d4h:|
+
+X:107
+T:Waltz of the East York Militia. CJF.107
+T:Bugle Waltz No.4. CJF.107
+T:East York Militia Waltz. CJF.107
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:See note on Bugle Waltz No. 1. CJF.056. I believe this is
+N:the fouth waltz in that set. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+A2|d2(fe)d2|d2a2f2|e2(edeg)|f2d2A2|\
+d2(fe)d2|d2a2f2|e2(edef)|d4:|!
+|:d’c’|b2a2 d’c’|b2a2 d’c’|(bababc’)|d’2a2 d’c’|\
+b2a2 d’c’|b2a2 d’c’|.b.a.g.f.e.d|a2agfe|!
+d2(fe)d2|d2a2f2|e2(edeg)|f2d2A2|\
+d2(fe)d2|d2a2f2|e2edef|d4:|!
+|:(af)|(df) A2 (af)|(df) A2 (dc)|BABABc|d2A2 (af)|\
+(df) A2 (af)|(df) A2 (dB)|(ce) cA B^G|A” D.C.”bagfe|]
+
+X:108
+T:Campbells are coming,The. CJF.108
+R:Jig
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+A|B2g dBG|B>cB B2A|B2g dBG|A>BA A2G|!
+B2g dBG|B>cB gba|geg dBG|B>cB B2:|!
+|:d|g>ag gab|d>ed dBG|g>ag gab|gee e2d|!
+def gfe|def gba|geg dBG|B>cB B2:|
+
+X:109
+T:Cottage Waltz,The. CJF.109
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/8
+Q:1/8=120
+K:C
+G|ccG|\
+e2c|AcA|G2d/e/|ffd|eec|dBG|c2:|!
+|:G|G(ec)|G(fd)|G(ge)|d2G|\
+cc/d/e/c/|AA/B/c/A/|GAB|c2|]
+
+X:110
+T:Polish Waltz,The. CJF.110
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:TS is given as 3/8 in MS. “C J Fox”
+N:follows tune, on the stave. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/8
+Q:1/8=170
+K:G
+G>B B3d|c>BA3G|FAcAfc|Bdg4|\
+G>AB3d|c>BA3G|FAcAed|G2G2:|!
+|:B.cd2d2|B>cd2d2|edefge|edd4|\
+BcdBed|cBA2AG|FGADEF|G2G2:|
+
+X:111
+T:Queen of Prussia’s Waltz. CJF.111
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 200
+M:3/4
+L:1/8
+Q:1/4=120
+K:C
+“p”c2|{B}” Allegro”c2{B}c2{B}c2|{B}c2{B}c2″mf”.g2|\
+g4e2|c4.c.d|efgabc’|g2z2a2|g4f2|d4{a}g^f|!
+({a}g^fgabc’)|d’2z.G.A.B|{d/}(cBc).e.g.e|({g/}fef).a.d’.c’|\
+{a/}(bab).g.a.b|c’4:||:g2|c’2(ce).g.c’|(af).f.f(fe)|!
+d2(GB).d.g|(ec).c.c(eg)|c’2(ce).g.c’|(gd’).d’.d’d’c’|\
+{a/}(bab).g.a.b|c’4:||:.^f.g|(agfef).d|(cB).e(Bc).A|!
+(GABcdB)|(cdef^fg)|agfefd|(cB).e(Bc).A|(GABcd).B|c4:|!
+|:” f”e>e|e2e>e|e2e>e|e2e2e2|e2e2″p”e2|\
+” f”g4″p”e2|” f”g4″p”e2|” f”g4″p”e2|g4.^” f”f.g|!
+(agfef).d|(cB).e(Bc).A|(GABcd).B|(cdef^fg)|\
+(agfef).d|(cB).e(Bc).A|(GABcd).B|c4:|
+
+X:112
+T:My Ain kind Deary,with vars. CJF.112
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Sounds like small-pipes veriations on “The Lollipop Man” – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=120
+K:G
+BA|{GA}B3DD3E|G3AG3B|A3B (cBAG)|{GA}B3EE2 (BA)|\
+{GA}B3DD3E|G3AG2 (gd)|e3d efge|B2G2G2:|!
+|:d|edef g2B2|cBcd e2G2|AGAB cBAG|{GA}B3EE2 (BA)|\
+{GA}B3DD3F|G3AG2 (gd)|e3d efge|B2G2G2:|!
+|:BA|g2d2B2G2|G2D2B2D2|GDBD cBAG|{GA}B3EE2 BA|\
+g2d2B2G2|d2G2 g2G2|gfed BdAc|B2G2G2:|!
+|:(d2ef)|gdBd edBd|gdBd edBd|gfed cBAG|{Ga}B3EE2 BA|\
+gdBd edBd|gdBd edBd|gfed BdAc|B2G2G2:|!
+|:BA|G2BG D2GD|B2dB G2B2|AGAB cBAG|{Ga}B3EE2 BA|\
+GdBG dgdB|BdBg G2gf|e3d efge|B2G2G2:|!
+|:d2|e2ge d2gd|c2ac B2gB|AcBd cBAG|{GA}B3EE2 BA|\
+GdBG dgdB|BdBG G2gf|edef gedc|B2G2G2:|
+
+X:113
+T:Veritable Chasse,La. CJF.113
+T:La Veritable Chasse. CJF.113
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On the title line is “From Wm Hodgson’s Book” -PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:G
+“TS 2/4 in MS”AAA|d2de2e|f3efe|d2df2f|e3AAA|\
+d2de2e|f3(efe)|d2d efe|d3||!
+d3|f3gea|f2d (ade)|f3(age)|d3d3|f3gea|f2d ade|\
+f3age|d3a2a|f2fd2d|A3abc’|d’ag fed|a3a2a|!
+f2fd2d|A3abc’|d’ag fed|a3AAA|d2de2e|f3efe|\
+d2df2f|e3AAA|d2de2e|f3efe|d2d efe|!
+dDE FGA|BGE EAG|FDE FGA|BFG ABc|\
+d2e =fga|_b2a^g2a|=fde fga|_b2ab2g|!
+_b3-bac’|d’ad’ d’ac’|d’d’d’ d’d’d’|c’c’c’ c’c’c’|\
+d'(a/g/f/e/) d(f/e/d/c/)|\
+B(g/f/e/d/) caa|.f(a/g/f/e/) .d(f/e/d/c/)|.B(g/f/e/d/) caa|d’3|]
+
+X:114
+T:Waltz. CJF.114
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+d^c|d2g4|d2b4|a(gegaf)|g<b d2 d^c|\
+d2g4|d2b4|abc’afa|g4:|!
+|:BA|B2e4|B2g4|(fe^def)d|e<g b2 B<A|\
+B2e4|B2b4|fgagfg|e4:|!
+dc|.B.d.g.d.b.g|.B.d.g.d.b.g|cfafcf|gbafdc|\
+Bdgdbg|Bdgdbg|^ga=gfed|g4:|!
+|:B2|B^ABcdB|{f}e2A2A2|{a}gfefge|{^a}b2B2B2|\
+efgfeg|fgagfa|gfegf^d|e4:|!
+|:d2|b4a2|g2f2g2|^g2a2b2|c’>ba>gf>e|\
+d4{g}f>e|d4{g}f>e|d2e2f2|g4:|
+
+X:115
+T:Waltz. CJF.115
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”C J Fox” is on stave at end of tune. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+f>d|A2A2 f>d|A2A2 af|e^defge|fdcedB|\
+A2A2 f>d|A2A2 ef|(gfedce)|d4:|!
+|:(ef)|(gf).e.a(gf)|(ed).c.e(cA)|dcdefg|e2e2f2|\
+gececA|gececA|dcdfec|.d2.d2:|
+
+X:116
+T:French Quadrille. CJF.116
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the stave at end is “C J Fox 1829″. The asterisked
+N:notes in the MS were one note of a4. I have introduced
+N:first-time and second-time bars to allow the tune to play
+N:correctly.- PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=100
+K:D
+.d4″ f”.f4|.a4z2aa|d’2ad’ f’2d’2|a4z2″p”d’2|\
+.c’2″ cres:”.b2.a2.g2|f2ff f2b2|!
+.a2.g2.f2.e2|d2dd d2e2|f2e2f2^g2|\
+abc’d’ d’2a2|.b4.g4|1″*”a8:|2″*”a6|!
+|:A2|d2dd d2f2|d2dd d2f2|d2f2d2f2|agfg e2A2|\
+d2dd d2f2|a2d’2 d’2c’b|abag egec|d2f2d2:|!
+K:D
+|:e2|c’4c’d’bc’|a6c’2|b2b2b2c’2|bagf fgab|\
+c’4c’d’bc’|a4a2ga|fd’c’b agfg|” D Capo”(b4a4):|
+
+X:117
+T:Pleyel’s Rondo. CJF.117
+R:Rondo
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:I Have added the final repeat mark. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=120
+K:G
+GABc dBce|.d2.B2G4|FGAB cABG|.A2.F2D4|\
+GABc dBce|d2g2 b4|abag fgaf|g2b2 g4h:|!
+|:gfgd B2B2|d^cdB G2G2|FGAB cABG|B2^cd D4|\
+gfgd B2B2|d^cdB G2G2|^cdef gefd|^cd” DC”ec d4:|
+
+X:118
+T:Waltz. CJF.118
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+G3gfe|d2d2d2|B3edc|B2B2B2|” for”g2gfgb|\
+a2abc’a|gfedef|g4z2:|!
+|:dfafaf|dgbgbg|dac’ac’a|dgbgbg|\
+dfafaf|dgbgbg|a2agfa|g4z2:|!
+|:d2B2ge|cBAGFG|A2D2D2|d2B2 ge|\
+d2d2 BD|c2 (cA)(AF)|G4z2:|
+
+X:119
+T:Beethoven Waltz. CJF.119
+R:Waltz
+C:”Beethoven”
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Just “Waltz” in MS…but “Beethoven” is in the Title line.
+N:The asterisked notes were 2 1/4’s in the MS.
+N:The repeat marks are as in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/4
+Q:1/4=140
+K:G
+G3|g3|fed|cBA|Gg/g/g|\
+ee/e/e|d/B/G/B/A/F/|G3:|!
+|:dd/d/d|def|gg/g/g|dBG|ee/e/e|\
+dBG|A/B/c/d/e/f/|”*”g3h:|!
+|:GBd|g2f|e3|d2z|FAc|e2d|BdB|GBG|!
+Bdg|bag|gfe|edc|B>cd|dcA|A3|G2z:|!
+EGB|e2d|c3|A3|DFA|\
+d2c|B3|G3|!
+Bdg|bag|gfe|edc|B>cd|dcA|A3|”*”G3|]
+
+X:120
+T:Waltz. CJF.120
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”C J Fox 1830″ is in the stave at the end.
+N:The triplet is not marked as such in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+e2|f3ed2|dAdf a2|g3fe2|eAce g2|\
+f3ed2|dAdf a2|ba^gaga|d4:|!
+|:a2|d’2d’d.g.b|a2adfa|g2gAce|ed d2 fa|\
+d’2d’dgb|a2adfa|g2gAce|d4:|!
+|:((3fgf)|eAce g2|fadf a2|eAce g2|fAdf a2|\
+d’2d’dgb|a2adfa|g2gAce|d4h:||
+
+X:121
+T:Waltz. CJF.121
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Asterisked notes were G3 in MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/8
+Q:1/8=120
+K:G
+B/c/|dd/e/d|bag|gfe|d2B|\
+GG/A/G|AA/B/A|BcB|A2B/c/|!
+dd/e/d|bag|gfe|d2B|GG/A/G|Aed|{d/}cBA|”*”G2:|!
+|:F/G/|AA/B/A|dd/e/d|ede|f2d|g2b|ad’f|{a/}gfe|dc/B/c|!
+dd/e/d|bag|gfe|d2B|GG/A/G|Aed|{d/}cBA|”*”G2:||
+
+X:122
+T:Valentine’s Tempo di Minuetto. CJF.122
+R:minuet
+C:Valentine
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”by Valentine” is in title line. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/8
+Q:1/8=120
+K:G
+d\
+|g2d|dBB|BGG|G2(d/c/)|Bdg|cea|DcB|(BA) d|!
+g2b|gea|fdd|d2A|ddd|d2A|dd/d/d/d/|d2:|!
+|:a|d’2a|d’2a|fda|fd d|g2d|g2d|BGd|BG B|!
+e2B|e2B|GEB|GE B|E/F/G/F/G/E/|BGE|BGE|B2g|!
+bbb|b2B|cc/c/c/c/|c2c|aaa|a2A|BB/B/B/B/|B2d|!
+g2d|BGB|d2A|FDD|GGG|G2D|GG/G/G/G/|G2:|
+
+X:123
+T:Waltz. CJF.123
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+d” $”c|:B>c(d2g2)|B>c(d2g2)|f>g(a2b2)|g2b2d>c|\
+B>cd2g2|B>cd2g2|fgac’fa|g4h:|!
+|:g2{fg}|a>fd2a2|b>gd2b2|ge^c2g2|afd2 ad’|\
+(d’^c’)(c’b)(ba)|(ag)(gf)(fe)|egfed^c|” D Capo”d^cdcd=c|]
+
+X:124
+T:Waltz. CJF.124
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+A|A>f d2A2|A>f d2f2|a^g=gfeg|baf2A2|\
+A<f d2A2|A<f d2f2|a2^a2 (b/=a/g/e/)|d4:|!
+|:a2|g2e2e2|f2d2d2|e2b2c2|dfagba|\
+g2e2e2|fad’2f’2|e’d’agec|d4:|!
+|:d2|c<e A2G2|F<A d2f2|gfebag|fa d2d2|\
+c<e A2G2|F<a d2f2|(gfeBd)A|d4:|!
+|:a<^ga|d’2z2a>^ga/|f2z2d<cd/|cebagf|f2f>ag>a|\
+d’c’d’f’e’d’|b^abd’c’b|^gaba=ge|d4:|
+
+X:125
+T:Waltz. CJF.125
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 200
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+fa|ge c2 af|d2d2f2|ecAgfd|ecAgef|\
+ge c2 af|.d2.d2f2|(Ag) (Af) (Ae)|d4:|!
+|:cd|ec A2A2|fd A2A2|gfegfd|ecABcd|\
+(ec).A.A.A.A|(fe).A.A.A.^G|A^AB=c^cd|^dez2||!
+fg|a3(fga)|(bagfed)|(cefage)|fagefg|\
+a3(fga)|bagfed|(cefa)(ge)|d4:|
+
+X:126
+T:Waltz. CJF.126
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Last bar of each section is g6 in MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 200
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+dc|Bcdefg|d2d2 bg|d2d2 bg|d4dc|\
+Bcdefg|a2a2a2|gfedef|g4:|!
+|:d2|defgab|c’4b2|a2agfe|d4bg|\
+g2f2g2|^g2a2a2|gfedef|g4:|!
+|:d2|d2b2g2|e2c’2a2|gfedef|\
+gabc’d’2|d2b2g2|e2c’2a2|gfedef|g4:|
+
+X:127
+T:Polacco. CJF.127
+R:misc
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:There is a lead note of A in the MS – it has been omitted
+N:to allow correct playing. The note asterisked is f2 in the
+N:MS. The grace notes are between beamed notes in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 200
+M:3/4
+L:1/16
+Q:1/8=140
+K:D
+d2d2 d2ed cdef|g2B2 B2A2B2c2|\
+d2d2 d2ed cdBc|A2a2 abga fgef|!
+d2d2 d2ed cdef|g2B2 B2A2B2c2|\
+d2d{ed}c d2f2e2a2|d2d{ed}c d2f2d2z2:|!
+|:f2f2 fgfe d2f2|e2e2 egfa g2z2|\
+e2e2 efed c2e2|d2d2 dfeg “*” f2z2″ D.C.”||!
+d4A2d2d2d2|e4a2a2a2a2|a4a2f2d2f2|d2f2A2d2 f2A2|!
+d4A2d2d2d2|e4a2a2a2a2|a4a2f2d2f2|efed cdcB A4|!
+g2gf e2ed c2cB|AcBd cedf egfa|g2gf e2ed c2cB|\
+AcBd cedf egf” D.C.”a|]
+
+X:128
+T:Waltz. CJF.128
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 200
+M:3/8
+L:1/8
+Q:1/8=140
+K:G
+d|B(d/e/)d|(gd).d|a(a/b/)a|bgg|B(d/e/)d|\
+(gd).d|a(a/b/)a|g2:|!
+|:g|f{f/}(f/e/)d| f{f/}(f/e/)d|gbd’|gbd’|\
+f{f/}(f/e/)d|f{f/}(f/e/)d|gbd’|g2:|!
+|:d’|d’2b|b2g|(f/g/).a.a|(f/g/).a.a|\
+d’2b|b2g|(f/g/).a.a|g2:|
+
+X:129
+T:Atkins Menagerie (Air from). CJF.129
+T:Air from Atkins Menagerie. CJF.129
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:I have added the leading d2 to allow the tune to play correctly.
+N:The asterisked note is g2 in MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 200
+M:2/4
+L:1/16
+Q:1/8=140
+K:G
+d2|”>”g4″>”^g4|”>”a4″>”^a4|b2a2 g2f2|\
+g2g2g2 Bc|dedc d2g2|b4 a4|!
+^gaga =gfed|g2d’2d’2 Bc|dedc d2g2|\
+“>”b4″>”^g4|a2a2 gfef|g4 z2:|!
+|:d’d’|d’2f2g2^g2|aba^g a2 d’d’|\
+d’2f2 g2^g2|aba^g a2 d’d’|!
+d’2f2 g2^g2|a2f2 a4|g2g2 e2e2|\
+f4z4|agfe a2a2|f4.b2(ge)|!
+.a2(fd) .A2(Bc)|dedc d2g2|b4 g4|\
+^gaga =gfed|g2b2 d’2 Bc|dedc d2g2|!
+b4g4|fac’a gfef|”*”g4 z2H:||:”Trio”d2|c’2b2 a2g2|!
+{g}f2e2 f2d2|.g2.a2 .b2.c’2|d’2c’e’ d’2b2|\
+.c’2b2 a2g2|f2(eg) f2d2|g2(fa) g2(fa)|g4” Da Capo”z2:|
+
+X:130
+T:Atkins Menagerie, From. CJF.130
+T:From Atkins Menagerie. CJF.130
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The asterisk indicates where there is a bar with
+N:a lone quaver rest (z2) in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 200
+M:2/4
+L:1/16
+Q:1/4=100
+K:G
+g2gg g2g2|g2d2 b4|a2f2 a2f2|afgb b>ag>f|!
+e2ee e2e2|f2d2 b3a|g>ba>g f>ag>f|e4 z4:|!
+|:d>cd>e f>ga>f|g>fg>a g>fg>e|d>cd>e f>ga>f|\
+g>fg>a b>fg>a|!
+(dg) B2 cege|(dg) B2 cege|\
+d>ef>g a>bc’>a|g4 z4:|!
+|:dddd d2a2|(d2g2) (d2g2)|(c2e2) (c2e2)|A>Bc>d B2G2|!
+dddd d2g2|f2a2 f2d2|B2e2 dcBc|d4 z4:|!
+|:”*”ffff f2g2|a2d2 b2g2|eeee a3g|fgfe dcBc|!
+dddd d2g2|(e2g2) (d2g2)|ea f2 f>de>f|g4 z4:|
+
+X:131
+T:Wounded Hussar,The. CJF.131
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:1/4=60
+K:G
+(A/G/)|EABc2(B/A/)|(B/c/d/c/B/A/) GAB|\
+cec (e/d/)(c/B/)(A/G/)|FAAA2:|!
+|:(A/B/)|ceee2d/c/|Bddd2g/f/|ea^g g>bc’|ea^ga2(a/b/)|!
+c’ba geg|dBg GAB|cec (e/d/)(c/B/)(A/G/)|FAAA2:|
+
+X:132
+T:Waltz, A. CJF.132
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The note marked “a” here is also so marked in the MS,
+N:where the stave shows a c2, – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+(fg)|(af) d2(db)|(af) d2(af)|(ge)cAag|\
+g2f2 (fg)|af d2db|afd2 af|gecAge|d2d2:|!
+|:cd|ecAceg|fdAdfa|b2b2b2|^gagacd|\
+ecAceg|fdAdfa|b2bg ec|d4:|!
+|:A|d2f2a2|(ab).a.gf2|e2d2e2|f2d2A2|\
+d2f2a2|abagf2|fed2e2|d4:|!
+|:A2|cAEAcA|dAFAdA|e2edcB|” a “A2cgfe|\
+d2f2a2|(ab).a.gf2|!
+e2d2e2|f2d2A2|\
+d2f2a2|(ab).a.gf2|fed2e2|d4:|
+
+X:133
+T:Brussels Waltz,The. CJF.133
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:C
+G2|c>Bc>de>d|(ce) g2 (ec)|(Bd) f2 (dB)|\
+ce G2G2|c>Bc>de>d|(ce) g2 (ec)|(Bd) f2 (dB)|c4:|!
+|:c2|a^fd3 A|BdG2 g2|^fad3 c|BdG2 G2|\
+c>Bc>de>d|cea3 ^f|f3e=fd|c4:|
+
+X:134
+T:Cheltenham Waltz,The. CJF.134
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:There is a letter “B” written in the stave, after
+N:the end of the tune in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+A2|f4e2|d4 (d<f)|(e<g) (c<e) (d<f)|A2A2A2|\
+f4e2|d4 (d<f)|(e<g) (c<e) (A<c)|d4:|!
+|:(d<f)|(e<g) (c<e) (d<f)|(e<g) (c<e) (d<f)|\
+(c<g) (c<e) (d<f)|A6|f4e2|\
+d2(d<f)|(e<g) (c<e) (A<c)|d4:|!
+|:A2|dcdefg|a2f2a2|babc’d’b|a2faba|\
+g2egag|f2dfaf|e2edef|d4:|!
+|:(fa)|gaeaga|fadafa|gaeaga|fadafa|\
+gaeaga|fad’c’ba|babgec|d4|]
+
+X:135
+T:Waltz. CJF.135
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+dc|Bdgbaf|gfedcB|e2c2e2|d4(dB)|\
+GBdBgd|bagfed|c2A2d2|G4:|!
+|:(bg)|c’bagfe|dedcBA|BGBdgb|a4ab|\
+c’bagfe|dfdcBA|Bdgbaf|{a}g4:|
+
+X:136
+T:Swiss Waltz, A. CJF.136
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The asterisked triplet is not given as a triplet in the MS. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+((3ABA)|f4e2|d4((3ABA)|g4f2|e4((3ABA)|\
+” cres”.d2.f2 ((3ABA)|.e2.g2 ((3ABA)|(a2g2).e2|d4:|!
+|:((3ABA)|g4f2|e4((3ABA)|”p”=f4e2|d4((3ABA)|\
+a2f2 ((3ABA)|” f”.b2.g2 “*”(3efe|(a2g2).e2|d4:|!
+|:A2|” f”(DF).A.d(fa)|(DF).A.d(fa)|\
+(gf).g.f(ed)|(cB).A.G(FE)|\
+(DF).A.d(fa)|(DF).A.d(fa)|(gf).g.e(ce)|d4:|!
+|:a2|(d’c’).b.a(fd)|(d’c’).d’.a(fd)|(gf).e.d(cd)|(ef).g.a(bc’)|\
+(d’c’).d’.c'(af)|(d’c’).d’.c'(fd)|(gf).g.e(ce)|d4:|
+
+X:137
+T:Waltz. CJF.137
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The key signature is given as an e-flat followed by a
+N:B-flat in the MS. The note marked with a letter “c” is
+N:also marked thus in the MS. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:Bb
+F2|B2BABA|B2d2f2|f2^f2a2|c4(cd)|\
+edgfed|cdedcB|A>gf>ed>c|{c2}B4:|!
+|:dB|AcecAc|BABcde|fgabag|{g2}f4(gf)|\
+ede” c “cdc|e>gf>ed>c|BdfecA|{c2}B4:|
+
+X:138
+T:Reed Waltz,The. CJF.138
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:This tune will not play quite correctly because the first
+N:two sections do not use lead-notes. There are repeat-mark
+N:dots after the last bar line in the MS. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+” f”.D2.F2.A2|.d2.f2.a2|d’2a2f2|d4f2|\
+.g2(g2e2)|.f2(f2d2)|(efedcB)|A6:|!
+|:A2c2e2|g4e2|b2g2e2|c4A2|\
+d2f2a2|d’2F2G2|A2A2A2|d4:|!
+|:a2|gafaea|fadafa|gafaea|f2d’2 f2|\
+gafaea|fadafa|g2e2c2|d4:|!
+|:a2|(d’c’b).a.g.f|(ed).c.B(AG)|F2A2d2|(f2e2) a2|\
+(d’c’).b.a(gf)|(ed).c.B(AG)|(FB).A.G(FE)|D6:|
+
+X:139
+T:Mrs Bullengards Waltz. CJF.139
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:Bb
+F2|B2B2d2|f4b2|B2B2d2|cBAGF2|\
+B2B2d2|f4b2|fgfdec|B4:|!
+|:c2|c2f2f2|a4f2|b2bg=e2|fafac2|\
+c2f2f2|a4f2|=egegc2|f4:|!
+|:cd|” f”._e2″p”.e2 cd|” f”e2″p”e2 cd|” ff”(edede)d|\
+e4(de)|f2f2 dB|c2c2 eg|B2B2 cd|B4:|
+
+X:140
+T:Quadrille. CJF.140
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Marked “No. 3” above start of first stave. “C J Fox”
+N:written in stave, at end of tune. The note marked “e” is a
+N:G on the stave, with the letter “e” written below in the MS. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+“$”c2(d edc)|(d>G)G GAB|{d/}cBc {e/}dcd|eagd2e|\
+c2d edc|(d>G)G GAB|(ca)gd2e|.c.G.EC2zh||!
+d3-dbg|g3^fga|(b2g)(d2B)|(d2A) ABc|d3dbg|\
+g3-g.^f.e|(dBG) DE^F|(A3G2)G”$”||!
+(A3E2)C|A,3-A,B,C|D2EF2E|” e”EDCB,3|\
+a3e2c|A3ABc|G3GFD|C3C2z”$”||
+
+X:141
+T:Wertenburg Waltz. CJF.141
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the MS, the third section begins with the
+N:two lead-notes shown. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+D2″$”|G2G2B2|d2d2g2|efgfge|d4B2|\
+cBcdec|BABcdB|ABcAGF|G4:|!
+|:FG|A2A2d2|B2B2d2|^c2c2d2|d4de|\
+f2d2d2|g2f2e2|abagfe|dedcBA”$”||!
+GA|B2B2B2|BABGAB|cdedcB|BAGDGA|\
+B2B2B2|BABcdB|cdecAF|G4:|
+
+X:142
+T:Waltz. CJF.142
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+((3ABc)|d2D2D2|d2D2D2|e4ge|(dcB).A.B.c|\
+d2D2D2|d2D2D2|efgedc|d4:|!
+|:fd|edcBAG|FAdAfd|cAecg”*”e|f4fd|\
+edcBAG|FAdAfd|cAecge|d4:|!
+|:f2|^efefef|f2.c2.c2|f2.d2.d2|e4f2|\
+^efefef|f2.c2.c2|f2″ D. Capo”.d2.d2|B4:|
+
+X:143
+T:Waltz. CJF.143
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+G2g2f2|G2e2d2|D2F2A2|GFGAG2|\
+G2g2f2|G2e2d2|D2F2A2|G4:|!
+|:d2e2e2|d2e2e2|dedcBA|\
+GFGABc|d2e2e2|d2e2e2|dedcBA|G4:|!
+|:DFAFAF|EGBGBG|DEFGAB|cBAGFE|\
+DFAFAF|EGBGBG|DcBAGF|G4:|
+
+X:144
+T:Sunset Waltz,The. CJF.144
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”From Harts Gallopades” on title line. – PJ
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/8
+Q:1/8=120
+K:D
+“p”D|DFA|dcB|ABA|F2F|\
+A2G|E2G|B2A|F2D|!
+DFA|dcB|ABA|F2A|B2A|EGF|DAc|d2D|!
+” f”DAc|dcB|ABA|F2F|A2G|E2G|B2A|F2D|DAc|!
+dcB|ABA|F2A|A/G/B/A/G/F/|E/G/A/B/c/A/|\
+DD/F/A/F/|d2h||!
+“p”A|A2G|E2E|B2A|F2d|cBA|GBA|A2F|d2A|!
+A2G|E2E|B2A|F2A|GFE|EFG|A” D Capo”a/a/a/a/|a2|]
+
+X:145
+T:Brunswick Waltz. CJF.145
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:G
+(GA)|B2B2c2|d4(ge)|d2(de)(dc)|B4(GA)|\
+B2B2c2|d4gb|a2agab|g4:|!
+|:D2|c2c2D2|B2B2G2|F2FAGB|A2A2 D2|\
+c2c2D2|B2B2G2|GFEDEF|G4:|!
+|:(Bc)|d2d2g2|d4(Bd)|c2c2A2|B4(Bc)|\
+d2d2g2|d4g2|(gf)(ed)(ef)|g4:|
+
+X:146
+T:Evening-star Waltz,The. CJF.146
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:C
+“p”G2|G2E2F2|G4GG|A2c2 BA|A2G2G2|\
+Gd d2G2|Gc c2B2|A3Bcd|c2B2″ f 8va” G2|\
+“..”G2″..”E2″….”F2|”..”G4″..”G”..”G|!
+A2c2 BA|A2G2 G2|Gd d2G2|c4cB|A3dBG|G2c2||\
+“p”GG|d2G2 GG|e2c2G2|f2edcB|c2G2 GG|!
+Gd B2 GG|Ge c2 cc|d3cBA|A2G2G2|\
+G2E2F2|G4GG|A2c2 BA|A2G2 G2|!
+” f”Gd B2 GG|Ge c2 cc|g3fed|f2e2 GG|\
+Gd B2 GG|Ge c2c2|g^fg=fed|c4|]
+
+X:147
+T:Gondola Air. CJF.147
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+AG|”p”(Fd) A2 (FA)|(GE) C2 (Ac)|(dGdf)af|(ag) e2 (AG)|\
+(Fd) A2 (FA)|(BG) E2 (ge)|dcBABc|{e}d4h:||!
+” f”(fa)|(gecAec)|(dfdAdf)|(agecdf)|(ec) A2 (fa)|\
+(gecAec)|(dfdAdf)|(agecdf)|e” D.C.”cA2|]
+
+X:148
+T:Gentle-moon Waltz,The. CJF.148
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Note marked “*” is B2 in MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:C
+“p”E>F G2c2|E>F G2e2|d>c A2F2|A2G2G2|\
+G>^F G2A2|B>c d2d2|d2A2B2|c2G2 G2|!
+” f”E>F G2c2|E>F G2e2|d>c A2F2|A2G2 G2|\
+{A}G^F G2A2|Bc d2d2|dcBAG^F|A2G2||!
+” f”G2|{A}G^FGB d2|{e}dcec G2|GfedcB|\
+c2G2 G2|{A}G^FGB d2|{A}G^FGcGc|!
+“*”B3AG^F|A2G2 ^F=F|” f”E>F G2c2|\
+E>F G2e2|d>c A2F2|A2G2G2|!
+GBd4|Gc eGce|g3fed|f2e2d2|
+GBd4|GceGce|g3fed|c2c2z2|]
+
+X:149
+T:Love was once a little Boy. CJF.149
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=60
+K:Eb
+EE GG|BBe2|czFz|BzEz|\
+EE GG|BBe2|fzBz|AzBz|!
+_dd dd|_dBG2|cc cc|AF Dz|\
+EE GG|BBHe2|czAz|BzE2|]
+
+X:150
+T:Cotillion. CJF.150
+R:cotillion
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”C J Fox” is on the stave at the end of the tune. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/4=60
+K:G
+“p”Bc d2d2|Bc d2d2|ef g2g2|fe d2c2|\
+Bc d2d2|Bc d2d2|ef g2g2|fa g2g2|!
+Bc d2d2|Bc d2d2|ef g2g2|fe d2c2|\
+Bc d2d2|Bc d2d2|ef g2g2|fa g2g2||!
+” f”fg a2a2|ab g2f2|ef g2g2|ab f2d2|\
+ab a2a2|ba g2gf|e2edef|d4d2|!
+” f”fg a2a2|ab g2f2|ef g2g2|ab f2d2|\
+ab a2a2|ba g2gf|e2ed ef|d4 d2|]
+
+X:151
+T:Gallopade. CJF.151
+R:misc
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The final note should be a quaver to scan properly. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+” f”D|GD/G/ BG/B/|dB/d/ gB|d^c=cA|edBD|\
+GD/G/ BG/B/|dB/d/ gB|d^c=cA|G3:|!
+|:B|d^c=cA|edBG|d^c=cA|edBD|\
+GD/G/ BG/B/|dB/d/ gd|dcAF|G2 g2:|
+
+X:152
+T:Quadrille. CJF.083a
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:1/4=90
+K:G
+B/c/”$”|(d3g2)f|(fe).e {f/}e/d/c/B/A/G/|\
+(FG).A Ded|{d/}cBc B (G/A/B/c/)|!
+d3{G/}g2f|(fe).e e/d/c/B/A/G/|F>GA DEF|G3G2h||!
+d|(BG) d (BG) d|c (AF) D2d|\
+(BG) d (BG) d|cd/c/B/c/A2d|!
+BG d BG g|ecc cde|dBG D>EF|G2BG2″$”||!
+(B/A/)|^GEE AEE|cAd cBA|\
+(FD).D (GD).D|(AD)cB2D|!
+(EG)c FGA|(GBd) gdB|(ABc) edc|c^c” D Capo”d A2|]
+
+X:153
+T:Quadrille. CJF.153
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The notes marked ** were cd in the MS, not c2d2. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:A
+cd|f<ec2 e<dB2|d<cA2 A4|\
+(GABc) (dc)(fe)|e>dc2 “**”c2d2|!
+f<ec2 e<dc2|d<cA2 A4|(GABc) dBAG|B4 A2h||!
+GA|B<GE2 A<F^D2|EFGA Bc^de|fe^dc BAGF|G6 F2|!
+B<GE2 e<^dB2 b<ge2|c<BB<A A<FF<E|^D4″ D.C.”E2|]
+
+X:154
+T:Hunt’s Quadrille. CJF.154
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Just Quadrille in MS…”from Hunts 9th Oct”
+N:is on title line. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=100
+K:D
+a2aa a2a2|a2f2 f4|e2ee e2e2|f2d2 d4|\
+a2aa a2a2|a2f2 f2de|f2f2 {f}edef|d2d2 d4h||!
+AA|g2ee fe^de|b2a2 fdfa|d’2aa f2dd|A2a2 z2AA|\
+g2ee fe^de|b2a2 f2 de|f2f2 edef|d2f2 d2z2″$”||!
+a2aa a2a2|g6 f2|e2d2 c2d2|e2A2 A4|\
+a2aa a2a2|g6 f2|e2d2 c2d2|e6″ $”A2|]
+
+X:155
+T:Waterloo. CJF.155
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:I added a rest at * to make the tune scan. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:F
+c|c2d A2B|{d}c2c caf|ebg ecG|BAA A2B|\
+c2d A2B|{d}c2c caf|dBG EcE|G3F”*”zh||!
+F|E2G c2B|A2c F2c|^cdA ^cBG|F3 E2F|\
+E2G c2B|A2c Fag|geg fd=B|d3 c2||!
+A|d2f afd|{d}^c2c c2b|bag gfe|gef e2A|\
+d2f d2A|B2^F GAB|Ac=F ” D Capo”AGE|D3z2|]
+
+X:156
+T:Strike the Light-Guitar. CJF.156
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:I have not lined this tune since I cannot
+N:make head or tail of it. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=50
+K:G
+B|B3BBB|BBB BB>B|B3Bd>c|B2A3G|\
+G3GGG|GGG GG>G|B3AGF|E2z2(DB)|!
+B3BBB|BBB BB>B|B3Bd>c|B2A3G|\
+G3GGG|GGG GG>G|F>GA2e>6c|hd4zd|!
+F>GA3c|e>dB3G|F>GA2e>d|d4d2|\
+e>dB3B|d>cA3G|F>GA2d2|B4zd|!
+d>Bg3f|f>ec3A|F>Ad3F|G4z2|\
+AD/D/ D DDD|BG/G/ G GGG|!
+A>^GA>Bc>d|B4G2|\
+AD/D/ D DDD|BG/G/ G GGhG|A>^GA>Bc>d|G4|]
+
+X:157
+T:Thema. CJF.157
+R:march
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Each of the beamed groups of grace notes are intrespersed
+N:among beamed notes in the MS. I have added the rest marked
+N:* to make the tune scan.
+N:Attributed to “Pleyel” on the title line. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=80
+K:G
+” Andante non troppo”g3(f/e/) d2d2|\
+(d3c)A4|(B>G)(c>A) (d>B)(e>g)|(g2{agfg}a2 f2)z2|\
+(g3f/e/) d2d2|(d3c)A4|(B>d)(e>a) g2f2|(a4g2)”*”z2:|!
+|:a7/2f d2c2|B3{cBAB}c d2^d2|e4e{fed}efg|(g4 f2)z2|\
+g3(f/e/) d2d2|d^dec A3c|(B>d)(e>a) g2f2|{f}a4 g2z2:|
+
+X:158
+T:I’ve been roaming. CJF.158
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=60
+K:G
+(gf)|(g3/2 d/)z/(cB) (AG) (gf)|(gd)(cB) (BA)(cB)|\
+(ed)(gf) (fe)(ed)|dccBA2gf|!
+gd cB AG gf|gdcBc2cB|edfg a/ d/Hz cB|BAGFG2BA|!
+Add>^c cBed|cAagf2ed|^cdfd Befg|fed^cd2gf|!
+gd cB AG gf|gdcBc2cB|edef adcB|BAGFG2B>B|!
+Befg gffe|e^defB2cB|Befg gecc|Bbafe2gf|!
+gd cB AG gf|gdcBc2cB|edfg adcB|BAGFG2gf|gGBd dccc|!
+de^fge2ag|g^fed gdec|BdcAG2Bc|d=fedc2cd|egfe^d2de|!
+fagf agfe|dBcAg2fe|dBcA bHgfe|hd2f/e/d/c/ B/A/G2|]
+
+X:159
+T:Slow broke the light. CJF.159
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”C J Fox” is on the stave after the tune. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=60
+K:C
+c|c2c>d|e2ze|e2{g/}fe|e2(ce)|\
+g2g>g|a2bc’|(egfd)|c2z:|!
+|:d|d2e^f|gbzd|d2cB|B2zd|\
+(e^fga)|bgze|(d>g)(^fa)|g2zg|!
+(ac’)(ba)|g2ec|ac’ba|g2ce|\
+g2gg|a2bc’|(g/^f/a/g/) (=f/e/f/d/)c2z:|
+
+X:160
+T:Young Love once dwelt. CJF.160
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The beamed grace notes are as in the MS, but ABC cannot
+N:tie the note before them to the note following them. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:C
+c|c2d e<c’b|{b/}a2ge2e|f2g afd|cBa gfd|!
+c2d ec’b|bag {f/}e2e|f2g {b}a{g}f{e}d|cBdc2g|!
+c’2b ac’a|g2c’ b<gg|abc’ c’ba|\
+g2{b/a/g/^/f/a/}(g=fd)|!
+c2d (ec’b)|bag {f/}e2e|f2g (afd)|(cBd)c2|]
+
+X:161
+T:Oh!say not Woman’s Heart is bought. CJF.161
+T:say not Woman’s heart is bought,Oh!. CJF.161
+T:Woman’s heart is bought,Oh! say not. CJF.161
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The triplets do not have 3’2 over them in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:G
+G2|Bd3 ce3|d3B G2d2|e3fg3e|fd3z2d2|ec3eg3|\
+(d2B2)(G2^G2)|A2e2d3A|B3Gz2d2|!
+d3dd3^c|d2ef A2A2|B3d d^c<e|fd3z2D2|\
+E2G2{d}c3B|{B}A2G2{G}F2E2|F2A2d3c|!
+B2A2HB2d2|g2zB e2zG|dc3z2D2|\
+((3BAB) ((3dcA) G3A|BG3g3e|dB3z2d2|!
+(cA3)(BG3)|(FA3)z2d2|\
+e3ef3f|g3gHa3A|B2d2 G A2 d|BG3z2|]
+
+X:162
+T:Roslin Castle. CJF.162
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C|
+L:1/8
+Q:2/4=60
+K:F
+FE|D2A>BA2GA|BAGFE2F>E|D2d>ef2ed|^cdecA2FG|!
+BAGFE2FG|AFED^c2de|fde^c dAGA|F2E>DD2:|!
+|:A2|d2de{g}f2ed|a>gfge2d^c|dAdef2ed|agfge2GA|!
+BAGFE2FG|AFEDHd2de|fde^c dAGA|F2E>DD2:|
+
+X:163
+T:Sun that lights the Roses,The. CJF.163
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The bars beginning * have a peculiar arrangement – the
+N:grace notes are interspersed among the main notes in a
+N:manner I haven’t seen before. To attempt to convey this,
+N:if I use hyphens to indicate beaming, and use M for main
+N:notes and g for grace notes, it would look like this:
+N:M-g-g-M g-g M- g- -M -g-g | M- g- -M -g-g M M-M | – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:C
+G|.e2.d2.c2zG|.e2.d2.c2zg|{g}f3ea2d2|d2{f}e2d2zG|!
+(e>f)(d>e) c2zG|e>fd>e c2ze|(dafd) c2zB|d2c2z2ze|!
+e3ee3e|b3e e2ze|e3e fedc|c3Bz2ze|!
+e3ee3e|{e}d3dHa2Hc’2|(bg)(ea) d2c^f|a2Hg2z2gf|!
+e2g2c2a2|g3fd2zf|(egc’b) (agfe)|e2d2z2d2|!
+“*”e3{fe}e {dc}f3{g}f{ed}|g3{a}g{fe} a2 c’b|\
+(agfe) (d2g) B|(d2c2)z4|]
+
+X:164
+T:Waltz. CJF.164
+R:Waltz
+C:”from Mr Campbell”.
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On the title line “from Mr Campbell”. On the stave
+N:after the tune, “C J Fox”. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:1/8=120
+K:D
+A2|FAdAdA|FAdAdA|g2e2c2|(df) A2A2|\
+FAdAdA|FAdAdA|g2e2c2|d4:|!
+|:A2|a4(fd)|A2A2A2|g4(ec)|A2A2A2|\
+a4(fd)|A2A2A2|gfedce|d4:|
+
+X:165
+T:Soldier’s Gratitude. CJF.165
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The MS has a barline in the middle of this bar. “C J Fox” is on the
+N:stave after the tune. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=60
+K:C
+G|G3e {e/}d>cd>e|c2G2G2c2|d2d2d2{edc}cd|e4g2zG|!
+G3e d>cd>e|c2G2G2e2|dg2B cAd^F|G4G2 G/A/G/F/|!
+EG3c2c/d/c/B/|Ac3c2c2{dc}|B2G2c2e2|e4{fe}d2zd|!
+e3fg2B2|c3dHe2G2|A>Bc2c2ed|c6{dc}B2G/A/|\
+B>cd2d2a>g|!
+f4{gf}e2G2|A>GA>B”*” c>Bc>d|\
+e>de>fHg2c2|BA gf edcB|c6|]
+
+X:166
+T:Faithless Emma. CJF.166
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=60
+K:C
+e4d>cd>e|c2cd/e/G2zG|A3Bc3d|{e}e2dcd2z2|\
+e4d>cd>e|c2cd/e/G2zG|A>Bc>de2fd|c2d>cc2z||!
+A|G>AG>AG3G|c2d2{cd}e2zc|f3ed3c|d>^cd>ed2z2|\
+e4d>cd>e|c2cd/e/G2zG|!
+A>Bc>de2f>d|c2d>cc2ze|\
+d2BG Gcze|d2BG GczG|G>c ceHg2zc|d^cdg ecz2|]
+
+X:167
+T:Bill Jones. CJF.167
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The name “Rodwell” is in brackets on the title line. The
+N:tune seems to continue across the pages from the bottom
+N:stave of. CJF.091 to the penultimate stave of. CJF.092.
+N:This link is indicated by two lines which cross the page
+N:boundaries and written above is what seems to be “box 12”
+N:between two marker asterisks. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=60
+K:D
+D2|D2F2A3D|D2G2B3B|d2F>BA3A|A2E>FD2zD|!
+D2F2A3D|D2G2B3B|(d>c)B2B2E2|A2^G2A2zA|!
+B>A G>FG2E2|A2zEF2zF|F2^A2B2zD|d2c2B2zB|!
+(d>c) (B>=A) (B>A) (G>F)|(G>F) (E>D)HA3A|d2d2d3D”*”|\
+“*”(D>E) (F>G)A2^A2|(B>=A) (G>F)G2^G2|!
+(A>=G) (F>E) F2d2|(D>E) (F>G)A2c2|d3dd3d|d6d2|\
+(D>E) (F>G)A2c2d4|]
+
+X:168
+T:House that Jack built,The. CJF.168
+R:Jig
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:I have added the final rest to allow repeats to scan.
+N:”C J Fox” is written in the stave, after the tune. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+G|(Ge).dc2B|(AB).cG2G|G<ccd2G|(Bd)dd2G|!
+(Ge).dc2c|ABcG2G|Adc {c/}BAB|d3-c2||!
+d|dcB BAG|c2d e2g|gfe fAd|c3-B2d|!
+(dc).B (BA).G|c2de2g|gfe fdB|(B3c2)||!
+G|e2c {d/}cBc|f2d {e/}d^cd|B2g {a/}g^fg|e2c cBc|!
+e2c {d/}cBc|f2d {e}d^cd|dedB2G|e3cz|]
+
+X:169
+T:Greek,Dance,The. CJF.169
+T:Lord Byrons. CJF.169
+R:misc
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The comma in the title is in the MS. There is a quaver
+N:rest in the MS after the note marked * .The notes marked @
+N:are given as grace notes in the MS. The note marked & is a
+N:crochet (e2) in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:C
+g|{a/}(g^f).g ecg|{a/}g^fg =fdg|\
+{a/}g^fga2g|fdg d”*”c:||!
+G|GEc cBe|(d/e/d/c/B/A/) Gce|g3a3|d3ze2|!
+fef dag|g3gfe|def agB|(d2″@”e/”@”d/)c2||!
+g|g2″&”ec’2b|a2gf2e|def afd|c3{d/c/}B2g|!
+.g.e.g .g.a.b|(c’b).a (ga).f|(eg).g (dg).g|c3-c2|]
+
+X:170
+T:Pantaloon Quadrille, aka. CJF.170
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Just “Quadrille” in MS, but Very like Pantaloon Quadrille from the
+N:Thomas Hardy collection, – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=100
+K:D
+d2d|{e}dcde2e|d3f2f|g2ge2e|a2fd2d|!
+dcd f/e/d/e/f/e/|d3f2f|agf edc|d3||!
+a2a|gfef2f|e3d2e|d2e Bcd|cBAa2a|!
+gfe g/f/^e/f/g/f/|e3dfd|cec BAB|A2″$”||!
+f2d|Bcde2c|AcA FGA|Bcd {e}dcB|^A2Ff2e|!
+dfgg2g|efg fge|dec Bc^A|” $ D Capo””G3|]
+
+X:171
+T:Not a Drum was heard. CJF.171
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The pair of semiquavers marked with * are quavers in the MS.
+N:The last rest should be deleted for correct scansion. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:D
+D>D|G2G2G2 GG|A2F2G2 GA|B2BB B2BB|B2A2 z2DD|!
+G2GG G2G2|E2F2 G2GG|GcBA A2GA|A2G2z2A2|!
+A3A A ^G (=GA)|F2A2 Hc2 zc|G2GG G2GG|HE2 FF G2GG|!
+GcBA (AG)(GF)|A2G2 z2A2|A2A2 ^GA=GA|F3A c2d>c|!
+c2cc c2B2|B2A2 z2″*”DD|G2GG G2G2|AGFE D2DD|E3E F3F|!
+A2G2 z2DD|G2GG G2G2|AGFG HD2 DD|E3E F3F|A2G4z2|]
+
+X:172
+T:Smile again my Bonnie Lassie. CJF.172
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The first beamed grace notes interrupt a beamed quartet.
+N:The markings “a” and “e” appear in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:D
+d3ef3e|” a”dG3BA3|Be3g3f|{f2}e4z4|!
+d3″ e”d{de}f3e|d3AcB3|d2b2a3f|{e}d4z4|!
+e3ca3g|e3dcB3|B3Be3d|{d}c4z4|!
+e3ca3f|e3dd3c|\
+B4{g}f2He2{G2}|{B2}HA4z4{(ABcdef)} {(gfagec)}|!
+d3ef3e|dA3BA3|B3e{a}g3f|{f}e4z2A2|!
+B3cd3B|AF3Ad3|eb3Ha3c|{e}d4z4|]
+
+X:173
+T:Fly away pretty Moth. CJF.173
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”?” is in the MS, presumably indicating that the barline is not needed.
+N:- PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:G
+GG|B2BB d2dd|g6GG|A2ee d2cc|B4z2GG|!
+B2BB d2dd|g2GG G2FG|A2ed d2cA|G6FG|!
+A2AA A2GA|c2BB B2AB|c2eg f2ed|(c2B2)z2GG|!
+B2BB d2dd|g2GG G2FG|\
+A2ed df/” ?”e/|dc|{c}B6GG|!
+Bc/B/ ^AB d2c>d|g f/e/d/c/ B/A/ G2FG|A2ed d2FG|G6|]
+
+X:174
+T:Royal Charlie. CJF.174
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The note marked “*” is c3 in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:C
+E|c2Bc2d|e2fe2d|c2Bc2d|e3E3|!
+c2de2a|g2e{c/}d2e|{B/}c2A AGE|A3-A2B|!
+c2cc2d|e2ee2d|c2cc2d|{c/d/}e3E2B|!
+c2de2a|g2ed2e|c2A AGE|A3-A2||!
+B|c2A AGE|c2A AGE|c2A AGE|G3-G2B|!
+“*”c2de2a|g2ed2e|c2A AGE|A3-A2B|!
+c2A AGE|c2A AGE|edc dcB|cBA GFE|!
+c2de2a|g2ed2e|c2A AGE|A3-A2|]
+
+X:175
+T:Last Rose of Summer,The. CJF.175
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The grace notes in the first and last bars interrupt
+N:beamed pairs in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+“(Andante)”(G3/2{A/G/F/G/}A/)|B2g2{f}(e>d)|\
+(dB3)G>A|B2{d}(c>B) {B}(A>G)|!
+G4(G>A)|B2g2(e>d)|(dB3)G>A|B2{d}(c>B) {B}A>G|G2z:|!
+|:(d>B)|g2(g>f) {f}(e>d)|d2B2(d>B)|g2(gf) (e>^d)|\
+e2( {f/e/^d/e/)} ({fa)}Hg2(G>A)|!
+B2g2(f>e)|(dB3)”~”G>A|B2{d/}(c>B) “tr”A{G/A/}G|G4:|
+
+X:176
+T:Draw the Sword Scotland. CJF.176
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=75
+K:G
+B>AB>cd2g2|e2g2d2g2|B>AB>cd2g>f|e>dc>BA2g>a|!
+b2a>ga2d2|g2e2d2B>g|b2a>g ad2g|e>gf>ag2zg|!
+g2f>ef2^d2|e2c2B2A>A|B>AB>cd2g>a|b2a>ga2zg|!
+bbaga2d2|g2e2d2B>B|BABc dHg2g|e>gf>aHg2z2|!
+B>AB>cd2g2|e2g2d2g2|B>ABcd2g>f|e>dc>BHA2z2|!
+b2a>ga2d>d|g2e>eB2G2|B>AB>c dHg2e|e>gf>ag2z2|]
+
+X:177
+T:Oh!Balmy breeze that fans the Seas. CJF.177
+T:Balmy breeze that fans the Seas,Oh!. CJF.177
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:Bb
+” Andante”F|B2d (def)|ecA FGE|DFB BAB|d2c c3|\
+ecA fed|dBb gec|B2B {B/}AGA|B3- B2″$”|!
+|:”p”F|”Song”B2d d2f|e2c c2A|B2d e>fg|(d3 c)zF|\
+e2d cde|fdb gec|B2B (c<fA)|B3- B2:|!
+|:(A/B/)|c2c f=ed|dcc c2A|B2c (dc)B|(B3 A2)(A/B/)|\
+c2c f=ed|c2b b2g|{f/}=edc cde|Hf3 z2F|!
+B2d d2f|e2c c2A|B2d e>fg|(d3c)zF|\
+e2d cde|(fd).b (ge)c|B2B (c<f)c|B3- B2:||!
+“Sym:”d|ecA fec|(dB).b (ge).c|B2B {B/}AGA|B3- B2|]
+
+X:178
+T:Maid of Orleans,The. CJF.178
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+G>AG G>AG|G>GG B2d|cdd dBG|FAA A2B|\
+G>AG G>AG|G>AG B2d|c>de dBG|DGG G2zH||!
+gbg faf|ege def|gdB {c/}BAB|(d^c=c)A2d|\
+gbg faf|ege def|gdd ecc|dBB cAA|!
+G>GG B2d|g3 d2B|A>BA c2f|a3 f2a|\
+bgg {a/}gfg|efg a2g|(fd).g (ec).f|\
+(dB)e|” D Capo”(cA).d|]
+
+X:179
+T:Anacreon in Heav’n. CJF.179
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Note marked “*” is f/4 in MS. I suspect we will find
+N:similar tunes in USA MSs. – PJH…? sounds more like 3/4
+N:to me, 18thC opera etc.. CGP.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/4
+L:1/4
+Q:1/4=120
+K:D
+D/D|DFAd2f/e/|dFGA2A|fedc>Bc|d2A/G/F/D3/2D|!
+DFAddf|dFGA2A/A/|f>edc2B/c/|d<dAFD”*”f/2|!
+f<gaa2g/f/|efgg2(f/e/)|fedc>Bc|dFGA2A/A/|dddB<BB|!
+eg/f/ e/d/{d}c2A|d>e f/g/afd|d/e/fe/d/d2A/A/|!
+dddBBB|e>fe{d}c2A|d>e f/g/afd|d<fe/d/d3|]
+
+X:180
+T:Love’s Delightful Hour. CJF.180
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the title line is “Harts 12th Set”.
+N:”C J Fox 1830″ is in the stave, after the tune. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=100
+K:G
+B3cd2g2|e2g2d4|e2(ba) (gfed)|(d4g2)H||
+” f”A2|{^c}d2{c}d2{^d}e2{d}e2|f2(af) (d2^d2)|e2(fe) (d^c)(BA)|\
+e2(fe) d2A2|!
+{e}d>^cd>f {f}e>^de>g|f>ga>f (d2^d2)|\
+e>fg>b {b}a>g{g}f>e|{e}d>^cd>e (d=c)(BA)|!
+“p”B2c2g4|d3B {d}c>Bc>A|B2g2 (agfe)|d3B {d}c>Bc>A|
+B2g2 (agfe)|d>gb>g {b}a>g” D Capo :$:”a>b|g6d2|]
+
+X:181
+T:Waterloo Medal,The. CJF.181
+R:Air
+C:”by T.H.Bayly”
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the title line is “by T.H.Bayly Esq.” and in the
+N:stave at the end of the tune is “C J Fox”. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=60
+K:G
+G>B|d2e>dg2Be|d2(d/c/) B/c/B3B|\
+(BA) G (e/d/) dc2B|A2ABA3G3/4B/4|!
+d2ed gB2e|d2dcB2BB|A2fe ed cB|(BA) GFG2zA|!
+d2ddd^c2c|=c2dcB3B|B2^c ddA3|fe d ^cHd3d|!
+e2dcB2dd|{f}e2dcB2Bd|d2ed cB2B|Ae dcB2B>B|!
+d2ed dc2(B/A/)|” ad lib:”GB BA G3z|]
+
+X:182
+T:England the Home of the World. CJF.182
+T:Downfall of Paris, aka. CJF.182
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Similar to Downfall of Paris in e.g. Thomas Hardy MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=100
+K:C
+c2 cd c2 cd|c2 cd (fe) dc|d2 de d2 de|d2 de (gf) ed|!
+e2 ef e2 ef|e2 efr (ag) fe|d2 de d2 de|d2 dc B2 hgB|!
+c2 cd c2 cd|c2 cd fe dc|d2dc d2 dc|d2 de (gf) ed|!
+e2 dc g2 gf|fe dc g3 f|(fe) dc g2 fd|c4z4|!
+“pp”e6ee|f2e4e2|(e2f2) e2d2|d2c4d2|\
+d4d2d2|e2d4d2|(a2f2) d2c2|c2B4c2|!
+d4g2 B2|A4c2e2|e2d4c2|B6d2|\
+g4d2B2|A4c2e2|d4e2f2|Hg8|!
+c2 cB c2 cB|c2 cd (fe) dc|d2 de d2 de|d2 de (gf) ed|!
+” f”e2 dc g3f|(fe) dc g3f|(fe)dc Hg2 fd|c4z4|]
+
+X:183
+T:Market Chorus in Masaniella,The. CJF.183
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:None of the Triplets are marked with a figure 3 in the MS. The two
+N:latter sections are like “Davy, Davy Knick-knack”. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=100
+K:D
+A2″$”|A2f2 f2ef|e2ce d2cd|c2B2 B2cd|(f2e2).A2.A2|!
+A2f2 f2ef|e2fe d2c2|\
+(3B^AB (3gfe (3dcB (3ABc| (3dcd (3f^ef d4″ for”||!
+A2|A4d2f2|A4d2f2|agfg cded|agfg cded|!
+A4d2f2|A4d2f2|agfg egfe|d2f2d2″$ for”||!
+D2|D4GABG|D4GABG|d=cBc ^GABA|d=cBc ^GABA|!
+D4G2B2|D4GAB=c|d=cBc AcBA|G2B2G2|]
+
+X:184
+T:Rose that’s ceas’d to Blow,The. CJF.184
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The last two bars really do have all those notes. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=60
+K:Bb
+“Moderato”(de)|f3de3c|B3cd3e|f2b2 (agec)|\
+B3dcB A2c2|d3d=e3e|f3ga2f2|d2g2 c2d=e|f4||!
+de|.f2.b2.f2.b2|(f/g/f/e/ d/e/d/c/) B2f2|\
+e(c’/b/ a/g/f/e/) d(b/a/ g/f/e/d/)|(c/d/c/B/ A/B/A/G/) F2de|!
+(fdba) (gfed)|(ecag) (fedc)|Bdfd Acec|d2e2{de}f2g2|\
+.f.f.f.f .a.a.a.a|bz gz fz az|bz gz fz az|!
+bz gz” Ad lib:”Hf4(g/f/e/d/) (c/B/A/G/ F/^F/G/A/)\
+(B/c/d/e/) Hf2=e2_e2d2 hc2 B2dc|B4z4|]
+
+X:185
+T:Quadrille. CJF.185
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The note marked “?” has no dot on it – the rising stick ends
+N:at B, but I have used the same three notes as bar 4.
+N:The note marked “*” has a mark on its tail, and COULD just be
+N:interpreted as a dotted quaver (c’3/2).The lead note for the
+N:last section has been left as in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=65
+K:C
+(c/” $”d/)|(e>”?”dc) Gcd|e>dc Gcd|e>dc g>fe|\
+dfed2(c/d/)|!
+(e>dc) g>fe|c’bag2(e/f/)|\
+g (f/^f/g/f/) gab|”*”c’3c’2H||!
+(B/c/)|\
+ded dgb|ded dgb|dgb dgb|d’^c’=c’a2(A/B/)|!
+c>dc c^fa|c>dc cag|^fed def|.g(ba) g^f” $”=f||!
+e|(a2e)(c’2b)|a^ga ea=g|fed dcB|^GABE2e|!
+a2ed’2b|a^ga e=fe|cBf fe^GA3A2|]
+
+X:186
+T:Quadrille. CJF.186
+R:Quadrille
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A” $”|f2f d2d|A2A d2c|B2B e2d|cBc Ade|!
+f2f d2d|A2A d2c|Bed cBc|e3 d2||!
+c/d/|e2e ede|f2f fdc|B2B e2d|cBc Acd|!
+e2e ede|f2f fdc|B2B e2e|” D. Capo $”A2B cde|]
+
+X:187
+T:Rest Warrior Rest. CJF.187
+R:Air
+C:”(by M. Kelly)”
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”(by M. Kelly)” is in the title line. Omit the last
+N:rest for correct scansion over repeat plays. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=60
+K:G
+G|B>A GG DG|B>A GG2G|B>c BB2A3/4G/4|A c BA2D|!
+B>A GG DG|B>A GG2(G/A/)|BB Ac cB|A>G AG2z|!
+A3B3|c>d cc BA|B>c BB (A>B)|cd cB AG|!
+A ddd2G/A/|B>c BB AG|B>c BB GA|BB d d>c B|!
+A G AG2z|G3 D2D|G2z z2z|B3(AG) A|G3- G2z|]
+
+X:188
+T:Allice Gray. CJF.188
+R:misc
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the bar mrked ‘ritard’, the triplet is beamed
+N:with the F2 quaver. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/16
+Q:1/4=80
+K:G
+“(Moderato)”Bc|d3Bg3e|d2B2 B2B2|A2ag fedc|\
+c4B2 dB|G3A B3c|d2g4g2|f2e2 d2^c2|d4z2||!
+d2|d3e d3c|B3ce3f|g3B {B2}A3G|”ritard”G4F2(3(dcA)|\
+G3A B3c|dd3z2cB|A2ag fedc|c4B2dd|!
+efge fgaf|ghb3 g2g2|a3ga3b|g4z2″Sym:”dd|\
+efge fgaf|g3ab3d’|b2b2 {b}a2b2|gdBdG4|]
+
+X:189
+T:Lorayda. CJF.189
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”Sung by Miss Paton” is in the title line.
+N:”C J Fox 1831″ is in the stave, after the tune. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C|
+L:1/8
+Q:1/2=30
+K:F
+(c>B)|(Af) ed (dc) AA|cB AGF2EG|\
+c2 c2 (d/c/=B/A/)G2cd|e2dd c2c>_B|!
+(Af) ed dc2A|(cB) AGF2E (A3/4B/4)|cfe2c/B/ G|\
+F2A>GF2z2|c’/b/g/e/ (=B/c/d/c/)f2zG|!
+e2f>=Bc2c>d|e2f>=B dczc|c>=B c>A (Gc) ce|\
+(ed) c=Bc2zc|(c>f) Ac cB B>B|(B>d) Gc BA (c>B)|!
+(Af) ed cHc (F>G)|\
+(A>G) cB (BA) (c>B)|(Af) ed cc (c>B)|A/ cz/ BGF2z2|]
+
+X:190
+T:Marian Gray. CJF.190
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”Companion to Alice Gray” is in the title line. It is not
+N:clear in the MS whether the notes under “ad lib” are grace
+N:notes. The second bar marked with a tilde (~) sounds
+N:better with the c notes sharpened. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=85
+K:D
+D|F3GA3d|f3ed2B2|A2F2G2E2|”~”(F3G)A2zD|\
+F3GA3d|f3e{e}d2{c}B2|!
+A2F2G2C2|D3{FE}Dz4|G3F E DzF|B2(AB)e2zB|\
+c3c”~”B2(cd)|A2{c}B2A2HA2″ ad lib.”{^G=G}|!
+F3GA3d|(fe) (dc){c}HB2(cd)|\
+(dF) F”~”>G{B}A2{G/F/}E2|D3{F/E/}Dz4|]
+
+X:191
+T:Waltz. CJF.191
+R:Waltz 48
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:G
+d4g2|b4g2|f2e2f2|g2b2d’2|\
+d4g2|b4g2|f2e2f2|g4:|!
+|:g2|fad’a fa|gbgd Bd|dcBc AF|GBdg ag|!
+fac’a fa|gbgd Bd|dcBc AF|G4:|!
+|:b2|(d’2c’2).a2|(d’2b2).a2|(d’2c’2).a2|d’4a2|!
+(d’2c’2).a2|(d’2b2).a2|bac’afa|g4:|
+
+X:192
+T:Glasses sparkle on the Board,The. CJF.192
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”C J Fox” is in the stave after the tune. The grace note
+N:run two bars from the end is written over a Quaver rest in
+N:the MS. The first four notes in bar 6 are semiquvers in
+N:the MS (e/d/)(c/B/). I have inserted the bar line just
+N:before the “cresc” marking. In the bar marked “p”, the
+N:beamed notes were quavers in the MS (ed). – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:1/4=100
+K:D
+” Bold f”A2|d2A2f3e|{e}d2cBA2dc|B2d2(ag)(fe)|!
+d3(e/d/)c2A2|f2(ed)e2A2|”6″(ed)(cB)c2ac|B3f edcB|A6|!
+a2|” cres”A3B cdef|g2G2F2zA|B2d2(ag)(fe)|d3(e/d/)c2z”p”A|
+d3cB2cd|e3dc2de|f3ed2ef|g2f2He2A2|” f”.d2.c2.B2.A2|!
+((3GAG) ((3FGF)E2B2|e2d2c2B2|((3ABA) ((3GAG)F2A2|\
+a3gf2e2|!
+d3c (dHb) ({a/g/f/e/}{d/c/B/A/)} F|\
+(GF).G.E”tr”A3A|D6|]
+
+X:193
+T:Pilot,The. CJF.193
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The last two notes of the first bar are shown as beeamed
+N:quavers [DB] in the MS, but there are clear signs of an
+N:attempt to erase the beam, so they are given here as
+N:crotchets [D2B2].
+N:The last note of the tune is G4 in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=100
+K:G
+D2|D3D D2B2|B3A G2zG|EG3 (AG) (FE)|\
+D6 zD|D3D (G2B2)|B3A G2B2|A2(DE )(F2E) D|D6 zD|!
+A3G F>E D>C|B,3C D2zG|(E2G2) {d}c2(BA)|\
+(G4 F2)D2|D3D D2B2|B3A G2B2|D3D E2F2|G6|]
+
+X:194
+T:Waltz. CJF.194
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”from Walton” is in the title line. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=75
+K:Eb
+g2^f2g2|b4g2|f2=e2f2|g4e2|\
+g2^f2g2|b4g2|f2b2d2|e4||!
+g2|g2g^fgf|g2e2d2|c2e2d2|c2G2G2|\
+g2g^fgf|gagfed|c=BcedB|c4||!
+G2|G2(G=Bdf)|G2(G=Bdf)|=e2d2c2|c2e2d2|\
+G2(G=Bdf)|G2(G=Bdf)|c2d2_e2|=e2=f2^f2|]
+
+X:195
+T:Waltz. CJF.195
+R:Waltz jig
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/8
+Q:3/8=45
+K:G
+“p”(B/c/)|d2d|d(gf)|{f}e2e|.e(c’b)|\
+{b}a2a|.a(d’f)|(ag).g|g2:|!
+|:B|(e^d).d|(fe).e|(gf).f|(ag).g|\
+.e.f.g|d2B|(dc).A|G2h:|!
+|:d|.g.f.g|.b.a.^g|.a.b.c’|\
+(e’d’).b|.g.a.b|.a.b.c’|.d'(df)|g2:|!
+|:” f”d|(a^ga)|(^ab).g|(ac’).f|.g.b.d’|\
+.a.b.c’|”p”(^c’d’).b|” D Capo”(d’c’).a|g2:|
+
+X:196
+T:Waltz. CJF.196
+T:Mozart Waltz. CJF.196
+R:Waltz
+C:Mozart
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:You will need to add your own lead-notes to the A &
+N:B musics to get the scansion correct. “Mozart” is in the
+N:title line. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=80
+K:G
+“p”{e/}(d2^c2d2)|{d/}b4g2|{a}(g2f2g2)|(^g4a2)|\
+{d}(c2B2c2)|{c/}c’4f2|{a/}(f2e2f2)|g4:|!
+|:{a/}g2f2e2|f2^d2b2|{a/}g2f2e2|f2^d2B2|\
+{a/}g2f2e2|.=d2(g2b2)|(d’2c’2f2)|g4:|!
+|:” f”(Bc)|(dBbagf)|(ecc’bag)|(fdd’c’ba)|\
+(^ab)(fg)(Bc)|(dBbagf)|ecc’bag|fdd’c’ba|g4:||!
+(AB)|”p”(dc)A2(Bc)|(e2d2)(AB)|dcA2(Bc)|\
+(e2d2)(Bc)|(dBbagf)|(ecc’bag)|(fdd’c’ba)|g4|]
+
+X:197
+T:French Waltz, A. CJF.197
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”C J Fox” is written in the stave at the end of the tune. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/32
+Q:3/8=55
+K:F
+(cf3a)|c’6 (bg3a)|f4 z3cf3a|(g3f)(e3f)(b3a)|a3g z3cf3a|!
+a6 (bg3a)|f4 z3cf3a|g3fe3dc3=B|c4z3:||!
+ce3g|b3az3cf3a|(c’3b)z3ce3g|(b3a)z3cf3a|c’3b z3ce3g|!
+b3a z3cf3a|b3ag3fe3d|c3=Bc3de3c|f4″ Fine”z3:||!
+“Minore”Ad3f|a4a4a4|.b4(b4a4)|^g8a4|e4 z3A=B3^c|!
+d4d4d4|_e6bg3_e|d4d3f e3^c|d4 z3:|!
+|:fe3d|^c3c z3gf3e|d2d2 z3fg3a|b4a4^g4|a4 z3A=B3^c|!
+d4d4d4|_e7bg3e|d4d3ge3^c|d4” D.C.”z3:|
+
+X:198
+T:Ausberg Waltz. CJF.198
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=45
+K:C
+“tr”g>e c’2 a>f|”tr”g>e c2 e>g|fdBdce|”tr”d>B G2 e>f|!
+“tr”g>e c’2 “tr”a>f|”tr”g>f c2 (eg)|(fdBG) (A<B)|c4h:|!
+|:e>c|d>B G2 f>d|e>d c2″tr”g2|(^fgabc’a)|”tr”g4e>c|!
+d>B G2 f>d|”tr”e>d c2g2|(^fac’agf)|(gag” D.C”fef)|]
+
+X:199
+T:Villager’s Waltz,The. CJF.199
+R:Waltz
+C:Carl Maria von Weber
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”(Der Freischutz)” is written on the title line. “C J Fox
+N:1831″ is on the stave after the tune. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=90
+K:G
+(DGB|edB)(DGB|edB)(DGB|dcA)(DFA|cBG)(DGB|\
+edB)(DGB|edB)(DGB|dcA)(DFA|G3)||!
+K:D
+(Ade|baf)(Adf|baf)(Adf|ag)e(Ace|gfd)(Adf|\
+baf)(Adf|baf)(Adf|age)(Ace|d3)||!
+(dgb|e’d’b)(dgb|e’d’b)(dgb|d’c’a)(dgb|c’bg)(dgb|\
+e’d’b)(dgb|e’d’b)(dgb|d’c’a)(dfa|g3)(GBd)|!
+g3{(a/g/f/g/)}(dgb|d’c’ad’c’a)|\
+d3{(e/d/^c/d/)}(dfa)|(c’bgc’bg)|\
+d3(dgb)|(d’c’ad’c’a)|(dcAdcA)|G3|]
+
+X:200
+T:My own Blue Bell. CJF.200
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=90
+K:Eb
+E|G2AB2E|G G AB2B|B A A (AG) G|\
+(e>c) (A/F/) (ED) (E/F/)|G2A B E F|!
+G2AB2e|e d c c B G|(BA) F (G>B) e|\
+f e c c B G|BA FE2z||!
+G|F2=AB2d|F G =AB2F|e d c d c B|\
+(dc) B”tr”B{=AcB}h=A F|f2de2c|!
+d d B Hc F F|F =E F f _e d|\
+c B cHB2″~”B/ ” ad lib”{c2d2e2f2g2a2f2d2B2A2F2D2B,2\
+.f2.e2.d2.c2.B2} ^A/=A/|!
+G2A{c/}B2{d/}E|G G A{c}B2B|B A A (AG) G|\
+(e>c) (A/F/) (ED) H(E/F/)|G2A BD E|!
+G2AB2e|e d c cB G|(BA) F (GB) e|\
+f e c c B G|” ad lib:”BHA FE2z|]
+
+X:201
+T:Waltz. CJF.201
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:G
+D2|G3BdB|e3cA2|.D.E.F.G.AB|(cB)(ed)d2|\
+G3BdB|e3cA2|FAcAFA|G4:|!
+|:Bd|(dcBc).A2|(cBAB).G2|(dcBc).A2|d3BG2|\
+(dcBc).A2|(cBAB).G2|BAcAFA|G4:|!
+|:d2|(dg)(fedc)|(Bd).G2.G2|(FAcA)(FA)|(GB).d2.d2|\
+(dgfedc)|(Bd).G2.G2|(FA)cA(FA)|G4:|!
+|:G2|(FA)cA(FA)|(GB)dB(AG)|(FA)cA(FA)|(GB).d2.d2|\
+(dgfedc)|(Bd) .G2.G2|(FAcA)(FA)|G4:|
+
+X:202
+T:Ladies God bless them,The. CJF.202
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=90
+K:F
+“Vivace”(c/A/)|\
+F>GA f>gf|(e>dc )f2c|(df).d (cA).d|G3- G2(A/G/)|
+(F>GA) (f>g)a|fdd d2(e/f/)|gec Ged|c3- c2:||!
+c|(f>ef) (g>fe)|f>ed c2B|(A>Bc) fcA|AG2 z2G|A>GF cAc|!
+fag hf2g|afd cde|\
+gf2 z2f|f2f f2f|Ha3{(a/g/)}(b/a/g/f/e/d/)|(c>dc) cde|gf2z2|]
+
+X:203
+T:Oh! Then dearest Ellen. CJF.203
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The bar marked with an asterisk has a bar line in the
+N:middle, in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:6/8
+L:1/8
+Q:3/8=50
+K:D
+“p”a/g/|fdA B<ed|c>BA d<f” f”a|g>ag f>ga|\
+b>B{f/}e {d}c2a/g/|{g}f{e}dA B<ed|c>BA (d<f)A|!
+(B/c/)(d/e/)(f/g/) a<f g/e/|d>ec{e/}d2a|c>dB{B}A2(d/c/)|\
+(B/A/)(B/G/)(e/d/) (c/B/)(c/A/)(f/e/)|!
+(d/c/)(d/B/)(g/e/) e<HA A/G/|\
+(F<A) (d/e/) f<a (g/e/)|d>ec”*”d2d|\
+g>abHa2d|d>cB c<He A/G/|F/A/d/f/a/f/ b>HB g/e/|d>ecd2|]
+
+X:204
+T:Arrow Waltz,The. CJF.204
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:C
+G2|c2{d’}c’2G2|A2{^g}a2E2|F2D2B2|c2e2 G2|\
+c2{b}c’2 G2|A2{^g}a2 E2|(FE).F.G.A.B|c4:|!
+|:e2|” cres:”.f2.d’2f2|.e2.c’2 e2|\
+d2G2g2|e2c2 e2|.f2.d’2 f2|e2c’2 e2|d2b2g2|c’4:|!
+|:g2|.a(cBc).a.c|.g(cBc).g.c|(fe).f.d(cB)|(cdefg^g)|!
+.a(cBc).a.c|.g(cBc).g.c|(fe).f.d(cB)|c4:|!
+|:” f”c’2|(bd’)(bg)(fd)|(cdef)(ag)|(Bcde)(gf)|\
+(^d2e2) c’2|!
+(bd’).b.g(fd)|(cdef)(ag)|(fe)(dc)(Bd)|c4:|
+
+X:205
+T:Robber’s Waltz,The. CJF.205
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The beamed grace notes interrupt a beamed pair of quavers.
+N:The note marked * is given as a semiquaver in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:A
+c>B” f”|A2a2 c>B|A2a2 c>B|A2a2g2|f4d>c|\
+B2b2 d>c|B2b2 (ab)|.c’2(c’a)(bg)|a4:|!
+|:e2|(ed)(dc)(cB)|A2a2g2|(gf) (fe) (ed)|c2{dc}B2 e2|\
+(ed) (dc) (cB)|A2a2g2|f2b2g2|a4:|!
+|:(ab)|.c’.a.e.cA2|.c’.a.e.cA2|B2f2e2|d2{e>d}c2 (ab)|\
+.c’.a.e.cA2|.c’.ae.cA2|.B2(b2g2)|!
+“*”a2AAAA|.B2(e2d2)|c2.A.A.A.A|.B2(e2d2)|\
+c2A2e2|c2A2e2|c2A2g2|a2A2A2|A4|]
+
+X:206
+T:What’s more pleasing to the Eye. CJF.206
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:I do not know why the key signature is not G. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=180
+K:C
+e2e2|d2d2|c2(ec)|G2z2|\
+f2e2|d2c2|B2c2|(d3^d)|!
+e2e2|d2d2|c2(ec)|G2z2|\
+A2A2|G2c2|(ed) (cB)|c4H||!
+B2G2|d3c|B2G2|D2z2|\
+c2B2|e2d2|^F2G2|A2z2|!
+A2A2|B2B2|c2d2|e2z2|\
+d2c2|(Bg) (ec)|(B2″tr”A3/2) G/|” D.C.”G4H|]
+
+X:207
+T:I stood amid the glitt’ring throng. CJF.207
+R:Air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:C
+L:1/8
+Q:2/4=80
+K:A
+E|c2c2 c3e|(B>^A) (B>c)=A2zA|\
+{e/}d3c {c}B3A|(G>A) (B>c)B2zE|!
+c3c c3e|(B>^A) (B>c)=A2zA|\
+A2G2 (F^d/c/ B/A/) (G/F/)|(EcB) ^DE2z|!
+G2G> A{c}B3c|{e}d3B {A}G2zE|\
+(c>B) (A>G){G}F3F|(Fd2)c Hc2HB(3E/F/G/|!
+(A>E) (C/E/A/c/)B2zB|(B>G) (E/G/B/d/){^B}c2zA|\
+d2(e>f) e2(A>B)|(c3d/c/) HB> AA2z2|]
+
+X:208
+T:My heart is sair. CJF.208
+R:air
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:2/4
+L:1/8
+Q:1/4=110
+K:F
+C|F> A c> A|G> F G> A|F> F f> c|d> c Az/F/|\
+F> A c> A|G> F G z/A/|F> D D>C|c> A F2||!
+d2B> d|c> A F2|B2 A> F|G> E C2|\
+F> A G> B|A dHc2|F> D D> C|c> AF2|]
+
+X:209
+T:Clarence Waltz. CJF.209
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the empty stave at the bottom of the page is
+N:”C. J. Fox. Beverley”. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+H:CGP..Not sure what’s happening here and don’t have the MS
+N:to hand..May be all one tune (sounds all right when played
+N:on PlayQ) and that would explain the reurn to K:F at the
+N:end, but may be two separate tunes plus a Barfly glitch.
+N:J.Adams has a copy to refer to if required..
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:F
+c2|.f2(fe).f2|(c2f2).f2|(b2g2)g2|c’2a2c2|\
+.f2(fe).f2|(a2f2).f2|ga(gfed)|c4:|!
+|:” cres:”c2|.c2(bg)e2|c2c’af2|.c2(bg).g2|
+(f2a2) c2|.c2(bg).e2|.d2(c’a).f2|g2{a}(gf)(ga)|f4:|!
+K:Bb
+|:f2|f2d2b2|(a2g2f2)|_e2(d2c2)|d2e2=e2|\
+(f2d2)b2|(a2g2f2)|(f2e2c2)|B4:|!
+|:d2″ f”|e2c2a2|b2d’2 d2|e2c2a2|b4f2|f2d2b2|\
+(c’bagfe)|(dB)(ag)(ec)” D Capo”|{A}B4:|
+
+X:210
+T:Saxon Waltz,The. CJF.210
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The asterisk-marked note is omitted in the MS. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=50
+K:C
+” Allegro p”(GA)|.G2(c2e2)|.G2(d2f2)|.G2(e2g2)|(f2d2).B2|\
+.G2(c2e2)|A2(d2f2)|.B2(d2g2)|c4:|!
+|:g2|.c’.g.e.c.G.E|A2a2 A2|B2b2 B2|c2c’2 d2|\
+.e’.c’.g.e.c.G|A2 (a/g/f/e/) (d/c/B/A/)|\
+G2 (g/f/e/d/ c/B/A/G/)|{G}c4:|!
+|:(ef)|.g.c(Bc).g.c|.a.c(Bc).a.c|.g.c(Bc).g.c|.d.B.c.d.e.f|\
+.g(cBc).g.c|.a(cBc).a.c|(bab).g.a.b|c’4:|!
+|:de|.f(G^FG).=f.B|.e(G^F”*”G).e.G|\
+.d.G.e.G.f.G|.e(cBc).d.e|\
+.f(G^FG).=f.G|.e(G^FG).e.G|.d(G^FG).d.G|c4:|!
+|:g2|(g2c’2).g2|ecGEG_B|(A2a2).c2|(cB)(AG).A.B|\
+.c(e/d/) .e(g/^f/) g^G|.A(f/e/) f(a/^g/)aA|.B(g/^f/) .g(ba) b.g|c’4:|
+
+X:211
+T:Miss Denison’s Waltz. CJF.211
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:There is a note beneath the stave. “D.C. & Finish
+N:with Second part.” – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=50
+K:G
+“p”(Bc)|.d2(dg) Bc|.d2(dg) (Bc)|(d2g2b2)|a4(de)|!
+.f2(fa) (de)|.f2(fa) (df)|g2(gb)(fa)|g4:|!
+|:” f”(fg)|.a2(af)(df)|.a2(af)(df)|.g2(gb)(ac’)|b4(^de)|!
+“p”.f2(f^d)(Bd)|.f2(f^d)(Bd)|.e2(eg)(f^d)|e4(Bc)|!
+” cres:”.d2(dg)(Bc)|.d2(dg) (Bc)|(d2g2b2)|a4(de)|\
+.f2(fa) (de)|.f2(fa) (df)|.g2(gb)(fa)|g4h||!
+” Dol.”(g2|\
+d4)(g2|B4)e2|.A2(e2d2)|(c2{dc}B2)(g2|d4)(g2|\
+B4)e2|.A2(e2d2)|G4:||!
+” f”g2|f>ga>fd>f|\
+(g/f/g/a/ g/f/e/d/ c/B/A/G/)|f>ga>fd>f|g2G2 g2|!\
+f>ga>fd>f|(g/f/g/a/ g/f/e/d/ c/B/A/G/)|f>ga>fd>f|!
+” Dol.”g4(g2|d4){f}(g2|B4){^d}e2|\
+.A2(e2d2)|(c2{dc}B2) (g2|d4){f}(g2|B4){^d}e2|.A2(e2d2)|G4|]
+W:”D.C. & Finish with Second part.”
+
+X:212
+T:Miss Dering’s Waltz. CJF.212
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”C J Fox” is written after the tune, on the stave. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:G
+(dB)|G2G2 (dB)|G2G2 AF|D2D2D2|G4A2|\
+(B2G2).d2|(A2F2).d2|(G2E2)^c2|d4:|!
+|:fg|(af).d2.d2|(bg).d2.d2|c’2(c’a)(bg)|a4(fg)|\
+(af).d2.d2|(bg).d2.d2|(c’b).c’.a.f.d|g4:|!
+|:d2|(gf).g.d.B.d|(gf).g.d.B.d|g2(gb)(ac’)|b2g2 d2|\
+(gf).g.d.B.d|(gf).g.d.B.d|.g2(gb).a.f|”*”g4:|!
+|:d2|(d2B2).B2|(e2c2).c2|(c2A2).A2|(d2B2).B2|\
+.d2.d2 (gf)|e2e2 ag|f2d’2f2|g4:|
+
+X:213
+T:Lennox Waltz. CJF.213
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:D
+(Ad)|.f2.f2 (Ad)|.f2.f2 ef|(gf)(ed)(cd)|e2A2 (Ad)|\
+.f2.f2 (Ad)|.f2.f2 (ef)|(gf).g.e(dc)|d4||!
+(fg)|(af)(ba)(gf)|g2e2 ef|(ge)(ag)(fe)|.f2.d2 (Ad)|\
+.f2.f2 (df)|.a2.a2 (AB)|(cd).e.f.g.a|d4||!
+A2|(A2d2).c2|(B2e2).d2|(c2a2).g2|(g2f2) A2|\
+A2(d2c2)|B2(e2d2)|(dc)(ag)(fe)|{c}d4|]
+
+X:214
+T:Liecester Waltz,The. CJF.214
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”C J Fox” is written in the stave at the end of the tune.
+N:The spelling of the title is as in the MS. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:D
+“p”A2|(dc)d>ef>e|(dc)d>ef>d|(e^d)e>fg>e|(dc)B>AB>c|\
+” f”(dc)d>ef>d|(e^d)e>fg>e|(dc)dfec|d4:|!
+|:” f”a2|(a2d’2)f2|d4f2|(ed)c>de>f|.g2.e2 a2|\
+(a2d’2f2)|d4f2|(ed)e>fg>e|d4:|!
+|:”p”A2|A>GF>GA2|B>AG>AB2|c>BA>Bc2|d>ef>ga2|\
+A>GF>GA2|B>AG>AB2|c>BA>Bc>A|d4:|
+
+X:215
+T:Waltz. CJF.215
+R:Waltz
+C:”(Schulx)”
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the title line is “(Schulx)”. The last line of the
+N:middle section is given as e4 in the MS, but with the
+N:letter “c” above it. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:C
+“p”(e4c2)|G>c .e2.g2|(d4B2)|(GB)(df)(ag)|\
+(e4c2)|G>ce>cg>e|{e}d2d>cd>e|{d}c4z2:|!
+|:”p”(d4B2)|(GBdfa)g|(e4c2)|G>ce>c {G}g2|(^fgab)(c’b)|\
+(ag)^fdef|.g2{ag^f}gba^f|(g^g)(ba)(fd)|” f”(e4c2)|!
+(G>c) .e2.g2|(d4B2)|(GB)(df)(ag)|(e4c2)|\
+G>ce>cg>e|{e}d2d>cd>e|” Fine Dolce”c4|!
+|:c2|a3gf2|{efg}f3ed2|.^c2.c2.c2|(^c2d2) (fd)|\
+c2_B2A2|(Gd)(c_B)(AG)|F4A” D Capo”G|F4:|
+
+X:216
+T:Bremen Waltz,The. CJF.216
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=60
+K:C
+“p”G2|\
+c2c2c2|(ce)G2G2|(df)G2G2|(eg)G2G2|!
+c2c2c2|(cd)(ef).g.e|(ag)(fe).d.c|.B2.d2:|!
+|:(^fg)|G2G2(=fg)|G2G2de|(fe)(dc)(BA)|G2g2(^fg)|!
+G2G2(=fg)|G2G2de|fefdcB|c4:|!
+|:G2|” f”.G.c.e.gc’2|.e’.c’.g.ec2|(fe).f.d.B.G|.c2.e2″~”G2|!
+.G.c.e.gc’2|.e’.c’.g.ec2|(df) (Bd) (GB)|” Fine”c4:|!
+|:” f Minore”a2|(AB).c.de2|(fe).d.cB2|(ed)cBA2|.B2.E2e2|!
+” f”(AB).c.de2|(fe).d.cB2|(dc).B.A^G2|” D.C.”A4:|
+
+X:217
+T:Tempo Waltz,The. CJF.217
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:At the “1” mark, the beamed pair appear on the MS to have
+N:been semiquavers, but with an attempt to scratch out one
+N:of the beam bars. They are therefore shown as quavers. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=45
+K:G
+“p”(fg)|G2 (dB) c2-|cA (dc) (F2|G2) (fg) bg|”1”.f2.a2 (fg)|!
+“p”G2 (dB) c2-|c.A (dc)(AB)|G2 (dB)(cA)|G4:|!
+|:” f”d2|(dc) a2 (.Ac)|(Bd) G4-|G3cAF|G2g2 d2|!
+dc a2.c2|cB g2 A2|A3ecA|G4:|!
+|:B2|(BG) (fg) G2|(AF) .D2.c2|.B2GB(dB)|(Ac)(ec)(Ac)|!
+(BG) (fg) G2|(cA) (^ga) A2|(dB)(ec)(fd)|g4:|
+
+X:218
+T:Waltz. CJF.218
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/16
+Q:1/4=100
+K:G
+“p”d2|.d2.d2.d2|.d2(dB)g2|.e2.e2.e2|.e2(ec)g2|\
+d2b2a2|g2f2e2|d2c2B2|A4d2|!
+.d2.d2.d2|.d2(dB)g2|.e2.e2.e2|e2(ec)a2|\
+(fagfed)|cedcBA|GFEDEF|G4H||!
+” Fine”AB|c2A2F2|d4c2|(B2G2)f2|(g2b2) AB|\
+(c2A2).F2|d4c2|(B2G2).f2|g4ga|!
+” f”.b2(ba)(gf)|(e^defga)|b2bagf|e4fg|\
+.a2(ag)(fe)|(d^cdefg)|.a2(ag)(fe)” D.C.”|d4|]
+
+X:219
+T:Cossack Waltz,The. CJF.219
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Nice Balalaika tune…”C J F” is written on the stave at
+N:the end of the tune. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:Bb
+“p”d2|(d2g2).g2|(b2g2).g2|(^f2a2).d2|d4d’2|\
+” f”(c’b).a.g(^fg)|(.d2.e2.b2)|(.d2.=e2.^f2)|g4:|!
+|:” cres:”=f2|f2.d2b2|(b2d’2) e2|(e2c2) d’2|\
+c’2e’2 e2|(defgab)|(agfedc)|(BABdc.A)|B4:|!
+|:d2|(g^f).g.G(^FG)|(g^f).g.G(FG)|(a^g).a.A(^GA)|\
+(a^g).a.A(GA)|(ba).b.B(AB)|\
+(c’=b).c’.c(=Bc)|(d’^c’)(d’c’)(d’c’)|!
+(d’=c’bag^f)|(g^f).g.G(FG)|\
+(g^f).g.G(FG)|(a^g).a.A(GA)|\
+(a^g).a.A(GA)|(ba).b.B(AB)|\
+(c’=b).c’.c(Bc)|(d’^c’).d’.d(=e^f)|g4|]
+
+X:220
+T:Mozart’s Favourite Waltz. CJF.220
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:At the “1” mark, the MS does this:- there is a d crotchet
+N:and from the same note-head rises the first of a beamed
+N:pair of grace-notes d/^d/. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=40
+K:C
+” f”(c’bc’)|(e’c’gefd)|(ag)(ecec)|(ag).f(dfd)|g3.c'(bc’)|\
+e'(c’gefd)|(ag).ec(ec)|(ag).f(dBd)|c2z:|!
+|:.G(ce)|(efd).G.B.d|(dec).G.c.e|BgGgBg|(ce)G.G.c.e|\
+(efd).G(Bd)|dec.G.c.e|BgGgBg|” Fine”c2z:|!
+|:z2z|.e2(e3f)|(ag)g3e|(gf)f3d|(de)c3″1″d|e2e3f|\
+(ag)g3e|(gf)f3d|dcc2z2:||!
+” Dolce.”(d’b)b2c’b|(ag)g4|(c’b)(bd’)c’a|(ag)g3f|e2e3f|\
+(ag)g3e|(gf)f3d|(dc).c .G(AG)|!
+” Cres:”.c.G.e.G(AG)|.B.G.d.G(AG)|.d.G.f.G(AG)|.c.G.e.G(AG)|\
+” Dolce.”.c.G.e.G(AG)|.B.G.d.G(AG)|.d.G.f.G(AG)|c3.g(ag)|!
+” Cres:”(^fg)(=fg)(eg)|(dg)(cg)(ag)|(^fg)(=fg)(eg)|(dgc).G(AG)|\
+.c.G.e.G(AG)|.B.G.d.G(AG)|.d.G.f.G(AG)|c2″ DC..”z2|]
+
+X:221
+T:Woburn Waltz,The. CJF.221
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:G
+D2|.g2(bg)d2|(d2c2).A2|.B2(dB)G2|D4A2|\
+.B2(BA).B.G|.^c2(cB).c.A|(d^c).d.f.e.c|d4:|!
+|:d2|” f”(d’c’).b.f(dc)|B2dgb2|(d’c’).a.f(dc)|B4^d2|\
+.e2(e2f2)|.g2(g2a2)|.b2(^d2f2)|e4fg|!
+.d2(BG).g2|.e2(cA).g2|.d2(BG).g2|(f2a2) .c2|\
+(Bc).de.(fg)|(ba).g.f(ed)|.e2(eg)(fa)|g4″p”Bd|!
+.c2.A2.F2|.d2.B2.G2|.c2.A2.F2|G4Bd” Cres:”|\
+c2A2F2|d2B2G2|c2A2F2|G4:|
+
+X:222
+T:Russell Waltz,The. CJF.222
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=60
+K:C
+(cd)|(e4c2)|(g4ec)|.B2(Bc).d.B|(c2e2).G2|\
+” f”e4c2|g4(ec)|.B2(Bc).d.B|c4:|!
+|:de|”p”(f4d2)|B4G2|(cB)(cdef)|.g2.e2.c2|\
+” f”f4d2|B4G2|(cB).c.e(dB)|c4:|!
+|:g2|” f”(g2c’2)e2|(e2g2)c2|(BcdefB)|(c2e2)g2|\
+(g2c’2)e2|(e2g2)c2|(Bcde).f.B|c4:|!
+|:e2|.e.a(^ga)(ba)|(d’c’).b.a(^ga)|(fe).d.c(BA)|\
+^G2E2e2|.e.a(^ga)(ba)|(d’c’).b.a(^ga)|(=gf).e.d(cB)|!
+(A^GABcd)|”p”e4c2|g4ec|.B2(Bc).d.B|\
+(c2e2)G2|e4c2|g4ec|.B2(Bc).d.B|!
+c4G2″ cres.”|(f4d2)|(B4G2)|(cB).c.d(ef)|\
+g2e2c2|f4d2|B4G2|(cB).c.e(dB)|” f”(c2c’2).c’2|!
+(b2d2).d2|(a2c2).c2|(g2B2).B2|(c2c’2)c’2|(b2d2).d2|\
+(a2c2).c2|(g2B2).B2|(c2e2)(GB)|(c2e2)(GB)|c2e2g2|(C2c4)|]
+
+X:223
+T:Spanish Waltz. CJF.223
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:D
+A2|dcdefg|e4AA|dcdefg|(fa^ga=ge)|\
+dcdefg|e4cA|(defg)(ef)” Fine”|d4:|!
+|:{b}a2|e2c2 {b}a2|e2c2 {b}a2|f2d2 {b}a2|f2d2 {b}a2|\
+e2c2 {b}a2|e2c2 {b}a2|defgef|d4:|!
+|:(de/f/)|gdBdgb|afdfa=c’|=c’afdef|gfgaba|\
+gdBdgb|afdfa=c’|=c’afdef|” D.C.”g4|]
+
+X:224
+T:Waterloo Waltz. CJF.224
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:G
+(Bc)|.d2(dgfg)|.B2(BGBd)|(dc)(cB)(ce)|(ed).d2 (Bc)|\
+.d2(dgfg)|.B2(BGBd)|dcecAF|G4h:|!
+|:(Bc)|(dg)(gfdf)|(ag).g2Bc|dggfdf|(ag).g2 Bc|\
+.d2(dgfg)|.B2(BGBe)|dcecAF|G4:|!
+|:FA|AB^cdef|.d2(dAdf)|.e2(edef)|d2A2 FG|\
+AB^cdef|.d2(dAdf)|.e2(edef)|” D.C.”d4:|
+
+X:225
+T:Pantalon Waltz,La. CJF.225
+T:La Pantalon Waltz. CJF.225
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=120
+K:D
+“$”(ac)|(dcdc).b.d|e2e2(ge)|(dc)BABc|d2d2(ac)|\
+(dcdc).b.d|e2e2(ge)|(dc)(BABc)|d4:|!
+|:ef|(gA)(eA).g.A|fAdfaf|(gA)(eA).g.A|fAdfaf|\
+d2d2(bd)|e4(ge)|(dc)BABc|d4:|!
+|:de|f2f2e2|d2d2c2|B2{c}(BABc)|defgag|f2f2e2|\
+d2d2c2|B2{c}BA” D.C.”Bc|” $”d4:|
+
+X:226
+T:Waltz. CJF.226
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=120
+K:D
+D2|”>”d4A2|FGA2A2|FGA2B2|A2G2e2|\
+“>”e4G2|EFG2G2|EFG2A2|G2F2:|!
+|:” ff”A|Adcdfd|cBgfed|ceagfe|dfedcB|\
+Adcdfd|cBgfed|ceagfe|d4:||!
+z2|”p”B>=cd2d2|B>cd2d2|=c2{d}cBcd|=c2B2d2|\
+B>=cd2d2|B>=cd2d2|=c2{d}cBcA|G6|]
+
+X:227
+T:Waltz. CJF.227
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:On the stave, at the end of the tune is “Charles James Fox
+N:61832″. The tune does not scan because of the lead notes
+N:to 2nd, 3rd & 4th sections. I have added the f# at mark 1. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:1/4=160
+K:C
+G2G2G2|G2G2G2|G3AG2|c2z2G2|\
+G3AG2|d2z2G2|G3AG2|e4e2|!
+(d4c2)|B4G2|G3AG2|c2e2G2|G3AG2|\
+(d2f2)G2|c3de2|f3ga2|”1″^fg_a=a_b=b|c’6:|!
+|:” f”(eg)|c’2(eg)c’2|(c’bd’b)g2|d’2(gb)d’2|(d’c’e’c’)g2|\
+c’2(eg)c’2|(c’bd’b)g2|^fg=fedB|c6:|!
+|:”p”ed|(cE).G.ce2|(eG).c.eg2|(^fgag=fe)|ed^cded|\
+(cE).G.ce2|(eG).c.eg2|^fgagfd|c6:|!
+|:”P”g2|^fgag=fd|(^fgagec)|” for”(GfedcB)|cdecGE|\
+“p”^fgag=fd|(^fgagec)|G(fedc)B|c6:|
+
+X:228
+T:Gaelic Waltz. CJF.228
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Just “Waltz” in MS..my title… CGP
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=40
+K:F
+c2|f3gag|(f2c2)c2|{e/}d2defe|c4ac’|\
+d’b g2g2|ba f2f2|edefge|f4:|!
+|:cB|Acfcf2|efgec2|gababg|a2f2f2|\
+Acfcf2|efgec2|fefage|f4:|!
+|:F2|F4F2|Af3e2|{e/}d4c2|A4A2|\
+B4c2|d2B2G2|F2E2d2|c2B2G2|!
+F4G2|Af3e2|e2d2c2|{B/}A4A2|B4c2|\
+{e/}d2{c/}B2{A/}G2|F2{G/F/}E2G2|F4c2|!
+f4e2|cf3d2|c4f2|ec3c2|d4f2|f2e2d2|\
+c4B2|c2B2A2|F4G2|Af3e2|!
+e2d2c2|{B/}A4A2|B4c2|\
+d2B2G2|F2{G/F/}E2G2|F4|]
+
+X:229
+T:Waltz. CJF.229
+R:Waltz 32
+C:”by Herz”
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the title line is “by Herz”. Scansion seems to require
+N:a final bar with d2z: in it, which I have added. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=60
+K:D
+(fg” f”f)|(f2e)(A^GA)|d2(FAdf)|\
+(a2g).A.e.A|(f2d)(Agf)|\
+(f2e)(A^GA)|d2.F.A.d.f|a2″p”c>de>f|d2zh:|!
+|:”mf”(dcd)|(bc’d’).d.g.b|(b2a).f.d.A|\
+(a2g).e.c.A|(f2d)(a^ga)|\
+(bc’d’).d.g.b|(b2a).f.d.A|\
+” D. Capo p”(a2g).e.c.A|d2z:|
+
+X:230
+T:Bath Waltz, aka. CJF.230
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:At the end, in the stave is “D.Capo – CJFox”. The first
+N:two sections are similar to the lovely Bath Waltz in the
+N:John Clare collection. The last section does not scan. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:G
+“p”(D2B2).G2|(D2B2).G2|{d2}c4AF|(GA).B.G D2|\
+(D2B2).G2|(D2B2).G2|{d}c4AF|G6:|!
+|:” f”d2defg|d2d2d2|B2BGce|d^cde d2|\
+.d2(de)fg|d2d2d2|B2BdcA|{A2}G6:|!
+K:C
+|:”p” (3(ccc) c2e2|g2e2c2|cBAGAB|\
+cdec G2|(3(ccc) c2e2|g2e2c2|cBAGAB|c6:|!
+|:” f”ec|(cB)BGBd|dccGce|eddGdf|fe^deec|\
+cBBGBd|dccGce|defdcB|B2c2z:|
+
+X:231
+T:Waltz. CJF.231
+R:Waltz 32
+C:”by Herz”
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the title line is “by Herz”. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=60
+K:G
+“p”DC|(B,DEDGA|GBce)d2|(Fca).D.C.D|(B,Gd).B.G.D|\
+(B,DEDGA|GBce)d2|(Fca).d.e.f|g2z2:|!
+|:”mf”(gf)|(eg) A (age)|(df) .A (agf)|\
+(eg) .A (age)|(b2a^g=gf)|\
+(eg) .A (age)|(df) .A (afd)|\
+(^cegba>c)|(d=cA” D.C.”FDC)|]
+
+X:232
+T:Waltz. CJF.232
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the stave is “C J Fox 1832″ at the end of the tune. The
+N:8vo mark has an extension line covering the second
+N:section, except for the last 2 bars. The section is marked
+N:”for” (forte). – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=60
+K:D
+“p”fg|a2a2a2|a2a2a2|”>”b4a2|agg2e”p”f|\
+g2g2g2|g2g2g2|”>”a4g2|gff2:|!
+|:”8vo for”A>A|Ace2AA|Adf2ed|c2c2c2|d2-d2FG|\
+A2A2d2|(BAGFED)|c2c2c2|d4:|!
+|:A2|dfdAFA|dfdAFA|egecAc|dfa^g=ge|\
+dfdAFA|dfdAFA|egecAc|d4:|!
+|:” for”a/a>a|_b3a/a>a|_b3a/a>a|^g2g2g2|\
+a4z2|dfdAFA|dfa2a2|gecABc|d4:|
+
+X:233
+T:Waltz. CJF.233
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The tune carries across from lower half of. CJF.137 to the
+N:lower half of the facing sheet. CJF.138. A symbol
+N:resembling a circled asterisk is used to make this clear
+N:in the MS. “Charles James Fox” is written on the stave at
+N:the end of the tune. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=75
+K:G
+“p”g4g2|{a}g2f2g2|b6|b2a2g2|\
+a4e’2|d’4c’2|b6|b4z2|!
+g4g2|{a}g2f2g2|e4a2|c’4e’2|\
+d’2c’2b2|a2g2f2|g6|g4z2:|!
+|:” f”A^GBAFA|^cdedcd|efgfba|gfefd2|\
+A^GBAFA|^cdedcd|efgfba|d4z2:|!
+|:d4b2|g6|{a}g2f2g2|(e’4d’2)|\
+(d4c’2)|a4a2|(gfedef)|g4z2:|!
+|:B4g2|.e2(Be).g2|.f2(df)b2|(g4e2)|\
+.a2(fa).d’2|(b4g2)|d’4(fa)|g4z2|]
+
+X:234
+T:Waltz. CJF.234
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”C J Fox” is in the stave, after the tune. At the asterisk
+N:position, it seems an extra bar is needed. I added a
+N:suggested g4f2| – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=60
+K:G
+d2|B2″p”c2B2|A2d^cd=c|B2c2B2|A2z2g” f”b|\
+bagfge|d4gb|baagaf|g4:|!
+|:d2|(gf).g.d.B.G|{B}A2AGA2|(d^c).d.=c.B.A|{A}G2GFG2|\
+(gf).g.d.B.G|{B}A2AGA2|d^cd=cBA|G4:|!
+|:d2|gdBgba|{a}gfedcB|Adfac’a”*”|g4f2|\
+gbagfa|gfedcB|Acfac’a|g4:|!
+|:b2|^a2b2=a2|g2g2b2|\
+^a2b2=a2|g2z2d2|gdBgba|gfedcB|Adfac’a|g4:|
+
+X:235
+T:Waltz. CJF.235
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=60
+K:D
+” f”cd|A2.A.A.A.A|F2D2A2|.F.F.D.D.F.F|A4cd”p”|\
+e2dcBA|f2edcd|e2dcBA|d4:|!
+|:A2|AFdcBA|BAGFED|AGFEDC|DEFGBA|\
+AFdcBA|BAGFED|AGFEDC|D4:|!
+|:d2|cAcecA|dAdfdA|cAcecA|dAdfdA|\
+BGBdBG|AFAdAF|gfgece|d4:|!
+|:cd|fedcde|fedcde|gfedce|dfedce|\
+fedcde|fedcdf|gfedce|d4:|
+
+X:236
+T:Lord Seymour’s Waltz. CJF.236
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:G
+Bc|d3gfg|B3GBd|dccBce|eddcBc|\
+d3gfg|B3GBd|dcecAF|G4:|!
+|:dg|gffdfa|aggBdg|gffdfa|g4Bc|\
+d3gfg|B3GBd|dcecAF|G4:|!
+K:D
+|:FG|ABcdef|d3Adf|efedcB|ABAGFG|\
+ABcdef|d3Adf|efedce|d4:|!
+|:fa|aggfga|baagfa|aggfgb|a4(FG)|\
+ABcdef|d3Adf|efedce|d4:|
+
+X:237
+T:Waltz. CJF.237
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:Written after the tune is “1833”. I have added
+N:the rests at the end of each section. – PJH
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/4
+L:1/8
+Q:3/4=60
+K:G
+D|GFGABc|e>dB2B2|d>BA2A2|c>BG2D2|\
+GFGABc|e>dB2B2|d>cA2F2|G4z:|!
+|:d|efagfe|e>dB2B2|d>cA2A2|d>BG2z2|\
+efagfe|e>dB2B2|d>cA2F2|G4z:|!
+|:D|GFGABc|d2g2g2|c2a2a2|B2g2g2|\
+GFGABc|d2g2g2|c2a2f2|g4z:|
+
+X:238
+T:Waltz. CJF.238
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:The dot is not visible in the MS for the marked note. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:C
+G>c|e2e2 c>e|g2f2 G>B|d2d2 G>d|f2e2 G>c|\
+e2e2 “*”c>e|g2f2 G>B|d3cBd|c4:|!
+|:G>B|d2d2 (fe)|(ag)g2 G>B|d2d2 (fe)|\
+(ag)(fd) G>c|e2e2 (c>e)|g4f2|GBdfdB|c4:|!
+|:G2|e2(eg)(fa)|(ag)(^fg)(ec)|(Af)(ef)(df)|(fe)(ag)(c’g)|\
+e2(eg)(fa)|(ag)(^fg)(ec)|(Af)(ef)(dB)|c4:|
+
+X:239
+T:Lady Egermonts Waltz. CJF.239
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:”1833” is written after the tune, on the stave. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=64
+K:F
+c2|AB c2f2|AB c2f2|efgabg|a2f2c2|\
+AB c2f2|AB c2f2|efgabg|f4:|!
+|:c2|bg g2b2|ag f2a2|gfedga|f2c2c2|\
+ba g2b2|ag f2a2|gfefga|f4:|!
+|:AB|c2A2f2|d2B2G2|E2c2B2|B2A2 AB|\
+c2A2f2|d2B2G2|E2cBAG|F4:|
+
+X:240
+T:Waltz. CJF.240
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+N:In the title line “(from Watson)”. – PJH.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:G
+D2|B3.A.G.F|.E.F.G.^G.A.B|(dc) F2F2|(GB) D2D2|\
+B3.A.G.F|.E.F.G.^G.A.B|(dc) F2F2|G4:|!
+|:B2|^ABBB^dB|e3fge|^GAAA^cA|d3efd|\
+B3AGF|”p”EFG^GAB|(dc) F2F2|G4:|!
+|:D2|D2G2B2|d4B2|A3{dc^Bc}Bcd|(^AB).G2 D2|\
+D2G2B2|d4B2|”~”A3BcA|G4:|!
+|:” f”d2|(dc)A2 e2|(ed)B2 d2|\
+dcBced|d4D2|D2G2B2|d4B2|”~”A3BcA|G4:|
+
+X:241
+T:Miss Thompson’s Waltz. CJF.241
+R:Waltz
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+B:Kidson Coll.Mitchell Lib.M1805
+O:England
+A:East Yorkshire
+Z:vmp.P J Headford 2000 & 2008
+M:3/8
+L:1/16
+Q:3/8=60
+K:G
+D2|G4B2|d2d2d2|d4B2|d4B2|\
+e4c2|g2f2e2|d4B2|d4B2|!
+c2a2a2|agfedc|Bdg2g2|gfedcB|\
+A^GABcd|edcBAG|FGAGFE|D4D2|!
+G4B2|d2d2d2|d4B2|d4B2|\
+e4c2|(gbagfe)|d4B2|d4B2|!
+c2a2a2|agfedc|Bdg2g2|gfedcB|\
+A^GABcd|e2c2B2|G2A2F2|G4:|!
+|:g2|fdAdfa|gbagfg|ac’baga|bd’c’bag|\
+fdAdfa|gbagfg|ac’bagf|g4:|

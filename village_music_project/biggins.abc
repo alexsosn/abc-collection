@@ -1,0 +1,1426 @@
+%abc
+%%abc-alias James Biggins
+%%abc-creator ABCexplorer 1.3.7 [27/12/2009]
+%James Biggins MS, Leeds,1779, Leeds City Library
+%Transcribed into ABC for www.village-music-project.org.uk
+%VMP,Chris Partington & Nick Barber, 2000
+%Revised 18/07/2005
+%Revised again 11/2008
+%Revised again 12/2009
+
+X:1
+T:Duke of Gordon’s Daughter,The. JBi.01
+M:C
+L:1/8
+Q:1/2=100
+S:James Biggins MS, Leeds, 1779.
+R:.Air
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+D|GFGAB2Ae|dD3GFGAB2|cBA3:|!
+|:B2AGA2dG|FGB2AG|cAGFG3:|!
+||zzzz|zzzz|zzzz||!
+M:3/2
+“^possible interpretation,CGP”\
+|:D|GFGAB2Ae dD3|GFGAB2cBA3:|!
+|:z|B2AGA2dG FGA2|B2AG cAGFG3:|
+
+X:2
+T:Strap Ball. JBi.02
+M:2/4
+L:1/8
+Q:1/4=90
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+N:Bar 14-4th note indistinct….
+Z:vmp.Nick Barber & Chris Partington
+K:G
+“_No key sig. in ms”gdd2|ecc2|BdBG|FAFD|\
+gdd2|ecc2|Eedc|d2D2:|!
+|:DFAc|Bdgd|DFAc|Bdgd|ceac|Bdgd|BAGF|G2G,2:|
+
+X:3
+T:Tumblers Hornpipe. JBi.03
+M:3/2
+L:1/8
+Q:1/2=100
+S:James Biggins MS, Leeds, 1779.
+R:.3/2 HP
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+“_no key sig.in ms”G3A BABcd4|E2ed cBAGF2D2|\
+EGFA GBAcB3A|G2gf edcB A2G2:|!
+|:g2agf2gf~e4|E2AB cBAGF2ED|\
+EGFA GBAcB3A|G2gf edcB~A2G2:|!
+|:D2G2GAGFE4|E2AB cBAGF2ED|\
+GFGA BABdB3A|G2gf edcB~A2G2:|
+
+X:4
+T:Lord Cananar’s(?) Reel. JBi.04
+M:2/4
+L:1/8
+Q:200
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+N:As written, seeming to indicate that at least some of the tunes in this
+N:collection were not copied out of a printed source..CGP..
+Z:vmp.Nick Barber & Chris Partington
+K:D
+P:no key sig,-unedited
+A/B/cd2d2|dAFD|ddA|\
+B2A (Bc)|dA BG|AF Bd|E>FGA|B3A:|!
+|:g|fd ag|fd dg|fd ag|f3e (fg)|af ge|fd ec|E>FGA|B3A:|
+P:liberal interpretation by CGP
+|:(A/B/c)|d2d2 dAFD|d2dA B2-A(B/c/)|dABG AFBd|E>FGA B2:|!
+|:g2|fdag fddg|fdag f2 ef/g/|afge fdec|E>FGA B2:|
+
+X:5
+T:Colepit Laddy. JBi.05
+M:2/4
+L:1/8
+Q:1/4=160
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington.
+K:G
+“_no key sig in ms”c|(B/c/d/B/) GB|gddc|\
+(B/c/d/B/) GB|cAAc|!
+(B/c/d/B/) GB|gddf|gebf|gee:|!
+|:g|(f/g/a/g/) fd|fddg|(f/g/a/g/) fd|geeg|!
+(f/g/a/g/) fd|(f/g/a/g/) fd|gebf|gee:|
+
+X:6
+T:Edinbrough Castle. JBi.06
+M:2/4
+L:1/8
+Q:1/2=65
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:D
+D2FD|d2fd|B2dB|AFED|EFGA|BcdB|A2dB|AFED:|!
+|:A2FD|B2B/c/d|EGFE|FGAg|(ff/g/) af|ec (B/c/d)|cAdB|AFED:|!
+|:EFGB|EFGB|EFGB|AFED|DEFA|DEFA|DEFA|DEFd|AFED:|!
+|:(ff/g/) af|ec (B/c/d)|cAdB|AFED|EFGA|Bgec|dBGB|AFED:|
+
+X:7
+T:Allister. JBi.07
+M:2/4
+L:1/8
+Q:1/2=65
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:F
+“_no key sig. in ms”G2g2|fdcd|BFFD|F2F2|G2g2|fdcd|BAGF|G2G2:|!
+|:G>AB>c|d(c/B/) cd|BFFD|F2F2|G>AB>c|d(c/B/) cd|BGGF|G2G2|!
+G>AB>c|d(c/B/) cd|gFFD|F2F2|d(e/f/) gd|gdcd|BGGF|G2G2:|
+
+X:8
+T:Horse and Away to Newmarket. JBi.08
+T:Fenwick O’Bywell,aka. JBi.08
+T:Newmarket Races,aka. JBi.08
+M:6/8
+L:1/8
+Q:3/8=80
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+N:Bar 5,etc -d>ede/ in ms..Peacock’s Tunes 1800″Newmarket
+N:Races”..Northumbrian Minstrelsy”Fenwick O’Bywell’s Off to Newmarket”
+Z:vmp.Nick Barber & Chris Partington
+K:F
+(f/e/)|f2F AGF|GAG B2d|c2F AGF|FfF ABc|!
+“^NB”d>ed/e/ fcA|GAG B2d|c2B AGF|FfFA2:|!
+|:B/-A/|FBF (A/B/)cA|FfFA2G|GgG (A/B/)cA|GgG ABc|!
+“^NB”d>ed/e/ fcA|GAG A2f|dcB AGF|FfFA2:|!
+|:(B/A/)|F(A/B/)c c(A/B/)c|F(A/B/)c c(A/B/)c|G(B/c/)d d(B/c/)d|\
+G(B/c/)d d(B/c/)d|!
+F(A/B/)c c(A/B/)c|F(A/B/)c c(A/B/)c|edc cBA|\
+GAGA2f|dcB AGF|FfFA2:|!
+|:(B/A/)|ffF AAF|ffFB2d|ffF AAF|ffF ABc|!
+“^NB”d>ed/e/ fcA|GAGA2f|dcB AGF|FfFA2:|
+
+X:9
+T:Miss Earl’s Minuet. JBi.09
+M:3/4
+L:1/8
+Q:1/4=120
+S:James Biggins MS, Leeds, 1779.
+R:.Minuet
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:D
+“_no key/time sig. in ms”
+(A/B/c)|dAFAFA|”^f in ms”d2f2a2|ecA2G2|{F}G4A2|!
+B2G2G2|((3FAF) D2D2|B2G2G2|((3FAF) D2d2|fed2c2|d4:|!
+|:”^s.qu’s”(fg)|afdfba|a2g2f2|bfe2d2|{d}c4Bc|!
+dAFD df|ecAceg|dagfed|{d}c4Bc|!
+dAFAFA|d2f2a2|ecA2G2|{G}F4A2|B2G2G2|!
+((3FAF) D2D2|B2G2G2|((3FAF) D2d2|f/e/fd2c2|d6:|
+
+X:10
+T:North Ashton Frolick. JBi.10
+T:North Aston Frolic,aka. JBi.10
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+N:Vickers has this tune in 3 parts
+Z:vmp.Nick Barber & Chris Partington
+K:G
+D/E/F/|G2DG2D|GAB cBA|B2GB2G|Bcd edc|!
+dcB ABG|FGED2c|BGB AFD|G3-G2:|!
+|:f|gfg efg|abg fed|gfg efg|fged3|!
+cBc acA|BAB gfe|dcB AGF|G3-G2:|
+
+X:11
+T:Orange Grove. JBi.11
+M:2/4
+L:1/8
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:A
+cA (AB/c/)|BGFE|cAAB|cea2|cA AB/c/|BGFE|ceBd|cAA2:|!
+|:Acea|geef|ecce|dBB2|cAAB|ceac|BABc|A2A2:|!
+|:cAfd|ecdB|cAdB|GB~B2|cA fd|ecdB|(c/d/e) (f/g/a)|cAA2:|
+
+X:12
+T:Butchers Hornpipe. JBi.12
+M:3/2
+L:1/8
+Q:1/2=100
+S:James Biggins MS, Leeds, 1779.
+R:.3/2 HP
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:Bb
+“_no time sig.”BGFE DFEDC2Bc| ((3edc) ((3dcA) B2B,E DEFD|!
+BGFE DFED CEDC|B,BAcB2B,E DEFD||!
+|BABc BdcB AcBA| ((3edc) ((3dcB) c2CE DEFD|!
+BABc BdcB Agfe| ((3edc) ((3dcA) B2B,E DEFD||!
+|babf gfgd edcB|e2″^cr”c3-c CE DEFD|!
+babf gfgd Agfe|d2B3-B B,E DEFD||!
+|GECE FDB,D GFED|CcBdc2CE DEFD|!
+GECE FDB,D GFED|B,BAcB2B,E DEFD||!
+|GABcd2b2AcBA|GcBdc2CE DEFD|!
+GABcd2b2AcBA|B,BAcB2B,E DEFD|]
+
+X:13
+T:Settee,The. JBi.13
+M:6/8
+L:1/8
+Q:3/8=90
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+N:Also has bass part and instructions for dance.
+Z:vmp.Nick Barber & Chris Partington
+K:F
+F3c3|AcA FGA|B3d3|BdB GAB|A3c3|!
+faf def|ege cde|fed cdB|B3A3:|!
+|:c3g3|ege cde|f3a3|faf def| g3b3|!
+agf edc|BdB GAB|AcA FGA|Gba gfe|{e}f4:|
+
+X:14
+T:Irish Vauxhall. JBi.14
+M:2/4
+L:1/8
+Q:1/2=50
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:D
+d2(f/e/).d/.c/|dA2d|efga|fd2e|!
+fgab|efga|de/f/ gf|{f}e4||!
+|a2(b/a/).g/.f/|ge2f|g2(a/g/).f/.e/|fd2g|!
+(f/g/)a (e/f/)g|(f/g/)a (e/f/)g|fdAc|d2D2|]
+
+X:15
+T:Peasants Dance,The. JBi.15
+T:Pheasant’s Dance,aka. JB15
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+N:Vickers MS =”Pheasants Dance”….Well, shoot the buggers anyway,Talley
+N:Ho!…CGP..
+Z:vmp.Nick Barber & Chris Partington
+K:A
+c2d efe|d2c Bcd|ecAF2B|GEGA3|!
+|(c2A)(d2B)|(c2A)(B2a)|ecAF2B|GEGA3|!
+|a2e aec|(a2c)(b2B)|cdeF2B|GEGA3|!
+|cecd2f|(B2d)(A2e)|(A2c) BdB|GEGA3|]
+
+X:16
+T:Tom Jones. JBi.16
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+N:Vickers has this slightly different.
+Z:vmp.Nick Barber & Chris Partington
+K:D
+a3g3|fdf ecA|d2f ece|d2f ecA|!
+dcd ede|fef ^gfg|a2d cdB|A3-“^cr”A3||!
+|D2FE2G|F2A EFG|F2d AB=c|B3-B2F|!
+GFG AGA|BAB cBc|d2G FGE|D3-“^cr”D3|]
+
+X:17
+T:Ladies Breast Knot,The. JBi.17
+M:2/4
+L:1/8
+Q:1/2=60
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:D
+D|GB-BG FA-AF|Ee-ed Tc2BA|GB-BG FAAc|d/c/B/A/ dFTE2D:|!
+|:”_rest added”z|fdfd fa-ag/f/|ecec eg-gf/e/|fdfd fa2f|eAAGTF2D:|
+
+X:18
+T:Se(ampton?)Cade. JBi.18
+T:Duke Of Perth’s Reel,aka. JBi.18
+M:C
+L:1/8
+Q:1/4=120
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+G/A/B/c/ dB gBdB|gBdB aA-AB|G/A/B/c/ dB gBdB|cAdc BGG2:|!
+|:g>age a>baf|g>age bB2f|g>age a>baf|gd2c BGG2:|
+
+X:19
+T:Stur the Guile(?). JBi.19
+M:C
+L:1/8
+Q:1/4=120
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:D
+A|d2de (d/c/B/A/) (G/F/E/D/)|d2df eg f/g/a|\
+d2de (d/c/B/A/) (G/F/E/D/)|E=CCEA2A||!
+e|dDDB AFED|dDDf eg f/g/a|dDDB AFED|E=CCE ^c2″^cr”c|]
+
+X:20
+T:Jenny Nettles. JBi.20
+M:C
+L:1/8
+Q:1/4=160
+S:James Biggins MS, Leeds, 1779.
+R:.Scots Measure
+O:England
+A:Yorkshire
+N:Key Sig as shown..
+Z:vmp.Nick Barber&Chris Partington..
+K:G
+c2B2A2a2|e=fge d/c/B/A/ GB|c2B2A2a2|ge=fde2A2:|!
+|:c>deA c>deA|BGdB B>cdB|c>deA cdea|ge=fde2A2:|
+
+X:21
+T:High Way to Scarborough,The. JBi.21
+M:6/8
+L:1/8
+Q:3/8=90
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber&Chris Partington..
+K:G
+g2fd2c|BGB dcB|cBc Aag|fge fed|!
+gfg efg|abg fed|efg dgf|gdBG3:|!
+|:”^tr”B>AB c2A|”^tr”B>AB gdc|”^tr”B>ABc2A|bge afd|!
+“^tr”B>AB c2A|”^tr”B>AB gdB|efg dgf|gdBG3:|
+
+X:22
+T:Pretty Witch of Lancaster,The JBi.22
+M:C|
+L:1/8
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+N:Triplets not marked so in MS….CGP
+Z:vmp.Nick Barber&Chris Partington..
+K:F
+A|F>GFA cdfd|cAfA G/G/GG2|!
+F>GFA cdfd|cAfA F/F/F “^cr in MS”F||!
+(f/g/)|agfd fdcA|FAfA G/G/G G(f/g/)|!
+((3agf) ((3gfe) ((3fdc) ((3dcA)|FAfA F/F/F “^cr”F|]
+
+X:23
+T:Kiss Me Sweetly. JBi.23
+M:C|
+L:1/8
+Q:1/4=120
+S:James Biggins MS, Leeds, 1779.
+R:.Strathspey
+O:England
+A:Yorkshire
+N:Sounds like it should be possible to put a nother name to this tune,
+N:but it sounds like Moneymusk and Tullochgorum And most of the others
+N:too..CGP..
+Z:vmp.Nick Barber & Chris Partington
+K:C
+|EGcG AGcG|EGcG dDDF|EGcG EGga|gede c/c/c2||!
+g|a/g/f/e/ cg egcg|a/g/f/e/ cg eddg|\
+(a/g/f/e/) cg egde|cAGE C/C/CC2|]
+
+X:24
+T:Sailor’s Rant,The. JBi.24
+M:6/8
+L:1/8
+Q:3/8=110
+S:James Biggins MS, Leeds, 1779.
+R:.Cotillion
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber&Chris Partington..
+K:G
+g3 dBd|ege dBd|gfe dcB|ABG FED|!
+g3dBd|ege fga|gfe Ad^c|d3D3:|!
+|:d3BdB|c3aed|c3AcA|B3gdc|!
+B3GBG|ABc def|gfe dBd|G3G,3:|
+
+X:25
+T:L’Ecossoise. JBi.25
+M:C
+L:1/8
+Q:1/4=110
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:C
+gf/e/ dc .d(cAG)|c/d/e d/e/fTe2d2|!
+gf/e/ dc .d(cAG)|c/d/e/f/ gf Ted/e/c2:|!
+|:ce2d cg2B|cB/c/ Ad TBA/B/G2|!
+ce2d cg2f|ed/e/ f/e/d/e/c2c2:|
+
+X:26
+T:Le Petit Doil(?). JBi.26
+T:Di’el on Twa Sticks. JBi.26
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+D2DG2G|ABcB2A|BdDG2G|ABcB2A:|!
+|:B2cd2d|ABcB2A|G2GF2F|E2ED2c|!
+BdDG2G|ABcB2A|BdDG2G|cBAG2|]
+
+X:27
+T:No Matter For That. JBi.27
+M:C
+L:1/8
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779.
+R:.Scots Measure
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington..
+K:F
+c|fgagf2c2|defd cAGF|fgag afed|cdc=Bc3:|!
+d|Tc2ABc2fd|TB2GATB2gB|{B}A2GF dBAG|FGFEF3|]
+
+X:28
+T:Eight Maids of Moidart,The. JBi.28
+M:C|
+L:1/8
+Q:1/4=120
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington..
+K:F
+g|a/g/f/e/ fcA2 Fc|(A/B/c) Fc AGGg|!
+a/g/f/e/ fcA2 Fc|(A/B/c) Fc AF F:|!
+|:c|AFcF dFcF|AFcF (d/c/B/A/) Gc|!
+AFcF dFcF|(A/B/c) Gc AF F:|
+
+X:29
+T:Betty Blue. JBi.29
+M:C
+L:1/4
+Q:1/2=150
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:C
+g>agf|edef|g>age|d2d2|!
+g>agf|edef|g>age|c2c2:|!
+|:d>edc|BABc|d>edB|G2G2|!
+d>edc|BABc|d>edB|G3g|!
+G3g|E3g|GgGg|G2G2|g>agf|edef|!
+e>fed|c2c2|e>fed|cBcd|e>fed|c2c2:|
+
+X:30
+T:Wind Mill,The. JBi.30
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:F
+f2FG2A|Bcd efg|fga gab|agf gec|!
+f2FG2A|Bcd efg|fga bag|f3F3:|!
+|:f2g afd|e2f gec|d2e fed|cdB A2B|!
+cde fga|def gab|agf cfe|f3F3:|
+
+X:31
+T:Le Badin. JBi.31
+M:2/4
+L:1/8
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:Bb
+B2((3dcB)|g>edc|B2((3dcB)|AFAF|B2((3dcB)|!
+g>edc|((3def) ((3dcB)|Tc2B2:|\
+|:B2((3dcB)|bBbB|!
+B2 ((3dcB)|AFAF|B2 ((3dcB)|gedc|dfdB|Tc2B2:|
+
+X:32
+T:Brickmakers,The. JBi.32
+T:Brickmaker’s Frolic,The,aka. JBi.32
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:Bb
+B/c/|dB2d|cA2c|BG2B|A^FD2|GABc|BAG^F|G2G2|G3:|!
+|:B/c/|db2a|ag2f|fg2f|f2gA|B2cd|e2fg|fdcB|!
+A2F2|BA2c|cB2d|dc2e|^F2D2|GABc|BAG^F|G2G2|G3:|
+
+X:33
+T:Parson of Eltham,The. JBi.33
+M:6/8
+L:1/8
+Q:3/8=90
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:F
+BGB AFA|BGBA2c|def efg|fga gec|!
+BGB AFA|BGBA2c|def cfe|f3F3:|!
+|:faf afd|ege gec|faf ege|def edc|!
+(f/g/a)f afd|(e/f/g)e gec|agf edc|T=B3c3:|
+
+X:34
+T:Jerry Buck. JBi.34
+M:C
+L:1/8
+Q:1/4=120
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:Bb
+B-dfb (Acf)a|(GBe).g .f(cBA)|.B(GFE) .B(FED)|\
+“^A, in ms”B,B A/B/c/A/B2B,2:|!
+|:B2(d/c/B) fBdB|Fc A/B/c/A/ Fc A/B/c/A/|\
+B2(d/c/B) fBgB|GB A/B/c/A/B2B,2:|!
+|:bfdB fdBF|Gc=Bd cBcG|bagf edcB|FB A/B/c/A/B2B,2:|
+
+X:35
+T:Sally’s Fancy. JBi.35
+M:C
+L:1/8
+Q:1/4=120
+S:James Biggins MS, Leeds, 1779.
+R:.Country Dance
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington..
+K:D
+G|FDd2cAg2|facd e/d/c/B/ AG|FDd2cAg2|faAcd2D:|!
+|:g|fda2ecg2|fdcd e/d/c/B/ Ag|fd (f/g/a) ec e/f/g|fdecd3:|!
+|:G|FDGE AFBG|gefd e/d/c/B/ Ag|fdge afbg|faAcd2D:|
+
+X:36
+T:Boyers Maggot. JBi.36
+T:Byer’s Maggott,aka. JBi.36
+T:Bonner’s Maggot,aka. JBi.36
+M:C|
+L:1/8
+Q:1/2=80
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+G>DD>E G>AB>G|A>FE>D A>Bc>A|!
+B>GG>A B>cd>B|cAdB G/G/GG2:|!
+|:(B/c/d) d2BcdB|(c/d/e) e2cdec|!
+(B/c/d) d2efge|cAdB G/G/GG2:|
+
+X:37
+T:Take A Dance. JBi.37
+M:6/8
+L:1/8
+Q:3/8=140
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+N:Like a Kerry Slide, which in my view makes it like Nae Guid Luck &c.
+Z:vmp.Nick Barber & Chris Partington
+K:D
+B2cd2e|fedc3|B2cd2e|f2g fdB|!
+B2cd2e|fedc3|A2Bc2d|e2a ecA:|!
+|:a2fg2e|f2dc3|B2cd2e|f2g fdB|!
+aaf gge|ffdc3|A2Bc2d|e2a ecA:|
+
+X:38
+T:Freegante. JBi.38
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Biggins MS, Leeds, 1779.
+R:.Cotillion
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington..
+K:G
+B2c dBG|gecd2B|A2B cBA|edcB3|!
+B2c dBG|ge^cd3|b2g afd|ge^cd3:|!
+|:d2e =fed|=c2Bc2A|c2d edc|B2AB2G|!
+B2c dBG|ge^cd3|e/f/ge dBG|A/B/cAG3:|
+
+X:39
+T:Nancy’s Choice. JBi.39
+M:C|
+L:1/8
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779.
+R:..Hornpipe
+O:England
+A:Yorkshire
+N:A reel at first sight, but ends as a hornpipe, and could Nancy be Nancy
+N:Dawson?.Just a thought..CGP..
+Z:vmp.Nick Barber & Chris Partington
+K:A
+c/d/|eca2ecdf|ecBAB3D|CEAB cAdB|ecacB3c/d/|!
+eca2ecdf|ecBAB3D|CEAB cfed|c2TB2A2z:|!
+|:c|BEdB cAec|BEdBTc3A|BEdB cAec|(3agf (3edc TB3c|!
+BGdB cAec|BEdBTc3A|BEdB cfed|c2TB2A2:|
+
+X:40
+T:Roy Stuarts Reel. JBi.40
+M:C|
+L:1/8
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington..
+K:F
+c|AF2Ac2d/c/B/A/|BG2A BGGd|AF2F cdcB|AFFc AFF:|!
+|:e|f>gaf gfaf|gdd^f gdde|=f>gaf gfaf|fdcB AF2e|!
+f>gaf gfaf|gdd^f gddg|(a/g/f) (g/f/e) (f/e/d) (d/c/A)|FAfc AFF2:|
+
+X:41
+T:Hessian Dance. JBi.41
+T:Hessian’s Camp,The,aka. JBi.41
+M:3/8
+L:1/8
+Q:3/8=60
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+N:Vickers has the same tune in a 6/8 setting, suggesting that a good
+N:look
+N:might be had at some otherwise innocent looking 6/8 tunes, to see if
+N:they might work as brisk 3/8 waltzes.CGP.
+Z:vmp.Nick Barber & Chris Partington
+K:G
+[V:1]|:gdB|G/F/G/A/ G|DEF|G/F/G/A/ G|gdB|G/F/G/A/ G|DEF|G3:|!
+[V:2]|:G,G,G,|G,G,,G,,|B,,C,D,|G,,2z|G,G,G,|G,G,,G,,|B,,C,D,|G,,3:|!
+%
+[V:1]|:def|g2e|f/a/g/f/e/d/|e/g/f/e/d/^c/|def|g2c|BA/G/A/F/|G3:|!
+[V:2]|:z3|z3|D,E,F,|G,2E,|F,/A,/G,/F,/E,/D,/|E,E,G,|G,D,D,,|G,,3:|!
+%
+[V:1]|:d2e|B2c |AGF|GDg|d2e|B2c|AGF|G3:|
+[V:2]|:z2G,|D,2E,|C,D,D,,|G,,3|z2G,|D,2E,|C,D,D,,|G,,3:|
+
+X:43
+T:Arne’s Jig. JBi.42
+T:Aron’s Maggot,aka. JBi.42
+M:C|
+L:1/8
+Q:1/4=150
+C:Thomas Arne? 1710-1778
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+N:Very like Aron’s Maggot from Vicker’s Ms 1770, Aron =Thomas Arne? 1710
+N:- 78 composer, perhaps. . This is a reel despite Mr Arne calling it
+N:variously a jig and a maggot. (thats just me being peevish). CGP
+Z:vmp.Nick Barber & Chris Partington
+K:G
+G2BG (B/c/d) BG|F2AF (A/B/c) AF|\
+G2BG (B/c/d) gB|cAdB|G/G/GG2:|!
+|:d|g2bg afed|e2f2gagd|g2bg afed|(e/f/g) (f/g/a)Tg3B|!
+ceAc BdGB|Aagf edcB|ceAc BdGB|(A/B/c) AFG4:|
+
+X:44
+T:Prince of Beven’s Jig,The. JBi.43
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+d/c/|BGB dcB|AFA cBA|BGB dcB|gfed2c|!
+BGB dcB|AFA ABc|dcB cBA|G3G,2:|!
+|:(e/f/)|gdB gdB|g>ag Tf>ef|gdB gdB|agaA2(e/f/)|!
+gdB ecA|dBG F>ED|E/F/GE F/G/AF|G3G,2:|
+
+X:45
+T:Hessian Camp. JBi.44
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Biggins MS, Leeds, 1779.
+R:.Air
+O:England
+A:Yorkshire
+N:Not the same tune as Vickers “Hessian Camp”.
+Z:vmp.Nick Barber & Chris Partington
+K:D
+d2e2|fd2e|f2g2|af2a|af2a|ge2g|fdgf|{f}e4:|!
+|:fdfa|eceg|fdgf|{f}e4|d/e/f/g/ aa|d/e/f/g/ aa|bgfe|d4:|
+
+X:46
+T:Prussian Dance,The. JBi.45
+M:6/8
+L:1/8
+Q:3/8=100
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+def gfe|d2d dcB|cde dcB|ABG FED|!
+def gfe|d2d def|gfe AB^c|d3D3:|!
+|:dDd cDc|BAG AFD|dDd cDc|BAG AFD|!
+EFG ABc|def gdB|ecA dBF|G3G,3:|
+
+X:47
+T:Strike Home Ye Britons. JBi.46
+M:C
+L:1/8
+Q:1/4=150
+S:James Biggins MS, Leeds, 1779.
+R:.Air
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+g|egdg BG2g|egdg aA2g|egdg BGcA|dBcA BG2:|!
+|:d|BdAd BG2A|BcdB cA2d|BdAd BdGg|fedc BG2:|
+
+X:48
+T:Jackie Stuart’s New Reel. JBi.47
+T:Highlandman Kissed His Mother,aka. JBi.47
+M:C
+L:1/8
+Q:1/2=80
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington..
+K:C
+cg2e gcge|cg2e dBGB|cg2e gcge|a^fge dBGB:|!
+|:ceAe ceAe|ceAc (d/c/B/A/) GB|ceAe ceAg|a^fge dBGB:|
+
+X:49
+T:Swan,The. JBi.48
+M:2/4
+L:1/8
+Q:1/4=100
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+N:A strain repeats don’t balance the B and C strains.
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+D|G2GB|AFD2|A2Ac|BGGB|c2ce|dBAG|AcBA|G3:|!
+|:d2dg|fed2|cABG|AFED|d2dg|fedc|BGAF|G2G,2:|!
+|:BGAc|BGAc|BGdG|A/G/F/E/D2|BGAc|BGAc|BdgA|G2G,2:|
+
+X:50
+T:Hibernian Frolick. JBi.49
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:D
+B/c/|dAG “^tr”F>ED|dAG “^tr”F>ED|E2FG2A|BGEE2B/c/|!
+dAG “^tr”F>ED|dAG “^tr”F>ED|D2EF2d|AFDD2:|!
+|:A|d2e fdf|ece dAF|E2FG2A|BGEE2A|!
+d2e fdf|ece dcd|D2EF2d|AFDD2:|
+
+X:51
+T:Trip to the Nunnery,A. JBi.50
+M:C
+L:1/8
+Q:1/4=140
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+GedcB3A|Gafed3d|ecBA dBAG|ecdBA4:|!
+|:AGFE DEFG|ABcAB4|edcB AGAB|efgaf4|!
+dgdB cecA|BdBGA4|GcBA Ggfe|dcBAG4:|
+
+X:52
+T:Under the Water. JBi.51
+M:C
+L:1/8
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:A
+agfe dcBA|agfef2a2|agfe dcBA|aaAAc2e2:|!
+A/B/c/d/ ec ecec|B/c/d/e/ fd fda2|A/B/c/d/ ec ecec|agfef2a2|]
+
+X:53
+T:Duke of Hamilton’s Reel,The. JBi.52
+M:C
+L:1/8
+Q:1/2=70
+S:James Biggins MS, Leeds, 1779.
+R:.Strathspey
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+G>Bd>BA2e2|G>B de/f/ g>dB>G|!
+c>eB>g A>Ae2|d/c/B/A/ GBd2e2:|!
+|:d>Bg>B A>Ae2|d>Bg>B d>eg>a|!
+b/a/g/f/ g>B A>Ae2|de/f/ g>Bd2e2:|
+
+X:54
+T:Leicester House. JBi.53
+M:C|
+L:1/8
+Q:1/2=70
+S:James Biggins MS, Leeds, 1779.
+R:.Strathspey
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+c|B>Gd>c B>Ge>c|B>Gg>B c>AA>c|!
+B>Gd>B e.fg.e|B>GA>F G>G,G,:|!
+|:d|gd B/c/d/B/ gd B/c/d/B/|gd B/c/d/B/ aAAf|!
+gd B/c/d/B/ gd B/c/d/B/|c>Ad>c B>GG:|
+
+X:55
+T:Duchess of Hamilton’s Rant,The. JBi.54
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:D
+f | ecA def|ecA d2f|ecA ecA|BcB d2f|!
+ecA def|ecA d2f|faf edc|BcB d2:|!
+|:f | ecA acA|ecA d2f| ecA acA|BcB d2f|!
+ecA acA|ecA d2e|faf edc|BcB d2 😐
+
+X:56
+T:Swab the Decks. JBi.55
+M:C|
+L:1/8
+Q:1/4=160
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington..
+K:G
+GB- Bd/-c/ BdBG|GB- B(d/c/) Bdgd|GB- B(d/c/) BdBG|ecBAG2G,2:|!
+|:Bd-dg dgdc|Bd-dg faAe|Bd-dg dgdB|ecBAG2G,2:|
+
+X:57
+T:Hamilton House. JBi.56
+T:Reel Of Tulloch,The,aka. JBi.56
+M:C|
+L:1/8
+Q:1/4=160
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington..
+K:D
+f|e2Ac/d/ ecAa|e2AB/c/ dBGf|e2AB/c/ eAcA|BE E/E/E dBG:|!
+|:B|cA c/d/e cAAB|cA c/d/e dBGB|cA c/d/e cAcA|BE E/E/E dBG:|
+
+X:58
+T:Lads of Bonny Town,The. JBi.57
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:D
+d2dc2d|efe efg|d2dc2d|ecAA2A|!
+d2dc2d|efd efg|afd gec|d2dd3:|!
+|:f2f fdf|g2g geg|f2f fdf|ecAA2g|!
+faf def|gbg efg|afd gec|d2dd3:|
+
+X:59
+T:Eau de Luce. JBi.58
+M:C|
+L:1/8
+Q:1/4=130
+C:Jig or Reel or Strathspey?
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+N:A difficult tune to shove into a pigeon hole,reminiscent in B part to
+N:Sally Sloanes (jig),but triplets suggest whoever wrote it down had a
+N:reel in mind
+Z:vmp.Nick Barber & Chris Partington
+K:F
+((3Acf) ((3agf) e2f2|B>cA>B G/G/GG2|!
+((3Acf) ((3agf) e2f2|A>BG>A F/F/FF2:|!
+|:(3Acf (3Acf (3Bdf (3Bdf|(3Acf (3Acf a2f2|!
+(3Acf (3Acf (3Bdf (3Bdf|(3def (3ece f2F2:|
+
+X:60
+T:Shambuy. JBi.59
+T:Over The Water To Charlie,aka. JBi.59
+T:Sean Bui. JBi.59
+M:6/8
+L:1/8
+Q:3/8=80
+S:James Biggins MS, Leeds, 1779.
+R:.Air
+O:England
+A:Yorkshire
+N:Shambuy=Sham Boy=Sean Bui=Yellow John (from Matt Seattle).
+Z:vmp.Nick Barber & Chris Partington
+K:D
+D2A AFA|B/c/dF “^tr”E2D|D2A AFA|B3d3|!
+D2A AFA|B/c/dF “^tr”E2D|(d/e/f)d (c/d/e)c|B3d3:|!
+|:d/e/fd c/d/ec|B/c/dF “^tr”E2D|d/e/fd c/d/ec|B3d3|!
+d/e/fd c/d/ec|B/c/dF “^tr”E2D|D2A AFA|B3d3:|
+
+X:61
+T:So Merrily Danced The Quakers. JBi.60
+T:Merrily Danced &c,aka. JBi.60
+T:Quakers,aka. JBi.60
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington..
+K:G
+GABD2B|A2G FED|GABD2D|E3G3:|!
+|:dcB edc|dcB ABc|dcB efg|B3d3|!
+dcB efg|(f/g/A)B “^tr”A2G|GABD2D|E3G3:|
+
+X:62
+T:Ally Croaker. JBi.61
+M:2/4
+L:1/8
+Q:1/2=100
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+N:Inconsistent repeats in MS shown here.
+Z:vmp.Nick Barber & Chris Partington
+K:G
+G2G>G|G2G2|AGFG|A>Bcd|BGGG|G3G|A>GFG|A>Bc2:|!
+|:{B/c/}d2dd|d3d|edcB|ABc2|{AB}c2cc|c3c|dcBA|GAB2|!
+G2G>G|F2GF|E2FE|D2D2|c2cc|{c}B2Ac|BGcA|F2G2|]
+
+X:63
+T:Sleepy Moggy. JBi.62
+T:Jenny’s Chickens,aka. JBi.62
+M:C|
+L:1/8
+Q:1/2=100
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+N:Jenny’s Chickens in Ireland.
+Z:vmp.Nick Barber & Chris Partington
+K:D major
+f2Bd fBde|f2Ba eAce|f2Ba fBde|fgaf eAce:|!
+|:fBdB fBde|fBdB eAce|fBdB fBde|fgaf eAce:|
+
+X:64
+T:Castle Downe. JBi.63
+T:Castle Downs,The,aka. JBi.63
+T:Fourpence Ha’penny Farthing,aka. JBi.63
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+N:Almost the same as Vickers. First part Like “Fourpence ha’penny
+N:farthing”, Joshua Jackson…CGP..
+Z:vmp.Nick Barber & Chris Partington
+K:G
+G2AB2d|c2AB2G|BdB AGF|E3E3|!
+G2AB2G|c2AB2G|BdB AFA|D3D3:|!
+|:B2cd2B|e2cd2B|efg dcB|A3ABc|!
+dcB edc|fed gfe|dcB AGF|”^tr”G3G3:|
+
+X:65
+T:Highland Laddie. JBi.64
+T:Highland Laddies Hornpipe,aka JBi.64
+M:C|
+L:1/8
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+N:More like a hornpipe in Vickers…
+Z:vmp.Nick Barber & Chris Partington
+K:A
+f|eAcAe2c2|fBBc fBBc|ecace2c2|eAAc eAA:|!
+|:a|fe (f/g/a) f2ed|fBBc bBBc|ef/g/ a>fe2c2|eAAc eAA:|
+
+X:66
+T:Blind Man’s Ramble,The. JBi.65
+T:Chips and Shavins,aka. JBi.65
+M:2/4
+L:1/8
+Q:1/4=180
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:D
+“_Key C in MS”(B/c/)|dABF|G2 (FE)|DFAF|GEE B/c/|\
+dABF|G2FE|DFAG|FDD:|!
+|:(F/G/)|ABAF|G2(FE)|ABAF|GEE (F/G/)|\
+ABAF|G2(FE)|DFAF|FDD:|!
+|:c|dfaf|g2fe|dfaf|geef|dfaf|g2fe|dAAG|FEEc||!
+dfaf|g2fe|dfaf|gee(f/e/)|afge|fdec|(B/c/d)AG|FDD|]
+
+X:67
+T:Piping Pyman Hornpipe,The. JBi.66
+T:Butcher’s Hp,aka. JBi.66
+M:C
+L:1/8
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779.
+R:.Hornpipe
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:A
+“_Key Cmaj in MS?”
+ED|CDEC CDEC|A,2A2A2BA|GABG GABG|E2eTe3dc|!
+defd cdec|B2a2g3f/g/|aefd ecBA|E2A2A2:|!
+|:cd|ecAc ecAc|fdBd fdBTd|dcde fgab|g2eTe3dc|!
+defd cdec|B2a2g3f/g/|aefd ecBA|E2ABA2:|
+
+X:68
+T:Jockey To The Fair. JBi.67
+M:6/8
+L:1/8
+Q:3/8=110
+C:”A favourit song”
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+N:Song,5 verses
+Z:vmp.Nick Barber&Chris Partington..
+K:G
+D|G2AB2c|d2gd2c|B-d G G-F G|(A/B/).c.BA2d|!
+(d^c) d (ef) g|(fa) f e2g|(fe) d (Ad) ^c|d3-d2:|!
+|:d|(af) d (af) d|c2cB2c|(dg) d (dg) d|c2cB2B|!
+e2fg2f|e2fB2e|e^deB2A|G2FE2F|G2GG2B|!
+d3g3|dBGA2B|E2FG2A|B2g (Bc) A|G3G2:|
+
+X:69
+T:Jack Layton. JBi.68
+M:2/4
+L:1/8
+Q:1/4=130
+S:James Biggins MS, Leeds, 1779.
+R:.Air
+N:Inconsistent last bars in each phrase, take yr pick.
+O:England
+A:Yorkshire
+Z:vmp.Nick Barber & Chris Partington
+K:G
+GB dg|dBBg|dBBg|”^tr”d2B2|GBdg|dBBg|aAAB|”^tr”c2c2:|!
+|:GBdB|ecdB|GBdB|”^tr”d2B2|GBdB|ecdB|cAAB|”^tr”c2B2:|!
+|:gdBd|BGdB|gdBc|”^tr”d2B2|gdGd|BGdB|gAAB|”^tr”B2B2:|!
+|:GBBB|BBBB|GBBB|”^tr”d2B2|GBBB|B>BB>B|cAAB|c2B2:|
+
+X:70
+T:Sunderland Lasses. JBi.69
+M:3/4
+L:1/8
+Q:1/4=110
+S:James Biggins MS, Leeds, 1779.
+R:.Misc.
+O:England
+A:Yorkshire
+N:There is an ‘e2’ lead-in note which I have removed for clarity of playback
+N:This is how it is beamed in the ms, so although it claims 6/8 in the
+N:MS, I have
+N:moved it to 3/4, which is more in line with other versions..cgp..
+Z:vmp.Nick Barber & Chris Partington
+K:A
+“_Key F,Time sig 6/8 in MS”\
+c2Ac ec|Aeec ea|c2Ac ec|BffB df||!
+Ac ec dc|Ac ec ea|Ac ec ac|BffB df||!
+a2eg ae|cA aceg|a2 eg ae|dBfB df|]
+
+X:71
+T:I’ve Lost My Love And I Care Not. JBi.70
+M:C|
+L:1/8
+Q:1/2=80
+S:James Biggins MS, Leeds, 1779.
+R:.Reel
+O:England
+A:Yorkshire
+N:Mr Biggins seems to have got a bit fed up with key signatures around
+N:here.This ones a bit odd anyway, whatever you put it in..CGP…
+Z:vmp.Nick Barber & Chris Partington..
+K:A
+“_Key? 5 flats in ms,see note”\
+B|Bcce dBGB|cAAa g2e2|Bcce dBGB|cAAa g2″^cr”e||!
+“^cr”a|gece dBGa|geca g2e2|gece|dBGe|cAca g2″^cr”e|]
+
+X:72
+T:Farley Shot of Her. JBi.71
+T:Fairly Shot of Her,aka. JBi.71
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779.
+R:.Jig
+O:England
+A:Yorkshire
+N:Sounds a bit like “do you ken Elsie Marley”..CGP
+Z:vmp.Nick Barber & Chris Partington..
+K:G
+G2EG2E|G2B BGE|G2EG2E|D2A AFD|!
+G2EG2E|G2B BGB|c2e dBG|D2A AFD||!
+GAB BAB|G2B BGE|GAB BGB|D2A AFD|!
+GAB BAB|Gdc BGB|c2e dBG|D2A AFD||!
+Ggf gdB|G2B BGE|Ggf gdB|D2A AFD|!
+Ggf gdB|def gdB|cac BgB|D2A AFD|]
+
+X:73
+T:Duke’s Reel,The. JBi.72
+M:C|
+Q:1/2=80
+S:James Biggins MS, Leeds, 1779
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Chris Partington
+K:D
+AA/A/ f2ede2|BB/B/ g2 dBGB|AA/A/ f2 ede2|EE/E/ FG A2A2:|!
+|:AA/A/ aA aAaA|BB/B/ gB gBgB|AA/A/ aA aAaA|EE/E/ FG A2A2:|
+
+X:74
+T:Sailor’s Wedding. JBi.73
+M:C|
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779
+R:.Reel
+O:England
+A:Yorkshire
+Z:vmp.Chris Partington
+K:F
+D2|(FGAF) ECGE|FDGD FDGD|(FGAF) ECGE|fdgd f2d2||!
+fg(af) ecge|fdad fdad|fg(af) ecge|fdgf f2d2|]
+
+X:75
+T:Upstairs and to Bed. JBi.74
+M:C|
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779
+R:.Reel
+O:England
+A:Yorkshire
+N:I’ve removed a superfluous quaver ‘A’ from the end of each strain.
+Z:vmp.Chris Partington
+K:D
+“_Key C in ms”\
+“^cr”A|defd ecac|BffB BffB|defd ecac|AeeA Aee:|!
+|:f/g/|afge fdec|BffB BffB|afge fdec|AeeA Aee:|
+
+X:76
+T:Polly’s Fancy. JBi.75
+M:9/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779
+R:.Slip Jig
+O:England
+A:Yorkshire
+Z:vmp.Chris Partington
+K:F
+f2d cAF cAF|f2d cAF B2G|f2d cAF cAF|GAB AGF EDC||!
+f2a afa afa|f2a afa gec|f2a afa afa|gac’ agf edc|]
+
+X:77
+T:Just As She Was In The Morning. JBi.76
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779
+R:.Jig
+O:England
+A:Yorkshire
+Z:vmp.Chris Partington
+K:F
+P:As written
+f/e/|d2D (F/G/A)G|E2g fef “_sic”d|D (F/G/A)G A|f2:|!
+|:dfa afd|ceg gec|dfa afd|f3a3|!
+dfa gea|fdf edc|d2D (F/G/A)G|A3f3:|!
+|zzzz|zzzz|zzzz|!
+P:Suggested interptretation,CGP
+f/e/|d2D (F/G/A)G|E2g fef |d2D (F/G/A)G|A3f2:|!
+|:z|dfa afd|ceg gec|dfa afd|f3a3|!
+dfa gea|fdf edc|d2D (F/G/A)G|A3f2:|
+
+X:78
+T:Lord Howe’s New Minuet. JBi.77
+M:3/4
+L:1/8
+Q:1/4=120
+S:James Biggins MS, Leeds, 1779
+R:.Minuet
+O:England
+A:Yorkshire
+N:Some inconsistencies.
+Z:vmp.Chris Partington
+K:G
+G2GGGG|G2dBc2|D2DDDD|D2c>Bc2|!
+BdBGG2|ABc4|BdBGG2|ABc4|((3edc) B2A2|”^G4 in MS”G6||!
+d2dddd|d2afg2|A2AAAA|A2gfg2|fafdd2|!
+efTg4|fgfdd2|efTg4|((3bag) f2e2|d6||!
+BGg2fe|dcB2c2|A2agfe|dcB4|BdBGG2|!
+P:My interpretation
+ABc4|BdBGG2|ABc3g|((3edc) B2A2|G6|]
+P:Last four bars in MS written as follows
+ABc4|BdBGG2|ABc4|g2((3edc) B2A2|G4|]
+
+X:79
+T:Recruiting Officer. JBi.78
+M:6/8
+Q:120
+S:James Biggins MS, Leeds, 1779
+R:.Jig
+O:England
+A:Yorkshire
+N:Mr Biggins seems to be getting really bored with the niceties of
+N:notation..This tune is well known elsewhere so doesn’t need
+N:repairing..CGP..
+Z:vmp.Chris Partington
+K:D
+“_as written,see note”\
+A2def edc|d3AGF GAB|AFDE2A2def edc|!
+dcB AFD|GAB AcA|d2d2::!
+e2fga ege|fg3 Bcd ecA c2A agf|!
+edc dcB|AFD GAB|AcAd2d2|]
+
+X:80
+T:Miss Baker’s Hornpipe. JBi.79
+M:C
+L:1/8
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779
+R:.Hornpipe
+O:England
+A:Yorkshire
+N:A well known tune, so doesn’t need editing..CGP..
+Z:vmp.Chris Partington
+K:G
+d2cBG2G2|AG FGABc3|BA BcdB gfedB2|G2G2:||!
+w:No Key or Time Sig in MS, otherwise as written
+efgd fa|fbag|fdfa fbag|fd fa gbag|f2d2-d2ef|!
+gfed cBAG|efed c2BA|BcdB gfed|B2G2-G2|]
+
+X:81
+T:Ranting Roaring Willie. JBi.80
+M:6/8
+L:1/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779
+R:.Jig
+O:England
+A:Yorkshire
+N:As this is well known elsewhere it would be superfluous of me to edit
+N:it..CGP..
+Z:vmp.Chris Partington
+K:G
+“_As Written”B|AFD DFD|FGA cdc|EF2G2|G AFD DFD|!
+FGA ded|F2GA2c ded|F2G2A2|!
+B2cdcE2F2G2|B2ABA cBA|dcB AGF|EDCD3:|!
+|:A2|def fefd2A|cde efec2A|def fef fef|def fef d2A|!
+def faf d2A|def ege c2A|d2cB2A|dcB AGF|EDC D2:|!
+|:A|AFD AFD AFD|cGE cGE GAB|AFD AFD AFD|dAF dAF G2A|!
+cGE cGE GAB|ABc B2G2|dcB AGF|EDC D2:|
+
+X:82
+T:Shutter Hornpipe. JBi.81
+M:C
+Q:1/2=90
+S:James Biggins MS, Leeds, 1779
+R:.Hornpipe
+O:England
+A:Yorkshire
+N:Otherwise well known..
+Z:vmp.Chris Partington
+K:A
+“_unedited,key unclear in ms”A2AA ABcd|\
+ecdB AcdB|B2BB Bdfe|dcBA GBGE|!
+A2AA ABcd|ecdBA2g2|gbge aged|e2eee4:|!
+|:B2BBB2cd|ecBA GBGE|e2eee2fg|bfed cecA|!
+f2d2dfaf|e2c2 ceae|fdec dBAG|A2AAA2:|
+
+X:83
+T:Hast to the Wedding. JBi.82
+M:6/8
+Q:3/8=120
+S:James Biggins MS, Leeds, 1779
+R:.Jig
+O:England
+A:Yorkshire
+N:Hast = Haste. Edit to tast!
+Z:vmp.Chris Partington
+K:C
+“_as written”GEG Gge|dAd edA|GEG AcE|DDDD3|!
+GEG Gge|dAd edA|GEG ege|cccc3:|!
+|:geg geg|afa afa|geg geg|fddd3|!
+efge3|dcd edA|GEG ege|cccc3:|
+
+X:84
+T:Count Brown’s March(secundo). JBi.83
+T:Bodmin Riding March(secundo),aka. JBi.83
+T:Capt. Brown’s March(secundo),aka. JBi.83
+M:C
+Q:160
+S:James Biggins MS, Leeds, 1779
+R:.March
+O:England
+A:Yorkshire
+N:There is enough here for you to reconstruct if necessary, however, you
+N:will have to look elsewhere for the Primo part (eg,B.Cooke,Jos Barnes
+N:MSs) as Mr Biggins has omitted it..CGP,…
+Z:vmp.Chris Partington
+K:D
+“_As Written, no key sig in ms”AB/c/|d2d2d2d2|dcde dede|!
+f2f2f2g-f|e2e2e2f-e|d2f>d|A4:|!
+|:ABc2ccd2cBAG A4|def2f2f2g2|fedcd2|!
+fe ((3ded) ((3AdA) F2|f-ed2A2F2|fed2A2F2Dfed|A6:|!
+|:z|zAB/c/|dAFA dAFA|dcde dAFA|!
+fFFff2f2|eDDee2e2|fed2d2cdA4:||!
+cd|cBAG cBAG|edcBA2|de fFFf eFFe|!
+d2A2F4|fed2A2F2|cBA2BA GAGD|fed2AF DfedA4|]

@@ -1,0 +1,835 @@
+%abc
+%%abc-alias John Clews, 1832, UK Shropshire,Stoke on Tern, Private collection
+%%abc-creator ABCexplorer 1.4.0 [11/01/2012]
+%%abc-edited-by www.village-music-project.org.uk
+%John Clews MS, Shropshire, 1832
+%Transcribed to ABC for the VMP by Neil Brookes, 15/11/2006
+%Revised 12/2008 #28
+%Revised 12/2009.
+%Multi-voice tunes formatted by Phil Taylor 1/2010
+
+X:1
+T:Belleisle’s March.2voices. JClw.01
+T:Monck’s March,aka.2voices. JClw.01
+M:2/4
+L:1/8
+Q:1/4=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+N:JC places the sharp for the key sig an octave lower than is usual.
+Z:Neil Brookes 2006
+K:G
+[V:1]|:D2|G2G>B|A2A>c|B2g>e|d3c|B2(3dBG|A2(3cAF|G2G>G|G2:|
+[V:2]|:z2|z2G>G|F2F>A|G2e>c|B3A|G2(3DGB|F2(3AFD|G2B>B|B2:|
+%
+[V:1]|:D2|d>ed>c|B2B2|c>dc>B|A2A2|d>ed>c|B>cB>c|d>edc/B/|HA2D2|
+[V:2]|:d2|B>cB>A|G2G2|A>BA>G|F2F2|B>cB>A|G>AG>A|B>cBA/G/|HF2z2|
+%
+[V:1] G2G>B|A2A>c|B2g>e|d3c|B2(3dBG|A2(3cAF|G2G>G|G4:|
+[V:2] z2G>G|F2F>A|G2e>c|B3A|G2(3DGB|F2(3AFD|G2B>B|B4:|
+
+X:2
+T:King George the Third’s March. JClw.02
+M:4/4
+L:1/8
+Q:1/4=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Rather eccentric at times, so the title is probably apt (!).
+N:Nice tune though.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+G2B2d2g2|bgG2B2d2|ed cB A2d2|e2g2 fgaf|d2c2BAGA|B2A2G2z2:|!
+|:f2g2a2g2|f2e2d2cd|ed ef e2d2|ed efe2fg|ag fe d2d2|!
+cB AG cB cd|ed cBA4|d2eg fgaf|d4c4|BA GA B2A2|G4:||
+
+X:3
+T:Duke of York’s March. JClw.03
+M:4/4
+L:1/8
+Q:1/4=140
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:A counter melody in treble clef has been erased from the MS.NeilB.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+D2D>DF2F>F|AFAFD2A2|dAdA dAFD|A2A>AA2z2|!
+a3fd2d2|e2e>gf2za|a3f fdgf|e2e>ee2z2:|!
+|:A2A>A Aefg|A2A>A Adfa|geee fddd|bagf f2e2|!
+d3 f/2e/2 dAB=c|=cB B4 =c/2d/2e/2f/2|\
+ggffeedd|c2e>ee2z2|!
+D2D>DF2F>F|AFAFD2g2|faaf gedc|d2d>dd2z2:|
+
+X:4
+T:March,A (not really!) JClw.04
+M:9/8
+L:1/8
+Q:1/4=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Written in 6/8 but appears to be in 9/8 or 3/2.
+N:Possibly author not familiar
+N:with 9/8 and attempted to make tune fit 6/8. This “March” therefore
+N:turns out to be a lovely slip-jig. In bar 3 notes EGE precede C2C in MS
+N:- a probable error which I have taken the liberty of editing”NeilB.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+“_barred in 6/8 in MS”
+G2G BAG BdB|G2″*”c BAG FED| C2C E2E EGE”^see notes”| FED DEF G3:|!
+|:G2Gg2d BdB|G2G g2d B/2c/2dB|A2e e2c e2c|d2gf/2g/2af g3:|!
+|:gec BAB GAB|gec BAB GAB|c2e e2c e2c|d2g f/2g/2af g3:|
+W:* dotted in MS in effort to fit into 6/8
+
+X:5
+T:Turkish March. JClw.05
+M:2/4
+L:1/8
+Q:1/4=100
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+N:A counter melody has been erased in the MS.
+N:Finish at end of A part i.e play AABA. NeilB.
+Z:Neil Brookes 2006
+K:D
+a>gff|f>edd|edec|d/2e/2f/2e/2 d/2e/2f/2g/2|!
+a>gff|f>edd|edec|d2d2″fine”:|!
+e2f2|{a}gg/2f/2 ee|f2g2|{b}aa/2g/2 fa|!
+aggf|aggf|ab/2a/2 gf|f2e2″D.C”|]
+
+X:6
+T:Duettines.2voices. JClw.06
+M:2/4
+L:1/8
+Q:1/4=80
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Bar missing in B music??
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:C
+[V:1] geaf|dfec|d/d/e/e/ f/f/d/d/|g/g/e/e/ d2|
+[V:2] ecfd|GdcE|G/G/c/c/ d/d/G/G/|e/e/c/c/ G2|
+%
+[V:1] geaf|dfec|e/e/a/a/ ^f/f/g/g/|a/a/^f/f/ g2||
+[V:2] ecfd|GdcE|c/c/c/c/ d/d/e/e/|c/c/d/d/G2||
+%
+[V:1] de dg|dedG|e/e/d/d/f/f/e/e/|d/d/e/f/ {f}e2|
+[V:2] GcG2|GcG2|c/c/G/G/ d/d/c/c/|G/G/c/d/ {d}c2|
+%
+[V:1] de dG|g/g/e/e/ a/a/f/f/|e/e/d/d/ c2|]
+[V:2] Gc G2|e/e/c/c/ c/c/d/d/|c/c/G/G/ E2|]
+
+X:7
+T:March in Battle of Prague. JClw.07
+M:4/4
+L:1/8
+Q:1/4=140
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:A counter melody (2nd voice) has been erased from the MS.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+d2d>dd2 e/d/c/B/|{B}A2A>AA2 f>d|{c}B2 g>e {d}c2e>c|d2d>dd2 fe|!
+e2c>d eefe|{e}d2Bc dded|{d}cB/c/ e/d/c/B/ A2^G2|A2A>AA2z2:|!
+|:A2A>B c>de>f|g2 e>g f2 fg|afdd g>ef>d|e2 A>A A2F>G|!
+A2B>cd2 f>d|{d}c2 g>e f2 (3Adf|afdd fedc|d2d>dd2z2:|
+
+X:8
+T:Prince Edward’s Minuet. JClw.08
+M:3/4
+L:1/8
+Q:3/4=60
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+D2|G2 GGGG|G2D2G2|d2g4|ecdBcA|!
+B2g4|ecdBcA|d2 cBAG|AB c2B2|”^qu in MS”B2A2||!
+D2|A2 AAAA|A2d>dd2|A2e>ee2|A2f>ff2|A2 g2 fg|egfedc|!
+d2 GGGG|d2B2 de|d2c2B2|c2A2 cd|c2B2A2|B2Bc d2|!
+e2 efef|a2c2B2{c}|{B}A2GFED|G2 GGGG|G2D2G2|BAG2B2|!
+d2g4|ecdBcA|B2g4|ecdBcA|d2cBAG|(3ABc (3BGA F2|G6||
+
+X:9
+T:Vanhall’s Minuet.2voices. JClw.09
+M:3/4
+L:1/8
+Q:1/4=140
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+N:The Da Capo at the end of line 2 is redundant.
+Z:Neil Brookes 2006
+K:D
+[V:1]|:A2|d4fe|edd2A2|e4gf|fee2fg|a3g/f/ e/d/c/B/|\
+A2g2f2|{f}e2d2c2|{c}d4:|
+[V:2]|:D2|F4AG|GFF2d2|c4ed|dcc2c2|d2F2G2|\
+F2e2d2|{A}G2F2E2|{E}F4:|
+%
+[V:1] fg|a2f2d2|ceg4|f/a/b/a/ b/a/b/a/ g/f/e/d/|c/d/e/f/g4|\
+(3fga (3bag (3fed|d2″D.C.”c2||A2|d4fe|edd2A2|
+[V:2] de|f2d2A2|G2e2c2|d2d2F2|G2e2c2|\
+(3def (3gfe (3dcd|F2″D.C.”E2||D2|F4AG|GFF2d2|
+%
+[V:1] e4gf|fee2fg|a3g/f/ e/d/c/B/|A2g2f2|{f}e2d2c2|{c}d4|]
+[V:2] c4ed|dcc2c2|d2F2G2|F2e2d2|{A}G2F2E2|{E}F4|]
+
+X:10
+T:King of Sweden’s March. JClw.10
+M:3/4
+L:1/8
+Q:1/4=160
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+G,2 B>G,A,>c|B,2d>B,C>e|d2cBAG|F/G/F/E/ D/E/D/C/ B,/C/B,/A,/|!
+G,2 B>G,A,>c|B,2d>B,C>e|d2D>GF>A|G6||!
+b2G>bF>b|a2F>aE>a|g2E>gD>g|f>ed>ef>g|!
+a2F>aE>a|g2E>gD>g|f2 g/f/e/d/ c/d/e/c/|d>e f/e/d/c/ B/c/B/A/|!
+G,2 B>G,A,>c|B,2d>B,C>e|d2cBAG|F/G/F/E/ D/E/D/C/ B,/C/B,/A,/|!
+G,2 B>G,A,>c|B,2d>B,C>e|d2D>GF>A|G6|]
+
+X:11
+T:Duke of York’s Troop. JClw.11
+M:3/8
+L:1/8
+Q:3/8=60
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+N:I have regularised the triplets.CGP.
+Z:Neil Brookes 2006
+K:G
+(3d/e/f/|gdd|d>ed/c/|BGG|G>BA/G/|FAA|GBd|dcB|A2 (3d/e/f/|!
+gdd|d>ed/c/|BGG|G2 d|eg/e/g/e/|dB/d/B/d/|cA>F|G2:|!
+|:G|FAA|GBB|Acc|B>dB/G/|FA/F/A/F/|GB/G/B/G/|Ac/A/c/A/|B2(3d/e/f/|!
+gdd|d>ed/c/|BGG|G2 d|e/d/e/f/g/e/|f/g/a/f/g/d/|cAF|G2:|!
+|:Bdd|^dee|Acc|^cdd|GFA|G2B/d/|g/d/g/d/B/G/|d3|!
+Bdd|^dee|Acc|^cdd|g/f/g/=f/e/^d/|e/^d/c/B/A/G/|c/e/d/B/c/A/|G2z:|
+
+X:12
+T:Dorsetshire March,The JClw.12
+M:4/4
+L:1/8
+Q:1/4=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:A minor key version of this popular tune. NeilB
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:F
+D2|F2D>FA2F>A|d2A>df2 d>f|a2b>a g2 f3/2e/4f/4|e2e>ee2D2|!
+F2D>FA2F>A|B>cd>e d>c B>A|B>cd>g f2e2|d2d>dd2:|!
+|:A2|d2e2f>d Bc|dB AF dB AF|ED FA d>c B>A|G2 E>EE2d2|!
+F2D>F A2 F>A|B2 g>e d>c B>A|Bbag f2e2|d2d>dd2:|
+
+X:13
+T:Marche du Marseillais. JClw.13
+M:4/4
+L:1/8
+Q:1/4=180
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:The well known French National Anthem with
+N:a few interesting bits added! NeilB.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+AAA|d2d2e2e2|a3f dddc|B2g4ec|d4z2de|!
+f2f2f2 gf|fef2z2ef|g2g2g2ag|f4z2aa|a2fd a2fd|A4z2(3AAA|!
+e4g2ec|d2d2=c4|B2BBd2cd|e4z2ze|=f3fefgf|e4z2=fe|dcc4za|!
+a4-ae=fd|”La genereal”e4A2aa|A2A2A2(3AAA|A2(3AAA A2(3AAA|A2z2z2za|!
+a4-ae=fd|”La genereal”e4A2aa|A2A2A2(3AAA|A2(3AAA A2(3AAA|A2z2z2A2|!
+d6d2|f8|g4a2b2|e6zb|a4 afge|d6A2|d6d2|f8|g4a2b2|e6zb|a4 afge|d8|]
+
+X:14
+T:March of 15th Regiment.3voices. JClw.14
+T:15th Regiment,March of.3voices. JClw.14
+M:4/4
+L:1/8
+Q:1/4=110
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:A very grand arrangement in 3 parts. Voice 1 almost identical
+N:to the version in John Jones MS (1801), North Shropshire.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+[V:1]G2|d2d>dd2 (3edc|B2B>BB2 (3GAB|A2c>dd>cB>A|G2G>GG2 g>e|!
+[V:2]G2|B2B>BB2 (3cBA|d2d>dd2 (3BAG|F2A>c B>AG>F|G2G>GG2 g>e|!
+[V:3 clef=bass]G,2|G,2G,>G,G,2 z2|G,2G,>G,G,2 z2|z8|G,2G,>G,G,2 z2|!
+%
+[V:1]e2e>ee2 g>e|d2d>dd2 B>d|c>Ac>c B>GB>B|A2A>AA2||!
+[V:2]c2c>cc2 e>c|B2B>BB2 G>B|A>FE>E G>BG>G|F2F>FF2||!
+[V:3 clef=bass]C2C>CC2z2|G,2G,>G,G,2 z2|z8|D2D>DD2||!
+%
+[V:1]d>B|A2A>AA2 d>B|B2B>BB2 (3Bcd|e2g>gg2e2|d2g>gg2 (3edc|!
+[V:2]B>G|F2F>FF2 G>F|G2G>GG2 (3GAB|c2B>BB2c2|B2B>BB2 (3cBA|!
+[V:3]G,>G,|D2D>DD2 G,>A,|G,2G,>G,G,2 (3GDB,|\
+(3A,B,C (3B,A,G,G,2C2|(3B,A,G, G,>G,G,2 (3CB,A,|!
+%
+[V:1](3Bcd (3efg d>cB>A|G>ABB B>cdd|d2 (3edc B2A2|G2G>GG2|]
+[V:2](3GAB (3cAB B>AG>F|D>FGG G>ABB|\
+B2 (3cBA G2F2|[B2G2][B3/2G3/2][B/2G/2][B2G2]|]
+[V:3](3G,A,B, (3CDE F>G G,>A,|B,>A,G,G, G,>A,B,G,|\
+G,2 (3CB,A, G,2 D,2| G,2G,>G,G,2|]
+
+X:15
+T:Grano’s March.2voices. JClw.15
+M:4/4
+L:1/8
+Q:1/4=160
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+[V:1]|:f4Te4|d>dd>d d2A2|a4Tg4|f>ff>f f2d2|
+[V:2]|:z6A2|A>AA>A F2e2|f4e4|d>dd>d d2A2|
+%
+[V:1] f>ff>a e>ee>a|d>dd>f e2A2|(3ded (3efe (3fgf (3gag|
+[V:2] d>dd>d c>cc>c|d>BA>d c2A2|(3BcB (3cdc (3ded (3efe|
+%
+[V:1] (3aba (3gag (3fgf (3efe|d>dd>d d4::(3fgf (3fgf (3efe (3efe|
+[V:2] (3fgf (3efe (3ded (3cdc|A>AA>A F4::(3ded (3ded (3cdc (3cdc|
+%
+[V:1] (3gag (3gag f4|f>ff>a e>ee>a|d>d de/f/ e2A2|(3fgf (3fgf (3efe (3efe|
+[V:2] (3efe (3efe d4|d>dd>d c>cc>c|A>A Bc/d/ A2F2|(3ded (3ded (3cdc (3cdc|
+%
+[V:1] (3gag (3gag f4|a8|a8|(3aba (3gag (3fgf (3efe|d>dd>d d4:|
+[V:2] (3efe (3efe d4|f2d2A2F2|F2A2d2f2|(3fgf (3efe (3ded (3cdc|A>AA>A F4:|
+
+X:16
+T:Rural Felicity. JClw.16
+T:Haste to the Wedding,aka. JClw.16
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+A|AFG Aaf|ede fdB|AFA BdF|EEE E2z|!
+AFG Aaf|ede fdB|AFA faf|dddd2:|!
+|:a|afa afa|bgb bgb|afa agf|eeee3|!
+a3f3|ede fdB|AFA faf|dddd2:|
+
+X:17
+T:Bedfordshire March,The.3voices. JClw.17
+M:4/4
+L:1/8
+Q:1/4=110
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:A glorious arrangement in 3 parts.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+[V:1]d2d>dd2 c2|B2B>BB2A2|G3A/B/ A3B/c/|B2B>BB2 A>B|!
+[V:2]z8|d2d>dd2 c2|B2G4TF2|G2G>GG2 FG|\
+[V:3 clef=bass]z2G,,2B,,2D,2|G,2G,,2B,,2D,2|E,3C,D,2D,,2|G,,2G,,>G,,G,2z2|\
+[V:1]c2B2d2cB|c3d/e/ d2c2|(3BAB (3cBA G2A2|G2G>GG4||!
+[V:2]A2G2B2D2|E2E2F2A2|D2G4F2|[B2G2][B3/2G3/2][B/G/][B4G4]||\
+[V:3]z4G,,2G,2|E,2A,2D,2F,2|G,2C,2D,2D,,2|G,,2G,,>G,,G,4||\
+%
+[V:1]d2A>AA2B2|A>G A>B A2B2|c2B2A2G2|A2A>AA2 Bc|!
+[V:2]F2F2D2G2|F2D2z4|A2B2c2B2|A2F>FF2dc|\
+[V:3]z2D,2D,2G,,2|D,2D,2D,2G,2|D,2G,2D,2G,,2|D,2D,2D,2B,A,|\
+%
+[V:1]d2Bcd2ec|d2Bcd2ec|d>Bc>A (3BAG (3dcB|B2A>AA2D2|!
+[V:2]B2GAB2cA|B2GAB2cA|B2D2G2(3BAG|G2F2z4|\
+[V:3]G,2G,,2z4|G,2G,,2z4|G,2F,2G,2G,,2|B,2D,2D,>C,B,>A,|\
+%
+[V:1]G2(3GAB A2(3ABc|B2(3Bcd c2(3cde|(3dgf (3gec B2A2|G2G>GG4|]
+[V:2]z4z2(3FGA|G2(3GAB A2(3ABc|(3Bcd (3ecA G2F2|\
+[B2G2][B3/2G3/2][B/2G/2][B4G4]|]
+[V:3]G,,4z4|z4D,2F,2|G,2G,,2D,2D,,2|G,,2G,,>G,,G,,4|]
+
+X:18
+T:Rule Brittania. JClw.18
+M:4/4
+L:1/8
+Q:1/4=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+A|d2d2d/e/f/g/a d|e2 ef/g/ Tf2zA|d/c/d/e/ f/e/f/g/a e f e|de/f/ ed c2zA|
+c A e c a ^g/f/ e/d/ c/B/|A2{AB}B2{AB}A2||!
+d2d3/2 A/ B G zd|g f e d A2ze|a2g2 f/d/g/e/a/f/ e/d/|A2Te2{de}d4|
+f2zf g gzf|g3/2f/e3/2d/A4|a2g2 f/d/g/e/a/f/ e/f/|A2e2{de}d4||
+
+X:19
+T:Bellonian’s Air,The. JClw.19
+M:4/4
+L:1/8
+Q:1/4=100
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Bellonian may refer to an invention of Bell Organ & Piano Co (Canada),
+N:which was a self-playing attachment for reed organs using folded paper m
+N:ic
+N:invented by a Mr Warren. Presumably the effect was similar to a pianola.
+N:The company was in business from 1864-1928, which would
+N:date this part of the MS book later than 1832.
+N:Interestingly, Bell also made melodeons.NeilB.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:A
+A2EG AA, zA|Bcde dz2e|Ee Ed Ec ze|\
+E/d/c/d/ E/d/c/d/ Ec zE|!
+E/F/G/A/ Bc dc zB|A/B/c/d/ ef gf z2|\
+bd/c/ db dc/B/ cb|cB/A/ ce dB ed|!
+c/e/e/e/ B/e/e/e/ c/e/e/e/ A/e/e/e/|\
+d/f/f/f/ c/f/f/f/ d/f/f/f/ B/f/f/f/|\
+A/a/a/a/ B/a/a/a/ c/a/a/a/ B/a/a/a/:|!
+A/a/A/a/ B/a/B/a/ c/a/c/a/ B/a/B/a/|\
+A/a/g/f/ e/d/c/B/ A/B/c/d/ eg|ag/f/gf/e/ e2z2|\
+ag/f/ e/d/c/B/ A2z2|!
+AG/F/ E/D/C/B,/ A,2a2|e/a/g/a/ e/a/g/a/ e/a/g/a/ e/a/g/a/|\
+e/b/a/b/ e/b/a/b/ e/b/a/b/ e/b/a/b/|\
+e/c’/b/c’/ e/c’/b/c’/ e/c’/b/c’/ e/c’/b/c’/|!
+e/d’/c’/d’/ e/d’/c’/d’/ e/d’/c’/d’/ e/d’/c’/d’/|\
+e’/e’/e’/e’/ e’/e’/e’/e’/ e’/e’/e’/e’/ e’/e’/e’/e’/|\
+e/e’/e’/e’/ f/e’/e’/e’/ g/e’/e’/e’/ f/e’/e’/e’/|!
+e/e’/e/e’/ f/e’/f/e’/ g/e’/g/e’/ f/e’/f/e’/|\
+e’d’/c’/ d’e’ d’c’/b/ z2|ag/f/ ga gf/e/ zd|\
+c/e/B/e/ c/e/B/e/ c/e/B/e/ c/e/A/e/|!
+d/e/c/e/ B/e/A/e/ d/e/c/e/ B/e/A/e|\
+d/c/B/c/ D/c/B/A/ GF/E/ zE|E/F/G/A/ Bcdc zB|\
+A/B/c/d/ ef gf zb|!
+e2d2cE Ad|c2B2A2 zE|E/F/G/A/ BcdB zB|\
+A/B/c/d/ ef gf zb|e2d2 cE Ad|c2B2A4||
+
+X:20
+T:Lulley’s Minuet. JClw.20
+M:3/4
+L:1/8
+Q:3/4=60
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:C
+e2a2^g2|a2A2B2|c2 dcBd|Tc2 BcA2|ceceBe|ceceBe|ceBeAe|^G2^FGE2|!
+e2a2^g2|a2A2B2|c2 dcBd|Tc2 BcA2|edcBAe|fedcBA|edcBAe|edcBAB|cdd4|e6::!
+g2c’2b2|c’2c2d2|Te2 fedg|e2de c2|cGEGc_B|ABGAFA|dAFDdc|BcABGB|!
+eBGEed|cdBcAc|fcAFfe|decdBd|gdBGgf|egegdg|egdgcg|BgAgGg|feTd4|c6|!
+e2a2g2|f2d2c2|B2g2f2|e2c2B2|A2f2e2|d2B2A2|^G2e2d2|Tc2BcA2|!
+ae^cAag|fgefdf|gdBGgf|efdece|fcAFfe|decdBd|eB^GEed|ceceBe|!
+ceceBe|ceceAe|^Ge^FeEe|dc TB4|A6:|
+
+X:21
+T:Through the Wood Ladway. JClw.21
+T: Through the Wood Laddie,aka. JClw.21
+M:3/4
+L:1/8
+Q:1/4=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:F
+FC|D2F>G A/G/F/G/|A4fc|d2fd cA|G4FG|A3B AG|A2F2FG|AGABAG|A2F2FC|!
+D2F>G A/G/F/G/|A4fg|agfdcA|G4Bc|d2 fd cA|cd cBAG|A2D2E2|F4::!
+fc|d2fg a/g/f/g/|a4fg|a2ba gf|g4fg|a3b ag|a2f2fg|ag abag|a2f2fc|!
+d2fg a/g/f/g/|a4fg|ag fd cB/A/|G4Bc|d2fd cA|cdcBAG|A2D2E2|F4:|
+
+X:22
+T:Hungarian Minuet,The. JClw.22
+M:6/8
+L:1/8
+Q:3/8=80
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+G2GGGG|A2gd BG|c2B2A2|B2gd BG|c2B2A2|BG dB g2|!
+edcBAG|d2D2g2|ec A2g2|fg af ed|edA2g2|fe/d/ gf/e/ ag/f/|ba/g/ f2e2|d6||
+d2dddd|d2gd bd|c2cccc|c6|B2c2d2|e2f2g2|edcBAG|!
+{f}A2D4|G2GGGG|A2gd BG|c2B2A2|GABc dg|ga/b/ B2A2|G6|]
+
+X:23
+T:London Minuet. JClw.23
+M:3/4
+L:1/8
+Q:1/4=160
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:F
+A4G2|EFEFEF|c4B2|B2A4|D2B2G2|E2F4|GAB2A2|A2G4|!
+A4G2|EFEFEF|c4B2|B2A4|D2B2G2|F2E2F2|dc/B/ A2TG2|F6::!
+G4A2|B4A2|G2B2A2|A2G4|G4A2|B4A2|c2B2A2|A2G4|!
+A4G2|EFEFEF|c4B2|B2A4|D2B2G2|F2E2F2|dc/B/ A2TG2|F6:|
+
+X:24
+T:Merionethshire March. JClw.24
+M:4/4
+L:1/8
+Q:1/2=80
+R:.march
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+D2|G2B>GA2d>c|Bgfe d2 cB|c2e>cB2 g>B|A2A>AA2D2|!
+G2B>GA2d>c|Bgfe d2 (3Bcd|e2(3cde f2(3def|g2G>GG2::!
+Bc|d2d>B d2g>d|e2e>c e2g>e|d2d>cB2G>B|A2A>AA2D2|!
+G2B>GA2d>c|Bgfe d2 (3Bcd|e2(3cde f2(3def|g2G>GG2:|
+
+X:25
+T:Sally’s March. JClw.25
+M:4/4
+L:1/8
+Q:1/4=160
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+R:.march
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+AB/c/|d2D>D F>F A>A|dAdf fdeg|fafd Bdgf|edcB AGFE|!
+FDFA dFAd|fAdf adfa|gfed cd dc/d/|e6::!
+A/B/c/d/|e2A>A c>c e>e|f2A>A d>d f>f|g2ef gfed|edcBA2 dc|!
+BdGd AdFd|BdGd AdFd|(3fed (3cBA f2e2|d2d>dd2:||
+
+X:26
+T:March by Hands,A. JClw.26
+M:4/4
+L:1/8
+Q:1/4=160
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+R:.march
+A:N. Shropshire
+N:…by Handel?
+Z:Neil Brookes 2006
+K:D
+fg|a2a2a2d2|edef e2g2|f2 ed fagf|e2A2A2A2|!
+d2ddd2d2|f2ddd2d2|fgaba2^g2|a6::!
+cd|e2e2e2gf|edcB^A2A2|Bdce dgfe|d2c2B2fg|!
+a2c2 cagf|g2E2 Egfe|fdge fagf|{f}e6(3ABc|!
+d2D2defg|a2c2 cbag|fdAg f2e2|d6:|
+
+X:27
+T:Twenty-Ninth of May,The. JClw.27
+T:When the King Enjoys His Own Again,aka. JClw.27
+M:4/4
+L:1/8
+Q:1/4=160
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+A2A2d2d2|efge f2 ef|g2B2c2d2|f2e2d4::!
+f2|edcd e2ef|edcde2ef|g2B2c2d2|c2B2A2fg|!
+abag f2 ed|efge f2 ef|g2B2c2d2|f2e2d4:|
+
+X:28
+T:Bine Waters,The. JClw.28
+T:Boyne Waters. JClw.28
+T:Idbury Hill,aka.(Bledington) JClw.28
+M:4/4
+L:1/8
+Q:1/4=160
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Presumably a minor key cousin of “Boyne Waters”
+N:Similar to the Cotswold (Bledington) morris tune which
+N:accompanies the dance ‘Idbury Hill’. The 9 bar ‘B’ music may
+N:contain errors, or maybe not. I have added an edited version –
+N:same notes with different lengths to fit 8 bars. NeilB.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:Dm
+“_version as in MS”
+D2d2defd|cBAG F2GA|BABc dcBA|”^crs in MS”G4D4::!
+D2ffe2f2|gfed c2c2|d2g2g2a2|b2a2g2d2|!
+e2f2a2g2|f2e2d2cB|AFGA B2AG|d2c2B2A2|G4D4:|!
+zzzz|zzzz|zzzz|!
+“^edited version – note lengths”
+“^altered to fit into 8 bars”
+|:D2d2defd|cBAG F2GA|BABc dcBA|”^crs in MS”G4D4::!
+D2ffe2f2|gfed c2c2|d2g2g2a2|b2a2g2de|!
+f2a2g2f2|edcB AFGA|B2AG dcBA|G4D4:|
+
+X:29
+T:First of August,The. JClw.29
+T:Weavers March,The,aka. JClw.29
+M:4/4
+L:1/8
+Q:1/4=180
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:The ‘slows’ (bar 3&4 of the 9 bar B music)
+N:- to use a Morris dancing term- give this a unique setting.
+N:If contracted to 8 bars by playing |Bcd2 cdE2| the similarity to
+N:Weaver’s March becomes more apparent (but I like the unedited version!)
+N:ilB
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+A2A2F2GA|B2B2A4|BcdB cdec|fagfe4|!
+A2A2F2GA|B2B2A4|BcdB cdec|egfed4::!
+f2gfe2dc|dfed c2BA|B2c2d4|c2d2e4|!
+fagfe4|A2BGF2GA|B2B2A4|BcdB cdec|egfe d4:|!
+zzzz|zzzz|zzzz|
+“edited to give 32 bars – see notes”
+A2A2F2GA|B2B2A4|BcdB cdec|fagfe4|!
+A2A2F2GA|B2B2A4|BcdB cdec|egfed4::!
+f2gfe2dc|dfed c2BA|Bcd2 cde2|fagfe4|!
+A2BGF2GA|B2B2A4|BcdB cdec|egfe d4:|
+
+X:30
+T:Flowers of Edenburgh,The. JClw.30
+M:4/4
+L:1/8
+Q:1/4=140
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Scottish in style. Very similar to version in
+N:Joshua Jackson MS.
+N:Tunes from this point in the MS take on a distinctly
+N:Scottish style.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+B/c/d|D3EG3A|BG dG B2AG|F3E DEFG|AF dFTE3F|!
+D3FG3A|B2d2e2{ef}g2|{c}B2AG A2GA|B2G2G2||!
+d2|gfga g/a/b ag|fefg f/g/a gf|e^def g/f/e cd|G2e2e2{ef}g2|!
+B2AG d2Bd|edef g2 g/a/b|{c}B2AG A2GA|B2G2G2|]
+
+X:31
+T:Minuet,A. JClw.31
+M:3/4
+L:1/8
+Q:1/4=140
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+G2G2G2|GD BG dB|g2 fedc|B2A2G2|!
+{G}A2A2A2|A>cB>d Dc|Bd c2B2|{B}A6:|!
+|:d2d2d2|d>Bc>AB>G|c2c2c2|c>AB>GA>F|!
+B2B2B2|B>Gc>Ad>B|e>cf>dg>e|Gc{B}A4|G6:|
+
+X:32
+T:Grant’s Whim. JClw.32
+T:Chester Castle,aka. JClw.32
+T:Grand Swaine,The,aka. JClw.32
+T:Yorkshire Hornpipe,aka. JClw.32
+M:4/4
+L:1/8
+Q:1/4=200
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+N:cf “Chester Castle” in volume II of ‘A Selection of Scotch, English, N:Irish and Foreign Airs adapted for the Fife, Violin or German Flute, N:Printed and Sold by I.A. Aird, Glasgow” c1780.
+Z:Neil Brookes 2006
+K:D
+FG|A3d AFDF|AFdB AFDF|GBGE FAFE|E2EEE2 AG|!
+FDFA d3f|edcB A2Bc|d2 cB c2B2|A2A”minim in MS”AA2:|!
+|:cd|e3f ecAc|ecaf ecAc|dfed cedc|B2BBB2 A/B/c|!
+d2B2AFDF|GABc d3B|A2GF EGFE|D2DDD2:|
+
+X:33
+T:Roslin Castle. JClw.33
+M:4/4
+L:1/8
+Q:1/4=80
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Marked “Grave con molto (Eipr??). Could be Expr.
+N:i.e. serious and slow with lots of expression.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:Em
+G>F|”^Grave con molto”E2B>cB2A>B|cBAG F2G>F|E2efg2fe|^d>efd B2A>B|!
+cBAGF2GA|BGFE e^def|gef^d eB A>B|G2TF2{F}E2:|!
+|:B2|e2efg2fe|b>a ga gfe^d|eBefg2fe|b>a g/b/a/g/f2 AB|!
+cBAGF2GA|BGFE e>^def|gef^d eB A>B|G2TF2{F}E2:|
+
+X:34
+T:Within a Mile of Edenburgh. JClw.34
+M:4/4
+L:1/8
+Q:1/4=160
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:C
+e>f|g>e d>ec2e>c|A>c G>E G2c>d|e>g g>e a>c’ cd/e/|e2d2z2 e>f|!
+g>e d>ec2e>c|A>c G>E G2c>d|e>ga>c’ g>e d3/2{edcd}d/|c4z4|!
+c>de>f g>e c’2|c>de>f g>eHc’c|c>dcA GE G>c|ecegHa2Hc b/a/|!
+g>ee>c A>c G>c|e>g d3/2{edcd}e/2 c2|]
+
+X:35
+T:Juliana. JClw.35
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+F/G/|ABA d2f|fec dfg|a2b agf|gfg e2A|!
+ABA d2f|fec dfa|gd’b afd|gecd2:|!
+c/d/|:”repeat includes lead in notes in MS”\
+e2a bag|fag fed|eaa aga|faf dfa|!
+bgd’ d’bg|afd’ d’af|bge afd|cde ABc::!
+{de}f2e{ef}g2f|fed B2d|A2de2f|agf efg|!
+{de}f2e{ef}g2f|fed B2d|A2fe2f|e3d3:|
+
+X:36
+T:She Rose and Loote me in. JClw.36
+M:4/4
+L:1/8
+Q:1/4=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Adagio written below first line, above the B music
+N:but probably refers to whole piece.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:Gm
+B>A|G2 d>ed2g2|{g}^f3=ed2_f2|edc.B. ABcB|B2A2z2B>A|!
+G2 d>ed2g2|{g}^f3ga2 d>e|d2a2bag^f|g6::!
+“^Adagio”cedc BdcB|{c}B2A2z2g>a|babg ^f=efd|g>^fgab2d2|c>B c2d2T^f2|g6:|
+
+X:37
+T:Mill Mill O,The JClw.37
+T:The Deadly Wars,aka JClw.37
+M:4/4
+L:1/8
+Q:1/4=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Probably a Scottish song tune.
+N:similar to ‘Blue Eyed Stranger’
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:C
+“^Andantino”c>d|e2G>AG3c|A>G Ac{e}d2 c>d|e2G2fedc|A3Bc2c>d|!
+{d}e2G>AG3c|{B}A>G A>c{e}d2c>d|{cd}e2GG f>edc|A3Bc2:|!
+|:z2G|cdefg3g|agfe{e}d3G|cdef g>a gf|e3{fede}fg2z2G|!
+cdefg2fg|agfe{e}d2c>d|{cd}e2G2f>edc|A3Bc2:|
+
+X:38
+T:Braes of Yarrow,The. JClw.38
+M:6/8
+L:1/8
+Q:1/4=100
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:C
+G|c>dc e2g|a>bc’ gec|d>ed fda|d>ed fda|!
+c>dc e2g|a>bc’ gec|GAG Gce|fdB c2 e/f/|!
+g>ag gec|g>ag gec|dBG dBg|A3G2 e/f/|g>ag gfe|!
+faf d2 d/e/|f>gf ” notes off end of copy”fed|dgd c2G|ABc dgd|c3B2e/f|!
+gc’a g2f|egc’g2f|egc’g2f|egG A2B|c2dc2e/f/|gec gec|A2BA2f/g/!
+afd afd|B2Hcd2e/f/|gc’a g2f|egc’ g2f|egc’ gec|Td3 c3|]
+
+X:39
+T:Thou art gone awa’. JClw.39
+M:2/4
+L:1/8
+Q:1/4=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Possibly a song tune. The fermata signs
+N:suggest it is played somewhat freely.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:C
+“^Larghetto”
+e>d|c>Bc>B|c2BA|G>A G>E|G2e>d|\
+{d}c3A|G>A c>d|e>f e/d/c/d/|c2e>d|!
+c>Bc>A|c3B/A/|G>A G>E|G2e>d|\
+{d}c3A|G>A c>d|e>f e/d/c/d/|c2zc|!
+c>de>f|g3a|{a}g2 ec|d2zc|\
+c>de>f|g3a|{a}g2f>e|{e}d2zc|!
+g3a|{a}g2 f/e/d/e/|{e}Hd2 e>d|c>Bc>A|\
+G>A Hcd|e>f e/d/c/d/|c2|]
+
+X:40
+T:Auld Robin Gray. JClw.40
+M:4/4
+L:1/8
+Q:1/4=80
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:The last line is marked “Sy” (Symphony) and appears to
+N:be a small section to be played between verses.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+“^Adagio”
+G|B>cd>e ed zd|e>c g/f/(3a/g/e/ ed zG|\
+B>cd>e e>dc>B|AG{G}c>B B2AG|!
+{G}B>cd>e ed zd|e>f{f} g>B dc zA|\
+B<dg<b c'<af<g|B>c {B}TAB G2 z_B|!
+{c}_B2A>B G2B>c|d2_e>c ed .A.A|\
+{c}_B>A B=B cB c^c|d^c{c} g>c ed zd|!
+B>G d>e ed zd|edcB dc zA|B<dg<b Hc'<af<g|B>c {B}TAG G2||!
+“marked Sy. in MS”B|c/B/c/d/ e/d/e/f/ g/d’/b/g/ d/b/g/d/|\
+B/g/d/B/ A/G/A/d/ G2z|]
+
+X:41
+T:Tekeli. JClw.41
+M:6/8
+L:1/8
+Q:3/8=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Music from the Opera “Tekeli” (1806) by J. Hook
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+“^Allegro”
+A|d2d dcd|B2dA2d|ABc def|g2ec2A|!
+d2d dcd|B2dA2d|ABc def|gec d2:|!
+|:z|d2ef3|fgf e2d|{f}e2d {f}e2d|!
+{f}e2d {f}e2f|d2ef3|fgf e2d|e2de2f|e3d2:|
+
+X:42
+T:Oh Nannie. JClw.42
+T:O Nanny wilt thou fly with me,aka. JClw.42
+M:4/4
+L:1/8
+Q:1/4=120
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+C:(comp.T.Carter 1769-1800)
+N:Last bar missing from edge of photocopy.
+N:Likely to be a version of the “celebrated ballad” entitled
+N:”Oh! Nanny Wilt Thou Fly With Me”by Thomas Carter (1769-1800)
+N:”Sy” = symphony – a bridge or interval played between verses.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+“^Andante”B>c|d<gf<e d2B>c|d>ed<B A2 d>F|\
+{A}G2zGG3B|Aedc cBB>c|!
+d>.g.f<e d2B>c|d>ed<BA2zF|G3GG2zB|Aedc cB zd|!
+g>a bb af zd|e3/2{fede}f/2 gg gf zd|\
+b2 a/g/f/e/ a3b/g/|f>g “tr”Te2d2z2|!
+e3/2{fede}f/2 gg gf zd|c3/2{dcBc}d/2 ee dB zG|\
+c3d/c/ Bg2d|.c.B.A.G”fermata”d3^d|!
+e>f gg fd zB|c>d ee dB zG|\
+c3B/A/Bg2f/e/|e/d/c/B/ d/c/B/A/ G4|!
+{e}d/^c/d/e/ d=cBg zd|{e}d/^c/d/e/ d=cBg zd|\
+d/e/f/g/ “fermata” a {baga} b/c’/b/a/ z e/c/ z|B2A2G2z2||!
+“Sy”f>gfa g>agb|a>bac’ b>c’bd’|f>gfa g>agb|\
+a>bac’ b>c’bd’|d’3c’ b<gec|B2A2G2z2|]
+
+X:43
+T:Banks o’ Doon,The. JClw.43
+T:Ye Banks and Braes,aka. JClw.43
+M:6/8
+L:1/8
+Q:3/8=80
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:More of a 3/4 time than 6/8.
+N:A standard version of the well known Scottish tune
+N:but with an extra flourish at end line 1.
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:D
+“^Andante”A|d2d {f}e>de|f>af {f}e>de|{de}f>e.d d>B.A|Adf b/a/=g/b/g/e/|!
+d2d{f}e>de|f>af {f}e>de|{de}f>e.d d>B.A|A>Bc{e}d2:|!
+|:d/f/|a2b afd|a2b afd|afd afd|baf e2A|!
+d2d {f}e>de|f>af {f}e>de|{de}f>e.d d>B.A|A>Bc{e}d2:|
+
+X:44
+T:Ah,Sure a Pair. JClw.44
+M:6/8
+L:1/8
+Q:3/8=80
+S:J.Clews MS,Stoke-upon-Tern,Shrops.1832
+N:Ah sure, but it’s not all there!
+N:JC runs out of space on final page.
+N:but completes the tune on the back cover!NeilB
+A:N. Shropshire
+Z:Neil Brookes 2006
+K:G
+G|G>AG B>cB|ded {ga}b2g|gdB c>de|dgB B>AG|!
+G>AG d>ed|g>ag d’2b|dgd d>fg|d>ed c2G|!
+B2cD2g|b>ag adc|B2b a2g|f2g adc|!
+d2c’ Hb2a|bc’d’ bag efg|ded BG|]

@@ -1,0 +1,2464 @@
+%abc
+%%abc-alias Wm Mittel
+%1799, UK Kent New Romney, Private collection (lost, copy in VWML), part publ. in D.Roberts “William Mittell His Book”
+%%abc-creator ABCexplorer 1.4.0 [11/01/2012]
+%%abc-edited-by www.village-music-project.org.uk
+%%abc-copyright (c) www.village-music-project.org.uk
+%VMP.Chris Partington, 1999
+%Revised 11/10/2005
+%Revised again 11/2008
+%Revised again 12/2009
+
+X:1
+T:Gloster Reel. WM.001
+M:4/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+d2BG dGBG|d2BG cAA2|d2BG dGBG|dgdc BGG2:|!
+|:g2eg fadf|gedB cAA2|g2eg fadf|gedc BGG2:|
+
+X:2
+T:Commerce Hornpipe. WM.002
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+B|GDGB GDGB|dBgd A3B|GDGB GDGB|dcBA G2G2:|!
+|:gabgd2d2|gabge2e2|gbeg dBgB|AGAB G2G2:|
+
+X:3
+T:Ship Hornpipe,The. WM.003
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+G2DGA2DA|BdGB AFED|G2BGE2cA|BADFG4:|!
+|:gdec dBAG|gdec dBAG|cAGF dBAG|edcB AcBA|!
+G2DGA2DA|BdGB AFED|G2BGE2cA|BGDFG4:|
+
+X:4
+T:Barber’s Hornpipe,The. WM.004
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe?
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+D|GAB BAG|Bcd dcB|ceA BdG|FDF G2:|!
+|:d|dBB BGG|GEE”sic” E2EF/G/|AFA AdA|FDDD2A|!
+ddd dgd|BGFE2B|efe gec|dAFD2c/B/|!
+cec BdG|AcA/G/ FED|dcB AdG|FDFG2:|
+
+X:5
+T:Bob Horn’s Hornpipe.WM.005
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:Needs Csharp in bar 6
+Z:vmp.Chris Partington
+K:G
+GBdB GBdB|c2e2-e2.c2|BdBG cecA|F2A2-A2.A2|!
+GBdB GBdB|e2g2-g2ag|{f}f2ed{e}e2(dc)|d2d2-d2.d2:|!
+|:defe defe|e2c2-c2.c2|efgf efgf|f2d2-d2.d2|!
+GBdB GBdB|c2e2-e2.c2|BdBA ecBA|G2G2-G2.G2:|
+
+X:6
+T:Commedore Moore Hornpipe. WM.006
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:6 bar parts is almost illegal! So maybe the time signature would be an
+N:interesting problem to someone with a tidy mind, or you could just lie
+N:back and enjoy it
+Z:vmp.Chris Partington
+K:F
+cB|A2F4GA|Bcde fgab|e2g4fg|afge fdec|!
+dBcA fdcB|A2F4:|\
+|:fg|agaf bagf|efge fagf|!
+e2g4fg|afge fdec|dBcA|fdcB|A2F4:|
+
+X:7
+T:Stephney’s New Revived HP. WM.007
+M:3/2
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Triple Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:CDor
+B4B,CDE F2ED|E2C2edcdA2F2|G4EGFG F2GA|B2AG FGEFD2B,2:|!
+|:d4fedcB4|B,CDEF2ED GEDE|e4gede{d}c4|c2ed cBAG AF=EF|!
+B4B,CDE F2ED|E2C2ecBAB2ga|b2ag fgfe dedc|B2AG FGFED2″nb”B,2:|
+W:Given as C2 in MS, may be better for leading back to beginning.
+
+X:8
+T:Harding’s Folly’s Hornpipe. WM.008
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:CDor
+de|fdB4ga|b6ag|fdBg ecAf|(3dcB B2B2c2|!
+defga2b2|g=ec4B2|AcfAG2=e2|f6:|!
+|:de|fdB4_a2|gfed efg_a|cdef g=Bc2|GFEDC2cd|!
+ecA4g2|fedc defg|Bcde fAB2|FEDCB,4|!
+(3dcB B2.B2.B2|gab4ge|(3cBA A2.A2.A2|fga4fd|!
+B2gf edcB|cAF4E2|DFBDC2A2|B6:|
+
+X:9
+T:New Concert Hornpipe. WM.009
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:Would seem to be something missing from third part? also key may be a
+N:bit funny.
+Z:vmp.Chris Partington
+K:C
+c2ecd2fd|c2ec cBAG|c2ecd2fd|edcB .c.c.cz:|!
+|:g2bge2ge|d2gc cBAG|g2bge2ge|fdcB .c.c.cz:|!
+|:g2g2.b.g .b.g|e2e2.g.e .g.e|fedc cBAG|c2gcd2ec|!
+cBAG (df).d.d|(fd).c.c (dg).e.c|cBAG .c.c.cz:|
+
+X:10
+T:Moll In The Wod. WM.010
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp. Chris Partington
+K:G
+c|BAB G2F|E2FG2A|B2cd2B|AFDD2c|!
+BAB G2F|E2FG2A|B2d dcB|AFDD2:|!
+|:c|BGBd2c|BGBd2c|B2cd2=f|ecAA2c|!
+BGBd2c|BGBd2B|A2Bc2B|AFDD2:|
+
+X:11
+T:Colledge Hornpipe. WM.011
+T:College Hornpipe,aka. WM.011
+T:Sailor’s Hornpipe,aka. WM.011
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:
+Z:vmp.Chris Partington
+K:CDorian
+BA|B2B,4FE|DFB4(3dcB|c2C4(cB)|Acf2-f2ga|!
+bagf gfed|ecde BAGF|GBAc Bdce|d2B2-B2:|!
+|:(FE)|DFBF DFBF|G2E2-E2(GF)|EGcG EGcG|A2F2-F2(ed)|!
+efg2-gfed|ecde BAGF|(3GAB (3ABc|(3Bcd (3cde|d2B2-B2:|
+
+X:12
+T:Prussian’s Hornpipe,The.WM.012
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:F
+C2|FGAB cAfd|cBAGF4|cdef gaba|gf (ef/g/)f4|!
+FGAB cAfd|cBAGF2C2|DFEG FdcB|A2F2-F2:|!
+|:(fg)|afed gedc|fdcB{B}A2GF|agfe efga|((3edc) ((3dcB)c4|!
+afed gedc|fdcB AGFE|FCB,A, B,dcB|A2F2-F2:|
+
+X:13
+T:River Dee,The. WM.013
+M:4/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+G2dcB2AG|FGABA2D2|G2dcB2AG|FGABA4:|!
+|:gabg efge|fgafd2d2|gabg efge|faced4:|!
+|:d2cB caaa|c2BA Bggg|B2AG ABcA|BdFAG4:|
+W:poss Csharp Bar 8,not clear in M.S.
+
+X:14
+T:All Hands High Hornpipe. WM.014
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:C Dor
+BdBG AcA^F|G2G2G3A|BGBd AFAc|B2[B2b2][B3b3]B|!
+BdBG A2F2|EGECD2F2|GEFG AFGA|[D2B2][D2B2][D4B4]:|!
+|:Bdfb fdBd|A2c2c4|GBAc BdBG|A2F2-F2ED|!
+EGcB FAdc|GBed c2BA|GBAc dBcA|F2[D2A2][D4B4]:|
+
+X:15
+T:Miss Baker’s Hornpipe. WM.015
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:F
+(cB)|A2F2FAGF|EFGAB2AG|Acde fcdB|A2F2F2:|!
+|:(3cde|fcAc fagf|gece gbag|afge fdgf|e2c2c2(fe)|!
+(dc)(BA)B2(ba)|(gf)(ed)c2BA|Bcde fcdB|A2F2F2:|
+
+X:16
+T:Stoney Steps Hornpipe. WM.016
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:Also appears later in a different ke
+Z:vmp.Chris Partington
+K:G
+GDBG dBge|cAFA GFED|ECB,C A,CEA|cdeG(G2F2)|!
+GDBG dBge|cAFA GFED|ECB,C A,B,G,2|cAGFG4:|!
+|:B,G,DB, GDBG|cecA GFED|EGcE FdGg|fed^cd4|!
+ecBc dBGD|((3EFG) ((3ABc) GFED|ECB,C A,B,G,2|cAGFG4:|
+
+X:17
+T:Hip Hornpipe. WM.017
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:F
+(3cde|f2(AB) cAcA|f2(AB) cAcA|dcBAG2ga|bgaf fedc|!
+f2(AB) cAcA|f2(AB) cAcA|dcBAG2ga|bgfef2:|!
+|:z|a2fa fafa|g2eg egeg|a2fa fafa|gfedc2de|!
+(fd).d.d (ec).c.c|(fd).d.d (ec).c.c|fagf edc=B| c2c2c2:|
+
+X:18
+T:Money Musk. WM.018
+M:4/4
+L:1/8
+Q:1/2=60
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Strathspey
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+d|d>GB>G d>Gc>e|d>GB>G A>Bc>e|\
+d>GB>G B>dd>g|e>cA>d B>GG:|!
+|:(e/f/)|g>dB>g d>gB>f|g>dc>g f>aA.f|\
+g>de>g f>gd>g|e>cA.d B>GG:|
+
+X:19
+T:Marian. WM.019
+M:4/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+W:Hay Contrary Sides,Then on your own sides hands up quite round, load
+W:thus(?) the third couple, cast up, load thus top couple and cast off
+Z:vmp.Chris Partington
+K:G
+D|GBdB gdBG|AcBAB2GD|GBdB gdBG|AcBAG3:|!
+|:d|gaef gdBG|gaefg2G2|gaef gdBG|cedcB2G:|
+
+X:20
+T:Morgan Ratler. WM.020
+T:Morgan Rattler. WM.020
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+AGF EFG|FAFD2d|AGF EBA|B2A Bcd|!
+AGF EFG|FAFD2(d/e/)|fed ecA|B2A Bcd:|!
+|:d2e fdB|c2d ecA|d2e fed|f2e fga|!
+d2e fdB|c2d ecA|dcB AGF|B2A Bcd:|!
+|:D2d dcd|E2e ede|D2d dcd|B2A Bcd|!
+D2d dcd|E2e efg|agf edc|B2A Bcd:|
+
+X:21
+T:Miss Casey. WM.021
+T:Mrs. Casey. WM.021
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+f|d2B BcB|A2A ABA|B2B BcB|(g3f2)e|!
+d2B BcB|A2A ABA|B2B BcB|d3f2:|!
+|:A||d2ef2g|a2ba2f|d2ef2g|a3f3|!
+b2ga2f|g2ef2d|B2B BcB|(g3f2)e:|
+
+X:22
+T:Blue And Buff. WM.022
+M:2/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+Gddd|fddd|gfed|f/g/a f/g/a|Gddd|fddd|edef|d2d2:|!
+|:afga|gefg|fdef|ecA2|afga|gefg|fdef|a2a2:|
+
+X:23
+T:Irish Washerwoman. WM.023
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+W:Hands across and back again, load(?) down the middle, up again,cast
+W:off, hands up quite round, allemande with your partner
+Z:vmp.Chris Partington
+K:G
+d/c/|BGG DGG|BGB dcB|cAA DAA|cAc edc|!
+BGG DGG|BGB dcB|d/c/Bc Adc|BGG G2:|!
+|:g/a/|bgg dgg|bgb bag|afd Adg|fdf agf|!
+egg dgg|cgg Bgg|d/c/Bc Adc|BGGG2:|
+
+X:24
+T:Barley Butt. WM.024
+M:6/8
+L:1/8
+Q:3/8=130
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+A|d2f ede|f2dB2d|A2d dcd|f3e2A|!
+d2f ede|f2d B2d|A2d dcd|f3d2:|!
+|:(e/f/)|a2f fdf|a2f fdf|a2fb2g|a3g2f|!
+g2e ece|g2e ece|g2e faf|(d3c2):|
+
+X:25
+T:Charming Fellow. WM.025
+T:Corn Riggs,aka. WM.025
+M:2/4
+L:1/16
+Q:1/4=110
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Rant
+O:England
+A:Kent
+N:See also Sawney & Jockey(p)1679.PLFD.23
+Z:vmp.Chris Partington
+K:G
+G2G2 cBAG|FGAB AFED|G2G2 cBAG|B2d2d4|!
+G2G2 cBAG|FGAB AFED|EFGE AGFE|D2G2G4:|!
+|:G2d2 BdBG|F2A2 FAFD|G2d2 BdBG|B2d2d4|!
+B2d2 edcB|cBAG GFED|EFGE AGFE|D2G2G4:|
+
+X:26
+T:Rose Tree,The. WM.026
+M:2/4
+L:1/8
+Q:1/4=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+f/e/|dBAF|A>BAB|d2f/e/d/e/|feef|dBAF|A>BAB|d2f/e/d/e/|fdd:|!
+|:d|fefg|a2gf|e2ba|beef|dBAF|A2AB|d2f/e/d/e/|fdd:|
+
+X:27
+T:Favourite Quick March,A. WM.027
+M:4/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+g2dB cAAc|BGGB AFDA|g2dB cAAc|BGAFG2G2:|!
+|:(GB).B.B (Ac).c.c|(Bd).d.d gdBG|(GB).B.B (Ac).c.c|BAGFG2G2:|!
+|:g2bg fafd|g2bga2f2|g2bg fafd|gdcB”^DC”B2A2:|
+
+X:28
+T:Soldier’s Joy. WM.028
+M:4/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+FG|AFDF AFDF|A2d2d2cB|AFDF AFDF|G2E2E2FG|!
+AFDF AFDF|A2d2d2fg|afdf gece|d2d2d2:|!
+|:e2|fefg fagf|edcd efge|fede fagf|edcBA2A2|!
+fefg fagf|edcd efge|afdf gece|d2d2d2:|
+
+X:29
+T:Black Joke. WM.029
+M:6/8
+L:1/8
+Q:3/8=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+D|DG2GFG|ABA AGA|BcB BAG|ABA AGF|!
+G3E2D|DEFG3::B2cd2d|efgd2c|!
+Bcd ded|efgd3|c2aB2g|ABA AGA|!
+BcB BAG|ABA AGF|G3E2D|DEFG3:|
+
+X:30
+T:Aldriges Allemande. WM.030
+T:Aldridge’s Allemande,aka. WM.030
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Allemande
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+f2|egec d2f2|egec d2A2|B2A2B2c2|dcde d2f2|!
+egec d2f2|egec d2A2|B2A2B2c2|d6:|!
+|:gc|fafd fafd|gbge gbge|fafd fafd|edcB A2g2|!
+fafd fafd|gbge gbge|fafd egec|d6:|
+
+X:31
+T:White Cockade,The. WM.031
+M:4/4
+L:1/4
+Q:1/2=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Scots Measure
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+“?”G/A/|BBc/B/A/G/|Bdde|dBc/B/A/G/|FAAG/A/|!
+BBc/B/A/G/|Bdg>a|b/a/g/f/ e/f/g/e/|dBB:|!
+|:B/c/|dBgB|dBBB/c/|dBgB|aAA(G/A/)|!
+BBc/B/A/G/|Bdg>a|b/a/g/f/ e/f/g/e/|dBB:|
+W:Key sig of D in MS,presumed error
+
+X:32
+T:Money In Both Pockets.WM.032
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+A|d2F FGF|ABA AGF|d2F FGF|ABA gfe|!
+d2F FGF|ABA AGF|EFE EFA|B2BB2:|!
+|:A|dfa afd|c2e ecA|dfa afd|(g3f2) f/g/|!
+agf gfg|agf ede|fdB AFA|B2BB2:|
+
+X:33
+T:Go To The Devil And Shake Yourself. WM.033
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+A2d dcB|ABA AFA|Add d2e|fdBB2A|!
+A2d dcB|ABA AFA|dfd|ege|fddd3:|!
+|:afd dcd|BGGG3|bge efd|cAAA3|!
+Add dcB|ABA AFA|dfd ege|fddd3:|
+
+X:34
+T:Casino. WM.034
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+B2AB2A|G2G GAB|c2Bc2B|A2A A2B|!
+c2c cde|edc Bcd|dcB cBA|G2GG3:|!
+|:d2d dBG|e2ee3|c2c cAF|d2dd3|!
+G2DB2G|d2Bg2d|edc BAG|A2DD3:|
+
+X:35
+T:Italian Dance. WM.035
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Cotillion
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+a2af d2d2|A2A2B2A2|a2af d2d2|edef d4:|!
+|:e2eg f2a2|e2eg f2a2|ABcA defg|fedc d4:|!
+|:FAFA GBE2|EGEG FAF2|FAFA GBGB|AGFE D4:|
+
+X:36
+T:Paddy Wack. WM.036
+M:6/8
+L:1/8
+Q:3/8=130
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+D|GBd gfg|edc BAG|GBd gfg|fddd2(e/f/)|!
+geg fdB|cec dBG|GBd cAF|GGGG2:|!
+|:z|ddd eee|dddA2G|ddd efg|fddd2(e/f/)|!
+geg fdB|cec dBG|GBd cAF|GGG G2:|
+
+X:37
+T:Trip To Oatland. WM.037
+T:Oatland. WM.037
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+(B/c/)|ded dBG|ded dBG|gfe dcB|cAAA3|!
+ded dBG|ded dBG|gfe dec|BGGG2:|!
+|:d|g3a3|bag fed|gfe dcB|cAAA2d|!
+gfg aga|bag fed|gfe dec|BGGG2:|
+
+X:38
+T:Miss Sackville’s Fancy.WM.038
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+N:I described it as a Hornpipe in previous editions..CGP
+Z:vmp.Chris Partington
+K:D
+A2FGA2dc|BGBe dcBA|defdB2ef|gefd dcBA|!
+A2FGA2dc|BGBe dcBA|defd Bgfe|dfecd4:|!
+|:dfed ecBA|efge fdAF|BGeG FAdF|EFGA GFED|!
+dfed ecBA|efge gedc|dfA=c Bgfe|gdecd4:|
+
+X:39
+T:Rose,The. WM.039
+M:6/8
+L:1/8
+Q:3/8=105
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:C
+(3G/A/B/|cGc c2d|ece e2f|gec fdB|c2cc2:|!
+|:(e/f/)|gag gec|ded dBG|ABc def|eccc2:|
+
+X:40
+T:Tartar’s Plaid. WM.040
+M:C
+L:1/8
+Q:1/2=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+f/g/|adfd adfd|ad fg/a/ be ef/g/|adfd adfd|gbag fdd:|!
+|:d|AdFd Adfd|AdFd eEEd|AdFd Acfa|gbag fddd|!
+AdFd Adfd|AdFd eEEg/a/|bgaf gefd|gbag fdd2:|
+
+X:41
+T:St.Patrick’s Day In The Morning. WM.041
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+N:Slightly Bizarre version of a very well known tune
+Z:vmp.Chris Partington
+K:G
+GAG GAB|ded dBG|BAB GED|E2EE2D|!
+GAG GAB|ded dBG|BAB GED|E3G3:|!
+|:defg2e|f2de2c|def gfe|fede3|def gag|!
+fed efg|dBG GAB|ded dBG|BAB GED|E3G3:|
+
+X:42
+T:Red Lion Hornpipe. WM.042
+M:3/2
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Triple Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+dfdf FGAF G2E2|dfdf Adce d2D2|dfdf FGAFG2a2|\
+gfed Adced2D2:|!
+|:dfaf dfed{d}c2{B}A2|FAdA BABG{G}F2{E}D2|\
+dfaf dfedc2A2|FAdF Ddced4:|
+
+X:43
+T:Ashley’s Hornpipe. WM.043
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:
+Z:vmp.Chris Partington
+K:G
+GABc dBAG|agfe(e2d2)|BdBG cecA|BdBG GFED|!
+GA(Bc) dBAG|agfe(e2d2)|BdBG decA|G2F2G4:|!
+|:defg fafd|gbge fafd|defg agfe|BdBG FAFD|!
+BdBG cecA|fafd gbge|dgfe dcBA|G2F2G4:|
+W:Key sig D in MS
+
+X:44
+T:Blanchard’s Hornpipe. WM.044
+T:Egg Hornpipe,aka. WM.044
+T:Peckhover Walk Hornpipe,aka. WM.044
+T:Fisher’s Hp.aka. WM.044
+T:China Orange,The,aka. WM.044
+M:4/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:Works nicely as a dotted rhythm
+Z:vmp.Chris Partington
+K:D
+dAFA GBAG|FAFA GBAG|FDFD GEGE|AFED DCB,A,|!
+dAFA GBAG|FAFA GBAG|FAdg fedc|d2d2d4:|!
+|:ecAc ecge|fdBd fdaf|ecAc ecgf|edcBA2A2|!
+BGDG BGdB|AFDF AFdA|FAdg fedc|d2d2d4:|
+W:Bar3 of the B strain is reconstructed,being absent from the MS.
+
+X:45
+T:Tink A Tink. WM.045
+M:4/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+N:Unusual third bit,(to me anyway
+Z:vmp.Chris Partington
+K:G
+G2dBG2dB|cdcB AGF2|G2dBG2dB|cAGFG2z2:|!
+|:d2gf edcB|ABcd cBAG|d2gf edcB|ABcdG2z2:|!
+|:GBdB GBdB|GBdB cAGF|GBdB Gcec|BAGFG2z2:|
+
+X:46
+T:Flute Hornpipe. WM.046
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:For Flute,anyway
+Z:vmp.Chris Partington
+K:G
+G4d4|dBAG cAGF|G2B4d2|cecA FAFD|G4B4|!
+dBAG cAGF|Ggfe{e}d2cB|cAGFG4:|!
+|:B4d4|cAGF BGFE|DEFG ABcd|efd^c dABc|!
+d4g4|afed ged^c|d2(ef) ged^c|d6″*”(Bc)|!
+d4=f4|ecGE CEGc|e4g4|fdAF DFAd|!
+f2a2fedf|gdcB BAGF|Ggfe {e}d2(cB)|cAGFG4:|
+W: two quavers in bar 16 are semi quavers in MS
+
+X:47
+T:Tub Hornpipe. WM.047
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+(3d/e/f/|g2d2dedc|B2d4ef|gfed cBAG|F2D4EF|!
+G2G2GABc|d2B2e2dc|BdBG AcAF|G2G4:|!
+|:Bc|dedc BcdB|e2c4Bc|dedc BcBA|G2D4EF|!
+GdBG cecA|BdBG AcAF|Ggfe dcBA|B2G4:|
+
+X:48
+T:Ashley’s Flag. WM.048
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+Bc|d2BG cAGF|G2G2G3D|E2G2D2G2|ABcA GFED|!
+d2BGc2AF|G2g2g2ef|gfed fed^c|d2d2d2:|!
+|:Bc|dcBA Gfed|c2A2A2AB|cBAG Fedc|B2G2-G2D2|!
+E2g2D2f2|C2e2B,2d2|cBAG DGFA|G2G2-G2:|
+
+X:49
+T:A.B.Hornpipe. WM.049
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+AG|FdAd fdAF|GBefg2ef|gfgf eded|cdcB AGFE|!
+DFAd fdAF|GBefg2ef|gfed cdec|d2d2d2:|!
+|:d2|Add2fdd2|gee2cAA2|cee2cee2|gfed cBAG|!
+FdAd fdAF|GdBd|gdBG|gfed cdec|d2d2d2:|
+
+X:50
+T:Rakes Of Mallow,The. WM.050
+T:Little Billy,aka. WM.050
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+G2B2G2B2|G2B2 (dB)(AG)|F2A2F2A2| F2A2 dcBA|!
+G2B2G2B2|GABc d2g2|cBAG FGAB|G4G4:|!
+|:g2fe d2c2|B2c2d4|g2fe d2c2|B2g2A4|!
+g2fe d2c2|B2G2c4|B2AG FGAB|G4G4:|
+
+X:51
+T:Muffin Man,The. WM.051
+M:2/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+D|G>AG>A|FDDD|G>AG>B|d3B|eccA|dBBG|ABcA|GFED|!
+G>AG>A|FDDD|G>AGB|d3B|eccA|dBBG|cA AF|G3:|!
+|:z|d>ed>e|cAAB|c>dc>d|BGGA|DG/A/ BG|DA/B/ cA|dBAG|GFED|!
+G>AG>A|FDDD|G>AB>c|d3B|eccA|dBBG|cA GF|G3:|
+
+X:52
+T:I Wish You A Merry New Year. WM.052
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+A|A2d dcd|efe efg|fed g2f|f3e2A|!
+A2d dcd|efe efg|fed edc|c3d2:|!
+|:g|fga agf|efg gag|fed dgf|f3e2A|!
+A2d dcd|efe efg|fed edc|c3d2:|
+
+X:53
+T:Staten Island Hornpipe. WM.053
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+AG |FDFG A2A2|defdc2Ac|B2GBA2FA|G2E2E2AG|!
+FDFGA2A2|defdc2A2|d2d2defe|f2d2d2:|!
+|:fg|a2fag2eg|f2dfe2A2|=c2c2efge|=c2c2efge|!
+a2fag2eg|f2dfe2A2|d2d2efge|f2d2d2:|
+
+X:54
+T:Sucky Bids Me. WM.054
+T:Pucky Bids Me. WM.054
+M:4/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+N:Title?Initial letter odd in MS.Dave Roberts reads it as a P, it looks
+N:like a J to me
+N:but all other sources have Sucky, presumably a diminutive of Susan.
+Z:vmp.Chris Partington
+K:G
+G2DEG2e2|dBAG AFED|G2DEG2e2|dBcAG4:|!
+|:d2Bcd2g2|fafd egec|d2bcd2g2|fafcd4|!
+dgfe dcBA|B2BG AFED|G2DEG2e2|dBcAG4:|
+W:Perhaps sharpen note c in bars six and eight.
+
+X:55
+T:Slap At Her Canister. WM.055
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+B|c2Bc2A|G2GG2B|c2Bd2B|A2AA2B|!
+c2de2c|B2cd2B|A2Bc2A|G2GG2:|!
+|:z|d2d dcB|c2ee3|c2c cBA|B2dd3|!
+B2B BAG|B2dg3|e2cA2c|B2GG3:|
+
+X:56
+T:Hip Hornpipe,aka. WM.056
+T:Hornpipe, Untitled. WM.056
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+(3def|g2(Bc) dBdB|g2(Bc) dBdB|edcBA2ab|c’abg gfed|!
+g2(Bc) dBdB|g2(Bc) dBdB|edcBA2ab|c’agfg3:|!
+|:z|b2gb gbgb|a2fa fafa|b2gb gbgb|agfed2ef|!
+(ge).e.e (fd).d.d|(ge).e.e (fd).d.d|gbag fed^c|d2d2d2:|
+
+X:57
+T:Miss Baker’s Hornpipe. WM.057
+M:4/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+(dc)|B2G2GBAG|FGABc2BA|Bdef gdec|B2G2G2:|!
+|:(3def|gdBd gbag|afdf ac’ba|bgaf geag|f2d2d2(gf)|!
+(ed)(cB)c2(c’b)|agfed2cB|cdef gdec|B2G2G2:|
+
+X:58
+T:Humphrey’s Rondo. WM.058
+M:6/8
+L:1/8
+Q:3/8=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Rondeau
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+A|d>ed dfd|BGG FGA|Bcd ef(3f/e/d/|cAA ABc|!
+d>ed dfd|BGG FGA|Bgf edc|d3-d2:|!
+|:c/d/|e>fe ecA|Bcd AFD|geg fed|c/d/ec A2c/d/|!
+e>fe ecA|Bcd def|geg fdf|(f3e2):|
+
+X:59
+T:Bath Medley. WM.059
+T:Wedding Shoes,aka. WM.059
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+D|G2g fed|efg dBG|ecA dBG|(F2G) AFD|!
+G2g fed|efg dBG|ecA dBG|DEFG2:|!
+|:g|f2g afd|e2fg3|B2c dBG|F2G AFD|!
+G2g fed|efg dBG|ecA dBG|DEF G2:|
+
+X:60
+T:Stoney Steps Hornpipe. WM.060
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:Sometimes attributed to James Hill of Gateshead,who was active
+N:in 1840-60 approx.This is the same A Music, but apparently much
+N:earlier.Needs looking into.
+N:Also see Brewer’s Horse in Chappell cfGraham Dixon,The Music of James
+N:Hill.
+Z:vmp.Chris Partington
+K:D
+dAfd afd’b|gece dcBA|BGFG EGBe|gabd (d2c2)|!
+dAfd afd’b|gece dcBA|BGFG EFD2|gedcd4:|!
+|:FDAF dAfd|gbge dcBA|BdgB cadd’|c’ba^ga4|!
+bgfg afdA|((3Bcd) ((3efg) dcBA|BGFG EFD2|gedcd4:|
+
+X:61
+T:Rothersbridge Assembly. WM.061
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+A|dfd ege|dfde2A|dfd egf|edcd2:|!
+|:e|fga ABA|fgaA2g|fga Agf|(~f3e2)g|!
+“NB”fga ABA|fga A2g|fga Agf|edcd2:|
+W:Bar 5 in B Music is missed out,so I have assumed one.
+
+X:62
+T:General Toast. WM.062
+M:6/8
+L:1/8
+Q:3/8=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+GAG gfg|eded3|GAG gfg|{f}e3d3|!
+GAG gfg|ede d2B|cdc BcB|~A3G3||!
+Bcdd3|dcBA2A|Bcd ded|cBAG3|!
+Bcdd3|dcBA2A|Bcd dgd|cBAG3|]
+
+X:63
+T:Dream,The. WM.063
+T:Devil’s Dream,aka. WM.063
+T:Devil Among The Tailors,aka. WM.063
+M:2/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+N:Interestingly described as a hornpipe in MS, usually thought of as a
+N:reel.
+N:Obviously of a type unfamiliar to Mittell, hence all the bar lines.
+N:Looking at the repetitive code in ABC Notation emphasises how radically
+N:different this tune was (and still is) to the rest of the
+N:repertoire.Did he approve?
+Z:vmp.Chris Partington
+K:G
+dgfg|dgfg|dgfg|edcB|ceAe|ceAe|ceAe|edcB|!
+dgfg|dgfg|dgfg|edcB|cdef|gdBG|D2F2|G2:|!
+|:BdGd|BdGd|BdGd|edcB|ceAe|ceAe|ceAe|edcB|!
+BdGd|BdGd|BdGd|cBAG|efge|dBAG|D2F2|G2:|
+
+X:64
+T:One And All. WM.064
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Rant
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+D2|GABG BcdB|efge dBAG|ABcd|AFED|G2G2G2:|!
+|:d2|gabg afed|efge dBAG|efge dBAG|A2A2A2d2|!
+gabg afed|efge dBAG|ABcd AFED|G2G2G2:|
+
+X:65
+T:Recruiting Serjeant. WM.065
+T:Cupid’s Recruiting Sergeant. WM.065
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+B/c/|dBAB G2AB|cAFAD2Ac|Bgfe dcBA|G2GGG3:|!
+|:B/c/|”?”dBecd3B/c/|dBecd3B/c/|dBgf edcB|A2AAA3B/c/|!
+dBABG2AB|cAFAD2Ac|Bgfe dcBA|G2GGG3:|
+W:Bar 5 reconstructed by Dave Roberts,missing from MS.
+
+X:66
+T:My Grandmother. WM.066
+M:2/4
+L:1/8
+Q:1/2=70
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Air
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+G>B dd|(eg)d2|cA BG|F/G/A/F/D2|G>B eg|dg eg|dc AF|G2G2:|!
+|:AF dA|Bd BG|AD dc|(c2B2)|eg dg|cg Bg|Ac AF|G2G2:|
+
+X:67
+T:Ivy House,The. WM.067
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+dAdA FAd2|fafd cecA|dAdA FAdf|gedc d2[D2d2]:|!
+|:a(dcd) b(dcd)|adfd cecA|adfd bdgb|(ba)gff2e2|!
+dAdA FAd2|fafd cecA|dAdA|FAdf|(ge)dcd2[D2d2]:|
+
+X:68
+T:Donald Of Dundee. WM.068
+M:2/4
+L:1/8
+Q:1/2=70
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Scots Measure
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+(d/e/)|fddB|AFFD|(F/G/)(A/B/) Ad|e3(d/e/)|fddB|AFFD|Ade>f|d3:|!
+|:d/e/|fff>g|eee>f|ddd>e|c^AFF|Bcd>e|fdBg|fBc^A|B3:|!
+|:c|d>edf|gfed|dB (B/c/)(d/B/)|AFFA|d>edf|gfed|dBcA|d3:|
+
+X:69
+T:Dutchess Of Montrose’s Reel. WM.069
+T:Duchess of Montrose’s Reel. WM.069
+M:2/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+W:First couple set to the second lady &
+W:hands around the (?) to the second gent.
+W:Lead down the middle and (…?)
+W:right and left at top
+Z:vmp.Chris Partington
+K:F
+F2FF|AFAF|F2FF|c2A2|BBdB|AAcA |1GABG|FEDC:|2GBGE|F2F2:|!
+|:f2fa|d2df|cdcA|GEDC|ffaf|ddfd|cABG|F2F2:|
+
+X:70
+T:Madame Del Caro’s Hornpipe. WM.070a
+M:2/4
+L:1/8
+Q:1/2=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:A
+A>ce>a|g>fe>f|e>dc>B|c>de2|!
+A>ce>a|g>fe>d|c>BA>G|A2A2:|!
+|:A>ce>a|(f/g/a) (f/g/a)|E>GB>d|(c/d/e) (c/d/e)|!
+A>ce>a|(f/g/a) (f/g/a)|c>BA>G|A2A2:|
+
+X:71
+T:German Waltz. WM.070b
+T:New German Waltz,aka. WM.070b
+M:3/8
+L:1/8
+Q:3/8=50
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Waltz
+O:England
+A:Kent
+N:Compare with “new German Waltz” No 100
+Z:vmp.Chris Partington
+K:G
+d/c/|BBA|Ggf|ed^c|d/^c/d/e/d/=c/|BBA|Ggf|ed^c|d2:|!
+|:d|gdd|bdd|dc’b|bag|gfe|dfg|agf|g2:|!
+|:d|dBd|gfe|edd|dBd|dcc|cAc|cBB|B2d|!
+dBd|gfe|edd|dBd|dcc|cAF|Ggg|”missing in ms”g2:|
+
+X:72
+T:Mittell’s Country Dance,aka. WM.071
+T:Hornpipe. WM.071
+M:C
+L:1/8
+Q:1/2=90
+C:”Hornpipe” in MS
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+N:Titled by me, (as a hornpipe in previous editions), but titled only
+N:’Hornpipe’ in
+N:MS. CGP
+Z:vmp.Chris Partington
+K:D
+D4FDGE|A4BABc|d2ef agfe|gfed dcBA|!
+D4FDGE|A4BABc|d2ef agfe|dfecd4:|!
+|:fdfa gfed|dced dcBA|fdfa gfed|bagf(f2e2)|!
+fdfa gfed|dced dcBA|D2FA dfaf|gedcd4:|
+
+X:73
+T:First Love. WM.072
+M:C
+L:1/8
+Q:1/2=75
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+FAFA dafd|Bged dcBA|FAFA dafd|Bgecd2d2:|!
+|:eceA eceA|afge fdcd|eceA|eceg|faAcd2d2:|
+
+X:74
+T:Misses Fancy. WM.073
+M:2/4
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Cotillion ?
+O:England
+A:Kent
+W:Hay contrary sides,then on your own sides,hands around ,lead through
+W:the third couple & push(?) up,lead through the second couple and …..
+Z:vmp.Chris Partington
+K:CDorian
+BcBF|dBfd|gecB|AcAF|BcBF|dBfd|gecA|B2B2:|!
+|:gecg|fdBf|edcB|AcAF|BFdB|fdbd|ceAe|B2B2:|
+
+X:75
+T:Colledge Hornpipe. WM.074
+T:College Hornpipe,aka. WM.074
+T:Sailor’s Hornpipe,aka. WM.074
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+GF|G2G,4DC|B,DG4((3BAG)|A2A,4(AG)|FAd2-d2ef|!
+gfed edcB|cABc GFED|EGFA GBAc|B2G2-G2:|!
+|:(DC)|B,DGD B,DGD|E2C2-C2(ED)|CEAE CEAE|F2D2-D2(cB)|!
+cde2-edcB|cABc GFED|((3EFG) ((3FGA) ((3GAB) ((3ABc)|B2G2-G2:|
+
+X:76
+T:Drops Of Brandy. WM.075
+M:9/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Slip Jig
+O:England
+A:Kent
+N:Compare with WM.08
+Z:vmp.Chris Partington
+K:G
+GAB BAB BAB|GAB gdBd2g|GAB BAB BAB|FGA ABG F2D:|!
+|:GAB gdB gdB|GAB gdB cBA|GAB gdB gdB|FGA ABG F2D:|
+
+X:77
+T:Madam Hilingsborg’s Reel. WM.076
+M:9/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Slip Jig
+O:England
+A:Kent
+N:Compare with Drops of Brandy..cgp..
+Z:vmp.Chris Partington
+K:G
+e|d2B BGB BGB|d2B BGBd2e|d2B BGB BGB|c2A ABAc2:|!
+|:e|dBB gBB dBB|dBB gBBd2e|dBB gBB dBB|c2A ABA c2:|
+
+X:78
+T:Dutch Trot,The. WM.077
+M:6/8
+L:1/8
+Q:3/8=127
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Trot
+O:England
+A:Kent
+N:Appears Later in key of Dma
+Z:vmp.Chris Partington
+K:C
+c2ge2g|d2gB2d|c2af2d|edc BAG|!
+c2ge2g|c2af2a|gfe dcB|d3d3:|!
+|:efe(d2e)|d2ed3|efe d2e|f2-^fg3|!
+cdcc2G|efee2c|agf edc|Bdc BAG:|
+
+X:79
+T:Nelson & Victory. WM.078
+M:2/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+W:Hand it cross,back it again,lead down the middle,right and left with
+W:the 2nd couples
+K:CDor
+dBAB|FEDF|GBAc|BAGF|dBAB|FEDF|GBAc|B2B2:|!
+|:g2ba|gfed|edcB|BAGF|GBAc|B2cd|ecBA|B2B2:|
+
+X:80
+T:Miss Gasoy(?). WM.079
+T:Mrs.Casey,aka. WM.079
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+N:
+H:Mrs.Casey is a fieldtown Morris tune and dance.Title definitely looks
+H:like Gasoy in MS, maybe a joke.
+Z:vmp.Chris Partington
+W:Partly illegible dance instructions.Change sides.back again.lead down
+W:the middle.up again.cast off.hands ???.bottom right? &?left?at to
+K:C
+“NB”d|c2A ABA|G2G GAG|A2A ABA|(f3e2)d|!
+c2A ABA|G2G GAG|A2A ABA|c3e2:|!
+|:G|c2de2f|g2ag2e|c2de2f|g3e3|!
+a2fg2e|f2de2c|A2A ABA|”*”(f3e2):|
+W:MS has e as leading note of A music and f3e2d as last bar of B music
+
+X:81
+T:Drops of Brandy. WM.080
+M:9/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Slip Jig
+O:England
+A:Kent
+N:Compare with WM.075
+Z:vmp.Chris Partington
+W:Haands round with 2nd Lady.The same with the 2nd Gent.Lead down the
+W:middle.then illegible
+K:G
+d2c BGB BGB|d2c BGB cBA|d2c BGB BGB|cBcA2B cBA:|!
+|:G2g gdB gdB|G2g gdB cBA|G2g gdB gdB|cBcA2B cBA:|
+
+X:82
+T:Brunswick. WM.081
+M:3/8
+L:1/8
+Q:3/8=50
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Waltz
+O:England
+A:Kent
+N:Appears later in the book in Dmaj.
+Z:vmp.Chris Partington
+W:Lots of P’s & F’s under the staff,definitely copied from print
+K:F
+“^P”F/G/|AAB|c2f/d/|cc d/B/|AA F/G/|AAB|c2f|gg/f/g/a/|f2:|!
+|:~c|”^F”bb”^P” ~c|”^F”aa”^P”f|ee/g/f/a/|gg~c|\
+“^F”bb”P”c|”^F”aaf|”^P”ge/c/d/e/|ff:|!
+|:”^PP”F/A/|ccd|cc A/c/|BB G/B/|AF F/A/|ccd|ccf|f/e/d/c/d/e/|f2:|
+
+X:83
+T:Madam del Caros Hornpipe. WM.082
+M:C
+L:1/8
+Q:1/2=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:In other MSs this usually appears dotted and in 2/4, as it does earlier
+N:in this MS.
+Z:vmp.Chris Partington
+K:G
+GBdg fede|dcBA BcdB|GBdg fede|dcBAG3z:|!
+|:GBdg e/f/g e/f/g|DFAc B/c/d B/c/d|GBdg e/f/g e/f/g|dcBAG3z:|
+
+X:84
+T:Dibdin’s Fancy. WM.083
+M:2/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+N:Dibdin’s sense of humour appears to be breaking out between bars 4 & 5
+Z:vmp.Chris Partington
+W:Set & change sides & back again,lead down the middle,up again,cast off
+W:Allemand
+K:G
+GDGD|CDDD|EEGB|cAFG|DGDC|DDFD|AFG2|G,2″rest added”z2:|!
+|:dBcd|egge|dBAG|c>dc>d|dBcB|dgge|dBAG|d2D2:|
+
+X:85
+T:Butter’d Peas. WM.084
+M:2/4
+L:1/8
+Q:1/2=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+N:
+Z:vmp.Chris Partington
+W:1st cu set to the 2nd cu,foot it and turn your partner.1st Gent down
+W:the middle with 2nd Lady,his partner with 2nd Gent,1 cou cross
+W:over,below 3cu? go up to top?,cast off
+K:G
+BddB|cee2|BddB|cAA2|BddB|cee2|Bd Ac|BG”qu”G2:|!
+|:Bdde|fdg2|BddB|cAA2|Bdde|fdg2|BdAc|BG”qu”G2:|
+
+X:86
+T:La Belle Catherine. WM.085
+M:2/4
+L:1/8
+Q:1/4=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+N:Nice version.
+Z:vmp.Chris Partington
+W:Change sides,back again,lead down the middle,up again,cast off Allemand
+K:D
+A|d2f/e/d/e/|fddc|B2e/f/e/d/|cAAA|!
+d2f/e/d/e/|fddc|Be d/c/B/c/|d2” cr”D:|!
+|:A/G/|FAAG|FAAG|FA d/e/f/d/|cAAA|!
+FAAc|df/d/ ce/c/|df/e/ fe/d/|a3:|
+
+X:87
+T:Miss Ester Stanhope’s Reel. WM.086
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+W:Cast off 2 couples?Up again.lead down middle,up again,lead through
+W:Bottom &? stop.Hands 6 round
+K:D
+A|dABF AA/A/ AB|dABF EE/E/ Ee|dABF AA/A/ fe|dBAF DD/D/D:|!
+|:g|fdaf egfe|fdfa BB/B/ Bg|(fe)af dgfe|dBAF [DA][D/A/][D/A/] [DA]:|
+
+X:88
+T:Cabinet Of Love,The. WM.087
+M:2/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+W:Foot it across and turn the same back again,cross over and half figure
+W:a right and left at the top
+K:G
+“_key may be Dmaj in MS,unclear”BGGB|cAAc|BGGB|dBg2|BGGB|cAAc|BGAF|G2G2:|!
+|:gdBG|AFED|gdBG|dBg2|gdBG|AFED|(G/A/B/c/) dB|G2G,2:|
+
+X:89
+T:New Drury. WM.088
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+W:Foot it (?)right hands across,foot it (?)left hands back again.Lead
+W:down 2 couple,up again 1 couple,allemande
+K:G
+gdBd dcBA|Ggbg gfed|gdBd gece|dBcAG2G2:|!
+|:GBd=f ecBc|A^ceg gfed|gb d=f eg Ac|Bd DF G2G2:|
+
+X:90
+T:Drinking Parson,The. WM.089
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+H:Reminds me of something.
+Z:vmp.Chris Partington
+W:Right hands across, back again.Cross over 2 cou. $ up 2 couple. place
+W:hands round at the bottom
+K:G
+D|G>AB A>Bc|BdB cAA|G>AB A>Bc|BGG G2:|!
+|:”*”D|GBdg3|ecc c3|Acea3|fdd d3|!
+GBdg3|eccd2c|BGG cAA|BGGG2:|
+W:Note D in bar 5 is editorial addition.
+
+X:91
+T:Jenny Sutton. WM.090
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+W:Foot it and cast off,2nd couple cast up again,lead down 2 couple up
+W:again,and cast off,set corner and turn the lady (?) at top,the
+W:gentleman at bottom
+K:A
+A/A/A Ac ecec|A/A/A Ac dBGB|A/A/A Ac ecec|dfdBc2A2:|!
+|:(aA)(aA) (gA)(gA)|fgaf ecBA|(aA)(aA) (gA)(gA)|fgaff2e2|!
+aFFa gEEg|fDDf ecBA|A/A/A Ac ecec|caBga2A2:|
+
+X:92
+T:Trip To Fowey. WM.092
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+W:1st couple set to the 2nd lady & hands around.Same to the 3rd
+W:gent.cross over 1st couple and turn right and left at top
+K:D
+fgaf d/d/d df|edef dBB2|fgaf d/d/d df|edefd2d2:|!
+|:eAcA eAfe|fAdA fgab|afef d/d/d df|edef d2d2:|
+
+X:93
+T:I Wish You All Good Night. WM.093
+M:9/8
+L:1/8
+Q:3/8=144
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Slip Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+W:Set & cast off 2couples up again down the middle,up again,set to your
+W:partner and turn(?
+K:FMaj
+ABc cBA f3|g2G G2G BAG|ABc cBA d3|FGFF2B AGF:|!
+|:fga fga g3|a2dd2e fed|fed cBAd3|FGFF2B AGF:|
+
+X:94
+T:Lord Home’s Reel. WM.094
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+W:1st gent turn 2nd lady and the lady turn the 2nd
+W:gent.lead down the middle,up,and turn
+Z:vmp.Chris Partington
+K:FMaj
+c/B/|AFcF dGBd|AFcF dBcA|BdAc GABd|AFcF dBdf:|!
+|:f>gaf efga|f>gaf gefd|cAfA GABd|AFcF|dBdf:|
+
+X:95
+T:Lady Hooper’s Reel. WM.095
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:FMaj
+ABcd dcBA|f2(3agf gGG2|ABcf dcBA|BGcA F/F/FF2:|!
+|:fcfg a2gf|ecgd acgB|fcfga2gf|cfeg f/f/ff2|!
+fcfga2gf|gfga baga|fdcBA2fd|cBAG F/F/FF2:|
+
+X:96
+T:Lady Shaftsbury’s Rant. WM.096
+M:2/4
+L:1/8
+Q:1/2=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Rant
+O:England
+A:Kent
+N:Vey strange 2nd half to B strain
+Z:vmp.Chris Partington
+W:Change sides,back again.lead down the middle and turn corner ways(?
+K:G
+“qu’s”B/A/|GDB,D|GABe|d>BA>G|FA AB/A/|GDB,D|G>AB>e|dBAB|G3:|!
+|:d|(gf)(ed)|g2Ge|dBAG|FAAd|(gf)(ed)|g2Ge|dBAB|G3d|!
+gfed|d/c/d/e/ f/e/f/g/|aAAA|ABce|dedB|AGAB|GB/A/ GD|G3:|
+
+X:97
+T:Guillotine,The. WM.097
+M:2/4
+L:1/16
+Q:1/4=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+W:Cross over 2nd couple lead up the middle cast off and turn the 3rd
+W:couple
+K:G
+gdBd dcBA|Gbag gfed|gbag fafd|ged^c d2D2:|!
+|:dGBd eceg|fdfa gdBG|egfe edBd|cAGF G2G2:|
+
+X:98
+T:Swanton Coffee House. WM.098
+M:2/4
+L:1/16
+Q:1/4=75
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+W:Cast off 2 couple lead up to the top and cast off Hands at the
+W:bottom,Right and left at the top(/
+K:CDor
+BFDB, DFAd|cBcd cdcB|BFDB, DFBd|fgfd “*”B2B2:|!
+|:BFcF dFcF|BFdB “*”c2c2|BFBd fbfd|cBcd “*”B2B2:|
+W:Quavers in bars 4,6,8 shown as crotchets in MS
+
+X:99
+T:Jenny Baubee Two. WM.099
+M:4/4
+L:1/4
+Q:1/2=70
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+N:Not the usual, if I’ve read right
+Z:vmp.Chris Partington
+W:Hands across and back again,lead down ye middle,up and right and left
+K:G
+dd/c/BG|AA/G/FD|dd/c/BG|DFG2:|!
+|:ABcA|EA/G/ F/E/D|defg|d/c/B/A/G2:|
+
+X:100
+T:Balliorum. WM.100
+M:9/8
+L:1/8
+Q:3/8=130
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Slip Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+W:Set and half right and left,the same back again to your own place.
+W:Lead down the middle up again and Allemand
+K:A
+cea cea ecA|cea cea f2B|cea agf edc|d2B B/c/dB c2A:|!
+|:cec dfd ecA|cec efg aed|cec dfd ecA|d2B B/c/dB c2A:|
+
+X:101
+T:Stoney Steps Hornpipe. WM.101
+M:4/4
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+C:”Stoney Steps Hornpipe for the violin”
+K:CDor
+BFdB fdbg|ecAc BAGF|GEDE CEGc|efgB(B2A2)|!
+BFdB fdbg|ecAc BAGF|GEDE CDB,2|ecBAB4:|!
+|:DB,FD BFdB|egec BAGF|GBeG AfBg|agfef4|!
+gede fdBF|(3GAB (3cde BAGF|GEDE CD B,2|ecBAB4:|
+
+X:102
+T:Ball,The. WM.102
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+d|B2GA2F|GAG D2D|E2Ec2B|B3A2d|!
+B2GA2F|GBGD2D|E2cA2F|G3G2:|!
+|:B|A2Dc2A|BdBG2B|A2Dc2A|B3A2d|!
+e2cA2f|g2dB2G|E2cA2F|G3G2:|
+
+X:103
+T:Love In The East. WM.103
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+D|DFA dfd|AFDE2D|DFA dfd|cecd2D|!
+DFA dfd|AFDE2D|BABd2A|FDDD2:|!
+|:fga gfd|g2fe2d|fga afd|fed afd|!
+fga afd|g2fe2d|BABd2A|FDDD2:|
+
+X:104
+T:Devil’s Dream,The. WM.104
+M:2/4
+L:1/8
+Q:1/2=110
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+Adcd|Adcd|Adcd|BAGF|GBEB|GBEB|GBEB|BAGF|!
+Adcd|Adcd|Adcd|BAGF|GABc|dBAG|A,2C2|D3z:|!
+|:FADA|FADA|FADA|BAGF|GBDB|GBDB|GBDB|AFED|!
+FADA|FADA|FADA|GFED|BcdB|AFED|A,2C2|D3z:|
+W:Note D in bars 5,6,7 of B strain as written. |]
+
+X:105
+T:New Tartar’s Plaid. WM.105
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+(B/c/)|dGBG dGBG|dG Bc/d/ eA AB/c/|dGBG dGBG|cedc BGG:|!
+|:G|DGB,G DGBG|DGB,G BA,A,G|DGB,G DFBd|cedc BGGG|!
+DGB,G DGBG|DGB,G AA,A, (B/c/)|ecdB cABG|cedc BGG:|
+
+X:106
+T:New German Waltz,The. WM.106
+T:German Waltz. WM.106
+M:3/8
+L:1/8
+Q:3/8=50
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Waltz
+O:England
+A:Kent
+N:Compare with “German Waltz” No 65.
+Z:vmp.Chris Partington
+K:FMaj
+c/B/|AAG|”?”Ffe/d/|ccB|c2c/c/|AAG|F2f|(fed)|c2:|!
+|:c|gcc|acc|cba|age|fed|cef|gfe|f2:|!
+|:A/B/|cAc|fed|dcc|c2A/c/|cBB|A2G/B/|BAA|A2B/B/|!
+cAc|fed|dcc|c2A/c/|cBB|B2G/E/|Fff|f2:|
+W:Says four semiquavers in MS
+
+X:107
+T:Negro Boy. WM.107
+M:6/8
+L:1/8
+Q:3/8=127
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+dAF dAF|Egf edc|dAF dfa|gec d3:|!
+|:Acd ecA|dfa fed|cef gba|gec d3:|!
+|:d2f d2f|aba gfe|d2fd2f|ecAd3:|
+
+X:108
+T:Mrs.Grey’s Reel. WM.108
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+dfdf a>bag|edef bee2|dfdf abfb|afef d/d/dd2:|!
+|:A>BAF f>gfd|bafd efb2|adfd Bdgb|afef d/d/dd2:|
+
+X:109
+T:Gala,The. WM.109
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+dcdA2F|dgf gec|dcd egf|edcd3:|!
+|:f2af2a|ecA Ace|f2af2a|^gfga3:|!
+|:f2=gf2b|^a2bf2d|g2fe2d|c2Bf3:|
+
+X:110
+T:Tipler’s Reel,The. WM.110
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:A
+eAcA fecf|eAcA BE-Ef|eAcA fefa|efed cAA2:|!
+|:BE-Ed cA-Ac|BE-Ed edce|fAcA eAaf|ecBd cAA2:|
+
+X:111
+T:Crotchet Lodge. WM.111
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+afef deB2|Adef baf2|abfa efdB|(AB)(de) ([fb] [da])[d2f2]:|!
+|:BdAd BdA2|Acef (ba).f2|abfa efdB|ABde fdd2:|
+
+X:112
+T:Odity,The. WM.112
+T:Oddity,The. WM.112
+M:6/8
+L:1/8
+Q:3/8=127
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+Bcd dBG|dBG dBG|Bcd efg|ABG FED|!
+Bcd dBG |dBG dBG|EcA FDF|G3G3:|!
+|:Bdg gdB|gdc BAG|Bdg gdB|abg fed|!
+Bdg gdB|gdc BAG|EcA FDF|G3G3:|
+
+X:113
+T:Honest Thieves. WM.113
+M:2/4
+L:1/16
+Q:1/4=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.March
+O:England
+A:Kent
+N:Would be nice on bagpipes.
+Z:vmp.Chris Partington
+K:D
+[F4d4] d2f2|[F4d4] e2f2|(gf)(ed) (cd)(ec)|{e}(dcde) d2A2|!
+[F4d4] d2f2|[F4d4]e2f2|gfed cdec|[F4d4] [F4d4] :|!
+|:[d4a4][d4b4]|[d6a6] d2|c2d2e2f2|(edef) e2e2|!
+[d4a4][d4b4]|[d6a6]d2|c2d2e2f2|(dcde)d4:|!
+|:aaaa bbbb|aaaa gggg|{g}f2(ed) c2d2|(edef) e2e2|!
+aaaa bbbb|aaaa gggg|{g}f2(ed) (cd)ec|[F4d4][F4d4]:|
+W:Notes of d in bars 1,5 of B strain should be tied/slurred
+
+X:114
+T:Brunswick. WM.114
+M:3/8
+L:1/8
+Q:3/8=50
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Waltz
+O:England
+A:Kent
+N:Appears earlier in the book in Fmaj.
+Z:vmp.Chris Partington
+K:D
+D/E/|”^p”FFG|A2d/B/|AAB/G/|FFD/E/|FFG|A2d|ee/d/e/f/|d2:|!
+|:A|”^f”gg”p”A|”^f”ff”^p”d|cc/e/d/f/|eeA|\
+“^f”gg”p”A|”^f”ffA|”^p”ec/A/B/c/|dd:|!
+|:”^p”D/F/|AAB|AAF/A/|GGE/G/|FDD/F/|AAB|AAd|d/c/B/A/B/c/|d2:|
+
+X:115
+T:Hip Hornpipe. WM.115
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:Listed without a title but appears earlier in the book under this
+N:title in a different key
+Z:vmp.Chris Partington
+K:D
+(3ABc|d2(FG) AFAF|d2(FG) AFAF|BAGFE2ef|gefd dcBA|!
+d2(FG) AFAF|d2(FG) AFAF|BAGFE2ef|gedcd2:|!
+|:z2|f2(df) dfdf|e2cd cdcd|f2(df) dfdf|edcBA2Bc|!
+(dB).B.B (cA).A.A|(dB).B.B (cA).A.A|dfed cBA”?”G|A2A2A2:|
+W:perhaps the noteG in bar 7 of the B strain should be sharpened
+
+X:116
+T:Lion And Fawn,The. WM.116
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.March
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+(aba).fd3f|(ede).fd2A2|(aba).fd3f|(ede).fd4:|!
+|:.a2(d2c2d2)|(efg).e (dc)BA|.f2.f2.g2.g2|.^g2.g2a4:|!
+|(^a2b2).g2.e2|(^g2a2).f2.d2|e3f gfed|cdecA3A|!
+.d2.d2.e2.e2|.f2.f2g3f|(g2f2g2^g2)|aABc de” DCapo”fg|]
+
+X:117
+T:Hopkins’s Fancy.2voices. WM.117
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+N:Doesn’t sound good!
+Z:vmp.Chris Partington
+K:A
+[V:1]|:”Key as per MS”cGe cGe|dGf dGf|edc ABc|d2dd3|!
+[V:2]|:AEc AEc|BEd BEd|cBA AGA|B2BB3|!
+%
+[V:1]cGe cGe|dGf dGf|eca =fdf|g2gg3:|!
+[V:2]AEc AEc|BEd BEd|cAf =cAc|e2ee3:|!
+%
+[V:1]|:G2gG2B|AcB ABc|G2gB2d|ced cde|!
+[V:2]|:E2eE2G|FAG FGA|E2eG2B|AcB ABc|!
+%
+[V:1]f2fe3|a2ag3|fed cdB|c3c3:|
+[V:2]d2dc3|f2fe3|dcB ABG|A3A3:|
+
+X:118
+T:Three And The Duce. WM.118
+T:Three And The Deuce. WM.118
+M:2/4
+L:1/16
+Q:1/4=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+dfaf agf2|fdcd (ed)A2|dfaf dbge|faAc d2d2:|!
+|:FAdF GBe^G|Aceg|(gf)(ed)|FAdF Gdgb|afec d2d2:|
+
+X:119
+T:Thrifty Wife,The. WM.119
+M:2/4
+L:1/16
+Q:1/4=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+cefd gabg|efed (cA).A2|cefd gbag|fedc d2d2:|!
+|:eAcA aAcA|bged dcBA|dafa ebge|faAc d2d2:|
+
+X:120
+T:Dutch Trot,The. WM.120
+M:6/8
+L:1/8
+Q:3/8=127
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Trot
+O:England
+A:Kent
+P:AABA
+N:Appears ealier in key Cmaj
+Z:vmp.Chris Partington
+K:D
+d2af2a|e2ac2e|d2bg2e|fed cBA|!
+d2af2a|d2bg2b|agf edc|d3d3:|!
+fgf(e2f)|e2fe3|fgfe2f|g2-^ga3|!
+dedd2A|fgff2d|bag fed|”Da Capo”ced cBA|]
+
+X:121
+T:French Stroller. WM.121
+M:3/2
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Triple Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:A
+a2(ed) cBAGA2A,2|CEAc dfBA GBD2|d2cB cedc BAGB|!
+A2GF EDCB, A,4:|\
+|:BcAB GEGBe4|d2fe dcBAG2B2|!
+ceaf dBce ^dfeg|fgag fef^d(e4|\
+e2)(=dc) dfaf ecBA|!
+B3c dBcA GBE2|d2cB cedc BAGB|A2(GF) EDCB,A,4:|
+
+X:122
+T:Mathews Hornpipe. WM.122
+M:C
+L:1/8
+Q:1/2=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+d2f2ecA2|B2gBA4|G2eGF2dF|Ecdf ecA2|!
+d2f2ecA2|B2gBA4|G2eGF2dF|E2c2d4:|!
+|:dfed gedc|BdcBA2F2|BdcB egfe|d2c2B4|!
+(df a2)(geB2)|bagf g(ede)|(ceg2)(fdA2)|agfe f(dcd)||!
+d2f2ecA2|B2gBA4|G2eGF2cF|Ecdf ecA2|!
+d2f2ecA2|B2gBA4|G2eGF2dF|E2c2d4:|
+
+X:123
+T:Princess Caroline’s Waltz. WM.123
+M:3/8
+L:1/8
+Q:3/8=50
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Waltz
+O:England
+A:Kent
+N:WM.124 not in MS.
+Z:vmp.Chris Partington
+K:F
+A/B/|ccf|ddB|G{=B}c/d/c/_B/|AFc|ffa|gec|Ad=B|c3:|!
+|:_eA/c/e/f/|_ed B/c/|dB/c/d/=e/|dc~e|fed|cBA|AB/A/G/F/|FE A/B/|!
+ccf|ddB|G{=B}c/d/c/_B/|AFc|ffa|dba|gfe|f3:|
+
+X:124
+T:Non-existant Hornpipe, WM.124
+M:4/4
+L:1/4
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+N:Never filled in in MS
+Z:vmp.Chris Partington
+K:C
+W:Mittell no 124 has this title and number but no notes written down. |]
+
+X:125
+T:Light Heart,The. WM.125
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:C
+c2Gc e2ce|g2eg c’2g2|a2f2d2B2|cBcd c2G2|!
+c2Gc e2ce|g2eg c’2g2|d2g2 bag^f|g2g2g4:|!
+|:g2ce g2eg|f2f2 f2df|e2ag fedc|BcdB F2D2|!
+F2a2 D2f2|efge c2G2|c2d2 edcB|c2c2c4:|
+
+X:126
+T:Gussondall Bay. WM.126
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+N:Falkland Islands..
+Z:vmp.Chris Partington
+K:F
+f2d cAc|faf gec|f2d cAc|fafg3|!
+f2d cAc|faf gec|dBd cAc|BGEF3:|!
+|:A2c cAF|dBd cAF|A2c cAF|dBdc3:|!
+|:A2c cAF|dBd cAc|afa gec|dfef3:|
+
+X:127
+T:Miss Kitty Campbell’s Strathspey. WM.127
+M:C
+L:1/8
+Q:1/2=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Strathspey
+O:England
+A:Kent
+N:
+Z:vmp.Chris Partington
+K:F
+C|F<FAF cFAF|E>F G/F/E/F/ GCCD|F<FAF cFAF|Ff a/g/f/e/ fFF:|!
+f|cf a/g/f cf ~f2|dg b/a/g dg ~g2|cf a/g/f cf ~f2|dfbg affa|!
+cf a/g/f cf ~f2|dg b/a/g dg g2|afge f<dcA|cfbg aff|]
+
+X:128
+T:Kozebue’s Fancy. WM.128
+M:2/4
+L:1/16
+Q:1/4=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:C
+ge|c2af d2ge|c2c’2c’2 ge|c2af d2gd|B2G2G2 ge|!
+c2a^f d2d’c’|b2g2g2 ab|c’bag ^fgag|g2G2G2:|!
+|:ge|^c2ec A2ag|f2d2d2 fd|B2dB G2gf|e2c2c2 c’b|!
+a2c’2f2 gf|e2g2c2 ag|fedc BcdB|c2C2C2:|
+
+X:129
+T:Admiral Mitchel’s Reel. WM.129
+M:C
+L:1/8
+Q:1/2=60
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+d|BFGD B,G,GB,|CA,AF FDAc|BGGD B,G,DB,|CEDF GG,G,d|!
+(B/A/G/F/) GD B,G,DB,|CEAG FDAc|(Bc/d/) GB EFcE|FDcA BGG||!
+d|(g/f/g/a/) gd BGdB|ceag fddf|(g/f/g/a/) gd edcB|cAdc BGGd|!
+(g/f/g/a/) gd BGdB|cAag fddf|gbab gdeB|cAdc BGG|]
+
+X:130
+T:Lady Nelson’s Waltz. WM.130
+M:3/8
+L:1/16
+Q:3/8=50
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Waltz
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:CDor
+b2|f2d2B2|B2A2B2|c2A2F2|F4cd|edcBAB|cBAGFE|D2B2B2|B4:|!
+|:f2|=efgfef|_e4d2|d2c2B2|B2A2f2|!
+=efgfef|_e4d2|c2B2A2|B4:|!
+|:F2|DFBFDF|EGBGEF|GcecAc|BdfdBd|!
+DFBFDF|EGBGEG|AcecAc|B4:|
+
+X:131
+T:Cyder And Perry. WM.131
+M:6/8
+L:1/8
+Q:3/8=70
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+a/f/|ddd {f}dcd|ede cBA|ddd eee|fga e2a/g/|!
+fff ddd|gfg b2b|afd {f}ede|fdd d2:|!
+|:A/G/|FDd BGe|cAc d/e/f/g/a|bge afd|(f2g/f/) e2A/G/|!
+FDd BGe|cAc d/e/f/g/a|bge afd|gecd2:|!
+|:a|(a2f)(f2d)|(d2A)A2f|.g(g/a/g) .f(f/g/f)|ecAA2a|!
+(a2f)(f2d)|B2g g2b|afd {f}ede|fddd2:|
+
+X:132
+T:Barham Downs. WM.132
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+a|a2fd2d|e2cA2A|ABc def|g2fe2a|!
+a2fd2d|e2cA2A|Bgf edc|dAFD2:|!
+|:e|a^gf edc|Bba ^gfe|aed cBA|e3E2e|!
+a^gf edc|Bba ^gfe|aef dBe|A3A2:|
+
+X:133
+T:Lord Nelson’s Waltz. WM.133
+M:3/8
+L:1/16
+Q:3/8=50
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Waltz
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:C
+(3G,A,B,|C2C2C2|CB,DB,G,2|C2C2C2|CB,DB,G,2|C2D2G2|c2e2g2|gfedcB|c4:|!
+|:z2|e4g2|g4e2|a2a2f2|g2g2e2|c2e2g2|g2g2e2|f2d2B2|c4:|!
+c2|c2A2_B2|c2d2e2|{g}f2e2d2|{d}c4c2|_B2B2c2|A2A2c2|_B2B2c2|A4c2|!
+c2A2_B2|c2d2e2|{g}f2e2d2|{d}c4Ac|_B2B2 GB|A2A2 FA|”D Capo”_B2G2E2|F4|]
+W:Minimum equalisation of bar ends
+
+X:134
+T:Cauld Kail. WM.134
+M:2/4
+L:1/8
+Q:1/2=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Scots Measure
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+G|B>d g>e|d>B A>G|B>d e/f/g/e/|d2G>G|!
+B>d g>e|d>B A>G|B>d e/f/g/e/|d2G:|!
+|:d|g>a b>g|a>f e>d|g>a b>g|a>f d>d|!
+g>a b>g|c’>a f ((4a/g/f/e/)|d>B g>e|d2G:|
+
+X:135
+T:My Love Is But A Lassie Yet. WM.135
+M:2/4
+L:1/8
+Q:1/4=90
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+B/c/|dDFA|{c}dDD B/c/|dDFA|{^d}eEE B/c/|!
+dDFA|dgf>e|d/c/B/A/ Bc|{c}dDD:|!
+|:f/g/|.a.f.g.e|.f.d.d f/g/|afgf|eEE f/g/|!
+afge|fde>e|d/c/B/A/ Bc|{c}dDD:|
+
+X:136
+T:Dusark’s Fancy. WM.136
+M:2/4
+L:1/8
+Q:1/4=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Cotillion
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+BGAF|GB/d/ gz|fdce|dB/G/ ez|!
+dBAc|BG/E/ Az|FDE^C|DF/A/d2:|!
+|:BGAF|GB/d/ gz|fdce|dB/G/ ez|!
+dBAc|BGce|dcBA|G2z2:|
+
+X:137
+T:Bank Corps,The. WM.137
+M:2/4
+L:1/8
+Q:1/4=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.March
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+afd2|ecA2|d/d/d e/e/e|f2e2|afd2|b^ge2|!
+a/a/a b^g|a2a2:|\
+|:AA/B/ c/d/e/f/|ge/g/ fd|g/a/b/g/ e/f/g/e/|!
+c/d/e/c/A2|afd2|ecA2|d/d/d f/e/d/c/|d2d2:|
+
+X:138
+T:Kozebue’s Fancy. WM.138
+M:2/4
+L:1/8
+Q:1/4=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+d/c/|Ge/c/ Ad/B/|Gg gd/c/|Ge/c/ Ad/A/|FD Dd/c/|!
+Ge/^c/ Aa/g/|fdd e/f/|g/f/e/d/ ^c/d/e/c/|dDD:|!
+|:d/c/|^GB/G/ Ee/d/|cA Ac/B/|FA/F/ Dd/c/|BG Gg/f/|!
+eg cd/c/|Bd Ge/d/|c/B/A/G/ F/G/A/F/|GG,G,:|
+
+X:139
+T:Indian Queen. WM.139
+M:C
+L:1/8
+Q:1/2=80
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+z|DDDE FDFA|BA (B/c/d)A3f|eddf eddA|BcdF F2E2|!
+DDDE FDFA|BABd A3f|eddf eddA|B2c2d3:|!
+|:(a/f/)|ddcd (ef/g/) “?”f(a/f/)|ddcd (ef/g/)f2|!
+b2a/g/f/e/a2g/f/e/d/|c/d/e/f/ g/f/e/d/ “Da Capo”e/d/c/B/ A/G/F/E/|]
+W:note f in bar 9 is crotchet and a half in MS
+
+X:140
+T:Stumpie Strathspey. WM.140
+M:C
+L:1/8
+Q:1/2=70
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Strathspey
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:G
+G|Bd g2 a/g/f/e/g2|Bdg2aAAc|Bdg2a/g/f/e/g2|BdAc BGG:|!
+|:c|Bd-dc/B/ ce-ed/c/|Bd-dc/B/ eA-Ac|Bddc/B/ ceed/c/|BgBc BGG:|!
+|:c|Bdg2a/g/f/e/g2|gG B/c/d/B/ e/d/c/B/ A/B/c/A/|!
+B/c/d/B/ c/d/e/c/ d/e/f/d/ g>d|e/d/c/B/ A/B/c/d/ BGG:|!
+|:c|Bddg Bddg|Bddf/g/ aAAc|Bdg2g/f/e/f/ g2|BdAc BGG:|!
+|:(B/c/)|d/B/G/B/ g/B/G/B/ d/B/G/B/ g/B/G/B/|e/c/B/c/ d/B/g/B/ cAAB/c/|!
+d/B/G/B/ g/B/G/B/ d/B/G/B/ g/B/G/B/|e/d/c/B/ A/B/c/d/ BGG:|
+
+X:141
+T:Fife Hunt. WM.141
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Reel
+O:England
+A:Kent
+N:Separated from photocopy, reinserted by from Dave Roberts,
+N:probably with incorrect position number in MS
+Z:vmp.Chris Partington
+K:D
+g|fdd2AFF2|De2^de3g|fdd2AFF2|Dd2cd3:|!
+|:g|fdad bdad|Be2^de3g|fdad bdad|Ad2cd3g|!
+fdad bdad|Be2^de3g|faea gbeg|Ad2cd3:|
+
+X:142
+T:Jolly Young Waterman. WM.142
+M:6/8
+L:1/8
+Q:3/8=110
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+N:Missing from photocopy, reinserted from Dave Roberts,probably in wrong
+N:order
+Z:vmp.Chris Partington
+K:G
+B/c/|dec BcA|GFG AFD|DED DFA|BcBA2B/c/|!
+dec BcA|GFG AFD|DEFG2c|BcAG2:|!
+|:G| G2de2G|G2B dBG|EFG ABc|BAG FED|!
+G2de2G|G2B dBG|G2e dec|BcAG2:|
+
+X:143
+T:La Fete De Village. WM.143
+M:C
+L:1/16
+Q:1/4=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+N:Missing from photocopy, reinserted from Dave Roberts Book, may be wrong
+N:number
+Z:vmp.Chris Partington
+K:D
+a4gfef g2f2e4|f2d2c2d2 edcBA4|a4f2ef g2f2e4|!
+f2a2 dgecd4d4:|\
+|:FAdA GBdG FAdA GBdB|d2a2g2f2 edefe4|!
+FAdA GBdG FAdA GBdG|d2f2e2a2d4d4:|
+
+X:144
+T:Kingsbridge Assembly. WM.144
+T:Liberty For The Sailors,aka. WM.144
+M:6/8
+L:1/8
+Q:3/8=120
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Jig
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+f2ef2e|dcdA3|BAB AFD|EFGF2D|!
+f2ef2e|dcdA3|BAG FGE|D3D3:|!
+|:DFA AFD|G2BB3|Ace ecA|d2ff3|!
+afdB2B|gecA2A|BAG FGE|D3D3:|
+
+X:145
+T:Bagpipes,The. WM.145
+M:2/4
+L:1/8
+Q:1/2=60
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Air
+O:England
+A:Kent
+N:Accompanied throughout by double stopped drone on string below,rythm
+N:as per bowing
+Z:vmp.Chris Partington
+K:D
+A|”Maintain continuous drone on string below”\
+(B/c/d d)c|~B3A|(B>ABc)|(d/c/d/e/ d)A|\
+(B/c/d d)c|~B3A|(B>A)(Bc)|d2d:|!
+|:e|(f/g/a a)f|(~f2e2)|(f/g/f/g/) aa|\
+(f/e/f/g/ a)a|(B/c/d d)c|~B3A|(B>A)(Bc)|d2d:|
+
+X:146
+T:Cackling Of The Hens. WM.146
+T:Hens March To The Midden,aka. WM.146
+M:C
+L:1/8
+Q:1/2=100
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Air
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+d2A2defg|a2gf efde|A3A dcde|f^gfgg3g|!
+a4agfa|gfeg fedf|A3A dcde|fagf~e4|d8:|!
+|:.d2.d2.d2.d2|.d2.d.d (f3a)|.d2.d.d (bg3)|.d2.d.d (f3c’)|!
+.d2.d.d (bg3)|.d2.d.d (f3a)|(f3a)(a4|a)gfa gfeg|!
+fedeA3A|d2de fagf|~e4d4:|
+
+X:147
+T:Miss West’s Favorite. WM.147
+M:C
+L:1/8
+Q:1/2=75
+S:Wm.Mittell’s MS, New Romney,Kent,1799
+R:.Country Dance
+O:England
+A:Kent
+N:Missing from photocopy, reinserted from Dave Roberts book,probably with
+N:wrong number
+Z:vmp.Chris Partington
+K:G
+B3c dBed|cBAG GFED|GDAD BDcD|1BGcA GFED:||2BAGFG2G2:|!
+|:BGAB dBAG|AFA^c d2d2|eAfA gAfA|ed^cde2A2|!
+aAgA fAeA|fAaAe2A2|aAgA fAeA|fde^cd2z2:|
+% Output from ABC2Win Version 2.1 k on 11/10/2005

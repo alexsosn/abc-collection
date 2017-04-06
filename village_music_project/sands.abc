@@ -1,0 +1,4588 @@
+%abc
+%%abc-alias none
+%%abc-creator ABCexplorer 1.5.0 [30/04/2012]
+%’Thomas Sands’s Book, March 12th 1810′ Lincolnshire
+%added to for a number of years in the same hand,
+%plus a handful of tunes added c1840 in two further hands.
+%From a private collection
+%Transcribed to ABC for www.village-music-project.org.uk
+%by Ruairidh Greig October 2011
+%revised 30/3/12
+%revised 30/4/12
+
+X:001
+T:Dame Durden TS.001
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:glee
+N:Repeat indications in MS often erratic
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Am
+e| e2ee2g| c2cc2c| eee e2c| d3z2d|
+e2ee2e| c2BA2^G| A2A^G2B| A3z2:|
+|:c| e2ee2g| c2cc2c|\
+eeee2 c| d3z2d|
+e2ee2e| c2BA2^G| A2A^G2B| A3z2|
+|:z| z2z(e>g)z| z2ze>gz| z2ze>gz| z2ze>g g|
+eeee2e| d3z2d| e2ee2e| c2BA2^G|
+AAA^G2B| A3z2d| e2ee2g| g2ec2e| fffd2d| e3z2:|]
+
+X:002
+T:To all good Lasses. TS.002
+M:2/4
+L:1/8
+Q:1/2=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:glee
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+GA|BG cB|AG Bc|dB ed|cB dd|
+dd ee|dc cc|cd/e/ dc|cB d>d|
+e>e d>F|G2d>d|ee dF|G2:|
+|:dd|d4-|d4-|d4-|d4|
+d2ee|dB cA|G2de|cAz2|
+z2de|cAz2|z2dd|dd ed|
+dc cc|c(d/e/) dc|cB d>d|ee dF|
+G2d>d|ee dF|G3:|]
+
+X:003
+T:Oh Dear what can the matter be. TS.003
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:glee
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+d3d3|dBg dBG|c3c3|cAB cBA|
+d3d3|dBg dBG|EAc BcA|G3G3:|
+|:dBc dBc|dBg dBG|cAB cAB|cAB cBA|
+dBc dBc|dBg dBG|EAc BcA|G3G3:|]
+
+X:004
+T:God Save the King TS.004
+M:3/4
+L:1/4
+Q:1/4=140
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:song
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+dde|c>de|ffg|f>ed|ed”tr”c|d2:|
+|:aaa|a>gf|ggg|g>fe|fg/f/e/d/|f>ga|(3b/a/g/ f”qu. in ms”e|d2:|
+
+X:005
+T:Nancy Dawson TS.005
+T:Piss on the Grass,aka TS.005
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+N:I’m afraid that the coarser title is the more correct one CGP.
+Z:vmp.Ruairidh Greig, 2011
+K:G
+G2GG2B|d2BG2B|A2AA2B|A2G FED|
+G2GG2B|d2BG2B|A2GF2E|D3D3:|
+|:A2BA2B|A2G FED|B2cB2c|d2BG2B|
+c2Bc2d|e2fg2f|”undotted in ms”e3(d/c/B/) (A/G/F/)|G3G3:|]
+
+X:006
+T:Moll in the Wad TS.006
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+N:Additional bar at bar 13 to complete tune
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Dmix
+d|BAB G2F|E2FG2A|BABc2B|AFDD2d|
+BAB G2F|E2FG2A|BABc2B|AFDD2:|
+|:c|BABd2d|BAB d2d|BAB de=f|ecAA2c|
+“_bar added”BABd2d|BAB def|gfe dcB|AFDD2:|]
+
+X:007
+T:Balance a Straw TS.007
+T:Lads A Bunchum,aka TS.007
+T:Wearing of the Green,aka TS.007
+T:Tulip,The,aka TS.007
+M:C
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:country dance
+O:England;Lincolnshire
+N:Notated as written.
+C:James Oswald,1747
+Z:vmp.Ruairidh Greig, 2011
+K:G
+GA|B2BBB2d2|”^sic”cBA2AAA2|Bcd2cBc2|BAG2GGG2:|
+|:ge|d2ddd2GA|B2BBB2ge|d2ddd2cB|AGFED2B2|
+BBB2g2dB|A2AAA2Bc|d2cBc2BA|G2GGG2:|]
+
+X:008
+T:I will gang no more to yon Town TS.008
+T:Devil in a Bush,The,aka TS.008
+T:England’s Glory,aka TS.008
+T:Mayday,aka TS.008
+T:Duke of Sussex’s Reel,aka TS.008
+T:Mr.Small’s Favourite Reel,aka TS.008
+M:2/4
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+eaaec2A2|ceAc dBB2|agaec2A2|ceBd cAA2:|
+|:cAeA fAeA|cAeA dBB2|cAeA fAeA|ceBd cAA2:|]
+
+X:009
+T:Fishers Hornpipe TS.009
+T:Egg Hp,aka TS.009
+T:Lord Howe’s Hp,aka TS.009
+T:Peckhover Walk Hp,aka TS.009
+T:China Orange Hp,aka TS.009
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+z2″rest added”|fcAc BdcB|AcAc BdcB|AFAF BGBG|AFAF GEDC|
+fcAc BdcB|AcAc BdcB|Acfa bgfe|f2f2f2:|
+|:z2″rest added”|gece gebg|afdf afc’g|gece geba|gfedc4|
+dBGB dBfd|cAFA cAec|dBfd cBAG|F2F2F2:|]
+
+X:010
+T:Wright’s Hornpipe TS.010
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+N:A faint echo of Morpeth Rant?
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+(BA)|B2(FE) DBFB|GABc BAGF|GABc dBfB|bBfB BAGF|
+BGFE DBFB|GBFB EBDB|DFBd EGce|dBcAB2:|
+|:ga|bfdB bfdB|fdcd BAGF|ecec dBdB|A2F2F2(B_A)|
+GBEB edcB|AFAc fedc|Bbab fdBf|d2B2B2:|]
+
+X:011
+T:Worster Hp,The,aka TS.011
+T:Worcester Hp,aka TS.011
+T:Navy Hp,The,aka TS.011
+T:New Bridge Hp,The,aka TS.011
+C:untitled(‘Hornpipe’) in MS
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Eb
+GF|EB,G,B, EGEG|cBcd fedc|BGEG BGEG|FDB,D FDB,D|
+EB,G,B, EGEG|cBcd fedc|BGEG FDB,D|E2E2E2:|
+|:”qu. rest omitted”BA|GBEB “as writ”GBGB|AcFA AcFA|GBEB GBEB|DFB,F DFB.F|
+GBEB GBEB|cBcd fedc|BGEG FDB,D|E2E2E2:|]
+
+X:012
+T:March by Dobney TS.012
+M:C
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+C:Dobney
+C:”a favorite Scotch Air”
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+(A/B/c/)|d2 (d>d)d3(c/d/)|e2e>ee3(f/g/)|f>fd>d e>ec>c|d2d>dd2f>g|
+a3g b>ag>f|g2e>ee2e>f|g3e gfed|f2d>dd2A2|
+B2(gf) fe dc|c2″sic”c>cc2::(c>d)|e2(e>e)e2(d>e)|f2d>dd2(e>f)|
+g2f2e2d2|e2(e>e)e2f>g|a>af>f g>ge>e|f>fd>de2(f>g)|
+a>af>f g>ge>e|f>fd>de2f>g|f>ef>gf2e2|d2d>dd2:|]
+
+X:013
+T:March TS.013
+M:C|
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+C:Prefixed as ‘No.1′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+(cd/e/)|f>cA>c F>ag>f|g>fe>dc2B>A|B>cd>c B>AG>F|E>FG>EC2″_p”(c>B)|
+A>cf>c B>df>d|e>cg>ef2d2|(3ege (3cec (3dfd (3=BdB|c2c>cc2:|
+|:(g/f/e/d/)|c2g>g g>eb>g|a>fg>ef2f>e|d2(e>f) g>ab>d|
+^c2A>AA2(f/e/f/g/)|a2f>dg2e>^c|a2f>dg2e>^c|d>ef>g f>ed>^c|
+d2d>d”_f”d2 (g/f/e/d/)|c2c>c c>fc>A|B2B>B B>dB>G|A2F>A d>cB>A|
+G2G>GG2(CD/E/)|”_ff”FF/F/ FF AA/A/ AA|cc/c/ ccf2c2|”triplet signs added”(3def (3gab a2″tr”g2|f2f>ff2:|]
+
+X:014
+T:Waltz TS.014
+M:3/8
+L:1/8
+Q:3/8=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+C:Prefixed as ‘No.2′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+F/A/|ccf|c2A/c/|BB G/B/|AF F/A/|ccf|c2A/c/|BBG|F2:|
+|:d|c/e/g/e/g/e/|c/f/a/f/a/f/|c/g/b/g/b/g/|a2f|”_f”c/e/g/e/g/e/|c/f/a/f/a/f/|(g//a//b//g//) fe|f2:|
+|:”_p”e|fAB|c2d|cB/A/B/G/|AFc|fAB|c2f/c/|db/g/f/e/|f2||”repeat added”[e2B2G2]z:|[f2c2F2]|]
+
+X:015
+T:Minuet TS.015
+M:3/4
+L:1/8
+Q:3/4=40
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:minuet
+C:Prefixed as ‘No.3′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D2|G2B2d2|g2(d/e/d/c/) B/c/B/A/|G2(D/E/D/C/) B,/C/B,/A,/|
+A,2B,2d2|ecGcec|dBGBdB|c>d c2[B2D2]|[B2D4]A2:|
+“_f”DF|A2A2A2|A4(G/F/G/A/)|B2B2B2|B4″_p”d2|
+d2B2g2|d2B2g2|d2edcB|BAGFED|
+F2B2d2|g2(d/e/d/c/) (B/c/B/A/)|G2D/E/D/C/ B,/C/B,/A,/|
+A,2G,2″_p”d2|ecGceg|dBGBdg|f/e/d/c/B2A2|{A}G4|]
+
+X:016
+T:Andante TS.016
+M:2/4
+L:1/8
+Q:1/4=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+C:Prefixed as ‘No.4′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Gm
+d|{^f/}g{f/}g dd|{c}(Bd/B/) GA|.B.c.d.e|(B2A)”_p”d|
+{^f/}g{f/}g dd|{c}(Bd/B/) GA|.B.A.G.^F|(^F2G):|
+|:A|[B2D2][c2F2]|[d3F3]”_p”e|dg^fg|”_f”[^f3A3D3]”_p”d|
+g(g/a/ b)B|(cc/d/)He2z/e/|dG B/A/G/^F/|”sharp added”(^F2G):|]
+
+X:017
+T:Giga TS.017
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+C:Prefixed as ‘No.5′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+“_p”d2c BGB|d2B GAB|c2AB2G|FGAA3|
+“_f”dedg2d|efeg2e|dBGA2B|[B2G2][BG][B2G2]”rest added”z:|
+|:g2g gd=f|e2cc3|a2e efg|f2 d def|
+g2b def|g2dB2G|cec dBG|A2GG2:|
+|:BdG BdG|BdGA2G|BdB ^cde|(d/e/f)dd3|
+{ef}”dot added””_f”g3fdB|{cd}e3dBG|(B/c/d)B A/B/cG|B2[BG][B2G2]”rest added”z:|]
+
+X:018
+T:Moderato TS.018
+M:C
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+C:Prefixed as ‘No.6′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+[c3E3](e/d/) cGEC|e3(g/f/) ecGE|g2e/c/e/g/f2d/B/d/f/|ecge dBAG|
+[c3E3]e/d/ cc “tr”c2|[d3G3](f/e/) dd “tr”d2|(3ece (3geg (3c’ge (3fdB|c2c>cc2″rest added”z2:|
+|:(d3c/B//A//) .G.G.G.G|(g3f/e//d//) .c.c.c.c|.c’.c'(.c’b) .a.a(ag)|.f.e.d.c .B.A.G.F|
+“_f”[c3E3]e/d/ cege|[d3G3]f/e/ dfaf|”tr added”(3ec’g {b}ag/f/e2″tr”d2|cc’gec2z2:|]
+
+X:019
+T:Siciliano TS.019
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:siciliano
+C:Prefixed as ‘No.7′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+“_p”E2F GFE|D2E FED|E2F GFE|DDDD2f|
+e2f gfe|d2e fed|ege fdB|[cE][cE][cE] [c3E3]:|
+|:[d2D6]c BAB|[c2D6]BA2c|[BD6]dBA2d|[B2D2][GB,][G2B,2](c//d//e//f//)|
+g2g efg|f2f def|egc’ efd|c2cc2:|]
+
+X:020
+T:Allegretto TS.020
+M:2/4
+L:1/16
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+C:Prefixed as ‘No.8′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+(cB)|c2e2c2e2|g6fe|fgag fedc|Bcdc BAGF|
+E2G2c2e2|g6fe|(^ga)(fe) c2B2|(B4c2):|
+|:”_p”(cd)|e2e2e2a2|e6e2|fedc B2e2|c2A2A2 cd|
+e2a2e2a2|e4 fedc|dcBA ^G2e2|c2A2A2 “_f”(cB)|
+c2e2 cdef|g6fe|a2f2d2c2|BcdB G2(GF)|
+E2G2c2e2|g6(fe)|^gafd c2B2|(B4c2):|]
+
+X:021
+T:Andante TS.021
+M:2/4
+L:1/8
+Q:1/4=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+C:Prefixed as ‘No.9′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+B>df>g|.f.d.c.B|c>d e/d/e/c/|.B.A.G.F|B>df>d|.b.g.d.B|e>gfA|(A2B)”rest added”z:|
+|:”_p”ff”_f”b2|”_p”gg”_f”e2|(f>d)(d>B)|A/B/c/d/ c>e|d/e/f/d/ e/f/g/e/|fdHb/ zg/|(f>d) c>d|B3z:|
+|:”_f”B/F/D/F/ B/c/d/B/|c/A/F/A/ c/d/e/c/|d/B/d/f/ e/d/c/B/|A/B/c/d/ cF|”_p”B/F/D/F/ B/c/d/B/|c/A/F/A/ c/d/e/c/|d/=e/f/d/ e/f/g/e/|f3z:|
+L:1/16
+|:”_p”fdBd fdbd|geBe gebg|fdBd fdbf|edcB BAGF|”_f”EGBe g2g2|DFBd f2f2|gbag fedc|B2d2B2z2:|
+|:B2F2D2B2|c2A2F2c2|.B2.d2.e2.d2|.d2.B2.A2 (3GFE|(3DFB (3DFB d2>B2|(3EGc (3EGc e2>c2|(3dfd (3BdB (3cec (3AcA|A4B2z2:|
+|:”_p”f2 (3fdf “_f” b2f2|g2 (3geg b2g2|f2 (3fdf b2f2|(e<c)(d<B) “tr”d2c2|B2>d2 c2>e2|d2>f2 e2>g2|fdcB egfe|dgfA {A}B2z2:|]
+
+X:022
+T:Minuet TS.022
+M:3/4
+L:1/8
+Q:3/4=40
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:minuet
+C:Prefixed as ‘No.10′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+(3FGA|B2B2B2|B4df|fedcBA|B2B,2″s-q in ms””_p”(BA)|
+G2F2B2|E2D2B2|ABcded|d2c2″s-q in ms””_f” de|
+f2f2f2|”tr”f^g//a// gfed|e2e2e2|”tr”ef//g// fedc|
+dBfdbf|f2 ecAc|[B2D2][B2D2][B2D2]|[B4D4]:|
+|:(AB)|c2c2d2|dcBAGF|c2c2d2|e4(Bc)|
+d2d2e2|edcBAG|c/d/e/c/B2″tr”A2|G4(F/E/D/E/)|
+F2B2B2|B2ABcd|e2e2d2|d2c2″_p”de|
+f>gfdbg|f>gfdbg|(f/g/f/e/)d2c2|”tr”c2B2:|]
+
+X:023
+T:Giga TS.023
+M:6/8
+L:1/8
+Q:3/8=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+C:Prefixed as ‘No.11′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+f|f>gf bfe|def [B2D2]F|GBB FBB|EcE(D2f)|
+fdf bfb|geg bgb|a(f/g/a/f/) g=e/f/g/e/|[fA][fA][fA][f2A2]:|
+|:”_p”(f/e/)|dfd ege|cec dfd|”_f”B(B/c/d/c/) c(c/d/e/c/)|
+A(A/B/c/A/) (F2f)|[gB][gB][gB] [ac][ac][ac]|[bd][bd][bd]H[f2A2]e|d/f/e/d/c/B/ c/e/d/c/B/A/|[BD][BD][BD] [B2D2]:|]
+
+X:024
+T:Allegretto TS.024
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+C:Prefixed as ‘No.12′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+B|AFG AFG|A3Adc|B2Ag2f|efd cBA|
+“_f”AFG AFG|A3 AdA|Bge {d}cBc|d3-d2:|
+|:”_p”(f/g/)|a3 afd|ged cBA|Bcd efg|fed cBA|
+a3afd|ged cBA|Bge {d}cBc|d3-d2:|
+|:”_p”(A//G//F//E//)|DFA DFA|dfaa2 (G//F//E//D//)|
+CEA CEA|cegg3|”_f”f/d/d/d/d/d/ g/e/e/e/e/e/|a/f/f/f/f/f/ b2a|
+acd g2f|efd cBA|Gbb bge|Faa afd|Bba gfe|
+dcB ABG|[F3A,3]EDE|DDD DEF|[G3A,3] FEF|[EA,][EA,][EA,] EFG|
+“_p”A3AFd|A3AFd|ABA AGF|[F3A,3]H[E2A,2]B|
+AFG AFG|A3Adc|B2Ag2f|efd cBA|
+AFG AFG|A3 AdA|Bge {d}cBc|d3-d2:|]
+
+X:025
+T:Andantino TS.025
+M:2/4
+L:1/16
+Q:1/4=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+C:Prefixed as ‘No.13′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Dm
+A2|d4e4|(f2ef) d2e2|f2g2a2b2|d4^c2z “_f” A|
+d>^cd>f e>de>”^f in MS”g|f>ef>a g>fg>b|a2d2 (fed^c)|(^c4d2):|
+|:(f/e/f/g/)|a4b4|g2(gf) e2(d^c)|(d2ef) gfed|(d4^c2) z “_f”A|
+d>Af>d e>Ag>e|f>da>f [b2d2] z b|a2d2 fed^c|d2A2D2 AG|
+“Bass Solo”FEFD GABA &F2z2 G2z2|GFEC FGAF &G2z2 F2z2|BcBA GAGF|E2EE E2z “_Tuto”A|
+“^sq’s in MS”d3A f3d|gfed “^sq’s in MS”^c2A2|defg fed^c|d2A2D2:|]
+
+X:026
+T:Minuet TS.026
+M:3/4
+L:1/8
+Q:3/4=40
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:minuet
+C:Prefixed as ‘No.14′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+d2A2F2|D2DDDD|f2d2A2|[A2F2][AF][AF][AF][AF]|
+“_p”dAdfed|eAegfe|fdfagf|fedcBA|
+d2A2F2|D2DDDD|f2d2A2|[A2F2][AF][AF][AF][AF]|
+“_p”a2f2d’2|a2f2d’2|abagfe|{e}d6:|
+|:”_p”A4B2|c4d2|ede2f2|g4z2|
+d4e2|f4g2|aga2b2|a4a2|
+bgdB Gb|afdA Fa|gecA Eg|fdAF D2|
+GFGABc|dcdefg|(3aba g2f2|f2e2 “_f”(3ABc|
+d2A2F2|DFAdfd|e/f/g/e/d2c2|(c4d2):|]
+
+X:027
+T:Allegro Moderato TS.027
+M:C|
+L:1/16
+Q:1/4=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+C:Prefixed as ‘No.15′ in MS
+N:Bar 15 is problematical
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+C4 E2G2 cccc eeee|gggg c’c’c’c’ g4>e4|(g2>f2) (d2>f2) (f2>e2) (c2>e2)|(e2>d2) (c2>d2) c2B2A2G2|
+C2(DE) FGAB cdef gabc’|g2g2a2a2 g4^f4|(3g2d2g2 fedc B4″tr”A4|”rest added”z2″_p”(G2B2d2)z2 (G2c2e2)|
+z2(G2B2d2) z2 (G2c2e2)|”_f”de^fg fedcB4″tr”A4|G2>G2 D2>D2 B,2>B,2 D2>D2|G,2G,G, B,2D2 G4z4:|
+|:G4 B2>d2 f4 z4|f4 d2>B2 F4z4|EEEE “sic–“//E4 //c4 //c4 //e4 //e4 //g4 //g4|c’4>b4 a4 z4|
+a4>g4 f4z4|f2>a2g2>f2 f2>e2d2>c2|g4G2>G2G4z4|{gefg} d4d4d8|
+{fede} c4c4 “tr”c8|A2>B2c2A2 G2F2E2D2|”_f”C4E2G2 //c4 //e4|//g4 //c’4 g4>f4|
+f2e2d2c2 e2d2c2B2|c2CC E2G2 c2CC E2G2|c4c4c4 z4:|]
+
+X:028
+T:Largetto TS.028
+M:3/4
+L:1/8
+Q:3/4=30
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+C:Prefixed as ‘No.16′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+“_p”G>F|[E4G,4](F>E)|[D4G,4]E>D|C2{B,}A,2D>C|
+“_crots in MS”B,A,G,2G>F|[E4 G,4]F>E|[D4G,4]”_F”G>c|A>d [c2E2][B2D2]|[B2D2][c2E2]:|
+|:”_p”(e>f)|g4(c’>g)|e2c2e2|f2d2(A>d)|{c}B2{A}G2(e>f)|
+“_f”g2e2c’2″bar line added”|{b}g2 fedc|(3def A2B2|[1[B2D2][c2E2]:|
+[2[B2D2][c2E2]G2||[F6G,6]|[E6G,6]|[d2F2][c2E2][B2D2]|[B2D2][c2E2]|]
+
+X:029
+T:Roslin Castle TS.029
+M:C|
+L:1/8
+Q:1/2=45
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Em
+“_Slow”(GF)|E2(Bc)”tr”B2AB|{AB}cBAG{G}”tr”F2GF|E2efg2fe|^def^d”tr”B2(AB)|
+{AB}cBAG”tr”F2(GA)|BGFE e^def|a/g/f/e/ g/f/e/d/ eB (d/c/)(B/A/)|G2F2E2:|
+B2|eBef {ef}g2fe|b2agf2e^d|eBef”tr”g2fe|ba (g/b/a/g/)Hf3(AB)|
+{AB}cBAG”tr”F2(GA)|BGFE e^def|(a/g/f/e/) (g/f/e/d/) eB (d/c/B/A/)|G2F2″tr”E4|]
+
+X:030
+T:Plato’s Advice TS.030
+M:C|
+L:1/8
+Q:1/2=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+“_Slow”(GA)|”tr”B2AG “as written”d2cB|{ef}g2=feHd2e|edcB{d}”tr”c2>B2|
+A2dcc2B2|A2AdHd2^c2|defgHa2g|fed=cB2G2|F2A2d4:|
+|:d|(d/e/=f) ed{d}”tr”c2>B2|(c/B/A) (dc)”tr”B2>B|~e2>d2 “tr”c2>B2|(A/e/d) (c/B/A/G/) {G}”tr”F2>e2|
+d2>F2HG2>e2|dcBAB2 (e/f/g)|fedcHd2(d/e/f)|edcB {d}”tr”c2>B2|
+AGFE HD2d/e/f|”tr”g3c2BAB d/c/B/A/|G2A2G4:|]
+
+X:031
+T:Bower Waltz, The. TS.031
+M:3/8
+L:1/8
+Q:3/8=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A|d2f|d2f|(ged)|(cBA)|d2f|d2f|eac|d2:|#
+|:A|e2f|(agf)|fed|ceA|e2f|(agf)|eac|d2:|
+|:A|(Ag).g|(gf).f|(fe).e|e2a|(fda)|(fda)|gec|d2:|]
+
+X:032
+T:Life let us Cherish TS.032
+M:6/8
+L:1/8
+Q:3/8=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+{c}”tr”B3″as written” (c/B/c)|d2g{a}g3z|HG3(AGA)|(BcB)”tr”A2z|
+{c}”tr”B3 (c/B/c)|d2g{a}g3z|{c}B3(A/G/A)|G3:|
+|:d2|d2BABc|d2BG2d|d2B ABc|d2BG2d|
+e2cg2g|d2Bg2-g|ded dcB|{c}”tr”B3 {B}”tr”A3|
+{c}”tr”B3(cB) .c|d2gg2z|HG3(AGA)|(BcB){B}”tr”A2z|
+{c}B3(cBc)|d2g {a}”tr”g3z|{c}”tr”B2 AGA|G3|]
+
+X:033
+T:My Wife foolish young thing TS.033
+M:C|
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+N:No.21 in MS
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Gm
+d/c/|BGGG DGGA|BGGBd2dc/B/|BGGG DGGA|AFFAc2B/A/:|
+|:Bcdd gddd|Bcdd ga ga/b/|B/A/B/c/ d/c/d/e/ fccB|AFFAc2B/A/|
+Bcdd gddd|B/A/B/c/ dd gdga|b>g a>f ge fc|AFFA c2B/A/:|]
+
+X:034
+T:Bonny Charley TS.034
+T:King of the Fairies,aka TS.034
+T:King William of Orange,aka TS.034
+M:C|
+L:1/8
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+C:Prefixed as ‘No.22′ in MS
+R:country dance
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Em
+E2(EF)G2(GA)|BcBAG2(Ac)|B2E2E2G2|FGAFD2D2|
+E2EFG2GA|BcBAG2Ac|B2E2GFED|E2e2E4:|
+|:efedB2B2|efedB4|fgafd2d2|fgafd2(ga)|
+b2(gb)a2(fa)|g2egf2df|e2(de) gfed|e2f2Hg4|
+fedcB2B2|g2b2B4|dcBA cBAG|FGAFD4|
+GFGA BABd|edef gfed|dcBA BAGF|E2e2E4:|]
+
+X:035
+T:I’ll be Marri’d on Tuesday TS.035
+T:Greensleeves?aka TS.035
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+C:Prefixed as ‘No.23′ in MS
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Gm
+G2AB2G|A3F3|G2G[G2g2]a|f3d3|f2f fed|cBAF2F|G2AB2G|A3G3:|
+|:g2dg2d|B3G3|g2dg2a|f3d3|f2f fed|cBAF2F|G2AB2G|A3G3:|]
+
+X:036
+T:Sylph,The. TS.036
+T:Plymouth Lasses,aka TS.036
+T:Hark to the Wittendale Hunt,aka TS.036
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+N:John Abraham Fisher wrote the stage production
+N:’The Sylph’ as a work for the Covent Garden theatre in the 1770’s
+C:Prefixed as ‘No.24′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A|AFA dfa|agf e2g|faf fed|ceee2A|
+AFA dfa|agfe2g|fad egc|eddd2:|
+|:A|FAd dcB|BAGF2D|FAD FAD|C>DE A,>A,A|
+FAd dcB|BAG F2D|FAD AGC|EDDD2:|]
+
+X:037
+T:Michael Wiggins TS.037
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+C:Prefixed as ‘No.25′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A|f>gf fed|dcBA2A|f>gf fed|geee2A|
+f>gf fed|d<>cB AFA|ABA ABc|ed”cr.rest added”zz2:|
+|:B/c/|dBA ^Gcd|ecA Ace|fdB ^Ged|cezz2e|
+a2ea2e|aec Ace|fdB ^Ged|cA”rests added”zz2:|]
+
+X:038
+T:Beggar Girl, The TS.038
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+C:Prefixed as ‘No.26′ in MS
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
++fermata+d>cB+fermata+ d>cB|A>GA “tr”B(G/A/B/c/)|+fermata+d>cB+fermata+ d>cB|A>GAG3|
++fermata+d>cB +fermata+d>cB|AGA Bcd|+fermata+d>cB+fermata+ d>cB|AGAG3:|
+|:DGB DAc|DcB AGA|DGF “tr”E2c/c/|BAG+fermata+d3|
++fermata+d>cB +fermata+d>cB|AGA Bcd|+fermata+d>cB ef+fermata+g|BcA G3:|]
+
+X:039
+T:Untitled TS.039
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+C:Prefixed as ‘No.27′ in MS
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+(A/G/)|FGA GBc|dcB A2G|FGA dcd|eEE E2(A/G/)|
+FGA ABc|dcB A2G|FAd fge|fddd2:|
+|:c/d/|ecA ABA|ecAA2(B/c/)|dcB AGF|GEEE2(c/d/)|
+ecA ABA|ecA A2G|FAd edc|dd>dd2:|
+|:(d/e/)|f2d BdB|e2c ABc|dcB AGF|GEEE2(d/c/)|
+dfd BdB|cec ABc|dcB ABG|FDDD2:|]
+
+X:040
+T:Wood’s Hornpipe TS.040
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+C:Prefixed as ‘No.28′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+(E/F/G)|A2AAA2(cd)|ecea ecBA|(fe)(dc) (dc)(BA)|GABcB2E2|
+A2AA”tr”A2cd|ecea ecBA|fedc dcBA|E2G2{B}”tr”A4:|
+|:(cd)|ecea ecea|fdfa fdfa|fedc dcBA|GABc”tr”B2cd|
+ecea ecea|fdfa fdfa|fedc dcBA|E2G2″tr”A4:|]
+
+X:041
+T:Minuet TS.041
+M:3/4
+L:1/8
+Q:3/4=40
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:minuet
+C:Prefixed as ‘No.29′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+g2(3bag (3fed|d2″tr”c2B2|g2(3bag (3fed|d2″tr”c2B2|
+GDADBA|B2″tr”c2d2|GDADBD|B2″tr”c2d2|
+(3def (3gfe (3dcB|{B}A6::(bg)(fe)(fg)|(af)(ed)(^cd)|
+(ef)(gf)(ed)|{d}^c2(Bc)A2|aAgAfA|eAfAgA|
+aAgAfA|eAfAgA|aA(B^c)(de)|fdgdad|
+(3bag f2″tr”e2|d4z2|g2 (3bag (3fed|d2″tr”c2B2|
+g2(3bag (3fed|d2″tr”c2B2|GDADBD|GBdgbg|
+GDADBD|GBdgbg|(f/e/d/c/)B2″tr”A2|G6:|]
+
+X:042
+T:Minuet TS.042
+M:3/4
+L:1/8
+Q:3/4=40
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:minuet
+C:Prefixed as ‘No.30′ in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+dcdefg(|”tr”a3f)ga|ba”tr”gfed|(c3B)A2|
+dAeAfA|gAfAeA|dAeAfA|gAfAeA|
+a2A2^c2|d6::f2(gf)(ed)|”tr”e3dc2|
+e2(fe)(dc)|”tr”d3cB2|ecfd^ge|a2(^gf)(ed)|
+cd”tr”B3A|A6|afdafd|gecgec|
+fdBfdB|(“tr”c3B)A2|dAeAfA|gAfAeA|
+dAeAfA|gAfAeA|a2A2^c2|d6:|]
+
+X:043
+T:New so Bell TS.043
+M:C|
+L:1/8
+Q:1/2=75
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+[V:1]|:c4e3f|efedc2ef|g2g2c2d2|e8:|
+[V:2]|:z8|z8|z8|z8:|
+[V:1]|:z8|z8|z8|z8|
+[V:2]|:A,2E,2F,2C,2|D,E,D,C,B,,2C,2|D,C,D,B,,E,2E,,2|A,,8|
+[V:1]”sic”g2|agfg gfeg|fedf edce|g2g2g2ag|f2efg4|
+[V:2]z2|z8|z8|z8|z8|
+[V:1]z8|c2cde2c2|z8|d2def2d2|
+[V:2]A,,2A,,B,,C,2A,,2|z8|B,,2B,,C,D,2B,,2|z8|
+[V:1]z8|c2cde2c2|f2d2g2B2|c8|
+[V:2]A,,2A,,B,,C,2A,,2|z8|D,2B,,2E,2E,,2|C,8|
+[V:1]g2ggg4|z8|a2aaa4|z8|
+[V:2]z8|A,,2A,,B,,C,2A,,2|z8|B,,2B,,C,D,2B,,2|
+[V:1]g2ggg4|z8|f2d2g2B2|c8:|
+[V:2]z8|A,,2A,,B,,C,2A,,2|D,2B,,2E,2E,,2|[A,,8C,8]:|
+
+X:044
+T:Draught,The. TS.044
+M:6/8
+W:Should have been in 9/8 time
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+G|(EF/G/)Ec2G|E2C (EF/G/)E|FDDD2G|(EF/G/)Ec2G|
+E2C (EF/G/)F|ECCC2::c|Bcd edc|B2G Bcd|
+dBG G2c|Bcd edc|B2G GBc|B(c/d/)Bc2:|]
+
+X:045
+T:Russian Dance,The TS.045
+T:Opera Hat,aka TS.045
+M:2/4
+L:1/8
+Q:1/2=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:country dance
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+DG|B2DG|B2DG|cdBc|A2DF|A2DF|A2DF|Bc AB|G2:|
+|:dc|B2BA|G2gf|e2e2|e2cB|A2AG|FA dF|GFGF|G3:|
+
+X:046
+T:Duke of Sussex’s Reel TS.046
+T:Mayday,aka TS.046
+T:England’s Glory,aka TS.046
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+fefc BAGF|AcBA BGG2|fefc BAGF|AcGB AFF2:|
+|:AFcF dFcF|AcBA BG”tr”G2|AFcF dFcF|AcGB AFF2:|]
+
+X:047
+T:Princess Royal TS.047
+M:4/4
+L:1/8
+Q:1/2=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Gm
+“^as written”
+dcB2ABG2|dcB2ABG2|d2e2dec2|fed2cdB2|
+dc BdcB A/c/B/A/|GBAG ^F2D2|d3c BG A^F|D2^F2G4:|
+|:d2|gfga gfga|b2B2B2ba|gfed edcB|A2^F2F2B2|BBc2ccd2|
+d2g2fBe2|dGc2B3A|GBAG^F2D2|d3c BABG|D2^F2G2:|]
+zzzz||
+“^Version edited by Chris Partington”
+dc|B2AB G2dc|B2AB G2d2|e2dec2fe|d2cd B2dc |
+BdcB AcBA|GBAG ^F2D2|[M:3/2] d3c BGA^F D2^F2|[M:4/4]G4-G2:|
+|:d2|gfga gfga|b2B2B2ba|gfed edcB|A2^F2F4|B2BBc2cc|
+d2d2g4|f2B2e4|d2G2c4|[M:3/2]B3A GBAG^F2D2|d3c BABG D2^F2|[M:4/4]G4-G2:|
+
+X:048
+T:Miss Brown’s Reel TS.048
+T:Scotch Mary,aka TS.048
+T:Heart of the Roll,The,aka TS.048
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+cB|:AFcF dFcF|AFcFB2(3dcB|AFcF dFcF|BGGAB2″as writ”(d/c/)B:|
+|:f2a/g/f/e/ fcAc|f2a/g/f/e/ fage|f2a/g/f/e/ fcAc|BGGAB2 (d/c/)B:|]
+
+X:049
+T:Stoke Hornpipe,aka TS.049
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+C:untitled ‘Hornpipe’ in MS
+N:Title from The Boat Band
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+dc|BFDF Bcdc|BFDF BcdB|ABcd edcB|A2c2c2dc|
+BFDF Bcdc|BFDF Bcdc|egfe dcBA|B2B2B2:|
+|:fe|defd gfed|e2c2c2ed|cdec fedc|d2B2B2dc|
+BFDF BcdB|efga bagf|gfgd ecBA|c2B2B2:|
+
+X:050
+T:Hornpipe TS.050
+M:C|
+L:1/8
+Q:1/2=88
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+FE|DFBF dFED|EGBG ecBA|Bdfd gecB|AcF2F2FE|
+DFBF dFED|EGBG ecBA|Bdfd gecB|BAcAB2:|
+|:cB|Acc2Acc2|Bdd2Bdd2|egg2egg2|fgaaa2FE|
+DFBF dFED|EGBG ecBA|Bdfd gedc|BAcA B2:|]
+
+X:051
+T:Hornpipe TS.051
+M:C|
+L:1/8
+Q:1/2=88
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+“s-qu. in ms”(FE)|DB,DF Bgfe|dcBA B2cd|ecBA dBAG|FDB,D (3EGF (3EDC|
+B,DFA Bgfd|edcB g2ga|bagf df=eg|f2f2f2:|
+|:(3fga|bfed e2ef|gedcd2df|gaba gfed|cBAG FEDC|
+B,DFA Bgfd|edcB gabg|edcB GBAc|B2B2B2:|]
+
+X:052
+T:Persian Dance,The TS.052
+T:Galopede,aka TS.052
+M:2/4
+L:1/16
+Q:1/4=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:country dance
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+dc|B2Bc A2AB|G2G2G2 AB|c2cd B2Bd|A2A2A2 dc|
+B2Bc A2AB|G2G2G2 AB|cBAG FGAB|G2G2G2||
+dc|B2gf e2ed|(dcBc) A2 dc|B2gf edcB|A2A2A2 dc|
+B2gf e2ed|(dcBc) A2 dc|BdcB AcBA|G2G2G2||
+Bc|d2d2d2g2|d2d2d2g2|d2d2 edcB|c2A2A2 Bc|
+d2d2d2g2|d2d2d2g2|d2Bc dcBA|G2G2G2|]
+
+X:053
+T:Morgiana in Ireland TS.053
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D2DG2G|AGAB3|D2DG2G| AGA BGE|
+D2DG2G|AGAB2d|edc BAG|AGA BGE||
+d2d dcB|e2fg3|ded dcB|e2fg3|
+d2d dcB|e2e efg|dec BcA|G2A BGE||
+GAG Bdz|ABA cez|GAGG2A|B2c BGE|
+GAG Bdz|cez Bdz|egz Bdz”bar line added”|G2A BGE|]
+
+X:054
+T:Lord Cathcart’s Fav’t TS.054
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+F|FBd f2f|fed c2e|dBf ecg|B3A2F|
+FBd f2f|fed c2d|edB dcA|(c3B2):|
+f|fga b2b|bag ^f2f|ged ceg|(B3A2)B|
+cde fga|d3b2a|agf efg|fge fga|
+bfd Bdf|fed c2e|(dB).f (ec),g|(B3A2)c|
+Bdff2f|fed c2e|edB dcA|(c3B2)|]
+
+X:055
+T:Waltz TS.055
+M:6/8
+L:1/8
+Q:3/8=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+(F/G/)|AABc2f|ccB {B}”tr”A2 F/G/|AAB c2f|bge”tr”f2:|
+|:bbg aaf|dgf edc|bbg aaf|dge”tr”f3:|
+|:(A/B/)|ccdc2A|BBG”tr”A2 (A/B/)|ccdc2A|BGEF3:|]
+
+X:056
+T:Angelic March,The TS.056
+M:C|
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D2|G2BGd2BG|g2d>dd2cB|e2d2c2B2|A>GA>BA2d>c|
+B2e>d^c2f>e|d2g>fe2a>g|f>ed>eA2^c2|d2d>dd2A2|
+“pix”B2A2B2A2|d^cdAB2A2|B>cd>ef2e2|d2d>dd2:|
+|:A2|d3ef3g|a2c>cc2B2|g2B>BB2A2|e2G>GG2F2|
+A3Bc2 BA|Bcd4 ([ge][f/d/][e/c/])|[d2B2] ([ec][d/B/][c/A/])B2 (cB/A/)|G2GGG2D2|
+“pix”E2D2E2D2|G>FGDE2D2|E>FGAB2A2|G2G>GG2:|]
+
+X:057
+T:Gavotte by Correlli,A TS.057
+M:C|
+L:1/4
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:gavotte
+C:Correlli
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+baba|gfgf|gded|cBAD|d3D|c3B|
+EAFG|GFG2|gbad|g>ggf|Be^cd|d^cd2|
+gded|eded|gdeG|c3B|EAFG|GFG2:|
+|:be^de|be^de|ad^cd|ad^cd|fbgb|f^abd|
+fe/d/^cd|^c2B2|d3c|cBcA|c3B|A>GFD|
+d3G|c3B|EAFG|GFGe|c2z=c|B2zA|
+GeFG|GFGe|d2zc|B2zA|GeFG|GFG2:|]
+
+X:058
+T:Honest Yorkshireman’s Hornpipe,The. TS.058
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+%%begintext
+K:C
+An Honest Yorkshireman
+by Henry Carey (Died 1748)
+I is i’ truth a coontry youth,
+Nean used to Lunnon fashions;
+Yet vartue guides, an’ still presides
+Ower all my steps an’ passions.
+Nea coortly leer, bud all sincere,
+Nea bribe shall iver blinnd me ;
+If thoo can like a Yorkshire tike,
+A rogue thoo’ll niver finnd me.
+Thof envy’s tongue, so slimly hung,
+Would lee aboot oor coonty,
+Nea men o’ t’ earth boast greater worth,
+Or mair extend their boonty.
+Oor northern breeze wi’ us agrees,
+An’ does for wark weel fit us ;
+I’ public cares, an’ love affairs,
+Wi’ honour We acquit us.
+Sea great a maand is ne’er confaand
+‘Tiv onny shire or nation,
+They gie un meast praise whea weel displays
+A larned eddication;
+Whaal rancour rolls i’ laatle souls,
+By shallow views dissarnin’,
+They’re nobbut wise at awlus prize
+Good manners, sense, an’ larnin’.
+%%endtext
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+cd|ecac ecac|fedc B2cd|ecBA fdBA|GABGE2cd|
+eceg fdfa|gegba2gf|eafd ceGB|”qu. in ms”A2A2A2:|
+|:GA|BEdE BEdE|cEeE cEeE|fgaf gabd|c3B3 GA|
+BEdE BEdE|cEeE cEeE|fadf ceGB|A4:|
+
+X:059
+T:Waltz TS.059
+M:3/8
+L:1/16
+Q:3/8=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+d2d2g2|efgfge|d4B2|cBcdec|BABcdB|ABcAGF|G4:|
+|:GA|B2B2B2|BABGAB|cdedcB|(BA) (GD) (GA)|B2B2B2|BABGAB|cd ec AF|G4:|]
+
+X:060
+T:March TS.060
+M:C
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+d4A4|fedc d2″poss qu.in ms”B2|BAGF AGFE|D2D>DD2z2|
+d4A4|fedcd2cd|e2fdc2B2|A2A>AA2:|
+|:(A/B/c/d/)|e3f gfdc|d3fA4|B2gf eBed|d4c2″rest added”z2|
+“dot added”A3B/c/ dABA|AGGFF4|EF/G/ A/B/c/d/ e/d/c/B/ AG|G3EF3A|
+BBBd ccce|dddf eeeg|ffged2c2|d2d>dd2:|]
+
+X:061
+T:G M TS.061
+M:C
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+d>d|g2g>gg2dc|”dot added”B3AG2dc|B2B2dcBc|d2d>dd2(3def|
+g2f2e2d2|B3c edcB|a3gf2e2|d2d>dd2:|
+|:z2|d2e2 fdfd|g3d gdgd|agfe dcBA|G2G>GG2d2|
+dcBA gfed|d3e/d/c2B2|B3d dcAF|G2G>GG2z:|
+|:D>D|”dot added”G3B BAcB|B3d dced|dcBA Geed|d2d/c/B/c/B4|
+B2B>BB2c2|d2d>dd2g>g|g2egf2e2|d2d>dd2:|
+|:z2|d3e fdfd|g3d gdgd|agfe dcBA|G2G>GG2d2|
+dcBA gfed|d2e>dc2B2|B2d2 dcAF|G2G>GG2:|]
+
+X:062
+T:Duke of Perth,The, aka TS.062
+T:Reel,untitled in MS TS.062
+M:2/4
+L:1/8
+Q:1/2=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+C:Pencil note “Bonum” in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+F|DFAF|dFAF|dFAF|eE E>F|DFAF|dFAF|GEAG|FD D:|
+|:A|dedB|efec|dedB|fB B>c|dedB|efec|dBAG|FD “cr.in ms”D:|]
+
+X:063
+T:Jigg TS.063
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D|GBG GDG|BdBG2d|efg dBG|cAA AcAQ|
+GBG GDG|BdB GBd|efg d2c|BGGG2:|
+|:d|defg2f|edcB2G|BdB dBd|cAAA2d|
+defg2f|edc B2d|ede def|gggg2d|
+def g2f|edcB2G|BdB dBd|cAAA2d|
+GBG GDG|BdB GBd|dfgd2c|BGGG2:|]
+
+X:064
+T:Hornpipe TS.064
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D2|G2G2GABc|dBge dBAG|cBce cBAG|FGABA3B|
+cBcd efge|dBAG FAFD|GBAc BdAc|B2G2G2″rest omitted”:|
+|:Bc|dBGB defg|dcBcB2z|cBcd efge|afddd3B|
+cBcd efge|dBAG FAFD|GBAc BdAc|B2G2G2:|]
+
+X:065
+T:Hornpipe TS.065
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A|dAFA dfed|ecAc egfe|fafd gbae|fafd dcBA|
+dAeA fAeA|fafd dcBA|bgbg fedc|d2d2d2z:|
+|:fg|afaf dfaf|bgbg fedc|dfaf gbge|fafd dcBA|
+dAeA fAeA|fafd dcBA|bgbg fedc|d2d2d2:|]
+
+X:066
+T:Hornpipe TS.066
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A2|FDFA d2ef|gefd c2BA|BdAd GdFd|edef gfef|
+FDFA d2ef|gefdc2BA|Bcdg fdec|d2d2d2:|
+|:”qu. in ms”A2|defd e2ef|gefd c2BA|FAdA BAGF|E2E2E2A2|
+defd e2ef|gefdc2BA|afge fdBe|d2d2d2:|]
+
+X:067
+T:Paddy’s Resource TS.067
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+C|F>GF CA,C|F>GFd2c| dcB AGF|GDDD2E|
+F>GF CA,C|F>GFd2c|cde fcB|AFFF2:|
+|:A|CFA AFC|CEG GEC|CFA AGF|A>BA”tr”G2F|
+F>Ac fed|cAFG2F|AFD C>DF|AFFF2:|]
+
+X:068
+T:Maria’s Frolick TS.068
+M:6/8
+L:1/8
+Q:3/8=115
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+(AG)|FGA AFA|BGB AFA|E2e efd|”tr”c3A3|
+FGA AFA|BGB AFA|D2d dec|d3″dotted in ms”D2:|
+|:g|fga agf|efg gfe|fga Bcd|”tr”c3A2(B/c/)|
+dcB AGF|GAB AFA|D2d dec|d3D2:|]
+
+X:069
+T:Double Kisses TS.069
+T:Kiss Her Twice, aka TS.069
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+e|c2GEc2ce|c2GE dDDe|c2GF cdec|eagf ecc:|
+e/f/|gcge gc c(e/f/)|gcge a(d d)(e/f/)|gcge gcge|fagf ec c(e/f/)|
+gcge gc c(e/f/)|gcge ad df/g/|afge fdec|Aagf ecc|]
+
+X:070
+T:Chapter of Kings,The TS.070
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+G|Gcc cBc|d2BG2G|Gdd def|g2ec2(g/f/)|
+efg gfe|a2fd2f/e/|f>ef fed|g2ec2G|
+Gcc Bdd|ecc fdd|e>fg fed|c2cc2G|
+Gcc Bdd|ecc fdd|e>fgn fed|c2cc2|]
+
+X:071
+T:Turks March TS.071
+M:C|
+L:1/8
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+GA|B2G2G2(AB)|c2A2A2(dc)|B2(AG)F2G2|(AG)(FE)D2(GA)|
+B2G2G2AB|c2A2A2dc|BAGAD2″tr”F2|”cr.in ms”G6:|
+|:Bc|dcded2e=f|e2c2c4|edef efga|f2d2″tr”d3c|
+B2G2G2AB|c2A2A2dc|B2(AG)F2G2|(AG)(FE)D2GA|
+B2G2G2AB|c2A2A2dc|BAGAD2″tr”F2|”cr.inms”G6:|]
+
+X:072
+T:Admiral Collingwood’s March TS.072
+M:2/4
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+N:Last 5 notes also shown in octavo.
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+g|fedc|BGGd|gggg|a/g/f/e/ dg|
+fedc|BAGB|cedF|G3:|
+|:B|cA A/B/c/d/|BGGB|c/B/A/G/ c/B/A/G/|dDDB|
+cA A/B/c/d/|BGGB|BG B/A/G/F/|”cr.in ms”G3:|
+
+X:073
+T:Miss Mar. Lees Farewell TS.073
+M:C
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+G|DGBG E<GD<G|A/G/A/B/ c/B/A/G/ F<AA2|DGBG F<GD<G|A/G/A/B/ c/e/d/c/ BGG:|
+d//e//f/|g>dBg e>d e/d/c/B/|A/G/A/B/ c/B/A/G/ FAA d//e//f/|gdBg e>d e/d/c/B/|A/G/A/B/ c/e/d/c/ BGG d//e//f/|
+gdBg e>d e/d/c/B/|A/G/A/B/ c/B/A/G/ FAA2|G>B A>c B>d g>d|e/d/e/f/ g/e/d/c/ BGG|]
+
+X:074
+T:14th February or Valentine’s Day TS.074
+T:Valentine’s Day TS.074
+M:2/4
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+e/d/|cfBe|A>B ce|fdBA|G/A/B/G/ HEe/d/|
+cfBe|A>Bcd|fdBG|A2A2:|
+|:Aa/a/ aa|aggg|f/g/a/g/ b/a/g/f/|fe ee|
+d>e f/e/f/e/|c>d e/c/e/c/|fdBG|A2A2:|]
+
+X:075
+T:My Lady TS.075
+M:2/4
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:quick step
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+G|c2ce|d2df|eg g/f/e/d/|c/B/c/d/ cG|c2ce|d2df|eg g/f/e/d/|c2z:|
+|:z|zgeg|zafa|zfdf|zgeg|zc’ge|eg g/f/e/d/|c2z:|
+|:z|G2EF|G2Ge|f2fd|e2ec|cB Bd|c2g2|agfe|d2z:|
+|:z|f4|e4|ff fd|ee ec|aa af|gc’ af|ed/c/ dc/B/|c2″rest added”z:|]
+
+X:076
+T:Henry’s Cottage Maid TS.076
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:song
+C:Pleyel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+B3BcB|d3B2B|B3BcA|G3D3|
+e2f gfe|d3B2G|A2B cBd|B3A3|
+B3BcA|d3B2B|B3BcA|G3D3|
+e2f gfe|d3B2G|A2B cBA|G3G2d|
+A2B cBA|B3d2B|A2B cBA|G3G2d|
+A2B cBA|B3dBG|FAd GFE|D3D2z|
+B3BcA|d3B2B|B3BcA|G3D3|
+e2f gfe|d3B2G|A2B cBA|G3G2″sy”g|
+f2g agf|g2bg2b|f2g agf|g2bg2b|gBA GGG|G3 G2|]
+
+X:077
+T:Deep Nine,The TS.077
+M:C
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:song
+C:Dibdin
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+GA|B2B2A2cA|G2F2G2>D2|GABcd2>d2|efge d2>d2|
+g3f e3d|^cBAG F2 zA|d2d2Befg|d2^c2d2zd|
+g3gf3f|e3e {e}d3d|d<Be2c<Ad2|B2^c2Hd2z|
+F3G A2HG2|B2B HcHBz B|(Ae)(dc) (cB)(dB)|
+(Ae)(de) (cB)(dB)|(cB)(AB) (cB)(cd)|(ed)(ef)Hg2{A}|B3c”tr”A4|G4|]
+
+X:078
+T:Lads Of Dunce,The TS.078
+T:Ladds Dance,The, aka TS.078
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+B|AFD DFD|DFD B2A|Bcd AFD|EEEE2B|
+AFD DFD|DFDB2A|Bcd edc|d3d2:|
+|:g|fefd2e|fgaB2A|Bcd AFD|EEEE2g|
+fefd2e|fga B2A|Bcd edc|d3d2:|
+
+X:079
+T:And Keep your Hair Dry TS.079
+M:C|
+L:1/8
+Q:1/2=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+“as writ”e|c>ef>ge2c2|dBfB aBfB|c>ef>ae2c2|A2aaga AA:|
+|:e|c2A A>AA cA|cAB2E E>EE|BEBEc2AA|AA cAcAA2|aagaA2A2:|]
+
+X:080
+T:Lady Montgomery’s Reel TS.080
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+N:Key Sig. unclear in MS. C maj sounds better than D.
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+c2cG EFGE|c2cA Bcde|c2cG EFGE|DddcB2dd:|
+e<cg2e<cg2|e<cg<c efga|e<cg2e<cg2|fedc Bcdf|
+e<cg2e<cg2|e<cg<c efga|gefd ecdB|cAGEE2″Da Capo”CC|]
+
+X:081
+T:Lady Mary Ramsay’s Reel TS.081
+T:Mary Ramsay TS.081
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+C:Nath. Gow
+Z:vmp.Ruairidh Greig, 2011
+K:D
+D2DF AFFA|F/G/”s-q in ms”A DF AFFd|D2DF AFFA|BdAFE2z2:|
+fddf ecce|dBBd AFFD|fddf ecce|dBAFE2z2|
+fddf ecce|dBBd AFFD|dfce BdAd|FdAF E2z2|]
+
+X:082
+T:Italian Morpheana TS.082
+T:Italian Monferina,aka TS.082
+T:Monferina,aka TS.082
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+N:Bar 8 has a cross drawn through it in MS.
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D|GAB BcA|BGGG2[gd]|[g2d2]G FGA|BGGG2:|
+|:g|fga afd|Bcdd2 g|fga afd|Bcdd2f|
+gdg gdg|ece efg|ded cBA|GGGG2:|]
+
+X:083
+T:Miss Grimstrobs Hornpipe TS.083
+T:Bridge of Lodi,The,aka TS.083
+T:Saxon’s Hornpipe,aka TS.083
+T:Nelson’s Hornpipe,aka TS.083
+T:Lord Nelson’s Hornpipe,aka TS.083
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+“s-q in ms”AF|D2(d2d2)cd|ecAc d2 (eg)|fdec dBed|cdcB AGFE|
+D2(d2d2) cd|ecAcd2(eg)|fdec dBA^G|A2A2HA2:|
+|:fg|agfe dedc|B2G2G2ga|bagf efed|c2A2A2AF|
+D2(d2d2)cd|ecAc d2(ef)|abag fedc|d2(d2d2):|]
+
+X:084
+T:Prize,The TS.084
+M:2/4
+L:1/8
+Q:1/4=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.country dance
+O:England;Lincolnshire
+C:Stephen Storace
+Z:vmp.Ruairidh Greig, 2011
+K:F
+C|FF {B}AG/F/|cA Af|{g}fe/f/ {g}fe/f/|cAAC|
+FF {B}AG/F/|cAAf|{g}fe/f/ c/d/c/B/|AFF:|
+|:(3c/d/e/|(3fef Ff|(3gfg Gg|(3fef (3gfg|af fc|
+(3fef Ff|(3gfg Gg|f/g/a/f/ c/d/c/B/|AFF:|]
+
+X:085
+T:Lincoln Hornpipe TS.085
+T:Fisher’s Hornpipe,aka TS.085
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+N:Dotted crotchets followed by semi-quavers
+N:very unusual but consistent. Tune as written in MS.
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+“As writ in ms”B>A|GFGD B,DGB|A>GAF DFAc|BdBG ecAG|FGAF D3 B>A|
+GFGD B,DGB|AGAF DFAc|BdBG ecAF|G2G/G/G2:|
+|:B/c/|d>BGG G3c/d/|e>cAA A3 B/c/|dBGB ecAB|FGAFD3B/A/|
+GFGD B,DGB|AGAF DFAc|BdBG ecAF|G2G/G/G2:|]
+
+X:086
+T:Nelson’s Victory Hornpipe TS.086
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+N:This is not the usual tune with this title
+Z:vmp.Ruairidh Greig, 2011
+K:D
+“s-q in ms”FG|A2A2A2FA|BcdB A2FG|ABAF ABAF|GABG E2FG|
+A2A2A2FA|BcdBA3d|cdef gedc|d2d2d2:|
+|:de|f2f2f2ef|gfed dcBA|FAdf edcd|edcd e3a|
+f2f2f2(ef)|gfed dcBA|FAdf gedc|d2d2d2:|]
+
+X:087
+T:Mrs Smollet’s Favourite TS.087
+M:C
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:Air
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+(3ecA|E2CEA3c|B>AB>c A2AG|F3A E>CB,>A,|A,/B,/CB,4(3ecA|
+E2CEA3c|B>AB>cA2ag|a>ff>aq e>cB>A|(A/B/c)A4:|
+|:e|fefa fece|fecAB3e|fefg agfe|c2e4a2|
+fefa fece|fecAB2AB|cdcB dcBA|(A/B/c)A4:|]
+
+X:088
+T:Dutchess of Devonshire’s Reel,The TS.088
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+W: “one note higher” written in pencil over B part
+W: “Bonum” in pencil at end
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+c2ec dBAG|A/B/c GE FDD2|c2ec dBAG|A/B/c GF EC”qu in MS”C2:|
+|:ecgc dBgB|cAdc BGG2|AFcF GEcE|FDGF EC C2|
+egcg dgBg|cAdc BGG2|AcFc GcEc|Fagf ecc2|]
+
+X:089
+T:Frogmore Farm TS.089
+M:6/8
+L:1/8
+Q:3/8=115
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+f|fed cAF|dfd cAF|cAc cBA|BGGG2f|
+faf gec|dfd cAc|AFA BAG|FFFF2:|
+|:A|cAc fcA|dBd gdB|cAc fcA|BGGG2A|
+cAc fcA|dBd gdB|cba gfe|ffff2:|]
+
+X:090
+T:New Drury TS.090
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+E|(Ac)(ec) (Ad)(fd)|ecBc AGFE|(Ac)(ec) (Ad)(fd)|edca “tr”B3E|
+(Ac)(ec) (Ad)(fd)|ecBA GBGE|Acea gafd|ecBcA3:|
+|:E|CEA,E CEA,E|(Ac)(Bc) AGFE|CEA,E CEA,E|(Ac)(ec) “tr”B3E|
+CEA,E CEA,E|(Ac)(Bc) AGFE|FDCB, CDEc|dBAG [A3E3A,3]:|]
+
+X:091
+T:New Floating Battery TS.091
+M:C|
+L:1/8
+Q:1/2=88
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+A|(AB)(cd) e2(cA)|(fg)af {f}”tr”e2 dc|defd cdec|Aca(c{c}B3)A|
+(AB)(cd)e2 (dc)|fga(A {A}G2) (FE)|dfdB cecA|E2[A2C2][A3C3]:|
+|:a|(ag)”tr”fe fedc|defa AGFE|Ac”tr”BA Bd”tr”cB|ceac{c}”tr”B3a|
+(ag)”tr”(fe) “tr”(fe)(dc)|(dF)”tr”(BA) (AG)(FE)|ABcd ecac|E2[A2C2][A3C3]:|]
+
+X:092
+T:Mr Benton’s Hornpipe TS.092
+T:Holywell Hp,aka TS.092
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+(AB)|c2cf dcBA|dfef dcBA|GFAF CFAF|GABc BAGF|
+c2(cf) dcBA|dfef dcBA|f2af dBGE|F2F2F2:|
+|:AB|c2cd cAGF|d2d2d2(GA)|BABc BGEc|cfeg f2AB|
+cAcf dBdf|ecegf2(fg)|afaf dBGE|F2F2F2:|]
+
+X:093
+T:Lord Ramsey’s Reel TS.093
+M:C|
+L:1/8
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:Strathspey
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+z|defg fdf2|dfbf fdB2|defg fdf2|d>b e/d/c/B/ c2B:|
+|:B|FBDB FBD2|dc/B/ fdcBG2|FBDB FBD2|dc/B/ fdc2B2|
+FBDB FBD2|dc/B/ fdcBG2|FBDB FG Bg|fd/B/ fd c2B2|]
+
+X:094
+T:Miss Murray of Archentyre’s Reel TS.094
+T:Miss Murray of Auchtertyre’s Strathespey,aka TS.094
+M:C|
+L:1/8
+Q:1/2=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+C:John Bowie
+Z:vmp.Ruairidh Greig, 2011
+K:F
+B|(A/B/c) fc dcfc|(A/B/c) fc dcdf|(A/B/c) fd cf/g/ ag|fdcAF3:|
+|:(A/B/)|cFAF cF Bd|cF (d/c/B/A/)G3A/B/|cFAF faga|fdcA”dot added”F3:|]
+
+X:095
+T:Lady Caroline Lees Waltz TS.095
+T:Hanoverian Waltz TS.095
+M:3/8
+L:1/8
+Q:3/8=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A/G/|FGA|Bcd|EFG|{G}F2d/e/|fed|dfa|ABc|d2:|
+|:a|gee|cAA|a/f/dd|dfa|gee|cAA|d/c/d/f/e/c/|d2:|
+A|AFA|dcd|B^AB|G2E|F>GA|AGF|{F/}EDE|F2A|
+AFA|dcd|B^AB|G2E|F>GA|AGF|{F/}EDE|D2|]
+
+X:096
+T:Lady Hamilton’s New Waltz TS.096
+M:3/8
+L:1/8
+Q:3/8=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D|G/F/G/A/B/c/|.d(dB)|.e(ec)|.d(dB)|G/F/G/A/B/c/|.d(dB)|A/B/c/A/G/F/|G2:|
+|:B|(Ad).d|(BG).G|(Ad).d|B2B|(Ad).d|(BG).G|A/B/c/A/G/F/|G2:|
+|:d|(d/e/)cc|(c/d/)BB|(B/c/)AA|A2d|(d/e/)cc|(c/d/)BB|A/B/c/A/G/F/|G2:|]
+
+X:097
+T:Waltz TS.097
+M:3/8
+L:1/8
+Q:3/8=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+F|d2c|BBd|(c/e/)(c/A/)(B/d/)|F2d|f2e|d2f|g/e/d/c/B/A/|B2:|
+|:F|BB/c/d/e/|fdf|gg/a/b/g/|fdf|ece|dB/d/e/d/|c/d/e/c/B/A/|B2:|
+|:d|e/c/A/c/e/c/|d/B/F/B/d/B/|e/c/A/c/e/c/|.f.f (d/f/)|e/c/A/c/e/c/|d/B/F/B/d/B/|c/A/F/A/c/A/|B2:|
+
+X:098
+T:Miller of Droan TS.098
+T:Miller of Drone,aka TS.098
+M:C
+L:1/8
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:strathspey
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+(c/B/)|A<FF>A E>FEC|A,A, d>c cBB c/B/|A<FF>A E>FEC|DF EF/G/A3(c/B/)|
+A<FF>A E>FEC|A,A, d>c cBB c/d/|e>Bc>G A>EF>D|DF EF/G/A2:|
+|:f|e<cc>a ee f/e/d/c/|e<cc>af2fg/a/|e<cc>a ee f/e/d/c/|d>Bc>A A<FF>f|
+f<cc>a ee f/e/d/c/|e<cc>af3g|(3agf (3efg (3aed (3cBA|d>Bc>A A<FF:|]
+
+X:099
+T:Hornpipe TS.099
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+“s-q in ms”AG|GFED A,DFD|A,DFD A,DFD|GFED A,DFD|AGFG EBAG|
+GFED A,DFD|A,DFD A,DFD|GFED A,DAG|F2D2D2:|
+|:A|dcdA FDFA|BABc dcBA|Bdce dfeg|fdge dcBA|
+dcdA FDFA|BABc dcBA|Bdce dfeg|fedc {e}d2″cr.in ms”d:|]
+
+X:100
+T:Lord Nelson’s Waltz TS.100
+M:3/8
+L:1/8
+Q:3/8=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+G,|CCC|B,C/B,/A,/G,/|CCC|B,C/B,/A,/G,/|CEG|ceg|fdB|c2:|
+|:c|e2g|g2e|aaf|gge|ceg|g2aq|fdB|c2:|
+K:F
+c|cAB|cde|fed|c2A|BdB|AcA|BGB|A2A/B/||
+cAB|cde|fed|cBA|Bgg|Aff|bge|f2|]
+
+X:101
+T:Lord Nelson’s Hornpipe TS.101
+T:Miss Grimstrobs Hornpipe,aka TS.083
+T:Bridge of Lodi,The,aka TS.083
+T:Saxon’s Hornpipe,aka TS.083
+T:Nelson’s Hornpipe,aka TS.083
+M:2/4
+L:1/16
+Q:1/4=96
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Different key and setting to TS.232 Nelson’s Hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+G2c2 c2Bc|dBGB c4|ecec fdfd|geced4|
+G2c2 c2Bc|dBGBc4|fedc BAG^F|G2G2G2:|
+|:ef|gfed cBAG|A2F2 F2fg|gfed fedc|B2G2 G2ef|
+gege fafa|gege fafa|gfed edcB|c4″cr. in ms”c2:|]
+
+X:102
+T:Saymor’s Reel TS.102
+T:Seymour’s Reel,aka TS.102
+T:Torryburn Lasses,aka TS.102
+T:Tadies Wattle,aka TS.102
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+G2BG (Bd)dB|c2ec eggB|G2BG Bcdg|edcB B2A2:|
+g2ag afed| edef gdBG|g2ga agfe|edefg2ga|
+bagf gfed|edef gdBG|cBcd efge|dcBA G2G2|]
+
+X:103
+T:Colibri TS.103
+M:2/4
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+cffg|a2gf|a2gf|egg2|cffg|a2gf|dfeg|f2f2:|
+|:fgfA|cAAc|BG B/A/G/F/|EGG2|fg/f/ ed|cAAc|BGFE|F2F2:|]
+
+X:104
+T:Hibbinson’s Fancy TS.104
+M:6/8
+L:1/8
+Q:3/8=115
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+c|fga gfe|fccc2A|Bcd cdB|AFFF2c|
+fga gfe|fccc2f|edc “^# in ms”G2″^b in ms”=B|c3-c2:|
+|:c|cAB cBA|Bggg2B|BGA BAG|Afff2g|
+agf edc|def cBA|Bcd GAB|AFFF2:|]
+
+X:105
+T:1st A TS.105
+M:C|
+L:1/8
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:strathspey
+C:Pencil note on MS “Good Reel”
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+c|BGGA F>GA>c|BGGD B,DG,c|BGGA F>G A<c|B>d A/B/c/A/ BGG:|
+d|gd B/c/d/B/ gddf|gd g/a/b aeef|gd B/c/d/B/ g>de>c|c>aA>c B>GG>d|
+g>d B/c/d/B/ gdde|gd g/a/b aeef|g>bd>B e>ac>A|Bd A/B/c/A/ BGG|]
+
+X:106
+T:2nd A TS.106
+M:3/8
+L:1/8
+Q:3/8=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+c|BcA|G2g|fge|d2c|BcA|G2g|fge|d2:|
+|:f/g/|add|bdd|c’2b|a2g|fge|d2b|agf|g2:|
+|:B/c/|dcB|gfe|edd|d2B|caa|a2c|Bgg|
+g2B/c/|dcB|gfe|edd|d2B|ccc|A2F|GGG|G2:|]
+
+X:107
+T:3rd A TS.107
+M:C
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+A/B/|c>dcA c>dcA|A<cf>A {A/}G2 GA/B/|c>dcA cdfa|f<dc>A {A}F2F:|
+B|A<cf<a f<afc|d<fc>A G2GB|A<cfc f>af>c|d<fc>AF2F c/B/|
+A<cfa A<cfa|c2f/g/a fG GA/B/|c<dcd f>g {f/g/}a>f|f>dcA F2F|]
+
+X:108
+T:Dutchess of Athol’s Strathspey, The TS.108
+M:C|
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:strathspey
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+A”rpt. added”|:E>Ac>A (B/c/B/)A/ “tr”F2|E>Ac>A e>Ac2|d>f c>a (B/c/B/A/)F2|E>Ac>AB2A2:|
+|:e>ca>c (d/c/B/A/)F2|e>ca>c (f/e/f/g/)a2|feac (d/c/B/A/)F2|E>Ac>AB2A2:|
+|:A,>Ac>A F>BG>E|A,Ac>A e>Ac2|d>f c>a (B/c/B/A/)F2|A,>Ac>AB2A2:|
+|:(A/B/c/d/) e>c a>ec>e|(A/B/c//d/) e>c a>ce>c|d>f c>a (B/c/B/A/)F2|A,>Ac>A B2A2:|]
+
+X:109
+T:Old Thro’ the Wood Laddy TS.109
+M:3/4
+L:1/8
+Q:3/4=30
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+N:Scottish slow air 18th C. or earlier
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+F>C|D2D>E F>G|{B}A4f>c|d>e f>d c>A|{A}G4F>G|
+A2A>B A>G|A>G F>E F>G|A>G A>B A>G|A>G F>E F>C|
+D2D>E F>G|{B}A4 f>c|(a/g/f/e/) (f/e/d/c/) (d/c/B/A/)|{A}G4B>c|
+d>e f>d c>A|B>c (dc/B/) AG|A2 D>F E>G|{G}F4:|
+|:f>c| d2d>e f>g|a4f>g|a2 bagf|{a}g4 f>g|
+a2 a>b a>g|a>g f>e f>g|a>g a>b a>g|a>g f>e f>c|
+d2d>e f>g|{b}”tr”a4 f>g|(a/g/f/e/) (f/e/d/c/) (d/c/B/A/)|{A}”tr”G4 B>c|
+d>e f>d c>A|B>c (dc/B/) A>G|A2 D>F E>G|”tr”F4:|]
+
+X:110
+T:Mac Donalds Reel TS.110
+M:C|
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+FA Af/g/ afed|gfed BdBA|FA Af/g/ afed|e/f/g f/g/ae2d2:|
+|:FAAB ABAF|G/G/GG2GABG|FAAB ABAF|GBAF E2D2:|
+|:(f/g/a) ab abaf|g/g/gg2gaba|(f/g/a) abab af|fafge2d2:|]
+
+X:111
+T:Devil’s Dream,The TS.111
+T:Devil among the Tailors,aka TS.111
+M:C
+L:1/8
+Q:1/2=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+eaga eaga|eaga fedc|dfBf dfBf|dfBf gfed|
+caga eaga|eaga fedc|fedc dcBA|E2G2A4:|
+|:ceAe ceAe|ceAe fedc|dfBf dfBf|dfBf gfed|
+ceAe ceAe|ceAe fedc|fedc dcBA|E2G2A4:|]
+
+X:112
+T:Venus at Play TS.112
+M:3/2
+L:1/8
+Q:1/2=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:3/2hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+“as writ but squ.s should be qu.s”G2B2-B2G2(B/c/d/B/)|G2B2-B2G2 (F/G/A/F/)|\
+E2c2-c2E2(E/F/G/E/)|D2F2-F2D2(F/G/A/F/)|G3G3:|
+|:G2g2-g2G2(B/c/d/B/)|G2g2-g2G2(B/c/d)B|\
+c2e2-e2c2(e/f/ge)|d2f2-f2d2(f/g/af)|g3g3:|]
+
+X:113
+T:Hornpipe TS.113
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+C:’Rowley Belt’
+N:Nearly identical to TS.225
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+(cB)|(A/B/c)F2F2(GA)|BABc BcdB|Acde fgaf|bagf edcB|
+(AB/c/)F2F2 (GA)|BABc BcdB|Acfc dBGE|F2F2F2:|
+|:(fg)|afdfr gece|defd cAFA|Bdfd cAGF|E2C2C3B,|
+A,CFA, B,DGB,|CFAF DFBD|Acfc dBGE|F2F2F2:|]
+
+X:114
+T:Smiths Hornpipe TS.114
+T:Lancaster Hornpipe,aka TS.114
+T:Swan’s Hornpipe,aka TS.114
+T:Fox In The Dumps,aka TS.114
+T:Exiseman’s Hp,aka TS.114
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+cB|Acfff2 (a/g/f)|egbb b2ag|agbg afef|geccc2(d/c/B)|
+Acfff2 a/g/f|egBBB2d/c/B|AFBG AGFE|F2F2F2:|
+|:cB|Acfc acfc|(d/c/B) fdB2 “triplet in ms”d/c/B|Bdge begd|ecgec2(d/c/B)|
+Acff fagf|egBBB2dB|AFBG AGFE|F2F2F2:|]
+
+X:115
+T:Adm. Duncan’s Hornpipe TS.115
+T:Tumblers Hornpipe,aka TS.115
+T:Washington Hornpipe,aka TS.115
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+B|Bcde fBAB|gBaB bBAB|GBFB EBDB|CecB BAGF|
+Bcde fBAB|gBaB bBAB|GBFB EBDB|ecBAB2:|
+|:f=e|fBAB gBAB|gabg gfed|edcB cBcd|edcB BAGF|
+Bcde fBAB |gBaB bBAB|GBFB EBDB|ecBAB2:|]
+
+X:116
+T:Jugler,The TS.116
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+B|fgab2c|defg2B|Acf dec|dBBB2B|
+fga b2g|f=ef c2B|Acf Gf=e|fcAF2:|
+|:F|ABcc2F|ABcF2F|Bcdd2G|BcdG2G|
+cde edc|def gab|fBe dec|BFD”rep. mark added”B,2:|]
+
+X:117
+T:Spanish Dollar TS.117
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+C:”Capital”
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+Bc|d2dg edcB|egfg edcB|AGBG DGBG|ABcd cBAG|
+d2dg edcB|egfg edcB|g2bg ecAF|G2G2G2:|
+|:Bc|d2de dBGB|c2e2e2AB|c2cd cAFA|dgfag2Bc|
+dBdg eceg|fdfag2ga|bgbg ecAF|G2G2G2:|]
+
+X:118
+T:Witty Hornpipe TS.118
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+FG|A2AB AdBG|FdBGE3G|FAdf gefd|cABG FDFG|
+A2AB AdBG|FdBGE3G|FAdf gedc|d2d2d2:|
+|:cd|e2ea ecAc|d2frdB2ef|gfed dcBA|cBAG FDFG|
+A2AB AdBG|FdBGE3G|FAdf gedc|d2d2d2:|]
+
+X:119
+T:Hornpipe TS.119
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+C:Pencil note “Bonum” in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+z”rest added”|dcdA GFED|Bcde dcBA|dAFA dfaf|gbed dcBA|
+dcdA GFED|Bcde dcBA|dAFA dfaf|bgecd3:|
+|:z”rest added”|afdf gece|dcdA GFED|GAFGE2ef|gefd dcBA|
+afdf gece|dcdA GFED|b2a2g2f2|gedcd3:|]
+
+X:120
+T:Millers Hornpipe TS.120
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+“tr.sign added”(3ABc|d2AG FDFD|GBGB FAFA|GBGB FAFA|EDE”triplet sign added”FE2(3ABc|
+d2AG FDFD|GBGB FAFA|Adfa gece|d2d2d2:|
+|:fg|afdf gece|fdBd cecA|GBGB FAFA|G2E2E2Ac|
+dfaf cege|Bdfd Acec|dfeg fdec|d2d2d2:|]
+
+X:121
+T:Hornpipe TS.121
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+dcde dAFA|Bdce dcBA|BGFG AFdF|EFGA GFED|
+dcde fdAF|EFGA Bcde|cAed cBA^G|A2A>AA2z2:|
+|:A2A2 ABcd|efge dcBA|BGFG AFdF|EFGA GFED|
+dAFA GBEG|FAdf ecAf|gabg fedc|d2d>dd2″rest added”z2:|]
+
+X:122
+T:Sheffield Hornpipe TS.122
+M:C
+L:1/8
+Q:1/2=84
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+f|e>dc>B A>EA>B|A>Bc>d e>cd>e|f>dB>a g>ef>g|a>gb>g”dot added”a3c|
+d>e fg/a/ b>ge>c|d>ef>g a>fd>f|e>cB>A G>AB>c|d>fe>GA2z:|
+|:A|GB”tr”B2Ac”tr”c2|B>cd>e d>cB>A|G>BA>c B>dc>e|d>cB>A G>BG>E|
+a2 fg/a/ g2 ef/g/|f2de/f/ e>dc>e|d>cB>A G>AB>c|d>fe>GA2z:|]
+
+X:123
+T:Kite Hornpipe TS.123
+T:Keys Hornpipe,aka TS.123
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+fg/a/|bBba gfed|efgB BAGF|GBAc Bdce|dfgB BAGF|
+bBba gfed|efgB BAGF|GBAc Bdce|dfgA B2:|
+|:GF/E/|DBFB DBFB|EBGB EBGB|EecA EecA|edcB AGFE|
+DBFB DBFB|EBGB EBGB|EecA EecA|B2B2B2:|]
+
+X:124
+T:Lord Mac Donald’s Reel TS.124
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+B|d2>e2 dBgB|dBgB a(AAB)|d^cde dBgB|(A/B/c) BABG G:|
+|:B|DBGB AGBG|DBGB AGAB|DGBG AGBG|dedc BGGG|
+DGBG AGBG|DGBG A>GEc|BAGF GFED|EFGA BGG:|
+|:B|d3e dBgB|dBgB a(AAB)|d^cde dBgB|”beaming changed from ms”A/B/cB ABGG:|
+|:g|(dg)bg agbg|(dg)bg ageg|dgbg agbg|dedc BGGg|
+dgbg agbg|dgbg (ag)ea|(ba).g.f (gf).e.d|efga bgg:|]
+
+X:125
+T:Sylphs,The TS.125
+T:New Sylphs,Tha,aka TS.125
+T:Bill Hall’s No.1,aka TS.125
+M:2/4
+L:1/16
+Q:1/4=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:country dance
+N:Different tune from “The Sylph”, Hardcore English p.64
+N:The ‘The Sylph’ was written by John Abraham Fisher
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+z2|BcBA G2D2|GABc d2g2|BcBA G2AB|c2A2A4|
+BcBA G2D2|GABc defg|edcB ABcd|B2G2G2:|
+|:d2|g2>a2 b2ag|a2f2d2f2|g2>a2 b2ag|a2d2d2z2|
+gfga bagf|e^def gfe=d|d2>B2 ABcd|B2G2G2:|]
+
+X:126
+T:Tank,The TS.126
+M:2/4
+L:1/16
+Q:1/4=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:country dance
+N:In Westrop’s 120 Country Dances No.33
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+B2b2 G2g2|c2fe dcB2|def2 efg2|f2a2b4:|
+|:d2>e2 f2>d2|g(ee)c c(AA)F|d2>e2 f2>d2|gecAB4:|]
+
+X:127
+T:Muses,The TS.127
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A/G/|FAd FAd|{c/}BAB e2d|{d/}cBc ABc|{d/}dcdf2(A/G/)|
+FAd FAd|{c/}BAB e2d|{d/}cBc ABc|d3d2||
+a|f2ae2a|{e/}dcd c2a|f2ae2a|{a/}(gfg)a2a|
+f2ae2a|{e/}dcd c2a|f2ae2a|{a/}(^gfg)”Da Capo”a2||
+F|”minore”B^AB {c/}B^AB|efg g2f|egf edc|B2cF2^A|
+{d}B^AB BAB|efg f2f|cgf edc|BFd”Da Capo”B2|]
+
+X:128
+T:Sweet Susan of the Garrett TS.128
+M:C
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:country dance
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+g3d BGAB|cBAG FDEF|GABc dBed|cBAG FABc|
+dBgd BGAB|cBAG FDEF|GABc dBec|BAGFG2z2||
+cBAG FGAc|BABc dBcd|edcB cBAG|FGAF DEFD|
+GDGB AFAc|BGBd cGce|dgfg fedc|BdFAG2z2|]
+
+X:129
+T:Sir T.H. Liddell’s Favorite TS.129
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+fdB2cAF2|BABc defg|fdgf edcB|AFGA Bcde|
+fdB2 cAF2|BABc defg|fdec dBcA|B2d2B2z2:|
+|:Acf2Bdf2|edec dfdB|Acf=e dBgf|=ecde f_ede|
+fdB2 cAF2|BABc defg|fdec dBcA|B2d2B2″rest added”z2:|]
+
+X:130
+T:Crop the Croppies TS.130
+M:C|
+L:1/8
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+N:Similar to version in Gibbons MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+f>cA>c f>cA>c|(fg)ef g2g2|f>ga>a bagf|e>fg>ef2f2:|
+|:c2cA c2cA|dcBA B2G2|B2BGB2BG|cBAGA2F2:|]
+
+X:131
+T:Miss Gow’s Fancy TS.131
+M:C|
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+E|(D/E/)F Fd BG”tr”F2|GBFB (Acce)|(D/E/)F Fd BGFB|FGEG DB,B,:|
+e|dBfB cAec|dBGB FB De|dBfB cAec|dfce dBBe|
+(d/c/)B fB cAec|dBGB FB DC|B,DFD GEec|dBcA B2B|]
+
+X:132
+T:Mrs Marsden’s Favourite TS.132
+M:2/4
+L:1/16
+Q:1/4=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+“triplet in MS”(GBG)D G2B2|(AcA)D A2c2|(BdB)G (cec)A|(E2A2)(F2D2)|
+(BdA)D G2B2|(AcA)D A2c2|(BdB)G (cecA)|G2F2G4:|
+|:(aga)f (ege)d|(cec)B (AcA)G|(AdA)B (AdA)B|A2d2f2a2|
+“dotted in ms” (g2bg) (ege)d|(cec)B (AcA)B|(BdB)A (ded)A|G2F2G4:|]
+
+X:133
+T:Drops of Brandy TS.133
+M:9/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+d2c BGB BGB|d2c BGBc2A|d2c BGB BGB|cBcA2B cBA:|
+|:GBd gdB gdB|GBd gdBc2A|GBd gdB gdB|cBc A2B cBA:|]
+
+X:134
+T:Hornpipe TS.134
+M:2/4
+L:1/16
+Q:1/4=96
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+F2|Bcde fgab|fdec BAGF|GBeg fdec|B2cB A2F2|
+Bcde fgab|gecg f2F2|Ggfe dcBA|B2B2B2:|
+|:de|fdge fdBd|fdge f2ba|gfed edcB|A2c2c2 de|
+fdge fdBd|cdec BAGF|Bdfd gecA|B2B2B2:|]
+
+X:135
+T:Prince of Wales Hornpipe TS.135
+T:Worster Hp,aka TS.135
+T:Worcester HP,aka TS.135
+M:C
+L:1/8
+Q:1/2=92
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+dc|BFDF Bdfd|gfga b2ag|fdBd fdBd|cAFA cAFA|
+BFDF Bdfd|gfga b2ag|fdBd ecAc|B2B2″minim in ms”B2:|
+|:fe|dfBf dfBf|egcg egcg|dfBf dfBf|gecB BAGF|
+dfBf dfBf|gfga b2 ag|fddB ceAc|B2[b2B2]”min. in ms”[b2B2]:|]
+
+X:136
+T:Deans Hornpipe TS.136
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Nine bars in B part may be error in ms.
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+F2|B2 df edcB|cfAc BAGF|DFBd EGce|ecdB BAGF|
+B2df edcB|ceAc BAGF|DFBd EGce|dcB”B2B2 in MS”AB2:|
+|:”qu. in ms”f2|gedcE2g2|fedc D2f2|”^extraneous bar?”edcBD2f2|edcBC2e2|dBFDB,2FE|
+DFBd EGce|dfdBg2gb|fdcB ecBA|B2B2″min. in ms”B2:|]
+
+X:137
+T:Waistcoat Pocket Hornpipe,The TS.137
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+“s-q in ms”BA|BFDE FAce|dfdB A2GF|EGcB AcdB|Cced dcBA|
+BFDE FAce|dfdB A2GF|”tr”E3g fdcB|F2A2B2:|
+|:”q in ms”g2|fgab fdcB|egec {B}A2GF|EGcB AcdB|Ccedc2 (fg/a/)|
+bfdB Fafd|Egec {B}A2 GF|”tr”E3g fdcB|FBAcB2:|]
+
+X:138
+T:Croppies Lie Down TS.138
+T:Go to the Devil and Shake Yourself,aka TS.138
+T:When Sick is it Tea You Want?aka TS.138
+T:Penniless Traveller,The,aka TS.138
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+N:The title “Croppies Lie Down” for this tune only appears in this MS.
+N:It usually refers to an entirely different Jig, and might be an error by TS.
+Z:vmp.Ruairidh Greig, 2011
+K:C
+G2c cBA|GE<G GE<G|cec dfd|ecAA3|
+G2c cBA|G3GEG|c3d3|eccc2:|
+|:(e/f/)|gec BAG|AFFF2f/g/|afd cBA|BGGG3|
+G2c cBA|GEG GAG|c3d3|ecc c2:|]
+
+X:139
+T:Opera Hat,The TS.139
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+c|f2f fga|c2cc2c|d2fe2g|f2a gec|
+f2f fga|c2cc2c|d2fe2g|f3f2:|
+a|g2g gab|a2gf2a|g2g gab|a3f2z|
+“2 crotchets in MS”g2g gab|a2gf2a|{a}g2f{f}e2d|{d}c2B{B}A2G|
+A3{c}BAB|c2cc2c|d2fe2g|f2ag2b|
+A3BAB|c2cc2c|d2fe2g|f3f2|]
+
+X:140
+T:Monzani TS.140
+T:Morgiano TS.140
+T:Morgiana,aka TS.140
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+N:Also in the Gibbons MS as “Morgiana”
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+c|cAc {fg}a2g|fed c2d|cAc fcf|agf fed|
+cAc fag|fedc2d|cAc fcf|agef2:|
+|:(e/f/)|gag fed|ccc b2c|acc fcc|aggg2 e/f/|
+gag fed|cdcb2g|a2f fef|gfe dcB|
+AFGA2c|AFGA2c|B2dA2c|G3GcB|
+AFGA2c|AFGA2c|d2fe2g|fca f2|]
+
+X:141
+T:Voulez vous danser Madamoiselle TS.141
+T:Oats & Beans & Barley Grow,aka TS.141
+T:Ninepins,aka TS.141
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+G|e2ee2e|d^cd=c2c|B2cd2B|c2de2G|
+e2ee2e|d^cd =cde|f2e dec|BABc2:|
+|:B/c/|d2dB2G|cded2B/c/|d2dB2G|cded2d|
+g2g g^fg|^fee edd|dcB Adc|”rep.added”BcA”Da Capo”G2:|]
+
+X:142
+T:Duncan’s Hornpipe TS.142
+T:Tumbler’s Hornpipe,aka TS.142
+T:Washington Hornpipe,aka TS.142
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+N:Slight variations from TS.115
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+Bcde fBAB|gBaB bBAB|GBFBV EBDB|Ccec BAGF|
+Bcde fBAB|gBaB bBaB|GeFd EcDB|ecBAB2B2:|
+|:fBAB gBAB|gaba gfgd|edcB cBcd|edcB BAGF|
+Bcde fBAB|gBaB bBAB|GeFd EcDB|ecBA B2B2:|]
+
+X:143
+T:Duke of Norfolk’s Hornpipe TS.143
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+C:Pencil note “Bonum” in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+BA|B2FE DBFB|GABc BAGF|GABc dBfB|bBfB BAGF|
+BGFE DBFB|GBFB EBDB|DFBd EGBe|cAFAB2:|
+|:ba|bfdB bfdB|fdcd BAGF|ecec dBdB|A2F2F2GA|
+GBEB edcB|AcFc fedc|Bbab fdBf|d2B2B2:|]
+
+X:144
+T:Prince Edward’s Fancy TS.144
+M:C|
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+d/c/|BBBBB2gB|AGAB GB/A/ Dd/c/|BBBBB2gB|AAAA/B/G3:|
+|:A|ddee ffgg|ffee afdA|ddee ffgg|ffeed3:|
+|:[b/f/][c’/g/]|d’d’d’d’d’2 bg|agab gdBG|d’d’d’d’d’2bg|agabg3:|]
+
+X:145
+T:Figure of Five TS.145
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+Bgf fdB|gab fdB|Bgf fdB|egec3|
+Bgf fdB|gab fdB|efg fdB|cBA”dot added”B3:|
+|:BGE cAF|dBG ecA|fdB gab|fedc3|
+DBG EcA|FdB Gec|fdB gab|dec”dot added”B3:|]
+
+X:146
+T:Northumberland, or Bree is Loose TS.146
+T:Northumberland Lady,aka TS.146
+T:Breeches Loose,aka TS.146
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Gm
+A|BdB cAc|BGGG2A|BdB cdB|AFFF2A|
+BdB cAc|BGgf2e|dcB A/B/cA|BGGG2:|
+|:A|Bd(f f)dB|fdB fdB|ce(g g)ec|gec gec|
+Bd(f f)dB|bag fdB|(c/d/e).c (A/B/c).A|BGGG2:|]
+
+X:147
+T:Cuckow Solo TS.147
+M:2/4
+L:1/8
+Q:1/4=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+A2EG|AA,z A|Bc d(e/d/)|c(B/A/)z e|Ed Ec|EBz f|E/(d/c/d/) E/(d/c/d/)|EBz E|
+L:1/16
+EFGA B2c2|d2c2 z2B2|ABcd e2f2|g2f2z2 e2|a2(dc) d2b2|d2(cB) c2a2|c2(BA) d2c2|B2A2 e2>d2|
+ceee Beee|ceee Beee|dfff cfff|dfff Bfff|Aaaa Baaa|caaa Baaa|Aaaa Baaa|caaa Baaa|
+Aagf edcB|ABcd egfe|agag f4|e8::a2gf edcB|A4z4|A2GF EDCB,|A,4z2e2|
+eaga eaga|ebab ebab|ec’bc’ ec’bc’|ed’c’d’ ed’c’d’|ee’e’e’ ee’e’e’|ee’e’e’ fe’e’e’|ge’e’e’ fe’e’e’|ee’e’e’ fe’e’e’|
+ge’e’e’ fe’e’e’|ee’ee’ fe’fe’|ge’ge’ fe’fe’|ee’e’e fe’fe’|ge’ge’ fe’fe’|ee’fe’ ge’fe’|ee’fe’ ge’fe’|ee’fe’ ge’fe’|
+ee’fe’ ge’fe’|e’2d’c’ b2b2|c’2b2z2z2|a2gf g2a2|f2e2z2 e2|ceBe AeBe|ceBe AeBe|ceBe AeBe|
+ceBe AeBe|dece BeAe|dece BeAe|dece BeAe|dece BeAe|E6E2|EFGA B2c2|d2c2z2 B2|
+ABcd e2f2|g2f2z4|.e4.d4|c2E2 c2d2|.c4.B4|A6E2|EFGA B2c2|d2c2z2 B2|
+ABcd .e2.f2|g2f2 z4|.e4.d4|c2E2A2c2|cdefB4|A8|]
+
+X:148
+T:Duke of Cumberland’s Reel, The TS.148
+M:C
+L:1/8
+Q:1/2=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+N:Nearly identical to TS.226
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+B2bg fdcB|AFcF dFcF|B2bg fdcB|FAce dBB2:|
+BGFE DEFD|ECCG cGGA|BGFE DEFD|B,BAc dBB2:|]
+
+X:149
+T:Borks Hornpipe TS.149
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+C:Pencil note “Bonum” in MS
+N:Probable error in MS amended in Bar 1
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+d2|”semi-quavers in ms”cdecA2A2|GABGE4|FEFG AFED|CDECB,4|
+cdec A2A2|GABG E2c2|defg aefd|c2A2A2:|
+|:e2|fgaf ecAc|fgaf ecAc|BABc dB ba|g2e2e2(Ac)|
+d2fd c2ec|B2bg aedc|defd cABG|A2A2A2:|]
+
+X:150
+T:Tank,The TS.150
+M:2/4
+L:1/8
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:country dance
+N:Simplified notation of TS.126
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+B2b2|G2g2|c2f>e|d>cB2|defd|efge|f2a2|”bar line and rest added”b2z2:|
+|:d2d2|f2d2|(ge)(ec)|(cA)(AF)|d2d2|f2d2|gecA|B4:|]
+
+X:151
+T:Duke of Perth’s Reel TS.151
+M:C|
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+B|(G/A/B/c/) dB gBdB|gBdB aAAB|(G/A/B/c/) dB gBdB|cAdc BGG:|
+|:d|gage abaf|gage beef|gage abaf|gdec BGG:|]
+
+X:152
+T:West Hornpipe TS.152
+T:Fisher’s Hornpipe,aka TS.152
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+fcAc BdcB|AcAc BdcB|AFAF BGBG|AFAF GEDC|
+fcAc BdcB|AcAc BdcB|Acfa bgfe|f2f2f2″rest added”z2:|
+|:gece gabg|afdf fgaf|gece gabg|afedd2c2|
+dBFB defd|cAFA cfef|dfed cBAG|F2F2F2″q rest in ms”z2:|]
+
+X:153
+T:Shooters Hornpipe TS.153
+T:Shuter’s Hp,aka TS.153
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+“tr.sign added”(3DEF|G2G2G2Bc|dBdB GABG|A2A2A2AB|cBAG GFED|
+G2G2G2Bc|sdBdB G2ga|fafd egec|d2d2d2:|
+|:FG|A2A2A2Bc|cBAG GFED|d2d2d2ef|gedc BdBd|
+e2c2 cege|d2B2B3d|ecdB cAGF|G2G2G2:|]
+
+X:154
+T:P. of Wales’s Hornpipe TS.154
+T:Prince of Wales’s Hornpipe,aka TS.154
+T:Worster Hp,aka TS.154
+T:Worcester Hp,aka TS.154
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Identical to TS.135
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+dc|BFDF Bdfd|gfga b2ag|fdBd fdBd|cAFA cAFA|
+BFDF Bdfd|gfgab2ag|fdBd ecAc|B2B2″min. in ms”B2:|
+|:fe|dfBf dfBf|egcg egcg|dfBf dfBf|gecB BAGF|
+dfBf dfBf|gfgab2ag|fddB ceAc|B2[b2B2]”min.in ms”[b2B2]:|]
+
+X:155
+T:Daniels Hornpipe TS.155
+T:Duncan’s Hornpipe TS.155
+T:Tumbler’s Hornpipe,aka TS.155
+T:Washington Hornpipe,aka TS.155
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+Bcde fBAB|gBaB bBAB|GBFB EBDB|cdec BAGF|
+Bcde fBAB|gBaB bBAB|GBFB EBDB|ecBAB4:|
+|:fBAB gBAB|gabg g^fgd|edc=B cBcd|ecdB BAGF|
+Bcde fBAB |gBaB bBAB|GBFB EBDB|ecBAB4:|]
+
+X:156
+T:Reel TS.156
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+dB”tr”B2FB”tr”B2|dBfd Acce|dBFD EGCG|Agfe dB”tr”B2:|
+|:bBaB gBfB|dBec Ac”tr”c2|bBaB gBfB|Agfe dB”tr”B2|
+bBaB gBfB|dBec Acce|dBFD EGCG|Agfe dB “tr”B2:|]
+
+X:157
+T:It winna do, or Mr Watt’s Reel TS.157
+T:Mr Watt’s Reel TS.157
+M:C|
+L:1/8
+Q:1/2=75
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Dm
+A,|D/E/F E>D (d/e/)f ed|cAGF ECCE|(D/E/)F E>D (d/e/)f e>d|c>AG>E ADD:|
+e|f>ede fagf|egcg ecge|fede fagf|fdA^c dDDe|
+f>ede fagf|egcg ecge|f<ae<g decd|AcEG FDD|]
+
+X:158
+T:Calder Fair TS.158
+M:C|
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:song
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+B|cBAG A<cE2|G2GEG2>B2|cBAG A<cE2|D<E F<GA2:|
+G|(Gc).c.cc2.c.c|(Ad).d.dd2(cd)|edcB cBAG|AcBdc2>G2|
+w:If you had fol-lowed wis-dom as I have fol-lowd care, You-‘d ne’er have lost your mai-den-head by going to Cald-er fair
+(Gc).c.c c2cc|(Ad).d.dd2 cd|edcB cBAG|AcBdc2:|]
+
+X:159
+T:Sheffield Hornpipe TS.159
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Different version to TS.122
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+(cd)|edcB AEAc|AEAc ABcd|ecfe dBba|gefg a2(Bc)|
+dfbd ceac|Bcdf ecBA|fdcB aecA|EAGBA2:|
+|:”q. in ms”A2|GB”tr”B2Ac”tr”c2|Bdce dcBA|(3GAB (3ABc (3Bcd (3cde|dcBA e2>g2|
+a2(3fga g2(3efg|f2(3def e2(3cde|dcBA GABc|dfeGA2:|]
+
+X:160
+T:Copenhagen TS.160
+M:3/8
+L:1/16
+Q:3/8=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+f<a|g<b f<a e<g|f<a d2 f<a|e<g A2 c<e|d<f A2 f<a|
+g<b f<a e<g|f<a d2 f<a|e<g A2 c<e|d4:|
+|:f<d|c<e A2 c<e|d<f A2 f<d|c<e A2 c<e|d4f<a|
+g<b f<a e<g|f<a d2 f<a|e<g A2 c<e|d4:|
+L:1/8
+|:a|baf|dfa|baf|e2a|baf|dfa|e/d/e/f/g/e/|d2:|]
+
+X:161
+T:Liverpool Hp,aka TS.161
+T:Hornpipe,untitled in MS TS.161
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+C:Pencil note “Bonum” in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+(AG)|FDFA d2d2|efge dcBA|BGGB AFFA|GEEG AFED|
+FDFAd2d2|efge dcBA|fgaf gedc|d2d2″min.in ms” d2:|
+|:fddf ecce|dBBd dcBA|BGGB AFFA|GEEG AFED|
+FDFAd2d2|efge dcBA|fgaf gedc|d2d2d4:|]
+
+X:162
+T:Thomas Sands’ Three-Parter,aka TS.162
+C:untitled ‘Hornpipe’ in MS
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Rare example of a 3 part hornpipe.
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+“s-q in ms”(ed)|cBAG A2cA|BAGA Bcde|fgae dcBA|GABG E2(ed)|
+cBAG A2fe|dcBA B2 df|egfa gfe^d|e2e2e2:|
+|:”rest added”z2|e3d ceac|d3cB2(Bd)|cdec aedc|BAGAB2 cd|
+e3d ceac|d3cB2(Bd)|ceAc (3Bdc (3BAG|A2A2A2:|
+|:(cd)|eace dfBd|ceAc BGED|CDEF GABc|dcBA GAE2|
+eace dfBd|ceAc BGED|CDEF GABc|dBAGA2:|]
+
+X:163
+T:Hornpipe TS.163
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+“q. in ms”A2|FDFA dfed|cgec AGFE|FAdf gfed|c2A2A2 AG|
+FDFA dfed| cgec AGFE|FAdA BGEC|D2D2D2:|
+|:de|fedf afdf|edce aece|dcdA Bged|c2A2A2dc|
+BdAd GdFd|BdAd GdFd|BdBG FAEA|F2D2D2:|]
+
+X:164
+T:Goulds Hornpipe TS.164
+T:Merry Sherwood Rangers, aka TS.164
+T:Durham Rangers,aka TS.164
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+FG|ABAFD2de|fgfe d2Bc|dedB ABAF|G2E2E2FG|
+ABAFD2de|fgef d2Bc|dedB ABAG|F2D2D2:|
+|:de|fefg afdf|gfed ceAc|dfaf g2bg|f2af g2ee|
+defg abaf|gfed ceAc|dedB ABAG|F2D2D2:|]
+
+X:165
+T:Countess of Sutherland’s Reel TS.165
+M:C|
+L:1/8
+Q:1/2=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+N:Another version of the tune in C is TS.219
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+d|B2 FB GBFB|EBDB Cccd|B2FB Ggfe|dfce dBB:|
+|:f/g//a//|bgdg egce|dfBd cFF f/g//a//|bfdf egce|dfce dBB f/g//a//|
+bfdf egce|dfBd cFFf|g>fga bgfe|dfce dBB|]
+
+X:166
+T:Sicilian Dance,The TS.166
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+C|F>GF AGF|c2cc2B|Afa c2B|A2GF2C|
+F>GF AGF|c2cc2f|efe dc=B|c3c2:|
+c|gec a2b|g2fe2f|gecb2a|gfef3|
+dbb caa|Bggf2F|AGF c2C|F3F2||
+(c/B/)|A3 GFG|F2F FAc|c3BAB|A2AA2f|
+f2ee2d|d2cc2B|ABc cBA|A3G3||
+f2ffdB|c2cceg|b3bge|f2ff2c|
+f2ed2c|d2cB2A|GAB c2C|F3F2|]
+
+X:167
+T:No-Body TS.167
+T:Davy-Davy Knick-Knack,aka TS.167
+T:La Belle Isabelle,aka TS.167
+M:2/4
+L:1/16
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+(BABc) d2d2|BABc d2d2|(fede) c2c2|fede c2c2|
+(BABc) d2d2|BABc d2d2|(fede) (fedc)|B2B2B4:|
+|:f2f2d2d2|b2b2f4|(fede) c2c2|fede c2c2|
+f2f2d2d2|b2b2f4|(dgfe) dcBA|B2B2B4:|]
+
+X:168
+T:Pleasant Reel,The TS.168
+T:Devil in a Bush,aka TS.168
+T:Parson in the Suds,aka TS.168
+T:Kincaldrum’s Reel,aka TS.168
+M:C
+L:1/8
+Q:1/2=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+f”rpt.mark added”|:b2fed2cB|ABcd ecca|b2fed2cB|FAce dBB2:|
+|:FBdB cBdB|FBdB ecce|dfga bgfe|dfce dBB2:|]
+
+X:169
+T:Miss Well’s Reel TS.169
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+DF|G2GA B2BG|ABcd e2ef|gfge dBAG|E2F2G2:|
+“q. in ms”g2|bgdg b2ag|afdf a2 ga|gfed efef|gfede3f|
+gfge dBAG|ABcde3f|gfge dBAG|E2F2G2|]
+
+X:170
+T:Sweet Jessy TS.170
+T:Jessie, The Flower of Dunblane,aka TS.170
+M:6/8
+L:1/8
+Q:1/2=35
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+N:Poem by Tannahill set to music c.1820
+C:R.A.Smith
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+(c/d/)|e> f e d g> e|c> B c d B (c/A/)|G> A F E> G c|c> d e (f<d) (c/d/)|
+e> f e d g> e|c> B c d B (c/A/)|G> A F E< G (c/e/)|d A “tr”B c2 e|
+e c> d e< a e|e c> d e< c e|d B> c d< g e|d> B A HG2 G|
+c> e d> e c> d|e> f g f d e |f> g a f< e c|d> A “tr”B Hc2 c/ {BdcBc} A/|
+G> A F E< G (c/d/)|e> f g f< d e|f> g Ha g< e c|d> A B c2|]
+
+X:171
+T:Newcastle Hornpipe TS.171
+T:Kirkgate Hornpipe,aka TS.171
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Also in Gibbons and several other collections
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+(gd)|B2B2BcAB|G2G2GABc|dcdB edcB|BAcA GFED|
+B2B2Bdce|d2d2d2cB|AdcB AGFE|D2D2D2:|
+|:AB|c2c2c2 AB|cBAG GFED|d2d2d2(ef)|gfed cBAG|
+e2e2efge|dcBcd2g2|egec BGAF|G2G2G2:|]
+
+X:172
+T:Norwich Hornpipe TS.172
+T:Liverpool Hornpipe,aka TS.172
+M:2/4
+L:1/16
+Q:1/4=96
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Key sig. as in MS. Should be D?
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+AG|”_As written. Key sig for this is usually Dmaj”FDFA d2 ef|gfdc dcBA|BGGG AFFF|GBAG GFED|
+FDFA d2 ef|gfed dcBA|g2 fe fafd|fedc “dotted in ms” d2:|
+|:de|fddd eccc|dfed dcBA|BGGG AFFF|GBAG GFED|
+FDFA d2 ef|gfed dcBA|g2 fe fafd|fedc “dotted in ms” d2:|]
+
+X:173
+T:Wright’s Hornpipe TS.173
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+(D/E/F)|G2G2GABG|c2c2cecA|BdBG ABcA|GFED DEFD|
+G2G2GABG|c2c2cecA|BdBG AcAF|G2G2G2:|
+|:(Bc)|d2d2defg|e2c2c2(AB)|c2c2cecA|B2G2G3B|
+AFDF AFDF|A2c2c2A2|BdBG AcAF|G2G2G2:|]
+
+X:174
+T:Rowley Belt’s #1Hornpipe,aka TS.174
+C:untitled ‘Hornpipe’ in MS
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+C:’Rowley Belt’
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+(cB)|(AB/c/)F2F2(GA)|BABc BcdB|Acde fgaf|bagf edcB|
+(AB/c/)F2F2(GA)|BABc BcdB|Acfc dBGE|F2F2F2:|
+|:(fg)|afdf gece|defd cAFA|Bdfd cAGF|E2C2C3B,|
+A,FAF DFBD|CFAF DFBD|Acfc dBGE|F2F2F2:|]
+
+X:175
+T:Sweet Jessy TS.175
+T:Jessie, The Flower of Dunblane,aka TS.175
+M:6/8
+L:1/8
+Q:1/2=35
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:Air
+C:R.A.Smith (attributed)
+N:Another setting of TS.170
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+(d/e/)|f>gf e<ae|d>cd ec(d/B/)|A>BG FAd|d>ef {f}e2(d/e/)|
+f>gf e<af|d>cd ec(d/B/)|A>BG FAd|e>Bcd2:|
+|:f|f>de f>ba|f>de f<de|e>cd e>af|e>cB {B}A2(A/B/)|
+d>fe (fde)|f>af g<ef|(g>ab) afd|e>Bcd2{dc}{ec}{dB}|
+A>BG F<A (de)|f>af g>ef|(gab) afd|e>Bcd2″rpt.sign added”:|]
+
+X:176
+T:Rule Brittannia TS.176
+M:C|
+L:1/8
+Q:1/4=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:Air
+C:Thomas Arne 1740
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A|d2d2 d/e/f/g/ ad|e>f (e/f/g/a/){g}^f3A|d/c/d/e/ f/e/f/g/ aefc|d>fed c3z|
+zA ec ag/f/ e/d/c/B/|A2B2A2::A|d2dA BGz B|gfed c2ze|
+a2g2(f/d/)(g/e/) ad|A2{f/}e2d2z|f3eg3f|(gf)(ed)c3e|a2g2(f/d/)(g/e/) ad|A2e2d2:|]
+
+X:177
+T:Old Towler TS.177
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:Air
+O:England;Lincolnshire
+C:William Shield
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A|d2dB2G|F2GA2c|B2d ceg|f3e2A|
+d2df2d|Bcde2{d}F|E2FG2F|EA,A,A,2A,|
+A,DD DFF|FDDD2D|DFF FAA|AFF F2A,|
+A,DD DFF|FAA FAd|dff faa|^g3zg2|
+aeg fed|Bgf edc|d3c3|d’af dfa|
+d’/a/f/ d/f/a/ d’/a/f/ d/f/a/|d’/a/f/ d/f/a/ d’/f/a/ d/f/a/|d’d’d’ d’d’d’|d’6|
+|:”Song”A|d2d B2G|F2GA2c|B2d ceg|f3e2A|
+d2df2d|BNcd e2d|cdc BAB|A3z2z:|
+A|e2cA2A|f2dA2d|c2eg2f|f3e2A|
+A^GA Bcd|efg afd|B2e cAc|d3zDF|
+A3A3|ABc dcB|AFA AFA|Add dAc|
+e3e3|efg agf|ece ece|e2gz a|
+fdd dcd|ecAA2a|fdd dcd|ecA ABc|
+dff dfd|d3d3|dff dff|f2Ha3 F|
+D2GF2B|A2gf2d|B2e cBc|d3g3|
+fgf edc|a3g3|f>gf edc|dAFD2:|]
+
+X:178
+T:Brighton Camp TS.178
+T:Girl I left behind me,The TS.178
+M:C
+L:1/8
+Q:1/4=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:country dance
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+e|”as writ”d>B B>A B>GE3|({DEF}G)G G/A/ B/c/ d2B>d|d>B B>A B>G E>G|FA (D/E/F/D/)G2G:|
+A|Bdef gdBG|Bdef g2 fa|gfge dB BG|FA (D/E/F/D/)G2G:|]
+
+X:179
+T:O Dear what can the matter be TS.179
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+d3d3|dBg dBG|c3c3|cAB cBA|
+d3d3|dBg dBG|EGc BcA|G3z2:|
+|:d|dBc dBc|dBg dBG|cAB cAB|cAB cBA|
+dBc dBc|dBg dBG|EGc BcA|G3z2:|]
+
+X:180
+T:Paddy Carey TS.180
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+G”rpt.sign added”|:G2c cBc|e2c cBc|A2dd2e|f2d BG2|
+G2c cBc|e2c cBc|BAG GAB|cde d2c:|
+|:c2ef2a|g2a gec|c2ef2a|gecd3|
+c2ef2a|g2a gec|cBA GAB|cde d2c:|
+|:f2d dcd|e2c cBc|B2cd2e|f2d B2G|
+f2d dcd|e2c cBc|BAG GAB|cded2c:|
+|:c2cc2a|g2a gec|c2cc2a|gec d3|
+c2cc2a|g2a gec|cBA GAB|cded2c:|]
+
+X:181
+T:Gobby O, The TS.181
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Am
+B|c2A ABA|E2A ABc|B2G GBd|dBGG2B|
+c2A ABA|B2ee2g|edc BAG|E2AAz:|
+|:c|A2Bc2d|e2^fg3|^fafg2d|dBGG2B|
+A2Bc2d|e2^fg2d|edc BAG|E2AA2:|]
+
+X:182
+T:Miss Adams Hornpipe TS.182
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+“s-q in ms”(dc)|BGBd BGBd|gfge dBAG|(ec)(dB) cABG|F2A2A2″s-q in ms”(ed)|
+BGBd BGBd|gfge dBAG|ecdB cABG|D2G2G2||
+dc|Bgfg Bgfg|Baba gfed|caga caga|cgag fedc|
+BgdB AecA|BdBG fafd|gfge dcBA|B2G2G2|]
+
+X:183
+T:March,A TS.183
+M:C
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+B>A|B2B,>B,B,2d>B|c2F>FF2e>c|dBFD B,fed|cBAG FEDC|
+B2B,>B,B,2 dB|c2F>FF2ec|d>fe>g f2e2|f2f>ff2:|
+|:f>e|f2F>FF2 fe|e2F>FF2d>c|dBFD B,fed|c2c>cc2F>F|
+GBAc Bdce|dfegf2e2|(3dcd (3edcB2″tr”A2|B2B>BB2:|]
+
+X:184
+T:Bugle Solo TS.184
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+g|fed dcd|efg afd|AAAd2g|AAAd2g|
+fed dcd|efg afd|Agf Aag|fddd2:|
+|:A/G/|FGA ABc|dcB Bdf|Bcd def|geee2 A/G/|
+FGA Bcd|dcB A2″quavers in ms”a/g/|fdd dfa|fddd2:|]
+
+X:185
+T:Tail Toddle TS.185
+M:C
+L:1/8
+Q:1/2=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+G/G/G BGc2GE|G/G/G BG A2FD|G/G/G BG cABG|A/B/c B/c/d A2FD||
+c2GE EcGE|c2GE DAFD|c2GE d/c/B/A/ BG|A/B/c B/c/dA2FD||
+G/G/G BG cABE|G/G/G BG ADFD|G/G/G BG cABG|A/B/c B/c/d c2AF||
+c2Ec EcGE|c2Ec DAFD|c2 Ec d/c/B/A/ BG|A/B/c B/c/dA2 FD:|]
+
+X:186
+T:John Anderson my Jo TS.186
+M:2/4
+L:1/8
+Q:1/2=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Em
+D|B,EEF|G2GA|EDD>E|D3E/D/|B,EEF|GFGA|BAGA|B3||
+c|BAGA|BcdB|AGFG|A2GA|BGAF|GEFB|B,EE^D|”dot added”E3:|
+|:d|Beef|g2ga|fdde|d2ed|Beef|g2fe|fdBB|B3d/c/|
+BGdG|gGdG|DEFG|A2GA|BGAF|GEFB|B,EE^D|”rep.added”E3:|]
+
+X:187
+T:Woo’d and Married and a’ TS.187
+T:Irishman’s Choice,aka TS.187
+T:My Mind Will Never be Easy,aka TS.187
+T:New Widow Well Married,aka TS.187
+M:9/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:slip jig
+N:First note in final bar perhaps should be E
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Em
+g|d2c BABG2A|Bcd dgBd2g|edc BAB GAB|E2e ef^de2:|
+|:g|def gag fed|Bcd dgBd2g|def gag fed|B2e eg^de2g|
+def gag fed|Bcd dgBd2g|edc BAB GAB|F2e ef^de2|]
+
+X:188
+T:Cauliflower, The TS.188
+M:2/4
+L:1/8
+Q:1/4=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:quick step
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+DE/F/|GGGB|AAAc|BGGB|A/G/F/E/ DE/F/|GGGB|AAAc|B/d/B/G/ A/c/A/F/|G2:|
+|:B/c/|Bgbd|d/c/B/c/ AB/c/|cgbc|c/B/A/B/ GB/c/|Bgbd|Bd e/d/c/B/|B2A2:|
+K:Gm
+|:BGBd|dc/B/ AF|AGAc|cB/A/ BG|BGBd|ec/B/ AG|F2G2|]
+
+X:189
+T:Drummer’s Rant, The TS.189
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+N:No key sig in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+F|Bdf Bdf|eggg2b/g/|fdB BAB|dccc2F|
+Bdf Bdf|egg gab|fdB ecf|dBBB2:|
+|:f/e/|dfB AcF|dfB AcF|bag fed|eccc2d/e/|
+fdd gee|aff bgg|fe/d/c/B/ Acf/e/|dBBB2:|]
+
+X:190
+T:Trip to the Oatlands, A. TS.190
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+N:Also in William Mittel MS 1791 (Kent)
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+AB|c>dc cAF|c>dc cAF|fed cdA|BGGG2 A/B/|
+cdc cAF|cdc cAF|fed cdB|AFFF2:|
+|:c|f3g3|agf edc|fed cBA|BGGG2c|
+fef gfg|agf edc|fed cdB|AFFF2:|]
+
+X:191
+T:In the dead of the Night TS.191
+M:C
+L:1/8
+Q:1/2=55
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D>F|G2B>Gd2B>G|A>B c/A/G/F/G2zB|A>GFG (A<d) (^c/B/A/G/)|
+F>G (A/G/F/E/)D2B>c|d2B>G G>E c>d|e>c A>G Bc/>B/ A E/F/|GEFG AB/>G/ “s-q in ms”A>B|
+cABc (d<g)ec|(Bd) (DF)G2zG|(B>G)(d>B) (g>d)(e>c)|(B>d) DFG2|]
+
+X:192
+T:Fairy Dance, The TS.192
+M:2/4
+L:1/8
+Q:1/2=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+f2fd|f2fd|f2fd|cAec|f2f[da]|gfed|cABc|d2d2:|
+|:a2af| b2ba|g2{f}ge|a2ag|f2fd|B2ge|c[Ad][eB]c|d2d2:|
+w:B part has 1st written over it
+|:a2af|b2b2|gf ge|a2a2|f2fa|gfed|c[Ad][Be]c|d2d2:|]
+w:C part has 2nd written over it
+
+X:193
+T:Kiss My Lady TS.193
+M:C|
+L:1/8
+Q:1/2=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:country dance
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+E|A2A2A2>c2|B2B2B2d2|cdef edcB|Aagf edcB|
+A2A2A2c2|B2B2B2d2|cdefr edcB|A2A2A3:|
+|:E|A2e2c2e2|A2f2d2f2|^G2d2B2d2|cdef edcB|
+A2a2 e2c2|A2f2d2B2|cBcd edcB|A2A2A3:|
+|:F|E2E2C2D2|E2E2E2c2|d2d2d2B2|c2c2c2A2|
+G2G2G2G2|A2A2A2A2|f2e2d2c2|c4″min. in ms”B3:|
+|:E2d2d2B2|E2c2c2A2|E2d2d2B2|E2c2c2A2|
+D2f2f2d2|f2a2f2d2|cBcd edcB|A2A2A4:|
+
+X:194
+T:Kiss My Lady TS.194
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+e|efd cdB|AGA E2D|C2EA2B|c2BB2e|
+efd cdB|AGA E2D|C2EA2B|”crotchet in MS”c2AA2:|
+|:z|a2Ac2A|a2Ac2A|GABB2A|GABB3|
+a2Ac2A|a2Ac2A|E2Ac2B|B3A3:|
+|:c2e f2e|c2ef2e|f2ef2e|edcB3|
+c2ef2e|c2ef2e|f2ef2g|a2AA3:|]
+
+X:195
+T:Speed the Plough TS.195
+M:C
+L:1/8
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:country dance
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+A>AA>c e>fe>c|e>ae>c e>fe>c|d>ed>B c>ec>A|FB{c}BA GBB2|
+A>AA>c e>fe>c|e>ae>c e>fe>c|d>ec>d B>cA>B|F>AG>B A>AA2|]
+a>aa>A a>Ae>A|aq>Ag>A f>Ae>A|d>dd>B c>cc>A|B>FB>A G>B B>e|
+(c//B/<A) e>A a>Ae>A|f>dB>f e>cA>e|d>ec>d B>cA>B|F>AG>B A>AA2|]
+
+X:196
+T:Caledonian Laddy, The TS.196
+T:Lea Riggs,The,aka TS.196
+T:My Ain Kind Deary O,aka TS.196
+T:Lollipop Man,The,aka TS.196
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+c>B|A<cE2E2F>G|A3BA2zc|B>AB>c d>cB>A|”triplet sign added”(3ABc F2F2c>B|
+“triplet sign added”(3ABc E2E2F>G|A3BA2ze|fefg (3fga e>d|c<eA2A2:|
+|:”q.inms”e2|f>ef>g az2c|d>cd>e fz2=A|B3c d>cB>A|(3ABc F2F2 c>B|
+A<cE2E2F>G|”^cr in MS”A3BA2ze2|fefg f<a e<d|c<eA2A2:|]
+
+X:197
+T:Hull Dock Company’s March TS.197
+M:C|
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:march
+N:The quaver/semi-quaver/semi-quaver runs are ALSO marked as triplets in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+(AB/c/)|d2d>dd2 “triplet in ms”ef/g/|f2f>ff2 “triplet in ms”ga/b/|a2f>dg2e>g|f>dcde2 “triplet in ms”ag/f/|
+e2e>ee2 “tripelet in ms”fe/d/|c2c>cc2 “triplet in ms” de/f/|(3eag (3fedc2B2|A2A>AA2:|
+|:A/B/c/d/|e2 “tripelt in ms” fa/b/ B>dc>e|d>cd>ed2(3efg|f>dg>e afbd|c2A>AA2(3efg|
+f2d>dd2 “tripelt in ms”ag/f/|g2e>ee2 “triplet in ms”fg/a/|f>af>d B>ge>c|d2d>dd2:|]
+
+X:198
+T:Bonny Ann TS.198
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+N:Key as in ms
+R:reel
+O:England;Lincolnshire
+C:Daniel Dow
+Z:vmp.Ruairidh Greig, 2011
+K:A
+c|AAAG EFGc|AAAB cded|cBcG EFGc|Aaag aA”^cr in MS”A:|
+|:g|e2c2eggd|B2G2Bddg|e2c2eggf|[Ae]aag aAAg|
+agea gfed|cBAG AcBd|cBcd cdea|gede cA”^cr in MS”A|]
+
+X:199
+T:Golden days of good Queen Bess, The TS.199
+M:C
+L:1/8
+Q:1/4=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:Song
+C:Words by William Collins 1721- 1759
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+e/ d/|c2B> eA2A c|B A G A B> c d
+w:To my muse give att-en-tion and deem it not a mys-ter-y,
+e/ d/|c2B c A A A B c B A B c d e>
+w:If we jum-ble to get her, mus-ic, po-et-ry and his-to-ry
+c|e2e> e de f> f|d2 d> d c>d e
+w:The times to dis-pl-ay in the days of Queen B-ess, Sir,
+d|c2c> c d d z c|B c d B (cd)e2
+w:Whose name and whose mem’-ry pos-ter-it-y may bl-ess, Sir.
+A2B/ c A G> G|FG AF E4|
+w:O the gol-den days of g-ood Qu-een Bess
+d> e f d c> d e c|(BA) (Bc) A2|]
+w:Merr-y be the mem-or-y of g-ood Qu-een Bess.
+W:%
+W:Then we laugh’d at the bugbears of Dons and armadas,
+W:With their gunpowder puffs, and their blust’ring bravadoes;
+W:For we knew how to manage both the musket, and the bow, Sir,
+W:And could bring down a Spaniard, just as easy as a crow, Sir.
+W:O the golden days of good Queen Bess,
+W:%
+W:Then our streets were unpav’d, and our houses were thatch’d Sir
+W:Our windows were lattic’d, and our doors only latch’d Sir;
+W:Yet so few were the folks that would plunder and rob Sir,
+W:That the hangman was starving for want of a job, Sir
+W:O the golden days &c
+W:%
+W:Then ladies with large ruffs, tied round about the neck fast
+W:Would gobble up a pound of beef steak for their breakfast,
+W:While a close quill’d up coif their noddles did fit, Sir,
+W:And they truss’d up as tight, as a rabbit for the spit, Sir.
+W:O the golden days &c.
+W:%
+W:Their jerkins and doublets, and yellow worsted hose, Sir
+W:With a huge pair of whiskers, was the dress of our beaux, Sir
+W:Strong beer they preferred to claret or hock, Sir.
+W:And no poultry they priz’d, like the wing of an ox, Sir
+W:O the golden days &c
+W:%
+W:Good neighbourhood then was as plenty too as beef, Sir
+W:And the poor from the rich ne’er wanted relief, Sir;
+W:While merry went the mill clack the shuttle and the plough, Sir
+W:Anmd honest men could live by the sweat of their brow, Sir.
+W:O the golden days &c
+W:%
+W:Then football & wrestling, & pitching the bar Sir
+W:Were preferr’d to a flute, to a fiddle, or guitar, Sir:
+W:And for jaunting and junketting, the fav’rite regale Sir,
+W:Was a walk as far as Chelsea, to demolish buns, and ale, Sir.
+W:O the golden days &c
+W:%
+W:When the folks, ev’ry Sunday, went twice at least to church, Sir
+W:And never left the parson or his sermon in the lurch, Sir,
+W:For they judg’d that the Sabbath was for people to be good in, Sir,
+W:And they thought it Sabbath breaking, if they din’d without a pudding Sir.
+W:O the golden days &c
+W:%
+W:The our great men were good, and our good men were great, Sir
+W:And the props of the nation were the pillars of the state, Sir
+W:For the Sov’reign and subject one interest supported
+W:And our powerful alliance by all powers then was courted, Sir
+W:O the golden days &c
+W:%
+W:Then the high and mighty states, to their everlasting stain, Sir,
+W:By Britons were releas’d from the galling yoke of Spain, Sir.
+W:And the rous’d British lion all Europe then combin’d, Sir
+W:Undismay’d, would have scatter’d them, like chaff before the wind Sir
+W:O the golden days &c
+W:%
+W:Thus they ate, and they drank, & they work’d & they play’d, Sir,
+W:Of their friends not asham’d, or their enemies afraid Sir,
+W:And little did they think, when this ground they stood on, Sir
+W:To be drawn from the life, now they’re all dead and gone Sir.
+W:O the goldendays &c.
+
+X:200
+T:Sailors Allegory, The TS.200
+M:C|
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:Song
+C:George Saville Carey 1743-1807
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A2B c|d2d2(dc) (BA)|d2d2F2F2|G2(FG)A2A2|D4
+w:Life’s like a ship in con—stant mo-tion, Some-times high a-nd some-times low.
+A2B c|d2d2 (ed) (cB)|(cd)e2c2c2|d2(cd)e2E2A4
+w:Where ev’-ry-one must br-ave th-e o–cean, What-so-ev–er winds may blow.
+A2d c |B2A2G2F2″bar line added”| GA/B/ A2B2 c2|d2 e2 (fd) (af)|{f}He4
+w:If un-ass-ail’d by squall or show—er, waft-ed by the gen—tle gales
+(ge) (fd){d}|c2 (BA) (ge) (fd)|{d}c4 A2 (Bc)|d2f2e2a2|d4|]
+w:Le-t’s n-ot lose th-e f-av’ r-ing hour, Whilst s-uc-cess at-tend our sails.
+W:%
+W:But if wayward winds should bluster
+W:Let us not give way to fear
+W:But let us all our patience muster
+W:And learn from reason how to steer
+W:Let judgement keep you ever steady
+W:That’s a ballast seldom fails
+W:If dangers rise, be ever ready.
+W:To manage well the swelling sails.
+W:%
+W:%
+W:Trust not too much to your own opinion
+W:Whilst your vessel’s under way
+W:Let good example bear dominion
+W:That’s a compass will not stray
+W:When thundering tempests make you shudder
+W:Or Boreas o’er the surface rails
+W:Let good discretion guide the rudder
+W:And providence attend the sails
+W:%
+W:%
+W:Then when you’re safe from danger riding
+W:In some welcome port or bay
+W:Hope be the anchor you confide in,
+W:And care awhile in slumbers lay:
+W:Then when each can’s with liquor flowing
+W:And good fellowship prevails
+W:Let each heart with rapture glowing
+W:Drink success unto our sails
+
+X:201
+T:Calais Packet TS.201
+T:Hunting the Hare,aka TS.201
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+C:In different hand B
+Z:vmp.Ruairidh Greig, 2011
+K:C
+c2C EFG|Adc BAG|c2C EFG|AdB”undotted in ms”c3:|
+|:edc edc|edc edc|dBc dBc|dfe”D.C.””undotted in ms”d3|]
+
+X:202
+T:Hunting Chorus, The TS.202
+T:Huntsman’s Chorus,aka TS.202
+M:2/4
+L:1/8
+Q:1/4=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:Song
+C:Weber
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+“Molto Vivace”A,|D2D/E/[F/D/][G/E/]|[A2F2][FD][FD]|[CE]A[CE]A|F/G/F/E/ DA,|
+“crotchet added”D2D/D/[F/D/][G/E/]|[A2F2][FD][FD]|[F/C2]E/D/E/ [FC][EC]|[D3A,3]||
+A|[d2A2]([d/A]A/) ([d/A]e/)|[f2A2][dA] [dA]|[e2c2][ec] [ec]|([fd][ec]) [dd] [AA]|
+w:The mist th-at a-t mid-night en-vel-op’d the moun–tain, like
+[d2A2] ([d/A]A/) ([d/A]e/)|[f2A2] [dA] [dA]|[c2A2] [ec] [dB]|[c2A2]z[ec]|
+w:spir–its h-ave fled at the dawn-ing of day; While
+[d2A2]([d/A]A/) ([d/A]e/)|[f2A2][dA] [dA]|[e2c2][ec] [ec]|([fd][eA]) [dd]
+w:Sol w-ith h-is rad-iance is gil-ding yon f-ount-ain
+[AA]|[d2A2]([d/A]A/) ([d/A]e/)|[f2A2][dA] [dA]|[A2c2][ec] [ec]|[c2A2]z
+w:as thro’ th-e gr-een mead-ow it rip-ples a-way.
+[ec]|[f2c2][fc] [fc]|[d2B2] [dB] [dB]|[g2B2][gB] [gB]|[e2c2] [ec]
+w:Then on to the chase for the shrill Horn is sound-ing
+[ec]|[f2c2][fc] [fc]|[d2B2] [dB] [dB]|[g2B2][gB] [gB]|[e2c2]
+w:And blithe-ly its Ech-oes re-doub-le the strain;
+[AA] [AA]|[f2d2] [fd] [fd]|[g2d2][fd] [fd]|[e2c2]([f/d/][e/c/]) ([d/B/][e/c/])|[f2d2] [dA]
+w:See the stag from the side of yon for–est i-s bound-ing,
+[dA]|[f2d2][fd] [fd]|{a/}[g2d2][fd] [fd]|[f/c2]e/d/e/ [fc] [ec]|[d3d3]
+w:Then on to the chace ov-er mount—-ain and plain
+A|A A/ A/ A A/ A/|A A/ A/ A A/ A/|”$”[d2A2][AA] [fd]|[d2A2][AA] [fd]|
+w:La la la la la la la la la la la la la la la la la la la la la
+{a/}[gc] [ec] {a/}[gc] [ec]|{a/}[gc] [ec] {a/}[gc] [ec]|
+w:la la la la la la la la la la la la la la la la la la la la la la la la la la la la la
+[d2A2][AA] [fd]|[d2A2][AA] [fd]|{a/}[gc] [ec] {a/}[gc] [ec]|{a/}[gc] [ec] {a/}[gc] [ec]|
+w: la la la la la la la la la la la la la la la la la la la la
+[fA] [f/A/] [f/A/] [aA]|[fA] [f/A/] [f/A/] [aA]|[fd] d/ d/ d [fd]|1H[e4c4]:|2d4|]
+w: la la la la la la la la la la la la la la la la la la la la
+
+X:203
+T:Buy a Broom TS.203
+T:Bavarian Air, A TS.203
+T:O Du Lieber Augustin,aka TS.203
+M:3/4
+L:1/8
+Q:3/4=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+N:Additional final note “C” omitted from bars 7 and 15
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+[d2B2][dB][ec][dB][cA]|[B2G2]G2G2|[A2F2]D2D2|[B2G2]GABc|
+[d2B2][dB][ec][dB][cA]|[B2G2]G2G2|[A2F2]D2D2|[G4B,4]z2:|
+|:[A2F2]D2D2|[B2G2]D2D2|[c2A2]D2D2|BAGABc|
+[d2B2][dB][ec][dB][cA]|[B2G2]G2G2|[A2F2]D2D2|[G4B,4]:|]
+
+X:204
+T:Jenny Jones TS.204
+M:3/4
+L:1/8
+Q:3/4=50
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+G2|c2G2ED|C3DE2|F2A2dc|B2G2B2|c2G2E2|F3GA2|G2c2B2|c4:|
+d>d|e2c2e2|d2B2G2|A3Bcd|B3AG2|e2c2e2|d2B2G2|c2B2A2|”D.C.”G4|]
+
+X:205
+T:Butter’d Pease TS.205
+M:C
+L:1/8
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+N:In a different hand C. Similar to E.Holmes MS hand.
+R:country dance
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+c|.Bd-d.B .ce-e.c|.Bd-d.B cAA2|.Bd-d.B ce-e.c|BdAc BG G:|
+|:A|(Bc).d2(ef).g2|BcdB cAA2|(Bc).d2(ef).g2|BcAc (BG). “cr. in ms”G:|]
+
+X:206
+T:Reel TS.206
+M:2/4
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+C:In different hand B
+Z:vmp.Ruairidh Greig, 2011
+K:F
+d|c>A G>F|f>ga>g|(f<d) c>A|dGGd|(c<A) G>F|f>ga>g|(f<d) c>A|F2″cr. in ms”F:|
+c|(d/e/f) ec|dfcA|(B/c/d) cA|dGGc|(d/e/)f ec|bgaf|(d/e/)f cB|AFFc|
+(d/e/)f ec|bgaf|(d/e/)f cB|dGGA|F>GFA|cbag|(f>d) c>A|F2F|]
+
+X:207
+T:Freichuzt’s Quadrille, Der TS.207
+T:Freischutz Quadrille,Der,aka TS.207
+T:Huntsman’s Chorus,aka TS.207
+M:2/4
+L:1/8
+Q:1/4=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:quadrille
+C:Carl Maria von Weber 1821
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A,”$”|D2D/E/F/G/|A2FF|EAEA|F/G/F/E/ DA,|D2 D/E/F/G/|A2FF|EAEA|DF/A/ d||
+A/A/|AF/F/ Fd/d/|dA/A/ Af/f/|f2e/d/c/B/|A2FA/A/|AF/F/ Fd/d/|dA/A/ Ad/e/|ff e/d/e/f/|dfd”$”||
+A|d2d/e/f/g/|a2ff|eaea|f/g/e/f/ dA|d2d/e/f/g/|a2ff|eac’b|aA/A/ Ae|
+ff/f/ fe|d/e/c/d/ BB|gg/g/ gf|e/f/d/e/ cA|d2d/e/f/g/|a2ff|e{^g/}ae{g}a|d2[d’2d2]|
+d2Af|d2Af|{a/}ge{a}ge|{a}ge{a}ge|d2Af|d2Af|{a}gege|d/A/^G/A/|^G,/A,/B,/C/”D.C.”|]
+
+X:208
+T:Anna TS.208
+M:C|
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+N:In a different hand, possibly by a child
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+“as writ”d>e ff ee dd|A3 A BABc|dc d/c/B/A/ dd|d3f fa A2|
+A2 B/ BAGFA2|AB c2Hd2″marked as 6( in MS” (2e//d// (4c//B//A//G//|F3DE2D2:|
+|:FE FG AA BA|BA Bc/d/ c/d/c/B/A2|d2d2d2f2|fHa AA BBA2|
+G2F2 GABc|d2e2d2 c/B/A/G/|F3DE2D2:|]
+
+X:209
+T:Jockey to the Fair TS.209
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+N:Key sig. off the stave in margin of ms
+N:As previous tune
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D|G2AB2c|d2gd2c|(B/c/d/G) GFG|(A/B/c/B) BAd|
+dcd efg|(fg/a/f)e2g|fed Adc|d3d2:|
+d|afd afd|c2cB2d|dgd dgd|c2cB2B|
+e2 f gfe|^d2eB2e|e^de B2A|G2FE2D|
+G2GB2d|e2fHg2|dBGA2B|E2FG2A|B2g BcA|G3G2:|]
+
+X:210
+T:Black Joke,The TS.210
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+N:As above
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D2DG2G|ABA AGA|BcB BAG|ABA AGF|G2GE2E|DEFG2:|
+|:c|Bcdd3|efgd2c|Bcdd3|efgd2c|B2gB2g|
+ABA AGA|BcB BAG|ABA AGF|G2GE2E|DEFG2:|]
+
+X:211
+T:Trip to Gretford TS.211
+T:Trip to Oxford,aka TS.211
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+DEDF2D|A,2DF2D|ABAB2d|c2de3|
+DEDF2D|A,2DF2D|ABAB2c|d3d3:|
+|:ABAc2d|e2fg3|f{g/}af d2f|ecAA3|
+ABAc2d|e2fg3|f{g/}af gec|d3d3:|]
+
+X:212
+T:Hunters Chorus to Der Friechuzt TS.212
+M:2/4
+L:1/8
+Q:1/4=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+C:Carl Maria von Weber 1821
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+D|G2G/A/B/c/|d2B2|Ad Ad|B/c/B/A/ GD|G2G/A/B/c/|d2B2|Ad fe|d2z:|
+A|B2BB|G2GG|c2cc|A2AA|B2BB|G2GG|c2cc|A3||
+A|B2BVB|c2BB|A2AA|B2G2|B2BB|c2B2|A2AA|G3||
+D/D/|DD/D/ DD/D/|DD/D/ DD/D/|G2DB|G2DB|{d/}cA {d/}cA|{d/}cA {d/}cA|G2DB|
+G2DB|{d/}cA {d/}cA|{d/}cA {d/}cA|BG/B/ d2|BG/B/ d2|BG/G/ GG/G/|
+GG/G/ Gd/d/|dB/B/ Bg/g/|gd/d/ dg/g/|bb (a/g/f/e/)|e2dd/d/|dB/B/ Bg/g/|
+gd/d/ dg/g/|bb a/g/f/a/|g/f/g/b/ a/f/d/f/|g/f/g/b/ a/f/d/f/|gg/g/ gg|g2z|]
+
+X:213
+T:Hornpipe TS.213
+M:C|
+L:1/8
+Q:1/2=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:As written with only 7 bars in B part
+N:”Bis” used to repeat bar 6 in A part
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+c>Bc>d e>fg>e|c>Bc>d e>fg>e|dcde fedc|B2G2G2AB|
+c>Bc>d e>fg>e|c>Bc>d e>fg>e|eagf edcB|c2c2c2:|
+|:z2|g^fgf fdBG|fgag fde”bar missing”f|g2b2g3e|fefe fagf|
+eded egfe|eagf edcB|c2c2c2:|]
+
+X:214
+T:Quadrille TS.214
+M:2/4
+L:1/8
+Q:1/4=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:quadrille
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+cccc|(e/d/)(d/c/)B2|(d/c/)(c/B/)A2|(c/B/)(B/G/)E2|
+cccc|(e/d/)(d/c/)B2|(d/c/)(c/A/) (c/B/)(B/G/)|AcAz||
+Bece|dece|Becf|e^d e^d/=d/|
+cccc|e/d/d/c/B2|d/c/c/A/ c/B/B/G/|AcA2||
+A/>G/A/>G/ A/>G/A/>G/|AEc2|A/>G/A/>G/ A/>G/A/>G/|AEc2|
+B/>A/B/>A/ B/>A/B/>A/|BEsd2|B/>A/B/>A/ B/>A/B/>A/|BE “D.C.”d/c/e/d/|]
+
+X:215
+T:Smash the Windows TS.215
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A,2DF2A|d2f ecA|G2BF2A|E2F GFE|
+A,2DF2A|d2f ecA|faf gec|d3″undotted in ms”d3:|
+|:a2fd2A|F2″crotchet in MS”a agf|g2ec2A|E2g gfe|
+f2dg2e|a2fb2g|faf gec|d3″undotted in ms” d3:|]
+
+X:216
+T:Cameronian Rant, The TS.216
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+(c/B/)|AF F/F/F AFcF|AF F/F/Fc2BA|BG G/G/G BGdG|BG G/G/Gd2:|
+|:A/G/|Fffg fdcA|Fffg fdcA|Ggga gecA|Ggga gecA|
+Fffg fdcA|Fffg fdcA|egdf egdf|e/f/g def2 cBH|]
+
+X:217
+T:Dusty Miller,The TS.217
+M:C
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:3/2hornpipe
+W:Usually found notated as 3/2 hornpipe (see next tune)
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+BcdB AGFA|ABcA BcdB|AGDG GABG:|
+|:Bcde fgaA|ABcA Bcde|fggG GABG:|]
+
+X:218
+T:Dusty Miller,The,aka TS.218
+M:3/4
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:3/2hornpipe
+C:Untitled in ms.
+N:In different hand C
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+B>c dBAG|F>G ABcA|B>c dBAG|DGGA BG:|
+B>c defg|a>A ABcA|B>c defg|gG GABG:|]
+
+X:219
+T:Countess of Sutherland’s Reel,The TS.219
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+N:See also version in Bb, TS.165
+O:England;Lincolnshire
+C:George Jenkins
+Z:vmp.Ruairidh Greig, 2011
+K:C
+e|”tr”c2(Gc) AcGc|FcEc Ddde|c2Gc Aagf|egdf ecc:|
+|:g/a//b//|c’geg fadf|egce dG Gb|c’geg fadf|egdf ec cf/a//b//|
+c’geg fadf|egce dGGg|”tr”a>gab c’agf|egdf ecc|]
+
+X:220
+T:Sand’s Reel,aka TS.220
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+C:untitled in MS
+C:Labelled “2nd” on MS page
+N:I have taken the liberty of naming this untitled tune after Mr Sands
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Gm
+c|”^No key sig. in MS”B/c/d Gd BG dB|A/B/c Fc AF cA|B/c/d Gd BG dB|^F/G/A DFG2G:|
+|:A|B2Bf B/B/B dB|cdcB ABcA|Ggga bag^f|g/a/b a^f g3a|
+g/a/b =fd Bdfd|cdcB ABcA|Bdg^f gBce|dBcAG2G:|]
+
+X:221
+T:Lady Charlotte Lenox’s Strathspey TS.221
+M:C
+L:1/8
+Q:1/4=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:strathspey
+C:Labelled “3rd” on MS page
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+A/B/|”As written”cF/cF/ cF/Ad/|AF AG/F/ EGG A/B/|cF/dF/ cF/Bd/|E/F/G G/A/B AFF:|
+|:a/g/|f/g/a/g/ fc d/ffg/|f/g/a/g/ fd ef/ga/|f/g/a/g/ fc df/cA/|B/c/d G/A/BA2FFa/g/|
+f/g/a/g/ fc df/fg/|f/g/a/g/fd eg/gb/|ab/ga/ fg/df/|B/c/d G/A/B AFF|]
+
+X:222
+T:Untitled TS.222
+M:C|
+L:1/8
+Q:1/4=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+C:Labelled “4th” on MS page
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:None
+c|”^no key sig in MS”BGGA “^as written”F>GAc/|BGGD B,DG,c|\
+BGGA FG/A/c|”undotted in ms” B>d A/B/c/A/ GFF:|
+d|gd B/c/d/B/ gdde|gd g/a/b aeef|gd B/c/d/B/ g>de>c|\
+“all undotted in ms” c>aA>c B>GG>d|
+gd B/c/d/B/ gdde|gd g/a/b aeef|\
+“undotted in ms”g>bdB e>acA|Bd A/B/c/A/ BGG:|]
+
+X:223
+T:Untitled TS.223
+M:C
+L:1/8
+Q:1/4=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:strathspey
+C:Labelled “5th” on MS page.
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+A/B/|c>dcB c>dcB|A<cf>A “G2 added”G2{A/}GA/B/|c>dcA cdfa|”undotted in ms”f<dc>A {A}F2F:|
+|:B|”all undotted in ms”A<cf<a “tr”f>afc|d<fc>A G2GB|A<cfc f>af>c|d<fc>AF2F c/B/|
+A<cfa A<cfa|”tr”c2f/g/a gG GA/B/|”tr”c>dcd f>g {f/g/}af|f>dcAF2F|]
+
+X:224
+T:Untitled TS.224
+M:2/4
+L:1/8
+Q:1/4=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+C:Labelled “7” on MS page
+R:march
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+B|A/B/c”crotchets in MS” .c.c|”undotted qu. in ms”B<d d3|A/B/c AF|E<GG>B|A/B/c .c.c|B/c/d/e/ fd|cA BG|{E}F2F:|
+f|g2{f/g/}ae|fcfa/|gf/g/ af|egga|g3{f/g/}ae|fc {g}fe/d/|cABG|{E}F2Ff|
+g2{f/g/}ae|fcfa|{a}g2{f/g/}af|eg gf/g/|gfdf|ecfd|”triplet signs added”(3cBA (3BAG|EF2F|]
+
+X:225
+T:Rowley Belt’s #2Hornpipe,aka TS.225
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+C:’By Rowley Belt’
+C:untitled in MS
+N:Nearly identical to TS.113
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+(cB)|(AB/c/) F2F2(GA)|BABc BcdB|Acde fgaf|bagf edcB|
+AB/c/F2F2(GA)|BABc BcdB|Acfc dBGE|F2F2F2:|
+|:(fg)|afdf gece|defd cAFA|Bdfd cAGF|E2C2C2>B,2|
+A,CFA, B,DGB,|CFAF DFBD|Acfc dBGE|F2F2F2:|]
+
+X:226
+T:Duke of Cumberland’s Reel, The TS.226
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+N:Nearly identical to TS.148
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+B2bg fdcB|AFcF dFcF|B2bg fdcB|FAce dBB2:|
+|:BGFE DEFD|ECCG cGGA|BGFE DEFD|B,BAc dBB2:|]
+
+X:227
+T:Miss Murray of Archentyres Reel TS.227
+T:Miss Murray of Auchtertyres Reel,aka TS.227
+M:C|
+L:1/8
+Q:1/2=70
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+B|(A/B/c) fc dcfc|(A/B/c) fc dcdf|(A/B/c) fd cf/g/ ag|fdcAF3:|
+|:(A/B/)|cFAF cF Bd|cF (d/c/B/A/)G3A/B/|cFAF faga|fdcA F2:|]
+
+X:228
+T:Paddy O Carol TS.228
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+C:Note next to title “Irish”
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+(A/G/)|FDD FDD|F>GF FED|AFF dFF|E>FEE2(A/G/)|
+FDD FDD|F>GF FED|AFF dFF|D>EDD2:|
+|:(d/e/)|fdd ecc|BdB AGF|fda eca|dB^ga2=g|
+fdd ecc|BdB AGF|AFF dFF|D>EDD2:|]
+
+X:229
+T:Ap Shenkin TS.229
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+C:Note next to title in MS “Welch”
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+(A/G/)|F2F Fdc|B2B Bcd|A>BA AGF|FEE EAG|
+F2F Fdc|B2B Bcd|ABA GFE|DDDD2:|
+|:”qu. in ms”d/e/|f2de2c|dcB AGF|GAB (Ad)F|FEEE2(d/e/)|
+f2de2c|dcB edc|fed cdB|Adc “Da Capo”BAG|]
+
+X:230
+T:Farrier’s Reel TS.230
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+A2cA eAcA|E2GB dBGE|A2cA eAcA|dBed cAA2:|
+aece Aece|aece dBB2|aece Aece|dBed cAA2|
+aece Aece|aece dBB2|agfe fedc|dBed cAA2H|]
+
+X:231
+T:Miss Fletcher’s Reel TS.231
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+N:The final ‘A’ in the first part is merely a grace note in the MS
+Z:vmp.Ruairidh Greig, 2011
+K:D
+D2FA dAFD|E2CE A,ECE|D2FA dAFD|A,/A,/A, B,CD2″NB”A2:|
+|:fage dcBA|BABc dAFA|fage dcBA|{c/}BABcd2d2|
+fage dcBA|BABc dAFE|D2FA dAFD|A,/A,/A, B,CD2H|]
+
+X:232
+T:Nelson’s Hornpipe TS.232
+T:Lord Nelson’s Hornpipe,aka TS.101
+T:Miss Grimstrobs Hornpipe,aka TS.083
+T:Bridge of Lodi,The,aka TS.083
+T:Saxon’s Hornpipe,aka TS.083
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Different key and setting from TS.101
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+AF|D2d2d2cd|ecAc d2de|fefd gfge|afdf ec AF|
+D2d2d2cd|ecAc d2d2|cdec dB A^G|A2A2A2:|
+|:fg|agfe dcBA|B2G2G2 ga|bagf edcB|c2A2A2fg|
+afaf gbgb|afaf gbgb|afbg fdec|d2d2d2:|]
+
+X:233
+T:Dean’s Hornpipe,aka TS.233
+M:C
+L:1/8
+Q:1/2=90
+C:untitled in MS. cf#136
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+z2|B2df edcB|ceAc BAGF|EGcE DFBD|CBAc BAGF|
+B2df edcB|ceAc BAGF|EGcE DFBD|CBAcB2:|
+|:f2|geBGE2g2|fdBFD2f2|ecGEC2ec|dBFDB,2FE|
+DFBd EGce|FBdf GBeg|fdBd ec (3AcA|B2B2B2:|]
+
+X:234
+T:Mrs McCarty’s Reel TS.234
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+“qu. in ms”(G/F/)|EGGc AcGc|GcGE FD DF|EGGc AcGc|Bddf ec c:|
+|:f|eg (3gfe faaf|egge fddf|eg (3gfe faaf|egdf ec”cr. in ms” c:|]
+
+X:235
+T:College Hornpipe TS.235
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+(BA)|B2B,4(FE)|(DF)B4(3dc=B|c2C4(cB)|(Ac)f4(ga)|
+(ba).g.f (gf).e.d|(ed).c.B BAGF|(GB).A.c Bdce|”qu. in ms”d2B4:|
+|:(FE)|DF(BF) (DF)(BF)|G2E4(GF)|(=EG)(cG) (EG)(cG)|A2F4(BA)|
+(Bd)g2(gf)(ed)|(ed).c.B (BA).G.F|.G.B.A.c .B.d.c.e|(d2B4):|]
+
+X:236
+T:I’ll make you fain to follow me TS.236
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+C|EGA c2e|dDDD2C|EGA cdc|BAB cGE|
+F2dE2c|dDDD2C|EGAc2G|ECCC2:|
+|:f|ced gec|eged2e|ega gec|gea gec|
+ega gec|eged2G|EGAc2G|ECCC2:|]
+
+X:237
+T:Miss Green’s Hornpipe TS.237
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+“qu. in ms”F2|Bd f2fdfd|BdF2BdF2|c=Bcd efgf|edcB AFGA|
+Bdf2fdfd|BdF2BdF2|c=Bcd egfe|d2B2B2:|
+|:fe|dfdf bfdB|eded efgf|efde cdBc|ABcB AFGA|
+BB/c/ dc BAGF|ee/f/ gf edcB|ABcd ecBA|B2B2B2:|]
+
+X:238
+T:Guardian Hornpipe TS.238
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Natural sign added in bar 10
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+Bd|fbfd ecBA|BdBF dBFD|EGcd edcB|(3ABc (3BAG F2Bd|
+fbfd ecBA|BdBF dBFD|EGce dfAc|B2B2B2:|
+|:dB|c=Bcd edef|g^fga b=fdf|bagf edcB|ABcAF2F2|
+fbfd ecBA|BdBF dBFD|EGce dfAc|B2B2B2:|
+
+X:239
+T:Hornpipe TS.239
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+(3FGA|BFBF B2FE|D2B,2B,2Bc|dBdB dfed|c2F2F2fe|
+dbbg fgfe|dbbg fgfe|dfbf gecA|B2B2B2:|
+|:(3cd=e|fcfcf2cd|ecAcB3d|g^fga bga=f|d2g2g3a|
+babab3a|g^fgfg3=f|edcB Agfe|d2B2B2:|]
+
+X:240
+T:Stoney Steps,aka TS.240
+T:Hornpipe,untitled in MS TS.240
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Similar setting to “Stoney Steps” in Gibbons and Clare MSS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+ed/c/|BFDB, B,Ace|dfdB BAGF|EGcB AFdF|CAce dcBA|
+BFDB, B,Ace|dfdB BAGF|E3g fdcB|FBAcB2:|
+|:g2|fgab fdcB|egec BAGF|EGcB AFdF|CAcdc2ga|
+bfdB Fafd|Egec BAGF|E3g fdcB|FBAcB2:|]
+
+X:241
+T:Hornpipe TS.241
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+dc|dAFA defd|edcB AGFE|FGAB cdef|g2e2egfe|
+dAFA dAfd|edcB AGFE|FAdf Aceg|f2d2d2:|
+|:FE|Ddcd edcd|efga g2fe|fdcd Bded|c2A2A2 (3gfe|
+dAFA dAfc|edcB AGFE|FAdf Aceg|f2d2d2:|]
+
+X:242
+T:Scotch Reel TS.242
+M:C|
+L:1/8
+Q:1/2=80
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+B|AFCF Acfc|dBGf eggA|F>AG>B A>cB>d|g>beg aff||
+f|cf (a/g/f) c>fAc|B<G g>f egge|c>ed>f e>gfe|fdcB AFFf|
+c>f (a/g/f) cfAc|B<Gg>f egge|c>ed>f e>gf>a|gbeg aff|]
+
+X:243
+T:Mr Clark’s Hornpipe TS.243
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+DC|B,DFB dFED|CEGc eGFE|DB,FD BFdB|A/B/cc2c2DC|
+B,DFB dFED|CEGc eGFE|DFEG Fgfe|d2B2B2:|
+|:fg|afdB Aceg|fdcB BAGF|ecec dBdB|AEFE FDEF|
+GEGB edcB|AFAc fedc|Bbag fedc|B2B2B2:|]
+
+X:244
+T:Gayton’s Hornpipe TS.244
+T:Miss Gayton’s Hp,aka TS.244
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+cB|Acfef2cB|Acfgf2cB|Acfa gfed|cfag fedc|
+Acfef2cB|Acfgf2c2|defd efge|f2a2f2:|
+|:fg|agaf gfge|fefd dcBA|BcdB ABcA|B2G2G2fg|
+agaf gfge|fefdc2c2|defd efge|f2a2f2:|]
+
+X:245
+T:Dean’s Hornpipe,aka TS.245
+M:C
+L:1/8
+Q:1/2=90
+C:untitled in MS. cf#136
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+B2df edcB|ceAc BAGF|EGcE DFBD|CBAc BAGF|
+B2df edcB|ceAc BAGF|EGcE DFBD|CBAcB2:|
+|:”qu. in ms”f2|geBGE2g2|fdBFD2f2|ecGEC2 ec|dBFDB,2FE|
+DFBd EGce|FBdf GBeg|fdBd ec (3AcA|B2B2B2:|]
+
+X:246
+T:Perth Hunt,The TS.246
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+F|E2CE A,ECE|A,ECE FB,B,F|E2CE A,ECd|ceBd cAA:|
+d|(c/B/A) eA fAeA|(c/B/A) eA fBBd|(c/B/A)eA fAeA|EFAB cAAd|
+(c/B/A) eA fAeA|(c/B/A) eA fBBd|ceAc dfBd|EFAB cAA|]
+
+X:247
+T:Wilkinson’s Hornpipe TS.247
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+ED|CEB,E CEA,E|CEAc ecAE|FAGA EAGA|FBdB AGFE|
+CEB,E CEA,E|CEAc ecAE|Dfed caAf|edcBA2:|
+|:ed|ceAe ceAe|agfe dcBA|BABc dcde|fdBA AGFE|
+FAEA DACA|B,BdB AGFE|Dfed cGAF|EDCB,A,2:|]
+
+X:248
+T:E A Hornpipe TS.248
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+e|a2ed cAec|Bcde fBbg|a2ed cAec|dfed cAA:|
+e|(c/B/A) EA cAec|Bcde fBed|(c/B/A) EA cAec|dBed cAAe|
+(c/B/A) EA cAec|Bcde fBed|cefd eabg|afed cAA|]
+
+X:249
+T:Sicilian Dance, The TS.249
+M:6/8
+L:1/8
+Q:3/8=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+C|FGF AGF|c2cc2B|Acf c2B|A2GF2C|
+FGF AGF|c2cc2f|efe dc=B|c3″dotted in ms”c2:|
+c|g2c b2a|gfe (f2e/f/)|g2c b2a|gfe f>ef|
+dbb cbb|Bgg”dot omitted”f2A|BAG c2E|F3″undotted in ms”F3||
+A3 GAG|F2F FAc|c3 BcB|A2A Acf|
+f2ee2d|d2cc2B|ABc cBA|A3″undotted in ms”G3||
+f3fd=B|c>dc ceg|b3 bge|f>gf f2c|
+f2ed2c|d2cB2A|BAGc2E|F3F2|]
+
+X:250
+T:Mr C.Clark’s Hornpipe TS.250
+C:”1812″ in brackets follows title in MS
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+FE|DB,DF BFDF|egec BAGF|AFcA ecdB|Ac F2F2FE|
+DB,DF BFDF|egec BAGF|Bgec dBcA|B2B2B2:|
+|:fe|dBfd g2>a2|bfdB gfdB|AFcA ecdB|AcF2F2E2|
+DBGB GBEB|Acec BAGF|Ggec dBcA|B2B2B2:|]
+
+X:251
+T:Hornpipe TS.251
+M:C
+L:1/8
+Q:1/2=84
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+“qu.in ms”F2|B>AB>d B>AB>d|B>ba>g f>dc>B|c>de>d c>dc>B|A>Bc>A f>ec>A|
+B>AB>d B>AB>d|B>ba>g f>=e_e>d|c>de>c f>ec>A|B2d2B2:|
+|:A>G|F>Ac>e F>Ac>e|e>dc>B B>AG>F|G>BTB2F>BTB2|c>de>c B>AG>F|
+E>gTg2D>fTf2|e>dc>B A>GF>E|D>FB>A G>ec>A|B2B2B2:|]
+
+X:252
+T:New May Day TS.252
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:reel
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+(A/G/)|FAdF GBed|cABc dfdA|FAdF GBed|cABcd2d2:|
+|:e|fdcd BdAd|GdFd eEEe|fdcd BdAd|cABc d2de|
+fdcd BdAd|GdFd eEEG|FAdF GBed|cABc d2d2|]
+
+X:253
+T:Stirling Castle TS.253
+M:C|
+L:1/8
+Q:1/4=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:Strathspey
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+f|cFAF cF d/c/B/A/|cFAF EGGf|cFAF cF fc|d/c/B/A/ cF CFF:|
+|:c|f2a/g/f/e/ fcAc|FB d/c/B/A/ cAAc|f2a/g/f/e/ fcAc|dfeg cffc|
+fcaf ecbg|afcf eggb|afcf dBAB|AFcC CFF:|
+
+X:254
+T:Bilsby Hornpipe TS.254
+M:C
+L:1/8
+Q:1/2=84
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:One of many examples of erratic lead notes in ms
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+ed”rpt.added”|:c2A2{B}A>GA>B|c2A2A2B>c|d>fd>B c>ec>A|B>AG>FE2e>d|
+c2A2{B}A>GA>B|c2A2A2a>g|f>gf>e ^f>Bc>d|1e>gb>a g>f”_rep.added”e>d:|2 e>gb>ge2z2|]
+g>a|b>ag>f e>fg>e|a>ga>e c>de>c|f>=gf>e d>cB>A|G>AB>A G>EF>G|
+A>Bc>d e>cac|f>db>a g>fe>d|c>eA>c B>dG>B|1A>Bc>d e>fg>a:|2A>EA>cA2z2|]
+
+X:255
+T:Hornpipe TS.255
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+(F/E/D/C/)|B,FDF BFdB|fdba gfed|cegf edcB|Af=ef F2(F/E/D/C/)|
+B,FDF BFdB|fdba gfed|(3efg ec ABcA|B2B2B2:|
+|:AB|cFFF cFeF|dFFF dFfF|eFdF cFBF|(3dcB (3ABG (3FGE (3DEC|
+B,FDF BFdB|fdba gfed|(3efg ec AFGA|BFdcB2:|]
+
+X:256
+T:Gypsies Hornpipe TS.256
+M:C
+L:1/8
+Q:1/2=84
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+f>e|d>ec>d B>cA>B|G>AB>G F2FA|B2F>Bd2B>d|f>ed>ec2f>e|
+d>ec>d B>cA>B|G>AB>GF2E>D|E>gf>e d>cB>A|B2B2B2:|
+|:E>D|E2g2g2e>c|D2f2f2d>B|C2e2e2c>A|e>dc>B A>GF>D|
+E2g2g2e>c|D2f2f2g>a|b>ag>f a>gf>=e|f2F2F2″D.C.”|]
+
+X:257
+T:Casterlenor’s Hornpipe TS.257
+M:C|
+L:1/8
+Q:1/2=84
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+“qu in MS”E2|A>cB>A G>BA>G|A>ce2eEFG|A>cB>A G>BA>G|A>ce2 e>cd>e|
+(3fef d>f (3ede c>e|”triplet sign added”(3dcd B>d (3cBc A>c|(3BAB (3dBA (3GAB (3EFG|(3Acd (3efg a2:|
+|:z2″rest added”|B2>G2 E>GB>d|c>Ae>c (3agf (3edc|(3BcA “trip.sign added”(3GAF E>GB>d|c>Ae>c (3agf (3edc|
+f>d A>F (3DFA (3dfa|ecAF (3CEA (3cea|f>dc>B e>cB>A|E>AG>B A2:|]
+
+X:258
+T:Astley’s Hornpipe TS.258
+M:C
+L:1/8
+Q:1/2=84
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:G
+“qu. in ms”D2|G>AB>c e>dc>B|a>gf>ee2d>c|B>dB>G c>ec>A|B>d E>A G>FE>D|
+G>AB>c e>dc>B|a>gf>ee2d>c|B>dB>G c>ec>A|G2F2G2:|
+|:”qu.in ms”d2|d>ef>g f>af>d|g>bg>e f>af>d|d>ef>g a>fd>c|B>dB>G F>AF>D|
+B>dB>G c>ec>A|f>af>d g>bg>e|d>gf>e d>cB>A|G2F2G2:|]
+
+X:259
+T:South Down Hornpipe TS.259
+M:C
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:Long gap on stave after rest in bar 12
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+f3c edcB|BcAB AGFE|FCA,F B,DGB,|A,FG,E FA,CF|
+AFfe edcB|BcAB AGFE|FCA,F B,DGB,|A,FG,DF4:|
+|:c3d cABd|c3d cABd|cfdf cfdf|cAFAG2z (a/b/)|
+c’3d’ c’abd’|c’3d’ c’abd’|c’agf bgfe|f2a2f2z2:|]
+
+X:260
+T:Rory O’More TS.260
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+C:Samuel Lover,1837
+C:In different hand C
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+f|eAA cAA|eAA A2f|eAA cAA|GBBB2c/d/|
+eAA cAA|eAAHf2(e/d/)|cde efg|aAAA2H:|
+|:g|agf fcc|dcBA2(A/G/)|FGA ABc|dfeHe2f/g/|
+agf fcc|dcBA2A/G/|FGA ABc|dfeHe2″Da capo”f|]
+
+X:261
+T:Earl St Vincent’s Hornpipe TS.261
+M:C|
+L:1/8
+Q:1/2=84
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+f>e|d2B2B2d>B|c>BA>GF2G>E|D>FB>F G>ec>A|B2B2B2f>e|
+d2B2B2g>f|=e2c2c2d>B|Acfc dbg=e|f2f2f2:|
+|:f>e|d(BAB) d(BAB)|G(EDE) G(EDE)|cded edcB|A>Bc>AF2f>g|
+.f(BAB) .g(BAB)|.a(BAB) b(BAB)|GBcd ecAc|B2B2B2:|]
+
+X:262
+T:Stoney Steps Hornpipe TS.262
+M:C|
+L:1/8
+Q:1/2=84
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+B>Fd>B f>db>g|e>cA>c B>AG>F|G>ED>E C>FB,>B|c>eg>B”tr”B2A2|
+B>Fd>B f>db>g|e>cA>c B>AG>F|G>ED>E D>EC>e|d>cB>AB4:|
+|:D>B,F>D B>Fd>B|e>ge>c B>AG>F|(G>AB>G) F>fg>b|a>gf>=ef4|
+g>ed>e f>dc>B|G>Be>c B>AG>F|G>ED>E D>EC>e|d>cB>AB4:|]
+
+X:263
+T:Rick’s Hornpipe TS.263
+M:C|
+L:1/8
+Q:1/2=84
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:Bb
+“qu.in ms”F2|B3cd3e|(3fgf (3edc B2(3fga|b>fd>B c>=Bc>d|egec BAGF|
+B3 cd3e|(3fgf (3edc B2f2|g>ba>c’ b>=ef>d|(3cdc (3BAGF2:|
+|:f2|fedc =B_aga|=B_aga gfed|edcB Ag^fg|Ag^fg =fedc|
+“triplet signs added”(3dbb (3caa (3Bgg (3Aff|(3Gee (3Fdd (3Ecc (3DBB|d>fd>B F>ec>A|B2B2B2:|]
+
+X:264
+T:Queen Victoria’s Waltz TS.264
+M:3/8
+L:1/8
+Q:1/4=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:waltz
+O:England;Lincolnshire
+C:In different hand C
+Z:vmp.Ruairidh Greig, 2011
+K:D
+(3D/D/D/|D2(3D/D/D/|D2(3D/D/D/|DFA|d2(3f/f/f/|f2(3f/f/f/|f2g|f2^e|f2:|
+|:A|A>GF/G/|(A<d)z|(B<e)z|d<fz|A>GF/G/| A<dz|c>dg/c/|[d2F2]:|
+|:f/>f/|f3f/>f/|ff/g/f/e/|dd/e/d/c/|B2e/e/|e2e/e/|ee/f/e/d/|cc/d/c/B/|A2A|
+A>GF/G/|A<dz|B<ez|d<fz|A>GF/G/|A<dz|g>ec/e/|[d2F2]:|]
+
+X:265
+T:Foresters Sound the Cheerful Horn TS.265
+M:6/8
+L:1/8
+Q:3/8=110
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+N:First 12 bars in hand B, rest completed by hand C
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+A|ffff2f|a2ff2f|gfe fed|e3e2A|A2d def|edcB2d|A2A ABc|d3d2:|
+|:E|E2AA2B|c2AA2c|d2cB2A|B3B2e|e2a agf|fee e2d|cde dcB|AAB cde|
+ffff2f|a2ff2f|gfe fed|e3e2A|A2d def|edc Bcd|A2A ABc|d3d2HJ|]
+
+X:266
+T:Morning Hymn TS.266
+M:2/4
+L:1/8
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+C:”A Greek Air” written next to title
+N:bar 9 in bass part all crotchets in MS
+R:air
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+[V:1][cD]>[dF]|[e2G2][e2G2]|[e2G2][c2E2]|[d2F2][B2D2]|[c2E2][cE][dF]|
+[V:2]C,2|C,2C,2|C,2C,2|G,,2G,,2|C,2C,2|
+[V:1][e2G2][e2G2]|[e2G2][c2E2]|[d2F2][B2D2]|[c2E2]z2|]
+[V:2]C,2C,2|C,2C,2|G,,2G,,2|C,2z2|]
+[V:1][c2E2C2]BA| GFE2|FG/F/ [EC][DB,]|[E2C2]z2|
+[V:2][A,2A,,2][G,G,,][F,F,,]|E,D,[C,2C,,2]|D,E,/F,/ G,G,,|C,E,/G,/ CB,|
+[V:1]C2DE|[FG,][AF][GE][FD]|EDCB,|C2|]
+[V:2]A,G, F,E,|D,2E,F,|G,2[E,G,,]D,|[G,2E,2C,2]|]
+
+X:267
+T:Evening Hymn TS.267
+M:C|
+L:1/4
+Q:1/2=60
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:F
+[V:1]F2Ac|dcBA|[G2C2][F2=B,2]|[c2G2E2]z[cA]|
+[V:2]F,2F,F,|B,A,G,F,|E,2D,2|C,2zF,|
+[V:1][dB]>[ec][fd][dB]|c2(3FAc|[BD]A[GC]B,|[F2A,2]||
+[V:2]B,3B,|A,2F,2|B,,2C,2|[F,2F,,2]||#
+[V:1]z[cA]|[d2D2][c2F2]|[d2=B2][e2c2]|[f2c2][d2=B2]|[c2G2E2]zc|
+[V:2]zF,|B,2A,2|G,2C2|F,2G,2|C,2zA,|
+[V:1]BAGF|dcBA|fedc|[f2c2A2]zA|
+[V:2]DCB,A,|B,A,G,F,|A,CB,2|A,2zF,|
+[V:1]BdGB|AcFB|[A2F2]G2|[F2C2A,2]|]
+[V:2]B,,2C,2|F,2A,B,|C2C,2|[F,2F,,2]|]
+
+X:268
+T:Henrietta’s Favourite TS.268
+M:6/8
+L:1/8
+Q:3/8=100
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:jig
+C:’By Mr Clark 1840′
+C:In different hand C
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:C
+(e/f/)|gea gea|g2fe2c|Ade fed|c3B2(e/f/)|
+gea gea|g3gfe|edc BAB|c3c2:|
+|:B/c/|d^cd gab|d^c=cA2c|Bdg eag|g3f2e|
+d^cd edc|Bcd efg|fed cBA|G3G2||
+G,|DDD DG,D|EEE ECE|GGG GEG|cGE DG,D|
+CCC CG,C|EEE ECE|GAG FED|C3″D.C.”C2|]
+
+X:269
+T:Hornpipe TS.269
+M:C|
+L:1/8
+Q:1/2=84
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+O:England;Lincolnshire
+C:In different hand C
+C:untitled in MS
+Z:vmp.Ruairidh Greig, 2011
+K:G
+Bc|dBGB cAFA|GDB,D CA,DC|B,DGB cBAG|(3FGA (3GFE D2Bc|
+dBGB cAFA|GBdf gfgb|(3baf (3age (3gfd (3fec|d2d2d2:|
+|:B2|cfag fedc|Bdgf edcB|Acfe dcBA|GBed cBAG|
+FGAB cdef|gdeB cEcA|GFAF DCA,B,|G,B,DGG,2:|]
+
+X:270
+T:Psalm 80th TS.270
+M:3/2
+L:1/2
+Q:1/2=120
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:air
+C:’Composed by the Revd G. Oliver’
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:A
+[V:1]E|E2G|G2A|GAG|F2B|A2B|(Be)d|
+[V:2]e/c/|B2d|e2e|(ed)e|d2d|efg|(fe)f|
+[V:3]E|G2B|e2c|BAG|F2B|cde|dcB|
+w:O Is-rael’s shep-herd Jo–seph’s guide Our pray-ers to th-ee vouch
+[V:4]E,|E,2B,|G,2E,|G,F,E,|B,,2B,|A,F,E,|F,E,D,|
+[V:1]edc|B2||”Two Trebles”B/A/|G/B/c/B/A/G/|F/c/B/A/G/F/|
+w:____Th-ou that dost on the cher-ubs on th-e cher–ubs
+[V:2]g2^a|b2||G/F/|E/G/A/G/F/E/|D/A/G/F/E/D/|
+w:___Th-ou that &c
+[V:3]cB^A|B2||z|z3|z3|
+w:sa-fe to hear
+[V:4]E,F,F,,|B,,2||z|z3|z2E,/F,/|
+[V:1]Gzz|zzE|G2B|e2g/f/|e3|d3|e3:|
+w:ride
+[V:2]Ezz|zzg|c’2f|e2e/f/|g3|f3|g3:|
+[V:3]z3|zzB|e2d|ecB/A/|G3|F3|G3:|]
+w:Ag-ain in sol—emn state ap-pear
+[V:4]G,/A,/B,/C/D/B,/|E2E,|E,2F,|G,A,G,/A,/|B,3|B,,3|E,3:|]
+w:that dost on the cher-ubs ride
+
+X:271
+T:Abbot’s Hornpipe TS.271
+M:C|
+L:1/8
+Q:1/2=90
+S:Thomas Sands’ MS,1810,Lincolnshire
+R:.hornpipe
+N:F in bars 2 and 6 very feint in MS
+O:England;Lincolnshire
+Z:vmp.Ruairidh Greig, 2011
+K:D
+D2FD CEA,C|DA,FD AFdA|fdaf d’afd|abge dcBA|
+D2FD CEA,C|DA,FD AFdA|ea^ge ee’c’a|eagba2a2:|
+|:eaa2 ebb2|ec’c’2 ed’c’a|babf gfgf|efge dcBA|
+Dddc DBBA|DGGE DCB,A,|Dafd Ebge|Adce d2d2:|]
